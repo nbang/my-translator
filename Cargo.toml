@@ -1,0 +1,11 @@
+[package]
+name = "parse_table"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A tool to parse HTML tables and export to CSV and Markdown formats"
+
+[dependencies]
+scraper = "0.13"
+serde = { version = "1.0", features = ["derive"] }
+csv = "1.2"
