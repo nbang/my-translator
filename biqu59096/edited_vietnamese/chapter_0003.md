@@ -1,46 +1,57 @@
-# Chương 3: Kinh ngạc! Tại sao nam nữ già trẻ đều mắt rưng rưng nước mắt…
+# Chương 3: Sốc! Tại sao cả đàn ông, phụ nữ và trẻ em đều rưng rưng nước mắt...
 
-## Tiêu đề | Title
-Chương 3
-Kinh ngạc! Tại sao nam nữ già trẻ đều mắt rưng rưng nước mắt…
+## Tiêu đề
+Chương 3: Sốc! Tại sao cả đàn ông, phụ nữ và trẻ em đều rưng rưng nước mắt...
 
 ---
 
-## Nội dung | Content
+## Nội dung
 
-Chương 3
-Kinh ngạc! Tại sao nam nữ già trẻ đều mắt rưng rưng nước mắt…
+Phòng phát sóng trực tiếp đã được đăng ký thành công, xin hãy đặt tên cho kênh của bạn. Tên kênh chính là bộ mặt của phòng phát sóng trực tiếp. Cô phát sóng trực tiếp là để tồn tại. Vì muốn sống, tên kênh tuyệt đối không thể đặt qua loa!
 
-Buổi phát sóng trực tiếp đã đăng ký xong, bây giờ hãy đặt tên cho kênh của cô. Tên gọi chính là bộ mặt của kênh, cô phát sóng trực tiếp để sinh tồn, vậy nên cái tên nhất định không thể qua loa! Giang Thu Thu hít một hơi thật sâu, từ từ gõ câu nói mình đã nghĩ kỹ lên màn hình.
+Giang Thu Thu hít một hơi thật sâu, chầm chậm gõ dòng chữ trong đầu lên màn hình.
 
-…
+...
 
-Ngày hôm đó, Terry như mọi khi vẫn đang tìm kiếm những chủ kênh mới ở khu ẩm thực. Terry là người lai chủng của Liên Bang Tân Tinh. Do quá trình tiến hóa chưa hoàn thiện, trong cơ thể anh ta ẩn chứa gen của tộc Sói. Gen Sói không chỉ mang lại cho anh ta sức mạnh vượt trội và tinh thần lực xuất sắc bẩm sinh, mà còn ban cho anh một cái lưỡi vô cùng nhạy bén.
+Hôm đó, Terry vẫn như mọi khi, tìm kiếm những chủ kênh mới trong khu vực ẩm thực.
 
-Từ nhỏ, mỗi khi uống dung dịch dinh dưỡng, anh ta đều có cảm giác kinh khủng gấp n lần so với người khác (ý là dở tệ!). Anh ta cảm thấy tộc mình có lẽ là tộc duy nhất trong toàn Liên Bang mong mỏi nền ẩm thực trên Đại Lam Tinh không bị thất truyền.
+Terry là người lai đến từ Liên đoàn Nova. Do quá trình tiến hóa chưa hoàn chỉnh, cơ thể anh ta mang trong mình gen của loài sói. Bộ gen loài sói mang lại cho anh ta sức mạnh thể chất và tinh thần vượt trội. Đồng thời, nó cũng ban cho anh ta một cái lưỡi vô cùng nhạy cảm.
 
-Trong lúc miên man suy nghĩ, Terry phát hiện trong số các chủ kênh mới hôm nay có vẻ như có một kẻ dị biệt! Giữa một loạt các hashtag như #Phục dựng trứng chiên cổ đại#, #Khám phá cách chế biến vịt Gạc Gạc#, #Món ngon cổ đại kinh điển#, bỗng một tiêu đề dài dằng dặc #Kinh ngạc! Tại sao nam nữ già trẻ đều mắt rưng rưng nước mắt, hóa ra là vì họ đã ăn ——#, ngay lập tức thu hút ánh mắt của Terry.
+Từ nhỏ đã phải uống dung dịch dinh dưỡng, anh ta cảm thấy mỗi lần ăn cứ như bị ép nuốt thứ gì đó khó chịu gấp bội người khác (đại khái là vậy!). Anh ta cảm thấy, chủng tộc của mình có lẽ là chủng tộc duy nhất trong toàn liên bang hy vọng nền ẩm thực của Đại Lam Tinh sẽ không bao giờ bị mai một.
 
-_Họ đã ăn gì? Chẳng lẽ dở đến mức phải khóc sao?_
+Đang lúc cảm thán, Terry phát hiện trong số các chủ kênh mới hôm nay, dường như có một người khác biệt!
 
-Nghĩ vậy, anh ta nhấn vào buổi phát sóng trực tiếp. Vừa nhìn thấy hình ảnh trên màn hình, Terry đã cảm thấy thất vọng.
+Trong số các dòng tiêu đề như #Trứng chiên Địa Cầu cổ đại chân thực#, #Khám phá cách ăn Vịt Quác Quác# và #Món ăn kinh điển Địa Cầu cổ đại#, một dòng tiêu đề dài ngoằng đã xuất hiện: #Sốc! Tại sao cả đàn ông, phụ nữ, già trẻ đều rưng rưng nước mắt? Hóa ra là vì họ đã ăn——#, dòng này lập tức thu hút sự chú ý của Terry.
 
-_Ôi, đây lại là một người nghèo nào đó ở khu ổ chuột đang hy vọng thay đổi vận mệnh nhờ phát sóng ẩm thực đây mà. Nhìn xem cái bếp rẻ tiền kia, mô hình đầu bếp ảo cũng rẻ tiền nốt, cả cái cảm biến phát sóng đã bị loại bỏ từ tám trăm năm trước rồi… Nếu đã muốn phát sóng trực tiếp, ít nhất cũng phải sắm sửa thiết bị cho tử tế hơn một chút chứ._
+_Họ đã ăn gì vậy?_
 
-Nhưng rất nhanh sau đó, ánh mắt của Terry lại bị thu hút.
+_Dở đến mức phải khóc ư?_
 
-Giang Thu Thu đành bất lực. Dù biết tiêu đề buổi phát sóng này có hơi mất mặt, nhưng đến lúc này rồi, thể diện đã chẳng còn quan trọng nữa!
+Vừa nghĩ, anh ta liền nhấn vào kênh phát sóng trực tiếp. Thế nhưng, vừa nhìn thấy kênh phát sóng, Terry đã không khỏi thất vọng.
 
-Thế là, chưa đầy một phút sau khi buổi phát sóng bắt đầu, đã có người bước vào! Cô chọn xuất hiện nửa thân trên, nhưng không để lộ mặt. Đôi bàn tay nhỏ nhắn, mịn màng, còn hơi có chút mũm mĩm, vài lúm đồng tiền xinh xắn ở khớp ngón tay hiện lên trước ống kính trông vô cùng đáng yêu.
+_Ồ, lại một người nghèo khác đến từ khu ổ chuột, ôm mộng đổi đời nhờ phát sóng trực tiếp ẩm thực đây mà. Nhìn xem, căn bếp trông rẻ tiền thế này, mô hình đầu bếp ảo cũng đơn sơ, lại còn cảm biến phát sóng trực tiếp loại bỏ từ tám trăm năm trước... Muốn phát sóng trực tiếp thì ít nhất cũng nên trang bị thiết bị tử tế hơn một chút chứ._
 
-[Terry: Tay của chủ kênh nhỏ xíu vậy, có phải lén lút phát sóng trong kênh của bố mẹ không?]
+Nhưng rất nhanh sau đó, ánh mắt của Terry đã bị thu hút.
 
-“Chào mừng Terry là một con Sói đã đến với buổi phát sóng ẩm thực của tôi, tôi là chủ kênh Giang Chuu Chuu.” Giang Thu Thu đang chuẩn bị nguyên liệu thì khựng lại, có người xem đầu tiên bước vào khiến cô vui mừng khôn xiết. Nhưng cô nhanh chóng đáp lại dòng bình luận đó: “Không đâu, tôi đã trưởng thành rồi.”
+Giang Thu Thu không còn lựa chọn nào khác. Dù biết ID kênh này có hơi mất mặt, nhưng đến nước này rồi, danh dự cũng chẳng còn quan trọng nữa!
 
-Tuy vậy, có người xem vẫn là một khởi đầu tốt. Cô nhanh chóng lấy lại bình tĩnh, nhấc miếng thịt đã chuẩn bị sẵn lên: “Hôm nay thực đơn của chúng ta là món sườn rán Gugu. Chúng ta sẽ dùng phần thăn nội của một con Gugu thú khoảng một năm tuổi.”
+Không, mới treo tên kênh lên chưa đầy một phút, đã có người vào phòng phát sóng trực tiếp rồi!
 
-“Khi có được miếng thịt này, chúng ta sẽ cắt nó thành từng lát dày khoảng một ngón tay trước tiên…”
+Cô chọn cách lên sóng nửa thân trên, không lộ mặt. Đôi bàn tay nhỏ nhắn, trắng muốt, lại có chút mũm mĩm, những ngón tay bé xíu trông đặc biệt đáng yêu trước ống kính.
 
-[Vậy là bắt đầu chiên luôn sao?]
+[Terry: Tay của chủ kênh nhỏ quá. Có phải em ấy đang lén phát sóng trực tiếp trong phòng của bố mẹ không vậy?]
 
-Một người hâm mộ thứ hai đã xuất hiện trong kênh từ lúc nào không hay. Giang Thu Thu vừa cắt thịt vừa trả lời: “Không phải. Sau khi cắt lát thịt xong, chúng ta sẽ dùng sống dao để đập tơi các thớ thịt của sườn Gugu.”
+Giang Thu Thu đang chuẩn bị nguyên liệu thì khựng lại. Người xem đầu tiên ghé vào khiến cô có chút vui mừng. Cô liền trả lời: `"Không đâu, chủ kênh đã trưởng thành rồi."` Dẫu sao, có người xem vẫn là một khởi đầu tốt.
+
+Cô nhanh chóng bình tĩnh lại, cầm miếng thịt thăn đã chuẩn bị sẵn lên: `"Thực đơn hôm nay của chúng ta là món sườn rán Gugu. Chúng ta sẽ chọn phần thịt thăn của loài thú Gugu khoảng một năm tuổi."`
+
+`"Khi lấy miếng thịt này, đầu tiên chúng ta sẽ cắt thành những lát dày bằng một ngón tay—"`
+
+[Bắt đầu rán luôn sao?]
+
+Không biết từ lúc nào, một người hâm mộ thứ hai đã lặng lẽ ghé vào kênh phát sóng trực tiếp.
+
+Giang Thu Thu vừa cắt thịt vừa trả lời: `"Không, sau khi cắt thịt thành từng miếng, chúng ta sẽ dùng sống dao để đập cho đứt các thớ gân trong miếng sườn Gugu."`
+
+---
+*Thời gian thế hệ: 2025-11-19 13:10:22*

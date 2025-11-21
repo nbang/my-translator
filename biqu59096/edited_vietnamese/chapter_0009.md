@@ -1,30 +1,30 @@
-# Chương 9: Tôi không ăn, tôi không ăn! À, ngon thật! (Đúng là "thơm")
+# Chương 9: Tôi không ăn! Tôi không ăn! Ôi, ngon quá! (Thơm thật!)
 
-## Nội dung
+---
 
-"Mọi người đừng vội, khi làm thịt viên chiên, chúng ta cần chú ý nhiệt độ dầu."
-Đợi một lát sau, Giang Thu Thu mở nắp vung nồi dầu. Đáy nồi đã bắt đầu nổi lên những bọt khí li ti. Cô đưa tay cảm nhận thử: "Rất tốt, dầu đã đạt đến độ nóng này, chúng ta có thể cho thịt viên vào chiên rồi."
-Những viên thịt tròn xoe, mềm mại trong đĩa cứ thế từ từ lăn vào chảo dầu. Ban đầu, chẳng ai để ý những viên thịt bé xíu ấy khi chúng chìm vào nồi dầu lớn.
-Nhưng rất nhanh, chỉ chưa đầy một phút, dầu bắt đầu bắn nhẹ, rồi sôi sùng sục. Những viên thịt vốn chìm ở đáy nồi từ từ nổi lên, một mùi thơm cực kỳ quyến rũ lan tỏa, ngay cả qua cảm biến kém chất lượng cũng đủ sức làm người ta mê mẩn. Mùi thịt ngào ngạt ấy lập tức chinh phục đám người đàn ông vạm vỡ đang theo dõi.
-`[Ôi trời ơi, đây là mùi gì vậy!?]`
-`[Đặc Lý là một con sói: Đây là mùi vị mà cánh đàn ông mê nhất! Là hương thơm của thịt, thịt, thịt, thịt! Hú!]`
+"Các bạn đừng lo lắng. Khi làm thịt viên chiên, chúng ta cần đặc biệt chú ý đến nhiệt độ dầu." Đợi một lát, cô mở nắp chảo dầu. Dưới đáy chảo đã bắt đầu nổi lên những bọt khí li ti. Cô đưa tay ra cảm nhận. "Tốt lắm. Khi dầu đã đạt độ nóng như thế này, chúng ta có thể cho thịt viên vào chiên." Những viên thịt nhỏ nhắn, tròn vo trên đĩa từ từ lăn vào chảo dầu.
 
-Hôm nay, những người xem phát sóng trực tiếp của Giang Thu Thu hầu như đều thuộc cộng đồng người lai của Đặc Lý. Tình yêu của loài thú đối với thịt không cần phải diễn tả nhiều lời, đó là một tình yêu sâu đậm khắc sâu vào tận gen. Là một cường giả mang gen lai của Quân đoàn Liên bang, Xương Bắc sở hữu gen thú tối thượng và tình yêu dành cho thịt vô cùng chân thành. Ngửi thấy mùi hương tỏa ra từ cảm biến của buổi phát sóng trực tiếp, cả người hắn như sững sờ. Nước dãi vì kinh ngạc không kìm được chảy ra từ khóe miệng, ánh mắt hắn lấp lánh, lẩm bẩm trong miệng, kéo tay Đao Thủ:
-"Đao Thủ ơi, Đao Thủ ơi, đây là mùi gì vậy!?"
-"Mùi thịt thơm quá chừng..."
-"Tôi sắp đổ gục rồi! Đây có phải là hương vị của tình yêu không!"
+Ban đầu, những viên thịt bé xíu lăn vào chảo dầu lớn không mấy ai để ý. Nhưng chỉ chốc lát sau, dầu bắt đầu bắn nhẹ, rồi đột nhiên sôi ùng ục. Những viên thịt chìm dưới đáy chảo từ từ nổi lên, một mùi hương quyến rũ nồng nàn, dù qua cảm biến rác thải vẫn đủ sức lan tỏa khắp nơi. Mùi thịt thơm lừng tức thì chinh phục những gã đàn ông đang theo dõi.
 
-Dù mùi này đúng là thơm thật, nhưng tốc độ "đổ gục" của cậu cũng nhanh quá rồi đấy, Đao Thủ kéo Xương Bắc: "Đừng cảm thán nữa, trước tiên hãy xem phát sóng trực tiếp đã, biết đâu lát nữa sẽ có phần thử nếm ảo."
-"Ừm ừm!" Hắn xoa hai tay vào nhau, ngửi thì ngon thật đấy, nhưng không biết ăn vào có ngon như thế này không. Không ngon cũng chẳng sao, dù sao mùi này quá thơm, có thể dùng công nghệ gen để điều chế thành nước hoa... Đến lúc đó! Cả vũ trụ sẽ là mùi hương hắn yêu thích nhất. _Ôi chao, vũ trụ thần tiên gì mà mê mẩn đến vậy chứ. Yêu mất rồi._
+[U oa oa oa, mùi gì thế này!?]
+[Terry là sói: Đây là hương vị yêu thích của những gã đàn ông mạnh mẽ! Mùi thịt! Thịt! Thịt! Thịt thơm lừng! Gừ gừ!]
 
-Điều quan trọng nhất khi làm thịt viên chiên là phải giữ được độ mềm mọng, tươi ngon của thịt sau khi chiên. Điều này yêu cầu kiểm soát lửa cực kỳ cao; dưới dầu nóng, chiên quá lâu hay chưa đủ đều có thể gây hại nghiêm trọng đến kết cấu của món ăn. Cô là người lão luyện trong việc kiểm soát lửa. Chỉ cần dùng đôi đũa dài khẽ gắp lên một cái là biết ngay đã được hay chưa. Cô dùng vợt nhỏ vớt ra rồi đặt xuống. Rất nhanh, một đĩa thịt viên chiên từ thịt Bỉ Bỉ Thú đã hoàn thành. Vừa ra khỏi chảo dầu, mùi hương càng trở nên nồng nàn, lấn át. Trên bảng bình luận, người xem không ngừng thúc giục cô mở chức năng thử nếm ảo.
-`[Nhanh lên, nhanh mở thử nếm ảo đi!]`
-`[Tôi ngưỡng mộ hương vị này quá—]`
-`[Chủ kênh là đầu bếp trưởng của Nhà hàng Trung ương Liên bang sao?]`
-`[Đặc Lý là một con sói: Không thể nào, đầu bếp trưởng sẽ không nghèo như vậy đâu?]`
-`[Vậy đó là món ngon được làm ra từ một gia đình nghèo!]`
-"Phì," mọi người khen ngợi cô tâng bốc hết lời. Giang Thu Thu khẽ cười một tiếng: "Tôi sẽ mở chức năng thử nếm ảo đây."
-Nói xong, cô đã thiết lập chức năng thử nếm ảo.
+Hôm nay, những người xem phát sóng trực tiếp của cô chủ yếu đều là thành viên trong nhóm của Terry. Tình yêu mãnh liệt của loài thú đối với thịt không cần phải diễn tả bằng lời, bởi đó là thứ tình cảm sâu sắc đã khắc sâu vào trong gen của chúng. Là một cường giả gen lai của Quân đoàn Liên bang, Xương Bắc sở hữu bộ gen loài thú cực đoan nhất, cùng tình yêu chân thành nhất dành cho thịt. Sau khi ngửi thấy mùi thơm từ cảm biến phát sóng trực tiếp, hắn hoàn toàn choáng váng. Nước dãi kinh ngạc không kìm được mà chảy ra từ khóe miệng hắn. Ánh mắt hắn lóe lên, lẩm bẩm kéo Thu Đao: "Thu Đao, Thu Đao, mùi vị của thứ này là gì thế!?" "Mùi thịt thơm quá đi mất..." "Tôi sắp tan chảy rồi! Đây chẳng lẽ là hương vị của tình yêu sao!?"
 
-Chỉ chưa đầy một giây, mười vị trí thử nếm ảo không mấy nổi bật đã được chiếm hết. Đao Thủ và Xương Bắc là hai người đầu tiên giành được vị trí thử nếm. Ngay khi danh sách vừa hiện lên, một đĩa thịt viên đã xuất hiện trước mặt họ. Càng ngửi gần, mùi hương càng nồng nàn. Từng viên thịt tròn xoe, bóng bẩy như những viên ngọc. Xương Bắc là người ra tay trước, hắn gắp ngay một viên thịt bỏ vào miệng. Vị mặn, vị ngọt umami và hương thơm bùng nổ trong khoang miệng. Răng và thịt viên chạm vào nhau, một miếng cắn xuống, sự mãn nguyện tột độ khiến Xương Bắc "ừm" một tiếng, rồi cứ thế ăn liên tục không ngừng. Đao Thủ trông thì có vẻ chín chắn, điềm đạm, nhưng tốc độ ăn thịt viên của hắn cũng không hề chậm chút nào. Cảnh tượng này diễn ra tương tự với tất cả những người được "chọn" trong số mười vị trí đó.
-(Hết chương)
+"Dù mùi vị này đúng là rất thơm, nhưng ngươi sa ngã nhanh quá đấy." Thu Đao kéo Xương Bắc ra: "Đừng cảm thán nữa, cứ xem phát sóng trực tiếp đã. Lát nữa có khi còn có phần thử món." "Ừm ừm ừm!" Hắn xoa hai tay, ngửi thấy mùi thơm nức mũi, thầm nghĩ không biết ăn vào có còn ngon như bây giờ không. Không ngon cũng không sao, dù sao mùi cũng rất thơm, hắn có thể dùng công nghệ di truyền biến nó thành nước hoa... Đến lúc đó! Cả vũ trụ sẽ tràn ngập mùi hương yêu thích của hắn. U oa oa oa, đây là cái vũ trụ thần tiên gì thế này? Yêu chết mất thôi.
+
+Điều quan trọng nhất khi làm món thịt viên chiên là phải giữ cho thịt viên mềm và mọng nước sau khi chiên. Điều này đòi hỏi kỹ năng kiểm soát lửa cực kỳ cao. Trong chảo dầu nóng, chiên quá lâu hay quá nhanh đều sẽ ảnh hưởng nghiêm trọng đến hương vị của món ăn. Cô là một người lão luyện trong việc kiểm soát lửa. Chỉ cần dùng đũa dài nhẹ nhàng gắp thử một viên, cô đã biết là được. Lưới vớt nhỏ nhanh chóng vớt từng viên thịt ra. Chẳng mấy chốc, một đĩa thịt viên thịt Bibee chiên vàng ươm đã hoàn thành. Vừa rời khỏi chảo dầu, mùi thơm ấy lại càng trở nên quyến rũ khó cưỡng.
+
+Trên khung bình luận, vô số lời thúc giục cô mở thử món ảo.
+[Nhanh lên, mở thử món đi!]
+[Tôi đã bị hương vị này chinh phục rồi đó——]
+[Chủ kênh có phải là bếp trưởng của Nhà hàng Trung tâm Liên bang không vậy?]
+[Terry là sói: Không thể nào, bếp trưởng sao lại nghèo thế được?]
+[Vậy đây là mỹ vị từ căn bếp nghèo khó!]
+
+Phì, mọi người thi nhau khen ngợi đến độ khoa trương. Giang Thu Thu khẽ cười: "Vậy tôi sẽ mở thử món đây." Nói rồi, cô thiết lập chế độ thử món. Chưa đầy một giây, mười suất thử món ít ỏi đã được giành giật hết sạch.
+
+Thu Đao và Xương Bắc là hai người đầu tiên giành được suất thử món. Ngay khi suất thử món vừa hiện ra, một đĩa thịt viên đã bày sẵn trước mặt cả hai. Càng đến gần, mùi hương càng nồng nàn, từng viên thịt nhỏ nhắn tròn trịa vô cùng bắt mắt. Xương Bắc ra tay trước, hắn gắp một viên thịt cho vào miệng. Vị mặn mà, tươi ngon bùng nổ trong khoang miệng. Răng vừa chạm vào thịt viên, cắn một miếng, sự thỏa mãn tột độ khiến Xương Bắc ừ hừ, rồi cứ thế ăn liên tiếp không ngừng. Thu Đao trông có vẻ chín chắn, điềm đạm, nhưng tốc độ ăn thịt viên của hắn cũng chẳng hề chậm chút nào.
+
+Cảnh tượng tương tự cũng diễn ra với tất cả những người được chọn trong mười suất thử món.
+(Hết chương này)

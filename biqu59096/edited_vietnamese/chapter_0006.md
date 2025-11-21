@@ -1,32 +1,49 @@
-Chương 6: Siêu phẩm tiến cử từ "anh Sói" vị giác cực đỉnh
+# CHƯƠNG 6: SIÊU PHẨM ĐỀ CỬ TỪ ANH SÓI VỊ GIÁC SIÊU PHÀM
 
-Ánh mắt hoài nghi của Thu Dao khiến Te Li lập tức hú lên một tiếng. Anh ta dõng dạc nói: "Thu Dao, tôi là một con sói đấy! Anh biết mà, vị giác của tôi đạt một trăm điểm tuyệt đối! Không đời nào tôi đánh giá sai bất cứ thứ gì đâu!"
+Ánh mắt ngờ vực của Thu Đao khiến Terry không kìm được mà kêu lên một tiếng "ò ó o" đầy ấm ức. Terry nói chắc nịch:
 
-"Món sườn chiên mà cô chủ kênh kia làm hôm nay ngon thật sự, là món sườn ngon nhất tôi từng ăn đấy!" Thái độ quả quyết của Te Li khiến Thu Dao bán tín bán nghi. Thấy Thu Dao vẫn chưa tin, Te Li liền dùng đuôi sói của mình ra đảm bảo: "Tôi cá là anh sẽ không thể cưỡng lại được món ngon đó đâu!"
+"Thu Đao, tôi là một con sói đó! Cậu biết mà, vị giác của tôi đạt 100% lận! Tuyệt đối không thể đánh giá sai món ăn được!"
 
-"Được rồi, được rồi, tôi tin."
+"Món sườn Gugu chiên mà cô chủ kênh ấy làm hôm nay thật sự rất ngon, là món sườn ngon nhất tôi từng được ăn!"
 
-"!"
+Thái độ kiên quyết của anh ta khiến Thu Đao nửa tin nửa ngờ. Thấy bạn vẫn chưa tin, Terry liền dùng đuôi sói của mình làm tin, cam đoan:
 
-"Anh ơi, mau mở Mạng Tinh Tế lên, theo dõi cô ấy đi! Cô ấy phát sóng trực tiếp vào tám giờ tối mỗi ngày đó!" Không thể từ chối sự nhiệt tình của bạn cùng phòng, Thu Dao đành bất lực mở Mạng Tinh Tế, theo dõi cô chủ kênh mới tên Giang Thu Thu. Lúc này, số lượt theo dõi của cô chỉ vỏn vẹn hai mươi chín người. Một người sáng tạo nội dung xuất sắc như vậy mà lại có số lượng người hâm mộ ít ỏi đến thế, Te Li cảm thấy Giang Thu Thu thật quá thiệt thòi!
+"Tôi dám cá, cậu tuyệt đối sẽ không thể cưỡng lại được món ngon đó đâu!"
 
-Sau khi ăn xong món sườn chiên và trở thành người hâm mộ số một của Giang Thu Thu, Te Li lập tức chấn chỉnh lại tinh thần, lao về phía cộng đồng tộc của mình. Ai cũng biết, Mạng Tinh Tế Liên bang độc chiếm vị trí thống trị, với số lượng người dùng vô số kể. Để lượng người dùng khổng lồ này có thể chung sống hòa thuận và giao lưu tốt đẹp, Mạng Tinh Tế đã chia ra rất nhiều cộng đồng tộc. Những người cùng chủng tộc, cùng một nhóm có thể tụ tập lại, cùng nhau tán gẫu đủ thứ chuyện.
+"Được rồi, được rồi, tôi tin." Thu Đao ngạc nhiên.
 
-Là một người lai gen tộc Sói, Te Li đã gia nhập một cộng đồng tộc có tên là "Chiếc lưỡi cực kỳ nhạy bén". Nơi đây tập hợp những người lai gen có vị giác xuất sắc, bao gồm người tộc Sói, người tộc Chó, người tộc Mèo... Những người thường xuyên lui tới đây gần như ngày nào cũng trao đổi về các vấn đề như: hôm nay nên ăn gì, ăn gì không bị buồn nôn, làm thế nào để khắc phục bản năng của mình, và rốt cuộc khi nào thì có thể ngừng uống thứ dịch dinh dưỡng kinh tởm như phân kia.
+"Anh em, mau mở Tinh Võng ra theo dõi cô ấy đi! Cô ấy phát sóng trực tiếp vào tám giờ tối mỗi ngày đó!"
 
-Te Li thường xuyên lui tới đây, tìm kiếm đủ loại món ngon. Hôm nay, anh ta cũng đăng một bài viết ở đây! #[Hôm nay tôi đã ăn được món thịt ngon nhất thế giới!] Te Li đã miêu tả chi tiết trong bài đăng này về quá trình Giang Thu Thu làm món sườn chiên, hình dáng miếng sườn, và tất nhiên, phần tâng bốc nhất chính là cảm nhận khi thưởng thức hương vị miếng sườn.
+Không thể cưỡng lại sự nhiệt tình của người bạn cùng phòng, Thu Đao đành bất lực mở Tinh Võng, theo dõi cô chủ kênh mới tên là Giang Thu Thu. Lúc này, số người theo dõi của Giang Thu Thu chỉ vỏn vẹn 29 người.
 
-Nào là giòn thơm ngon miệng, cắn một miếng nước sốt trào ra, hoàn toàn không bị khô xơ như thịt bình thường, ăn vào nạc nhưng không khô, giòn mà không ngấy, hương thơm lưu luyến mãi không tan... Cứ như một bài văn tả thực vậy.
+Một blogger xuất sắc như vậy, mà lượng người theo dõi lại ít ỏi đến thế, Terry cảm thấy Giang Thu Thu thật sự quá thiệt thòi!
 
-Những người đọc bài thấy anh ta nói chuyện chân thành và tha thiết như vậy, liền hỏi anh ta xem buổi phát sóng trực tiếp nào. Te Li hưng phấn chia sẻ phòng phát sóng trực tiếp của Giang Thu Thu. Những người vào xem nhìn thấy vài ba người hâm mộ ít ỏi, rồi lại nhìn những lời khen có cánh mà Te Li đã viết, trong đầu lập tức hiện lên dấu hỏi chấm lớn: _Đây chắc không phải là chủ kênh tự mình thuê thủy quân đấy chứ?_
+Sau khi ăn xong món sườn, Terry, người đã hóa thân thành fan cuồng số một của Giang Thu Thu, lập tức chỉnh đốn lại tinh thần, lao về phía vòng tròn tộc quần của mình.
 
-Có người chất vấn thì cũng có người phản bác, Te Li tức giận khoe ra đủ loại huân chương dũng sĩ và huy chương quân sự mà anh ta đã đạt được trong tộc Sói.
-[Cư dân mạng: Không dám chọc vào, không dám chọc vào, đây lại là một đại lão người lai đã từng xé xác trùng tộc bằng tay không!]
-[Cư dân mạng: Nhìn lại những lời khen có cánh bay bổng kia xem – Ồ! Đại lão đã khen thì biết đâu là thật!]
+Ai cũng biết, Tinh Võng Liên Bang chiếm độc quyền, lượng người truy cập đông đảo không kể xiết. Để nhiều người có thể hòa thuận và giao tiếp tốt với nhau, Tinh Võng có rất nhiều khu vực phân chia tộc quần. Những người cùng chủng tộc, cùng giới có thể tụ tập lại, tản mạn trò chuyện về nhiều thứ.
 
-Nhờ vào uy tín của các loại huy chương, bài đăng của Te Li đã trở nên hot một thời gian. Số người theo dõi phòng phát sóng trực tiếp của Giang Thu Thu cũng nhảy vọt từ vài chục lên đến vài trăm. Te Li hài lòng rời khỏi cộng đồng tộc, trước khi đi ngủ còn không quên chia sẻ bài viết này vào nhóm gia tộc của mình.
+Là một người lai gen tộc sói, Terry đã gia nhập một tộc quần có tên là "Chiếc lưỡi cực kỳ nhạy bén". Nơi đây bao gồm người chủng sói, người chủng chó, người chủng mèo... và các loại người lai gen có vị giác xuất sắc khác. Những người thường xuyên lui tới đây hầu như ngày nào cũng trao đổi về việc nên ăn gì mỗi ngày, ăn gì để không buồn nôn, làm thế nào để vượt qua bản năng của mình, khi nào thì có thể ngừng uống thứ dung dịch dinh dưỡng như phân bò kia, và nhiều vấn đề khác.
 
-_Ôi chao, sau khi ăn xong món sườn chiên do Giang Thu Thu làm, cuộc đời sói của mình không còn gì hối tiếc nữa! Một chủ kênh xuất sắc như vậy, tuyệt đối không thể bị chôn vùi giữa đám đông! Anh ta, fan cuồng số một Te Li, nhất định phải đẩy Giang Thu Thu lên ngôi vị ngôi sao hot nhất!_
+Terry thường xuyên lui tới đây để tìm kiếm đủ loại món ngon. Hôm nay, anh ta cũng đăng bài ở đây!
 
-Đêm nay nằm mơ, Te Li mơ thấy sau khi chủ kênh phát hiện ra tất cả những gì anh ta đã làm, cô ấy vô cùng cảm động, rồi liền trở tay bày hàng chục phần sườn chiên ra trước mặt Te Li – nước mắt cảm động của anh ta không kìm được mà chảy ra từ khóe miệng.
-(Hết chương)
+[#Hôm nay tôi đã ăn món thịt ngon nhất thế giới!#]
+
+Dưới bài đăng này, Terry đã mô tả chi tiết quá trình Giang Thu Thu chiên sườn heo, hình dáng của món sườn heo, và tất nhiên, điều khiến người ta "tâng bốc" nhất chính là cảm nhận khi nếm thử món sườn heo đó. Nào là giòn rụm thơm ngon, cắn một miếng là nước sốt tràn ra, hoàn toàn không hề khô như thịt Gugu thông thường, ăn vào thì nạc nhưng không dai, khô ráo mà không ngấy, hương vị đọng lại mãi không tan... cứ như một bài văn tả thực vậy.
+
+Những người đọc phía dưới thấy anh ta nói năng chân thành như vậy, liền hỏi anh ta xem buổi phát sóng trực tiếp nào. Terry phấn khích vội vàng tung ra đường dẫn phòng phát sóng trực tiếp của Giang Thu Thu. Những người vào xem nhìn số lượng người theo dõi ít ỏi, rồi lại nhìn những lời tâng bốc "như rót mật vào tai" của Terry, trên đầu họ lập tức hiện ra dấu chấm hỏi to đùng ???
+
+_E rằng đây không phải là thủy quân do chính chủ kênh thuê về đó chứ?_
+
+Có người nghi ngờ, ắt có người phản bác. Terry tức giận liền khoe ra đủ loại huân chương dũng sĩ và huy chương quân sự mà anh ta từng nhận được trong tộc sói.
+
+_Người qua đường: Không trêu vào được, không trêu vào được, hóa ra là một đại lão người lai có thể tự tay xé xác trùng tộc._
+
+_Nhìn lại những lời tâng bốc ngát hương kia – ôi! Đại lão khen ngợi, biết đâu lại là thật thì sao!_
+
+Nhờ vào sức mạnh của đủ loại huân chương, bài đăng của Terry nổi lên một thời gian, số người theo dõi phòng phát sóng trực tiếp của Giang Thu Thu cũng nhảy vọt từ vài chục lên vài trăm. Terry hài lòng thoát khỏi tộc quần, trước khi đi ngủ còn không quên chia sẻ bài đăng này vào nhóm gia đình mình.
+
+_Ô ô ô, món sườn chiên của Giang Thu Thu ngon đến mức anh ta ăn xong cảm thấy kiếp sói này không còn gì hối tiếc! Một chủ kênh xuất sắc như vậy tuyệt đối không thể bị chôn vùi giữa đám đông! Anh ta, fan cuồng số một Terry, nhất định phải đưa Giang Thu Thu lên ngôi vị hot nhất!_
+
+Đêm nay, Terry mơ thấy sau khi cô chủ kênh phát hiện ra tất cả những gì anh ta đã làm, cô ấy vô cùng cảm động, rồi lập tức bày ra hàng chục phần sườn chiên trước mặt Terry – nước mắt cảm động của Terry không kìm được mà chảy ra từ khóe miệng.
+
+(Hết chương này)

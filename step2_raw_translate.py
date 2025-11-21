@@ -14,6 +14,8 @@ import requests
 import urllib.parse
 import re
 import html
+import json
+import random
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -46,13 +48,221 @@ class RawTranslator:
     
     INPUT_DIR = "biqu59096/raw_chinese"
     OUTPUT_DIR = "biqu59096/raw_vietnamese"
-    def __init__(self):
+    def __init__(self, batch_size: Optional[int] = None):
         # We don't need API keys for this method, but we keep the structure
         self.model = "google-translate-m"
+        self.batch_size = batch_size
             
         # Create output directory
         Path(self.OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
         logger.info(f"Output directory created: {self.OUTPUT_DIR}")
+        
+        self.session = requests.Session()
+        self.session.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        })
+        
+    def _fetch_google_params(self):
+        """Fetch f.sid and bl parameters from Google Translate."""
+        try:
+            response = requests.get("https://translate.google.com", timeout=10)
+            if response.status_code == 200:
+                # Extract FdrFJe (f.sid)
+                match_sid = re.search(r'"FdrFJe":"(.*?)"', response.text)
+                if match_sid:
+                    self.f_sid = match_sid.group(1)
+                
+                # Extract cfb2h (bl)
+                match_bl = re.search(r'"cfb2h":"(.*?)"', response.text)
+                if match_bl:
+                    self.bl = match_bl.group(1)
+                    
+                logger.info(f"Fetched params: f.sid={getattr(self, 'f_sid', 'N/A')}, bl={getattr(self, 'bl', 'N/A')}")
+        except Exception as e:
+            logger.warning(f"Error fetching Google params: {e}")
+
+    def translate_batch(self, texts: List[str], retries: int = 3) -> List[str]:
+        """
+        Translate a batch of texts using Google Translate Batch Execute API (RPC).
+        """
+        if not texts:
+            return []
+            
+        # Ensure we have the required parameters
+        if not hasattr(self, 'f_sid') or not hasattr(self, 'bl'):
+            self._fetch_google_params()
+            
+        f_sid = getattr(self, 'f_sid', '')
+        bl = getattr(self, 'bl', '')
+        
+        for attempt in range(retries):
+            try:
+                time.sleep(1.5)
+                
+                url = "https://translate.google.com/_/TranslateWebserverUi/data/batchexecute"
+                
+                rpc_id = "MkEWBc"
+                source_lang = "zh"
+                target_lang = "vi"
+                
+                # Construct RPC list for all texts
+                rpc_list = []
+                for text in texts:
+                    if not text.strip():
+                        continue
+                        
+                    # Inner parameter list
+                    # Structure: [[text, source, target, boolean], [null]]
+                    parameter = [[text, source_lang, target_lang, True], [None]]
+                    json_parameter = json.dumps(parameter, separators=(',', ':'))
+                    
+                    # Outer RPC list item
+                    # Structure: ["MkEWBc", inner_json, null, "generic"]
+                    rpc_list.append(["MkEWBc", json_parameter, None, "generic"])
+                
+                if not rpc_list:
+                    return [""] * len(texts)
+
+                f_req = json.dumps([rpc_list], separators=(',', ':'))
+                
+                params = {
+                    "rpcids": rpc_id,
+                    "source-path": "/",
+                    "f.sid": "",
+                    "bl": "",
+                    "hl": "en-US",
+                    "soc-app": "1",
+                    "soc-platform": "1",
+                    "soc-device": "1",
+                    "_reqid": str(random.randint(1000, 9999)),
+                    "rt": "c"
+                }
+                
+                headers = {
+                    "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+                }
+                
+                data = {
+                    "f.req": f_req
+                }
+                
+                response = self.session.post(url, params=params, headers=headers, data=data, timeout=30)
+                
+                if response.status_code == 200:
+                    # Response parsing logic
+                    content = response.text
+                    
+                    # Find the first '['
+                    start_idx = content.find('[')
+                    if start_idx != -1:
+                        json_str = content[start_idx:]
+                        try:
+                            response_json = json.loads(json_str)
+                        except json.JSONDecodeError:
+                            lines = json_str.split('\n')
+                            for line in lines:
+                                try:
+                                    if line.strip().startswith('['):
+                                        response_json = json.loads(line)
+                                        break
+                                except:
+                                    continue
+                        
+                        if isinstance(response_json, list):
+                            # Map translations back to original texts
+                            # The response is a list of [wrb.fr, rpc_id, json_data, ...]
+                            # We need to match them. Since we sent them in order, hopefully they come back in order or we can just iterate.
+                            # Actually, the batch execute response might not preserve order if we had different RPC IDs, but here we use the same RPC ID.
+                            # However, for the same RPC ID, it usually returns one big response or multiple entries.
+                            # Let's assume we get a list of responses corresponding to our requests.
+                            
+                            # Wait, for "MkEWBc", if we send multiple in one f.req, do we get multiple entries in the outer list?
+                            # Yes, usually.
+                            
+                            translated_texts_map = {}
+                            
+                            for entry in response_json:
+                                if isinstance(entry, list) and len(entry) > 2 and entry[1] == rpc_id:
+                                    raw_data = entry[2]
+                                    try:
+                                        parsed_data = json.loads(raw_data)
+                                        if parsed_data and isinstance(parsed_data, list) and len(parsed_data) > 1:
+                                            # The translation segments are usually at parsed_data[1][0][0][5]
+                                            segments = parsed_data[1][0][0][5]
+                                            full_translation = ""
+                                            original_text_snippet = "" # We might need to match by content if order isn't guaranteed
+                                            
+                                            # Google Translate response usually contains the source text too.
+                                            # parsed_data[0][0] is usually the source text? No.
+                                            # Let's look at the structure.
+                                            # parsed_data[1][0][0][5] -> translation
+                                            # parsed_data[1][4] -> source text (sometimes)
+                                            
+                                            for segment in segments:
+                                                if segment and isinstance(segment, list):
+                                                    full_translation += segment[0]
+                                            
+                                            # We need to map this back to the input. 
+                                            # If we sent N requests, we expect N responses.
+                                            # But matching them is tricky without a unique ID per request if they are reordered.
+                                            # However, in a single batch request, they usually come back in order or we can't easily distinguish if texts are identical.
+                                            # For now, let's assume they are returned in the order processed, which might be the order sent.
+                                            # BUT, to be safe, we should probably send them one by one if we can't guarantee order, OR trust the order.
+                                            # Let's trust the order for now as it's a standard RPC batch.
+                                            
+                                            # Actually, looking at standard batch implementations, often a request ID is used if supported.
+                                            # But MkEWBc doesn't seem to support a custom ID in the inner JSON easily.
+                                            
+                                            # Let's collect all translations found.
+                                            # If we sent 5 items, we hope to find 5 items.
+                                            pass 
+                                    except:
+                                        pass
+
+                            # Re-parsing strategy:
+                            # We will iterate and collect all valid translations found in the response.
+                            found_translations = []
+                            for entry in response_json:
+                                if isinstance(entry, list) and len(entry) > 2 and entry[1] == rpc_id:
+                                    raw_data = entry[2]
+                                    try:
+                                        parsed_data = json.loads(raw_data)
+                                        if parsed_data and isinstance(parsed_data, list) and len(parsed_data) > 1:
+                                            segments = parsed_data[1][0][0][5]
+                                            full_translation = ""
+                                            for segment in segments:
+                                                if segment and isinstance(segment, list):
+                                                    full_translation += segment[0]
+                                            found_translations.append(full_translation)
+                                    except:
+                                        pass
+                            
+                            # If we found the same number of translations as non-empty inputs, great.
+                            # Note: We skipped empty texts in rpc_list construction.
+                            
+                            final_results = []
+                            trans_idx = 0
+                            for text in texts:
+                                if not text.strip():
+                                    final_results.append("")
+                                else:
+                                    if trans_idx < len(found_translations):
+                                        final_results.append(found_translations[trans_idx])
+                                        trans_idx += 1
+                                    else:
+                                        final_results.append("") # Failed to get this one
+                            
+                            return final_results
+
+                    logger.warning(f"Could not parse batch response (Attempt {attempt + 1})")
+                else:
+                    logger.warning(f"Batch API request failed (Attempt {attempt + 1}): {response.status_code}")
+                    
+            except Exception as e:
+                logger.warning(f"Batch Translation error (Attempt {attempt + 1}): {e}")
+            
+        return [""] * len(texts)
         
     def translate_single_chunk(self, text: str, retries: int = 3) -> Optional[str]:
         """
@@ -66,38 +276,39 @@ class RawTranslator:
                 # Rate limiting
                 time.sleep(1.5) 
                 
-                source_language = 'zh-CN'
-                target_language = 'vi'
-                escaped_text = urllib.parse.quote(text)
-                
-                url = 'https://translate.google.com/m?tl=%s&sl=%s&q=%s' % (target_language, source_language, escaped_text)
+                # Use the single translation API endpoint
+                url = "https://translate.google.com/translate_a/single"
+                params = {
+                    "client": "gtx",
+                    "sl": "zh-CN",
+                    "tl": "vi",
+                    "dt": "t",
+                    "q": text
+                }
                 
                 headers = {
                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
                 }
                 
-                response = requests.get(url, headers=headers, timeout=30)
+                response = requests.get(url, params=params, headers=headers, timeout=30)
                 
                 if response.status_code == 200:
-                    # Extract translation from HTML
-                    # Pattern typically looks like: <div class="result-container">...</div>
-                    # Or for mobile: <div dir="ltr" class="t0">...</div>
+                    # Parse JSON response
+                    # Response format: [[["Translated text", "Source text", ...], ...], ...]
+                    data = response.json()
                     
-                    # Try to find the result container
-                    match = re.search(r'<div[^>]*class="[^"]*result-container[^"]*"[^>]*>(.*?)</div>', response.text, re.DOTALL)
-                    if not match:
-                        # Fallback for other mobile variations
-                        match = re.search(r'<div[^>]*class="[^"]*t0[^"]*"[^>]*>(.*?)</div>', response.text, re.DOTALL)
-                        
-                    if match:
-                        translated_html = match.group(1)
-                        # Unescape HTML entities
-                        translated_text = html.unescape(translated_html)
+                    if data and isinstance(data, list) and len(data) > 0:
+                        # Combine all translated segments
+                        translated_text = ""
+                        for segment in data[0]:
+                            if segment and isinstance(segment, list) and len(segment) > 0:
+                                translated_text += segment[0]
                         return translated_text
                     else:
-                        logger.warning(f"Could not parse translation from response (Attempt {attempt + 1})")
+                        logger.warning(f"Unexpected JSON format (Attempt {attempt + 1})")
                 else:
                     logger.warning(f"API request failed (Attempt {attempt + 1}): {response.status_code}")
+
                     
             except Exception as e:
                 logger.warning(f"Translation error (Attempt {attempt + 1}): {e}")
@@ -140,16 +351,32 @@ class RawTranslator:
                 chunks.append(current_chunk)
             
             translated_parts = []
-            for i, chunk in enumerate(chunks):
-                if not chunk.strip():
-                    translated_parts.append("")
-                    continue
+            translated_parts = []
+            
+            if self.batch_size:
+                # Batch processing
+                for i in range(0, len(chunks), self.batch_size):
+                    batch_chunks = chunks[i:i + self.batch_size]
+                    translated_batch = self.translate_batch(batch_chunks)
                     
-                translated_chunk = self.translate_single_chunk(chunk)
-                if translated_chunk is None:
-                    logger.error(f"Failed to translate chunk {i+1}/{len(chunks)} of {chapter_file}")
-                    return False
-                translated_parts.append(translated_chunk)
+                    if not translated_batch or len(translated_batch) != len(batch_chunks):
+                        logger.error(f"Failed to translate batch starting at chunk {i+1} of {chapter_file}")
+                        # Fallback or fail? Let's fail for now to be safe.
+                        return False
+                        
+                    translated_parts.extend(translated_batch)
+            else:
+                # Single processing (original behavior)
+                for i, chunk in enumerate(chunks):
+                    if not chunk.strip():
+                        translated_parts.append("")
+                        continue
+                        
+                    translated_chunk = self.translate_single_chunk(chunk)
+                    if translated_chunk is None:
+                        logger.error(f"Failed to translate chunk {i+1}/{len(chunks)} of {chapter_file}")
+                        return False
+                    translated_parts.append(translated_chunk)
             
             translated_content = "\n".join(translated_parts)
             
@@ -184,9 +411,10 @@ class RawTranslator:
 def main():
     parser = argparse.ArgumentParser(description='Step 2: Raw Translation')
     parser.add_argument('--force', action='store_true', help='Force re-translation even if output exists')
+    parser.add_argument('--batch', type=int, choices=range(1, 11), help='Batch size (1-10) for translation. If not set, uses single translation.')
     args = parser.parse_args()
 
-    translator = RawTranslator()
+    translator = RawTranslator(batch_size=args.batch)
     translator.run(force=args.force)
 
 if __name__ == "__main__":

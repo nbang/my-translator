@@ -93,7 +93,7 @@ class EditedTranslator:
             },
             {
                 "role": "user", 
-                "content": f"Bản gốc:\n{ref_text}\n\nBản dịch thô:\n{text}"
+                "content": f"Bản dịch thô:\n{text}\n\nBản gốc:\n{ref_text}"
             }
         ]
         

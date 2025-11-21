@@ -1,58 +1,70 @@
-# Chương 5: Lợi nhuận 100 Tinh tệ
-
-## Tiêu đề | Title
-Chương 5: Lợi nhuận 100 Tinh tệ
+# Chương 5: Lợi Nhuận 100 Sao Tệ
 
 ---
 
-## Nội dung | Content
+## Nội dung
 
-Chương 5
-Lợi nhuận: 100 Tinh tệ
+Một bên là thực khách đang thưởng thức món ngon, một bên là những người không giành được suất ăn đang than thở.
 
-Có người đang say sưa thưởng thức món ngon, cũng có những người không kịp giành lấy chỗ ngồi mà than thở.
+[Ăn Ăn Không Ngừng Nghỉ: A a a a a, sao chỉ có mười suất vậy! Đơn giản là không đủ để giành lấy...]
 
-[Ăn ăn ăn liên tục: Áaaaa, sao chỉ có mười chỗ thôi chứ! Hoàn toàn không đủ để tranh giành…]
+Giang Thu Thu khẽ cười, giọng pha chút bất lực:
 
-Cô khẽ cười, giọng điệu đầy bất lực: “Xin lỗi mọi người, vì chủ kênh là tân binh, chỉ có 1 sao, nên chỉ có thể mở mười vị trí nếm thử. Những người hâm mộ chưa giành được chỗ có thể nhấn theo dõi và quay lại vào ngày mai nhé. Tôi sẽ phát sóng đúng 8 giờ tối mỗi ngày.”
+"Thật xin lỗi, vì chủ kênh là tân binh mới một sao, nên chỉ có thể mở mười suất nếm thử. Người hâm mộ nào chưa giành được suất có thể theo dõi chủ kênh, đợi đến ngày mai nhé. Đúng 8 giờ tối mỗi ngày, tôi sẽ lên sóng trực tiếp."
 
-[Ăn ăn ăn liên tục: Ôi, chị đẹp thật dịu dàng, em quyết định trở thành người hâm mộ rồi! Xin hỏi ngày mai chị có làm món sườn nữa không ạ?]
+[Ăn Ăn Không Ngừng Nghỉ: Ôi chao, cô chủ thật dịu dàng quá, tôi quyết định trở thành fan cứng luôn! Ngày mai cô định làm món bít tết nữa không?]
 
-“Ngày mai, tôi dự định làm món thịt viên chiên giòn. Nếu có bạn bè nào quan tâm đến món thịt viên, mong mọi người giúp tôi quảng bá nhé! Chúng ta gặp lại vào ngày mai! Cảm ơn mọi người.”
+"Ngày mai, tôi định làm món thịt viên chiên giòn. Nếu ai quan tâm đến món thịt viên thì có thể giúp tôi tuyên truyền nhé. Hẹn gặp lại mọi người vào ngày mai! Cảm ơn tất cả."
 
-Nói xong, cô chào tạm biệt ống kính rồi kết thúc buổi phát sóng. Chủ kênh đã ngoại tuyến, phòng phát sóng trực tiếp và căn bếp ảo đều tối đen.
+Nói rồi, cô vẫy tay chào camera, rồi tắt sóng.
 
-Đây là lần đầu tiên cô phát sóng trực tiếp trong môi trường mô phỏng hoàn chỉnh, nên cô có chút căng thẳng khi xem qua số liệu thống kê. Hôm nay, cô đã phát sóng trực tiếp gần hai mươi phút. Có khoảng hơn bốn mươi người ghé vào phòng phát sóng trực tiếp của cô, hơn ba mươi người ở lại xem, và sau khi buổi phát sóng kết thúc, có trên hai mươi người đã nhấn theo dõi cô.
+Chủ kênh đã ngoại tuyến, phòng phát sóng trực tiếp và căn bếp ảo lập tức chìm vào bóng tối.
 
-Sau khi phân tích một lúc, hệ thống hiển thị vài thông báo bình luận cùng một thông báo có tiền thưởng đổ về. Lúc này, cô mới nhận ra trong hệ thống nếm thử trực tuyến còn có cả hệ thống đánh giá; sau khi người hâm mộ nếm món, họ có thể đánh giá và đánh thưởng cho món ăn.
+Đây là lần đầu tiên cô phát sóng trực tiếp trong môi trường mô phỏng hoàn chỉnh như vậy. Cô hơi lo lắng kiểm tra các số liệu cơ bản.
 
-Mười người nếm thử, tổng cộng có sáu bình luận và một lượt đánh thưởng. Các bình luận đều là những lời khen có cánh—
+Hôm nay, cô lên sóng trực tiếp gần hai mươi phút. Có khoảng bốn mươi người ghé thăm phòng phát sóng trực tiếp của cô, hơn ba mươi người nán lại. Sau buổi phát sóng, hơn hai mươi người đã nhấn nút theo dõi cô.
 
-[Thế giới này lại có món ăn ngon đến vậy!]
-[Chủ kênh mới cũng có thể đỉnh như thế à!]
-[Sợ là truyền nhân ẩm thực của Cổ Địa Cầu đây mà!]
-[Một miếng ăn hết sạch, sao phần sườn lại ít vậy chứ?]
+Sau khi phân tích một lát, vài thông báo về bình luận và nhắc nhở thanh toán phần thưởng đã hiện lên ở chế độ nền. Cô phát hiện ra rằng hệ thống nếm thử ảo còn có một hệ thống đánh giá. Sau khi người hâm mộ nếm thử món ăn, họ có thể đánh giá và tặng thưởng.
 
-Cô nhấn vào bình luận này và thấy phía sau nó có một lượt đánh thưởng 100 Tinh tệ nhỏ xíu. Người dùng tên Terry là một “con sói đơn độc”, có thể nói là người hâm mộ đầu tiên của cô!
+Mười người nếm thử, tổng cộng có sáu tin nhắn và một khoản thưởng.
 
-Vì chưa ký hợp đồng, số tiền trong tài khoản phát sóng trực tiếp của cô chỉ có thể rút được bốn mươi phần trăm, tức 40 Tinh tệ. Dù số tiền này ít ỏi, nhưng chỉ cần có lợi nhuận, cô sẽ có niềm tin vô hạn!
+Các bình luận toàn là những lời khen có cánh:
 
-Sau buổi phát sóng, hệ thống sẽ tự động lưu lại video ghi hình và cô có thể chọn tải lên trang chủ cá nhân theo hướng dẫn. Cô làm theo hướng dẫn rồi mới từ từ thở phào nhẹ nhõm.
+[Trên đời này mà lại có món ngon đến vậy sao!]
+[Tân binh chủ kênh mà lại siêu phàm đến thế này!]
+[E rằng đây chính là truyền nhân ẩm thực cổ xưa!]
+[Cô ấy ăn một miếng đã hết rồi, sao suất bít tết lại ít thế này?]
 
-Sau buổi phát sóng đầy hứng khởi, không biết có phải vì đầu óc hoạt động quá mức hay không, cô cảm thấy vô cùng mệt mỏi. Ăn hết phần sườn một cách nhanh chóng, vệ sinh cá nhân xong xuôi, cô liền "phịch" một tiếng đổ ập xuống chiếc giường trong căn hộ thuê.
+Khi cô nhấp vào bình luận này, cô phát hiện bên dưới có một khoản thưởng nhỏ 100 sao tệ. Người dùng tên Terry, một người sói, có thể nói là người hâm mộ đầu tiên của cô!
 
-Ở một diễn biến khác, Terry vẫn còn đang say sưa hồi vị món ăn ngon. Không nhịn được, hắn để lại một bình luận tích cực và đánh thưởng 100 Tinh tệ. Nghe cô nói ngày mai sẽ tiếp tục phát sóng đúng giờ, hắn liền nhanh chóng nhấn theo dõi chủ kênh. Nghe nói món ăn mới ngày mai vẫn là món chiên, mắt hắn lại sáng rực lên lần nữa.
+Vì chưa ký hợp đồng, cô chỉ có thể rút 40% số tiền trong tài khoản phát sóng trực tiếp, tức là 40 sao tệ.
 
-Bạn cùng phòng của Terry là Thu Đao, khi về tới nhà liền nhìn thấy hắn với đôi mắt sáng lấp lánh. Thu Đao nhìn cậu bạn ngốc này, thầm "chậc" một tiếng trong lòng, rồi hỏi: “Terry, hôm nay cậu sao thế? Trông cậu vui vẻ lạ thường!”
+Dù số tiền ít ỏi, nhưng chỉ cần có lợi nhuận, cô sẽ có niềm tin vô hạn!
 
-“Thu Đao! Cậu không thể tin được đâu, mình vừa tìm thấy một chủ kênh mới có tay nghề cực kỳ xuất sắc từ khu phát sóng trực tiếp ẩm thực của Liên bang đấy!”
+Sau khi phát sóng trực tiếp, hệ thống sẽ tự động lưu lại bản ghi màn hình, cô có thể chọn tải lên trang chủ của mình.
 
-“Cậu lại xem kênh ẩm thực nữa à?”
+Làm theo hướng dẫn, cô mới từ từ thở phào nhẹ nhõm.
 
-“Đúng vậy! Hôm nay mình được nếm món sườn Gugu cực kỳ ngon! Đến tận ba mươi mốt tuổi mình mới được ăn món ngon thế này, nửa đời trước của mình đúng là phí hoài cả rồi!!!”
+Sau buổi phát sóng trực tiếp đầy nhiệt huyết, cô cảm thấy vô cùng mệt mỏi, có lẽ là do não bộ đã hoạt động quá mức.
 
-“…Có khoa trương đến thế không?” Thu Đao lộ vẻ khó hiểu, “Mà thịt của thú Gugu chế biến thành sườn, cậu chắc là ăn được thật sao?”
+Ăn vội suất bít tết còn lại, tắm rửa xong, cô ngã phịch xuống chiếc giường trong căn nhà thuê.
 
-Mẹ kiếp, trong quân đội, rất nhiều khẩu phần lương thực đều làm từ thịt Gugu; Thu Đao từng may mắn ăn vài lần trên chiến trường, mùi vị thật sự kinh tởm đến mức muốn ói mửa. Đến nỗi về sau, ngay cả uống dung dịch dinh dưỡng cậu ta cũng thấy không tệ lắm. Vậy mà giờ đây lại có người nói món sườn Gugu ngon? Cái tên này e là đã uống quá nhiều dung dịch dinh dưỡng đến mức vị giác đã bị rối loạn rồi chăng?
+Ở một diễn biến khác, Terry vẫn đang say sưa thưởng thức món ngon.
+
+Anh ta không kìm được mà để lại đánh giá tốt và thưởng 100 sao tệ. Khi nghe tin cô sẽ lên sóng trực tiếp đúng giờ vào ngày mai, anh ta nhanh chóng nhấn theo dõi chủ kênh. Nghe nói món mới ngày mai vẫn là thịt chiên, mắt anh ta lại sáng rực.
+
+Khi bạn cùng phòng của Terry, Khâu Đao, trở về, anh ta thấy đôi mắt Terry sáng rực. Khâu Đao nhìn người sói ngốc nghếch kia, trong lòng thầm thở dài: "Terry, hôm nay anh làm sao vậy? Trông anh vui vẻ lạ thường."
+
+"Khâu Đao! Anh không thể tin được đâu, tôi đã tìm thấy một chủ kênh mới với kỹ năng nấu nướng tuyệt đỉnh từ khu vực phát sóng trực tiếp ẩm thực liên bang rồi!"
+
+"Anh lại xem chuyên mục ẩm thực à?"
+
+"Đúng vậy, hôm nay tôi đã được ăn một suất bít tết Gugu ngon tuyệt đỉnh! Tôi đã ba mươi mốt tuổi rồi mà bây giờ mới được ăn món ngon như vậy. Nửa đời đầu của tôi thật sự đã lãng phí vô ích!!!"
+
+"...Có thật là khoa trương như vậy không?" Khâu Đao lộ ra vẻ mặt khó hiểu, "Thịt Gugu làm thành bít tết, anh chắc là nó ngon chứ?"
+
+Trời ạ, quân lương phát cho đội ngũ phần lớn đều là thịt Gugu. Khâu Đao may mắn được ăn vài lần trên chiến trường, thật sự là muốn ói ói ói. Đến mức sau này, khi trở về và phải uống dung dịch dinh dưỡng, anh ta cũng chẳng cảm thấy khá khẩm hơn là bao.
+
+Giờ lại có người nói với anh ta rằng bít tết Gugu rất ngon ư? Con người sói này chắc là đã uống quá nhiều dung dịch dinh dưỡng nên bị rối loạn vị giác rồi chăng?
 
 (Hết chương)

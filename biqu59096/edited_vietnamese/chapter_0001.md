@@ -1,49 +1,40 @@
-# Chương 1: Xuyên không đã đủ đáng sợ, nhưng còn đáng sợ hơn nữa là... tôi xuyên không rồi, lại còn nghèo rớt mồng tơi.
+# Chương 1: Điều đáng sợ hơn cả xuyên không, là tôi xuyên không nhưng lại nghèo rớt mồng tơi.
 
-## Tiêu đề | Title
-Chương 1: Xuyên không đã đủ đáng sợ, nhưng còn đáng sợ hơn nữa là... tôi xuyên không rồi, lại còn nghèo rớt mồng tơi.
+## Nội dung
 
----
+Chương 1
 
-## Nội dung | Content
+_Điều đáng sợ nhất không phải là xuyên không, mà là tôi xuyên không nhưng lại nghèo rớt mồng tơi._
 
-[Kính chào công dân Giang Thu Thu, tài khoản Tinh Võng của cô còn lại 1231.3 Tinh tệ.]
-[Xin chào, hợp đồng thuê nhà của cô chỉ còn một tháng nữa là hết hạn, cô quên rồi sao?]
-[Kính gửi cô Giang Thu Thu, gói dịch vụ dinh dưỡng cô đã mua chỉ còn ba ngày nữa là hết hạn, cô có muốn gia hạn trước không?]
-[Cô Giang Thu Thu, phí sử dụng điện của cô—]
-[Phí sử dụng Tinh Võng—]
-[Sắp cuối tháng rồi, phiền cô thanh toán đúng hạn nhé~]
+[Kính gửi công dân Giang Thu Thu, tài khoản Mạng Tinh Tế của bạn còn lại 1231.3 tinh tệ.]
+[Xin chào, hợp đồng thuê nhà của bạn sẽ hết hạn trong một tháng nữa, bạn quên rồi sao?]
+[Chào cô Giang Thu Thu, gói dịch vụ dinh dưỡng cô đã mua sẽ kết thúc sau ba ngày nữa, cô có muốn gia hạn trước không ạ?]
+[Cô Giang Thu Thu, phí sử dụng điện của cô –]
+[Phí sử dụng Mạng Tinh Tế –]
+[Sắp cuối tháng rồi, vui lòng thanh toán kịp thời nha ~]
 
-Đọc xong những thông báo này, tim Giang Thu Thu như chết lặng.
+Đọc đến đây, trái tim Giang Thu Thu bắt đầu tê dại. _Trên đời này, có gì đáng sợ hơn cả việc xuyên không? Chính là tôi xuyên không, rồi trở thành một kẻ nghèo rớt mồng tơi._
 
-Trên đời này, điều gì đáng sợ hơn cả xuyên không? Chính là xuyên không rồi... lại còn nghèo!
+Giang Thu Thu vốn là một chủ kênh ẩm thực nổi tiếng ở thế kỷ 21, với lượng người hâm mộ đông đảo trên khắp các nền tảng mạng xã hội. Do một tai nạn bất ngờ trong chuyến đi du lịch quay video, cô đã xuyên không đến thời đại liên tinh hệ. Cô còn chưa kịp thở phào vì xúc động khi thấy tàu vũ trụ, robot, và mạng lưới ảnh ba chiều hiện ra rõ mồn một, con người thật sự có thể du hành xuyên không gian, biến cả hành tinh thành đô thị, thì đã bị nhấn chìm trong vô vàn thông tin về Giang Thu Thu – chủ nhân cũ của thân xác này, người có cùng tên với cô.
 
-Giang Thu Thu, vốn là một blogger ẩm thực nổi tiếng ở thế kỷ 21, sở hữu lượng người hâm mộ đông đảo trên nền tảng video ngắn TikTok và trang web Bilibili. Trong một lần quay vlog du lịch, cô không may gặp tai nạn và bất ngờ xuyên không đến kỷ nguyên giữa các vì sao.
+Giang Thu Thu của thời đại liên tinh hệ sinh ra trên một hành tinh cấp thấp thuộc Liên bang. Năm tám tuổi, cha mẹ cô lần lượt qua đời, và cô từ đó sống trong trại trẻ mồ côi. May mắn thay, khi cô mười sáu tuổi, trại trẻ mồ côi đã tiến hành xét nghiệm gen cho cô. Giang Thu Thu được phát hiện có năng lực tinh thần cấp B+, và cô đã may mắn nhận được thông báo nhập học từ một trường học trên tinh cầu thủ đô của Liên bang.
 
-Tuy nhiên, cô còn chưa kịp cảm thán về việc phi thuyền, người máy, mạng toàn ảnh là có thật! Con người thực sự có thể du hành vũ trụ, xem các hành tinh như thành phố! Thì hàng loạt thông tin về nguyên chủ Giang Thu Thu, người cùng tên với cô ở kỷ nguyên giữa các vì sao, đã nhấn chìm cô.
+Thế nhưng, chỉ vài ngày sau khi nhập học, cô đã bị đuổi khỏi trường vì đắc tội với kẻ có thế lực. Giang Thu Thu, người đã mất tư cách nhập học, không cam lòng quay về. Cô vừa nộp đơn xin trợ cấp từ Liên bang, vừa làm việc bán thời gian để kiếm sống, đồng thời liên tục khiếu nại lên nhà trường, hy vọng nhận được phán quyết công bằng. Tuy nhiên, mọi lá thư khiếu nại đều như đá chìm đáy biển, chẳng có hồi âm.
 
-Ở kỷ nguyên giữa các vì sao, Giang Thu Thu sinh ra trên một hành tinh cấp thấp thuộc Liên bang. Năm cô tám tuổi, cha mẹ lần lượt qua đời, cô phải sống trong trại trẻ mồ côi. May mắn thay, năm 16 tuổi, trại trẻ mồ côi đã xét nghiệm gen cho cô. Cô được phát hiện có tinh thần lực cấp B+, nhờ đó nhận được thư mời nhập học từ một trường trên hành tinh thủ đô của Liên bang.
+Cho đến khi Giang Thu Thu đón sinh nhật lần thứ mười tám, cô vẫn không nhận được bất kỳ phản hồi nào về lá thư khiếu nại của mình. Liên bang chỉ cấp quỹ trợ cấp cho trẻ em dưới 18 tuổi. Một khi không còn trợ cấp, đồng lương ít ỏi của nguyên chủ không thể nào gánh vác nổi chi phí sinh hoạt đắt đỏ trên tinh cầu thủ đô. Vì vậy, Giang Thu Thu, người có tương lai mịt mờ, đã uất ức tự sát vào đúng ngày sinh nhật thứ mười tám của mình. Cũng chính vào ngày định mệnh đó, Giang Thu Thu từ thế kỷ 21 đã xuyên không đến đây.
 
-Nhưng chưa học được bao lâu, cô đã bị đuổi khỏi trường vì đắc tội với giới quyền quý. Mất tư cách nhập học, Giang Thu Thu không cam lòng trở về. Cô vừa xin trợ cấp từ Liên bang, vừa làm thêm để duy trì cuộc sống, đồng thời liên tục gửi đơn khiếu nại đến trường với hy vọng nhận được một phán quyết công bằng. Thế nhưng, mọi lá đơn của cô đều bặt vô âm tín.
+Ngày trước, Giang Thu Thu là một tiểu thư giàu có, số dư trong tài khoản ngân hàng lên đến tám con số. Giờ đây, cô là một cô gái liên tinh hệ tội nghiệp, đứng trước nguy cơ phá sản vào cuối tháng.
 
-Đến khi cô tròn 18 tuổi, những lá đơn khiếu nại của cô vẫn không nhận được hồi đáp. Liên bang chỉ cấp trợ cấp cho trẻ em dưới 18 tuổi. Khi không còn khoản trợ cấp này, với mức lương ít ỏi của nguyên chủ, cô không thể duy trì cuộc sống trên hành tinh thủ đô.
+Chẳng còn thời gian đâu mà bi lụy. Từ trong trí nhớ của nguyên chủ, Giang Thu Thu biết được, ở Liên bang, chậm trễ thanh toán các khoản phí là một tội rất nghiêm trọng. Nếu không thanh toán đúng hạn, rất có thể cô sẽ bị đưa xuống các hành tinh cấp thấp để khai thác tài nguyên, hoặc phải dọn dẹp nhà vệ sinh ở những khu vực khắc nghiệt để trừ nợ!
 
-Vì vậy, trong ngày sinh nhật 18 tuổi, nguyên chủ Giang Thu Thu đã uất hận tự vẫn. Cũng trong ngày đó, Giang Thu Thu của thế kỷ 21 đã đến đây.
+_Không xong rồi!_
 
-Trước đây, Giang Thu Thu là một nữ đại gia trẻ tuổi với số dư tài khoản lên đến tám con số. Giờ đây, cô là một kẻ nghèo kiết xác sắp phá sản vào cuối tháng ở kỷ nguyên giữa các vì sao.
+Trước hết, cô tính toán xem cuối tháng này mình phải chi trả bao nhiêu. Tổng cộng, phí điện, nước và dung dịch dinh dưỡng khoảng 1.100 tinh tệ. Tài khoản của cô vẫn còn tiền để thanh toán cho tháng này, nhưng sau khi tháng này kết thúc, tiền thuê nhà, phí internet, chi phí sinh hoạt và các khoản lặt vặt khác của tháng sau đã lên tới 2.800 tinh tệ – một con số mà cô hoàn toàn không có khả năng chi trả.
 
-Không kịp bi thương sầu não, Giang Thu Thu biết từ ký ức của nguyên chủ rằng ở Liên bang, nợ nần là một trọng tội. Nếu không thanh toán đúng hạn, rất có thể cô sẽ bị đưa đến các hành tinh cấp thấp để khai thác mỏ, hoặc làm công nhân vệ sinh tại những khu vực có môi trường khắc nghiệt để cày nợ!
+Ở thời đại liên tinh hệ này, những người lao động không bằng cấp như nguyên chủ không có giá trị cao. Một tháng quần quật làm việc cũng chỉ kiếm được khoảng 1.300 tinh tệ, hoàn toàn không đủ.
 
-... Còn lời nào để nói nữa đây!
+Cô nhất định phải làm gì đó, bằng không, vừa mới giành lại được mạng sống, cô đã có nguy cơ bị tống ra mỏ khai thác rồi.
 
-Cô nhẩm tính sơ bộ số tiền phải chi vào cuối tháng. Tiền điện, tiền nước, phí dịch vụ dinh dưỡng cộng lại khoảng 1100 Tinh tệ. Tài khoản của cô vẫn đủ để trả, nhưng sau khi hết tháng này, tổng tiền thuê nhà, tiền mạng và các chi phí sinh hoạt khác của tháng sau lên đến 2800 Tinh tệ, cô hoàn toàn không đủ khả năng chi trả.
+Trong trí nhớ của nguyên chủ, ngành phát sóng trực tiếp cũng rất phổ biến ở thời đại này. _Có lẽ cô có thể thử quay lại nghề cũ, tự nuôi sống mình bằng cách phát sóng trực tiếp về ẩm thực thì sao?_
 
-Ở kỷ nguyên giữa các vì sao, những người không có bằng cấp như nguyên chủ có giá trị lao động rất thấp. Làm việc cật lực cả tháng cũng chỉ kiếm được khoảng 1300 Tinh tệ, số tiền ít ỏi này chẳng thấm vào đâu.
-
-Cô phải làm gì đó, nếu không, vừa mới có cuộc sống mới đã phải bỏ mạng trong mỏ rồi.
-
-Từ ký ức của nguyên chủ, Giang Thu Thu biết rằng ngành phát sóng trực tiếp ở kỷ nguyên này cũng rất phát triển. Có lẽ, cô có thể thử nối lại nghề cũ, dựa vào phát sóng trực tiếp ẩm thực để nuôi sống bản thân?
-
-Nghĩ là làm, Giang Thu Thu mở Tinh Võng và bắt đầu tìm kiếm thông tin về phát sóng trực tiếp ẩm thực.
-
-(Hết chương)
+Nghĩ là làm, Giang Thu Thu liền mở Mạng Tinh Tế, bắt đầu tìm kiếm thông tin về các chương trình phát sóng trực tiếp ẩm thực.
