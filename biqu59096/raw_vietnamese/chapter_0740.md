@@ -1,0 +1,14 @@
+# Chương 740 Tôi cũng là một trong những ông chủ
+
+## Tiêu đề | Tiêu đề
+Chương 740 tôi cũng là một trong những ông chủ
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 740 chương
+Tôi cũng là một trong những ông chủ của Duck Sinh viên Yizui Amway. Điều này khiến Chu viện trưởng có chút tò mò: "Có vẻ như anh rất thích công ty này?" "Đúng vậy, vì vậy tôi muốn công ty nắm bắt cơ hội này." Giọng điệu nhẹ nhàng của cô bé thực sự khá ấm lòng. Chu viện trưởng không khỏi nói thêm: “Thật ra, điều cậu nói cũng không phải chuyện gì to tát, thầy tin cậu, nhưng vốn ngoại nói thường thường thay đổi nhanh chóng. “Cậu còn trẻ, có khi không hiểu được con dao hai lưỡi mà sở thích mang đến. Tôi sẽ chú ý đến công ty này trong hai ngày tới và sẽ trả lời bạn trong thời gian sớm nhất, nhưng bạn cũng phải chuẩn bị cho kế hoạch B và từ chối. " Giáo sư già nghiêm túc giảng dạy với giọng điệu của một trưởng lão. Qiuqiu khịt mũi và hỏi, "Bạn có sợ ban lãnh đạo cấp trên của công ty sẽ trái quy định và mang tiếng xấu không?" Ông nói rằng kết quả tiếp thị sẽ gây rắc rối trên toàn thế giới. "Vâng, Qiuqiu, ý tôi là vậy." Qiuqiu nói thêm một hồi lâu nữa. ồ, “Thì ra là vậy.” Cô nói xong, thấp giọng có chút đùa giỡn nói với trưởng khoa: “Vậy em nghĩ em có thể không cần chuẩn bị kế hoạch B, thưa thầy.” “?” Trước khi Dean Zhu kịp đặt câu hỏi, Qiuqiu đã thấp giọng nói: “Nói cho thầy một bí mật nhỏ, thực ra, ngoài vai trò là người đứng đầu của công ty này, tôi còn là ông chủ của công ty này. "Ta biết ngươi không thích góp vốn, cho nên ngay từ đầu ta đã nói thẳng với ngươi. Tất cả đều không phải vì từ thiện, chúng ta có một số động cơ ích kỷ, nhưng sẽ không bao giờ gây chuyện." "Ngoài ra, chúng tôi hy vọng sẽ trở nên lớn hơn và nổi tiếng hơn. Mặc dù chúng tôi cũng muốn cạnh tranh với ngành và trở thành người dẫn đầu, nhưng chúng tôi cũng có ý định từ thiện." Mặc dù Qian Xingxing và cô ấy đều là ông chủ nhưng họ thực sự không coi trọng tiền bạc. Một người là ông chủ lớn tiêu tiền khắp nơi, người kia là ông chủ nhỏ nghĩ rằng việc giúp đỡ mọi người bằng cách rải tiền là điều tốt. Vị CEO hoang đàng bị ném đá. "Dù sao hiện tại tôi đang lặng lẽ thỉnh cầu viện trưởng làm ông chủ, mong ngài có thể nói cho chúng tôi biết địa điểm cụ thể." "..." Sau một loạt chuyện, viện trưởng Chu dừng lại. Giới trẻ ngày nay có phải là người đa nhiệm? Anh ta liên tục nhảy giữa hệ thống cơ giới và hệ thống chữa lành tâm linh, và anh ta vẫn xoa dịu ranh giới giữa nhân viên và ông chủ. Anh ấy có vẻ... khá thoải mái. "Được, tôi sẽ xem kỹ." Vì là công ty của sinh viên nên thời gian có thể kéo dài thêm một chút, "Ngày mai tôi sẽ cho cậu câu trả lời." "Cảm ơn, trưởng khoa!" "Nó vẫn chưa xong." "Vậy tôi cũng muốn nói lời cảm ơn, cảm ơn viện trưởng đã cho công ty chúng tôi cơ hội này."
+
+---
+*Thời gian thế hệ: 2025-11-19 14:10:37*

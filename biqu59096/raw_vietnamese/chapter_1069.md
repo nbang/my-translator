@@ -1,0 +1,14 @@
+# Chương 1069 Triệu Huân, được trời chọn đi tìm chết
+
+## Tiêu đề | Tiêu đề
+Chương 1069 Triệu Tấn bị trời chọn đi tìm chết
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 1069 chương
+Zhao Xun, Được chọn đến chết, Qiu Qiu mọi chuyện đã ổn thỏa. Zhao Xun cũng cảm thấy mọi thứ về phía mình đều ổn. A, không, ngươi không thể nói như vậy, bởi vì chuyện này trong lòng Triệu Huân đã không còn là ưu tiên hàng đầu nữa. Cuộc đối đầu đầu tiên giữa hoàng gia và quân đội rất quan trọng, nhưng chẳng phải vụ kiện này sắp thắng sao? Đã thắng rồi, không có cách nào lội ngược dòng, vậy tại sao phải lo lắng? Để kiện tụng, bạn phải nói về bằng chứng. Bây giờ bằng chứng đã bị tiêu hủy, không còn gì để nói. Trọng tâm chính của anh ấy bây giờ là hậu cung của mình. Sau khi lên ngôi gần đây và trở thành tân vương của liên bang, Triệu Tấn cảm thấy rất nhiều người trong cung không thoải mái khi sử dụng nó. Khi mọi việc không suôn sẻ, mọi người cảm thấy không vui. Khi không vui, họ nghĩ đến việc mình đã từng hầu hạ cha mình như thế nào... Không biết tại sao, nhưng họ cảm thấy có chút khó chịu. Là một vị vua, tay sai của ông cũng phải là tay sai độc quyền của ông. Vốn dĩ hắn muốn dùng bạo lực xử lý, nhưng nghĩ đến sự dịu dàng của cha mình trước khi chết, Triệu Huân liền nghĩ tới, nhẹ nhàng xử lý, đuổi đi tất cả những người mà hắn không muốn gặp, đồng thời thăng chức cho một nhóm người mới. Anh nhận thấy mình có con mắt tinh tường trong việc nhận biết các anh hùng. Trong số những người mới được thăng chức, có một người tên là Yun Kuan. Zhao Xun cảm thấy mình rất tài năng và nhiều ý tưởng của anh ấy phù hợp với ý tưởng của anh ấy. Ông hiểu rõ lòng mình hơn những người làm trong cung nên đã thăng Vân Quán làm cận vệ triều đình mới được thăng chức. Gần đây Vân Quán liên tục dành cho hắn những lời vàng ngọc như điên. Dư luận và kiện tụng hỗn loạn như vậy, liều mạng cạnh tranh với ai đó thì xấu hổ quá. Sẽ không có vấn đề gì nếu Bệ hạ tranh giành hoàng tử. Bây giờ bạn là chủ nhân của đế chế. Nếu bạn cạnh tranh với một người phụ nữ, chẳng phải bạn sẽ mang một chiếc ghế kiệu cho người phụ nữ đó và nhường mặt cho cô ấy sao? Zhao Xun không đồng ý với điều này. Ông nói: "Đây là một cuộc chiến chống lại quân đội." Sự khác biệt giữa Yun Kuan và những nhân viên khác là Yun Kuan dám nói thẳng: "Đấu quân, quân đội không để ý chút nào." "Bệ hạ, nếu thật sự muốn đối quân, sao lại vòng vo như vậy?" "Theo tôi, dự luật sẽ được xem xét lại vào cuối năm nay. Khi đó, bạn chỉ cần từ bỏ quyền khởi kiện của tòa án quân sự trong một số vụ việc và nói cho thế giới biết." Thôi nào, cứ đánh mạnh vào. Khi đó, một số người bình thường sẽ không thể đến tòa án quân sự khởi kiện, chỉ có thể đến tòa án liên bang, sau đó sẽ bị tòa án liên bang lừa gạt. “Khi đó mọi người sẽ hiểu ngay rằng ân sủng của Chúa thật vĩ đại”. Thật là sốc.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:25:50*

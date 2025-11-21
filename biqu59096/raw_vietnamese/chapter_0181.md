@@ -1,0 +1,14 @@
+# Chương 181 Lộ mặt đi, Choubi
+
+## Tiêu đề | Tiêu đề
+Chương 181 Lộ mặt đi, Choubi
+
+---
+
+## Nội dung | Nội dung
+
+Chương 181
+Hãy thể hiện khuôn mặt của bạn. Xấu hơn Li Ran nhanh chóng liên lạc với Qingshanlushui Studio sau khi cúp máy. Lý Nhiên: Cậu làm thế nào vậy? Li Ran: Sau khi lấy tiền, hiệu suất KPI kém như vậy? Hãy xem mức độ phổ biến của người dẫn chương trình đó đã tăng lên bao nhiêu kể từ khi studio của bạn tiếp quản vấn đề này? Sếp: Hãng phim của chúng tôi vô cùng hối tiếc về chuyện này, nhưng mọi thứ đều diễn ra theo đúng các bước trong kế hoạch mà anh đã giao cho chúng tôi. Sếp: Có thể kết quả không như ý nhưng chúng tôi làm theo mong muốn của bạn trong suốt quá trình. Hàm ý là mặc dù kết quả là nhảm nhí nhưng chúng tôi vẫn làm mọi việc theo hướng dẫn của bạn và chúng tôi không thể vỡ nợ về số tiền. Li Ran: Bạn làm từng bước một như thế nào? Gửi cho tôi quá trình để tôi có thể tự mình xem nó. Bạn thật kiêu ngạo. Sếp tự nhủ rằng tôi chỉ trò chuyện với bạn vì tiền, nếu không tôi đã chặn bạn từ lâu rồi. Mọi động thái troll, thao tác đăng bài, quy trình hoạt động, studio hướng dẫn dư luận sẽ được ghi lại. Li Ran tuy không phải là biên tập viên cao cấp nhưng anh ấy đã làm nghề này lâu năm, vẫn nhìn nhận sự việc rất nhanh nhạy và có con mắt nhìn sự việc rất tốt. Những gì Green Mountains và Green Waters Studio làm là đúng. Thậm chí có thể nói biểu diễn không sai, thâm nhập vào nhóm fan của Khương Cửu Cửu, kích động tranh chấp ở giới khác, giới thiệu một nhóm fan vào phòng phát sóng trực tiếp của Khương Cửu Cửu để thiết lập nhịp điệu - chỉ là? ? ? Tỷ lệ dư luận xúi giục nổi loạn dự đoán là 5%? ? ? (PS: Đây là một từ tưởng tượng. Trong thời đại giữa các vì sao, nó đặc biệt ám chỉ có bao nhiêu người có thể tin vào nó sau khi so sánh mù quáng giữa các thủy thủ. Nói chung, dự đoán là theo hướng lớn.) Đội hình đều được đánh giá cao. Nếu không, Ji Lihequn sẽ bị bắt gặp trong nháy mắt. Danh tính của hải quân được tiết lộ ngay lập tức. Sau khi phá được con mương cuối cùng, ba bên hỗn chiến và đổ lỗi cho hải quân của nhau. Với tư cách là bên A, Li Ran cảm thấy chiêu thức này không có gì sai, thậm chí nó còn được sử dụng khá tốt. Tình huống hỗn loạn khiến con người ghét bỏ mọi thứ trong sự hỗn loạn. Khương Cửu Cửu xuất hiện thường xuyên như vậy, nhất định là —— chờ đã, trong đống đồ này có cái gì trộn lẫn? thề? tò mò? Một lượng lớn khách du lịch bước vào phòng phát sóng trực tiếp của Jiangjiujiu, sau đó họ bắt đầu thu hút người hâm mộ như điên cuồng. "Tại sao bạn không dừng lại khi nhìn thấy điều này?" "Chúng tôi đã báo cáo tình hình cho anh, trợ lý của anh nói rằng mọi việc sẽ được thực hiện theo kế hoạch của anh." Vậy thì làm theo kế hoạch không phải là tệ sao? Không có điểm nào hợp lý cả. Mọi chuyện đã trở nên như thế này, và cố gắng tỏ ra hợp lý cũng chẳng ích gì. Lý Nhiên hỏi: “Nhìn vào số liệu của cậu, đồ ăn do mỏ neo này nấu thực sự ngon như vậy sao?”
+
+---
+*Thời gian thế hệ: 2025-11-19 13:16:21*

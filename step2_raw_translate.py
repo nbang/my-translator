@@ -11,6 +11,9 @@ import argparse
 from pathlib import Path
 from typing import List, Optional
 import requests
+import urllib.parse
+import re
+import html
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -43,87 +46,64 @@ class RawTranslator:
     
     INPUT_DIR = "biqu59096/raw_chinese"
     OUTPUT_DIR = "biqu59096/raw_vietnamese"
-    RULES_FILE = "TRANSLATOR.md"
-    
     def __init__(self):
-        self.api_key = os.getenv('STEP2_API_KEY')
-        self.api_base = os.getenv('STEP2_API_BASE')
-        self.model = os.getenv('STEP2_MODEL', 'GPT-5-nano')
-        
-        if not self.api_key or not self.api_base:
-            raise ValueError("STEP2_API_KEY and STEP2_API_BASE must be set in .env file")
+        # We don't need API keys for this method, but we keep the structure
+        self.model = "google-translate-m"
             
         # Create output directory
         Path(self.OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
         logger.info(f"Output directory created: {self.OUTPUT_DIR}")
         
-    def load_rules(self) -> str:
-        """Load translation rules from file."""
-        try:
-            if os.path.exists(self.RULES_FILE):
-                with open(self.RULES_FILE, 'r', encoding='utf-8') as f:
-                    rules = f.read()
-                logger.info(f"Loaded rules from {self.RULES_FILE}")
-                return rules
-            else:
-                logger.warning(f"{self.RULES_FILE} not found, using default rules")
-                return "Translate the following Chinese text to Vietnamese. Provide a literal translation that captures the meaning."
-        except Exception as e:
-            logger.error(f"Error loading rules: {e}")
-            return "Translate the following Chinese text to Vietnamese. Provide a literal translation that captures the meaning."
-        
-    def translate_text(self, text: str, rules: str, retries: int = 3) -> Optional[str]:
+    def translate_single_chunk(self, text: str, retries: int = 3) -> Optional[str]:
         """
-        Translate text using OpenAI API with instructions from TRANSLATOR.md.
-        Returns None if translation fails after retries.
+        Translate a single chunk of text using Google Translate Mobile API.
         """
         if not text.strip():
             return ""
-            
-        headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json"
-        }
-        
-        # Prompt using loaded rules
-        messages = [
-            {
-                "role": "system", 
-                "content": rules
-            },
-            {
-                "role": "user", 
-                "content": text
-            }
-        ]
-        
-        payload = {
-            "model": self.model,
-            "messages": messages,
-            # temperature removed as requested for GPT-5-nano
-        }
-        
+
         for attempt in range(retries):
             try:
-                response = requests.post(
-                    f"{self.api_base}/chat/completions",
-                    headers=headers,
-                    json=payload,
-                    timeout=60
-                )
+                # Rate limiting
+                time.sleep(1.5) 
+                
+                source_language = 'zh-CN'
+                target_language = 'vi'
+                escaped_text = urllib.parse.quote(text)
+                
+                url = 'https://translate.google.com/m?tl=%s&sl=%s&q=%s' % (target_language, source_language, escaped_text)
+                
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+                }
+                
+                response = requests.get(url, headers=headers, timeout=30)
                 
                 if response.status_code == 200:
-                    data = response.json()
-                    return data['choices'][0]['message']['content'].strip()
+                    # Extract translation from HTML
+                    # Pattern typically looks like: <div class="result-container">...</div>
+                    # Or for mobile: <div dir="ltr" class="t0">...</div>
+                    
+                    # Try to find the result container
+                    match = re.search(r'<div[^>]*class="[^"]*result-container[^"]*"[^>]*>(.*?)</div>', response.text, re.DOTALL)
+                    if not match:
+                        # Fallback for other mobile variations
+                        match = re.search(r'<div[^>]*class="[^"]*t0[^"]*"[^>]*>(.*?)</div>', response.text, re.DOTALL)
+                        
+                    if match:
+                        translated_html = match.group(1)
+                        # Unescape HTML entities
+                        translated_text = html.unescape(translated_html)
+                        return translated_text
+                    else:
+                        logger.warning(f"Could not parse translation from response (Attempt {attempt + 1})")
                 else:
-                    logger.warning(f"API request failed (Attempt {attempt + 1}/{retries}): {response.status_code} - {response.text}")
+                    logger.warning(f"API request failed (Attempt {attempt + 1}): {response.status_code}")
                     
             except Exception as e:
-                logger.warning(f"Translation error (Attempt {attempt + 1}/{retries}): {e}")
+                logger.warning(f"Translation error (Attempt {attempt + 1}): {e}")
             
-            if attempt < retries - 1:
-                time.sleep(2) # Wait before retry
-            
+            time.sleep(2) # Wait longer before retry
+        
         logger.error("Translation failed after all retries.")
         return None
 
@@ -142,21 +122,36 @@ class RawTranslator:
                 
             logger.info(f"Processing {chapter_file}...")
             
-            # Reload rules dynamically for each chapter (or batch)
-            current_rules = self.load_rules()
-            
             with open(input_path, 'r', encoding='utf-8') as f:
                 content = f.read()
+
+            # Chunking logic moved here
+            CHUNK_SIZE = 4000
+            chunks = []
+            current_chunk = ""
             
-            # Simple parsing to get content (assuming the format from Step 1)
-            # We translate the whole thing or just the content part?
-            # Let's translate the whole thing for simplicity in "Raw" step, 
-            # or better, just translate the body.
-            # For "Raw Translation", let's just translate the whole text to have a Vietnamese version.
-            # But to be useful for Step 3, we might want to keep the structure.
-            # Let's just translate the content block.
+            for line in content.split('\n'):
+                if len(current_chunk) + len(line) < CHUNK_SIZE:
+                    current_chunk += line + "\n"
+                else:
+                    chunks.append(current_chunk)
+                    current_chunk = line + "\n"
+            if current_chunk:
+                chunks.append(current_chunk)
             
-            translated_content = self.translate_text(content, current_rules)
+            translated_parts = []
+            for i, chunk in enumerate(chunks):
+                if not chunk.strip():
+                    translated_parts.append("")
+                    continue
+                    
+                translated_chunk = self.translate_single_chunk(chunk)
+                if translated_chunk is None:
+                    logger.error(f"Failed to translate chunk {i+1}/{len(chunks)} of {chapter_file}")
+                    return False
+                translated_parts.append(translated_chunk)
+            
+            translated_content = "\n".join(translated_parts)
             
             if translated_content is None:
                 logger.error(f"Failed to translate {chapter_file}. Skipping write.")

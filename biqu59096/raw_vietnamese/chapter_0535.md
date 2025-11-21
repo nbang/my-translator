@@ -1,0 +1,14 @@
+# Chương 535: Anh em mọi người đều sử dụng máy móc! Vu Hồ!
+
+## Tiêu đề | Tiêu đề
+Chương 535: Mọi người, anh em, sử dụng máy móc! Vu Hồ!
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 535 chương
+Anh ơi, mọi người đều lái máy móc! Vu Hồ! Hai người rời hiện trường trong tiếng đồng thanh khen ngợi. Cùng với sự kiện này, còn có một số sự kiện khác cũng kết thúc ngay sau đó. Mo Si và Jiang Qiuqiu vừa bước ra khỏi cửa, họ đã gặp rất nhiều người, đặc biệt là thanh niên, phụ nữ và trẻ em đến xem phim. Họ cũng thảo luận rất sôi nổi về cốt truyện của bộ phim. Một cậu bé có giọng nói ngọt ngào giơ tay nắm chặt: "Mẹ ơi, con sẽ ra trận ở tuổi 16! Giống như anh trai con vậy!" Vẻ ngoài dễ thương của anh khiến những người xung quanh bật cười. Mẹ anh cũng chọc anh và bế anh lên: "Zai Zai, con nhầm rồi, đó không phải là Renren anh trai tôi, đó là Blade of the Empire." "Em trai của tôi, tôi muốn đẹp trai như em trai tôi!" "Bật máy!" "Sau đó, bạn phải làm việc chăm chỉ, uống nhiều dung dịch dinh dưỡng hơn và tập thể dục nhiều hơn." Người mẹ bế đứa trẻ đi ngang qua Khương Thu Thu và Mặc Tư, Mo Si ngẩng đầu nhìn đứa trẻ. Trẻ em luôn có chút nhạy cảm với những ánh nhìn. Khi nhìn thấy Mặc Tư, hắn nghiêng đầu rụt người lại, sau đó lại thò đầu ra cười vu vơ. Sau khi bước ra khỏi rạp chiếu phim, ở đó đã có ít người hơn. Rõ ràng là không khôn ngoan khi ăn ở đây. Hai người quyết định đi dạo rồi lái xe trở về. Những cây cảnh được trồng ven đường đã bắt đầu đâm chồi xanh. Mo Si đã thiền định kể từ khi rời rạp chiếu phim. Anh ấy nhanh chóng hỏi: "Bạn nghĩ gì về bộ phim này?" "Tôi nghĩ nó rất tốt." Jiang Qiuqiu: "Tôi đã rất phấn khích sau khi xem nó." “Tôi cảm thấy như mình chợt phát hiện ra ý nghĩa của bộ phim vậy.” "Hả?" Mo Si: “Trước năm nay, tôi luôn không hiểu tại sao phát sóng trực tiếp lại được ưa chuộng như vậy, tại sao một số bộ phim lại không quay theo thực tế. Bây giờ tôi dường như đã hiểu được một chút.” "Sao vậy? Đột nhiên có nhiều cảm xúc như vậy?" Jiang Qiuqiu nắm tay anh. “Tôi vừa nghe được lời con bé nói.” Đôi khi chủ nghĩa anh hùng cũng là để truyền đạt từ anh hùng, và hiện thực phải đẫm máu. Không thích hợp để nhiều người nhìn thấy máu như vậy. "Cảm ơn Thu Thu đã dẫn tôi đi xem phim." “…Anh thay đổi nhanh quá.” Giang Thu Thu rúc vào người anh, ôm lấy anh: “Vừa rồi anh không chịu xem đâu.” Ồ, đúng rồi. Nói về sự việc này, anh nhớ lại hai người đã quan hệ tình dục trước khi xem phim. Cảm thấy không vui, Mo Si rất cần một nụ hôn để lấy lại bình tĩnh. Anh ôm lấy toàn thân Jiang Qiuqiu và yêu cầu trả tiền để xem phim cùng anh. Giang Thu Thu dùng sức đẩy hắn, "Sao ngươi lại tới đây!" "Anh không quay lại à?"
+
+---
+*Thời gian thế hệ: 2025-11-19 13:32:36*

@@ -1,0 +1,14 @@
+# Chương 891 Merlin khóc
+
+## Tiêu đề | Tiêu đề
+Thứ 891 chương Merlin khóc
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 891 chương
+Merlin đang khóc. Làm thế nào một cô gái yếu đuối có thể vén váy lên và chạy nhanh hơn một người lính cơ giáp khỏe mạnh? Sau khi đi được vài bước, thậm chí ra khỏi khu rừng trước bệnh viện của trường, Qiuqiu đã đuổi kịp Mei Lin. Cô dừng lại trước mặt cô, ánh mắt dò hỏi: "Sao vậy?" Merlin cúi đầu. …Đây là một điều rất, rất hiếm trong mối quan hệ giữa hai người. Ít nhất, trong trí nhớ của Jiang Qiuqiu, Merlin luôn ngẩng cao đầu, giống như một con thiên nga kiêu hãnh. "Chuyện gì đang xảy ra vậy? Chuyện gì đã xảy ra vậy?" Nhà Dais phá sản? Tôi cũng chưa nghe tin tức gì. Cô ấy rất kiên nhẫn. Chờ Merlin hồi lâu, đại tiểu thư ngượng ngùng nói: "Ta không mặt mũi gặp ngươi." "?" Cô ấy có vẻ giống như một người vô tâm và đã làm những điều tàn ác. Nhưng bản thân người đau khổ cũng có mặt, "Có chuyện gì thế? Chuyện gì đã xảy ra vậy?" Cô thở dài một hơi rồi nói: “Tôi xin lỗi anh.” Câu nói ngày càng xa lạ: “Sao anh có thể có lỗi với em được?” "Cách đây một thời gian, bạn đã bị hack và nhiều người hâm mộ đã lên tiếng thay bạn." Khi cô nói, giọng điệu dần dần trầm xuống, biểu cảm trên mặt trở nên rất không ổn: "Tôi không nói thay anh."? Thế thôi à? "Tình huống lúc đó đặc biệt, đều là chuyện nhỏ, không thành vấn đề." Thu Thu chạm vào vai cô nói: “Hai ngày nay tôi nên cảm ơn em vì đã đến gặp tôi mỗi ngày.” "Không phải ngày nào tôi cũng đến. Hôm nay tôi mới tới." Merlin nói: "Trước đây tôi đã ở nhà." “Anh xin nghỉ phép à?” “Bố tôi không cho tôi đến trường.” Khi cô nhắc đến cha mình, cảm xúc trên khuôn mặt cô trở nên rất kỳ lạ. Thu Thu muốn hỏi lại, cùng Merlin tâm tình nói chuyện, nhưng Merlin lại kết thúc chủ đề, "Hôm nay thấy ngươi tỉnh lại, ta rất vui mừng." "Trên mạng có rất nhiều người nói thích ngươi, rất mong chờ ngươi. Ta cũng rất vui vẻ, ta cũng thích ngươi!" "Tôi sẽ đi trước." Nói xong cô đi về phía chiếc ô tô bay ở phía xa. Đó cũng là một bộ trang phục được đặt làm riêng của bộ tài chính quý tộc, với nền trắng và hoa văn dệt bằng chỉ vàng, tỏa sáng rực rỡ dưới ánh mặt trời. Merlin từng thích sự độc đáo và trang trọng này. Qiuqiu nhìn theo bóng lưng của cô và quyết định tìm thời gian để trò chuyện lại với Merlin. Cô bé không biết chuyện gì đã xảy ra. Khi tôi bước trở lại phòng bệnh, bạn cùng phòng của tôi vẫn đang đợi. Tôi trò chuyện một chút về tình hình hiện tại rồi cùng một số người khác đến phòng khám của bác sĩ để xin phép nghỉ. Tôi hơi đói nên chúng tôi cùng nhau xuống căng tin. Ăn xong thì đã là buổi chiều. Qiuqiu và ba người bắt xe bay trở về ký túc xá và chuẩn bị thu dọn hành lý. Mỗi học sinh tôi gặp trên đường đều phải chú ý đến Qiuqiu. Trước đây, cô là nhân vật nổi tiếng ở Đại học Liên bang.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:18:03*

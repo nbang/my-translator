@@ -1,0 +1,14 @@
+# Chương 38 Cuối cùng, tôi vẫn không thể có một ngày rảnh rỗi
+
+## Tiêu đề | Tiêu đề
+Chương 38 Cuối cùng vẫn không có nổi một ngày rảnh rỗi
+
+---
+
+## Nội dung | Nội dung
+
+Chương 38
+Cuối cùng, tôi vẫn không thể có được một ngày rảnh rỗi. Thời gian trôi qua, ngày càng có nhiều người gửi tin nhắn và xếp hàng chờ nhận tin nhắn. Toàn bộ bộ phận dịch vụ khách hàng dường như đang tranh cử một người, Jiang Jiujiu, và mọi người ngày càng trở nên tê liệt khi đăng ký thông tin của mình. Cái gì! Lực lượng viễn chinh xem chương trình phát sóng trực tiếp của chúng tôi! Thượng viện xem chương trình phát sóng trực tiếp của chúng tôi! Cướp biển giữa các vì sao sử dụng luồng trực tiếp của chúng tôi! Ai nói công ty phát trực tiếp của chúng tôi không có nhiều khán giả! Rõ ràng là nó rất rộng phải không? Khi có nhiều người hơn, những nhân viên dịch vụ khách hàng nhỏ bé không có bất kỳ lời phàn nàn nào có chút bối rối. Các fan của Jiang Qiuqiu vẫn khách sáo và bình tĩnh nói chuyện, nhưng họ đã gặp phải một vấn đề, những người thực sự muốn phàn nàn đã xếp hàng và đi vào càng tức giận hơn. Cả không gian trở nên ồn ào và có cảm giác hơi quá tải. Lúc này phó giám đốc bộ phận đã đứng dậy. Anh ấy là người phụ trách bộ phận cơ khí của trò chơi. Anh ấy không biết nhiều về Jiang Qiuqiu. Anh ta chỉ nhớ rằng Master Qian đã đề cập đến chiếc mỏ neo này sau khi anh ta bay lên không trung. Sau khi vội vàng mặc quần áo, chế tạo một chiếc ô tô bay rồi lao đến công ty, anh xem qua tài liệu duyệt trước từ ban biên tập và có cái nhìn thoáng qua toàn bộ sự việc. "Tôi đã gửi thông tin ký kết cho người dẫn chương trình này trước đây." "Vậy--" Có phải sự cô đơn là điều mà rất nhiều người hâm mộ đang thắc mắc? "Tôi đã bị người giám sát trước mắc kẹt. Bây giờ tôi đã có người giám sát mới. Quá trình ký kết đang diễn ra. Xin hãy giải thích cho những người đó." “…Làm sao giải thích được điều này?” Có một dòng cuộc gọi vô tận. Sau cuộc trò chuyện này lại có cuộc trò chuyện khác và thông tin luôn không được truyền đạt. "Giải pháp tốt nhất là cậu liên hệ ngay với người giám sát này. Bây giờ hãy để cô ấy lộ mặt và nói chuyện." "Cái này có thể giải thích rõ ràng, bình tĩnh lại cơn giận." "Đúng vậy. Tôi sẽ liên lạc với anh càng sớm càng tốt, liên lạc của chúng ta ở đây sẽ bị đứt." "..." Sau đó, trong sự im lặng của màn đêm, người giám sát gọi tôi. "Anh vẫn ngủ được à?" "Đã xảy ra chuyện. Vui lòng liên hệ với người dẫn chương trình của bạn tên là Jiang Jiujiu ngay bây giờ và để cô ấy bắt đầu phát sóng." "À?" "Người hâm mộ của cô ấy hiện đang gọi điện đến bộ phận chăm sóc khách hàng để hỏi thăm. Người gọi quá nhiều, ảnh hưởng đến hoạt động của bộ phận chăm sóc khách hàng."
+
+---
+*Thời gian thế hệ: 2025-11-19 13:11:35*

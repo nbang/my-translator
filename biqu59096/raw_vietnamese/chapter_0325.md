@@ -1,0 +1,14 @@
+# Chương 325: Kinh hoàng, trận chiến còn quá sớm
+
+## Tiêu đề | Tiêu đề
+Chương 325: Kinh hoàng, trận chiến còn quá sớm
+
+---
+
+## Nội dung | Nội dung
+
+Chương 325
+Sợ quá, còn quá sớm để chiến đấu. Cô ấy nói, "Tôi biết anh đã nói dối tôi về điều gì đó." "?" Anh ta tỏ ra khó hiểu, nhưng Jiang Qiuqiu đột nhiên đứng yên, mở thiết bị đầu cuối và nhanh chóng tìm kiếm Đô đốc Hoàng gia Mo Si trên mạng sao. Nhịp tim của Mo Si gần như ngay lập tức tăng vọt khi anh nhìn cô gõ những dòng chữ này. Tim tôi đập thình thịch và toàn thân tôi căng thẳng. Thậm chí còn có lông tơ màu đen và trắng sau tai tôi. Jiang Qiuqiu hiện đang tập trung vào thiết bị đầu cuối, nên tự nhiên cô không nhận thấy những thay đổi này. Cô nhanh chóng tìm thấy bức ảnh chụp cơ giáp chiến đấu tại Tòa nhà Liên bang trong bữa tiệc sinh nhật của Mo Si và ném nó lên không trung. Không có màn chiếu nên hơi mờ. Kiểu mờ ảo này vẫn không làm mất đi vẻ sang trọng của người đàn ông. "Hãy nhìn bức ảnh này." Jiang Qiuqiu đối mặt với Mo Si và chỉ vào bức ảnh, "Bạn có thấy nó quen không?" “…” Mộ Tư không nói gì. “Anh đã ngừng nói chuyện rồi.” Jiang Qiuqiu nói: "Xiao Khánh là một fan cuồng nhiệt của Imperial Blade này. Hôm nay khi nhìn thấy bạn, anh ấy đã nói rằng bạn trông rất giống anh ấy." “Anh và chị Thành Ngọc có quan hệ huyết thống à?” “Đã có nhiều lần bạn nói rằng bạn sẽ làm điều gì đó, nhưng lần nào bạn cũng làm điều đó…” Hoặc là bạn loại bỏ người này hoặc đuổi người đó ra ngoài. Dù là việc gì thì đó cũng không phải là việc một người có thể làm được. "Lỗ đen, nói cho tôi biết, bạn-" đang ở đây. Nhưng dựa trên sự lựa chọn từ ngữ của Jiang Qiuqiu, Mo Si cảm thấy rằng cô ấy dường như không có cái nhìn thoáng qua về bức tranh thực sự của vấn đề. Lông tơ sau tai cô dần dần biến mất. Anh nhìn Jiang Qiuqiu, có phần tò mò về kết luận cô đã rút ra. "Ngươi không phải họ Hắc mà là Mặc sao?" Đôi mắt cô rực lửa, khuôn mặt nhỏ nhắn đầy vẻ nghiêm túc. Hỏi vấn đề nghiêm túc như vậy, Mặc Tư không muốn nói dối, trả lời: “Đúng vậy.” Đây là câu trả lời mà Jiang Qiuqiu đã muốn tìm kể từ khi bà Aier nói xong, và giờ bà cuối cùng đã có câu trả lời chắc chắn. Nhưng chẳng mấy chốc, sự nhẹ nhõm này lại trở nên khó giải thích hơn một chút. Mặc Tư vẫn luôn quan sát nàng, nhận thấy tâm tình nàng thay đổi, trong lòng có chút xao động, "Thu Thu làm sao vậy? Đột nhiên không nói chuyện nữa?" "Không có gì... chỉ là rất xúc động." Mo Chengyu họ Mo. Jiang Qiuqiu đã đoán rằng cô không phải là người bình thường, nhưng cô không bao giờ nghĩ rằng đó sẽ là Mo. "Bạn và chị Chengyu đều là thành viên của gia đình Đô đốc Mo." "Mạc gia có chuyện gì thế?" Mặc Tư nhìn cô: “Chúng ta đều là con người.” "Mặc dù cả hai chúng tôi đều là con người, nhưng việc hòa hợp với những người quá khác biệt luôn là điều không tự nhiên."
+
+---
+*Thời gian thế hệ: 2025-11-19 13:23:24*

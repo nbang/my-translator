@@ -1,0 +1,14 @@
+# Chương 24 Bộ dáng của ta chính trực đến mức không quan tâm đến tiền sao?
+
+## Tiêu đề | Tiêu đề
+Chương 24 Tôi trông có vẻ ngay thẳng đến mức không quan tâm đến tiền bạc sao?
+
+---
+
+## Nội dung | Nội dung
+
+Chương 24
+Có phải tôi trông ngay thẳng đến mức không quan tâm đến tiền bạc không? Mingliang hào hứng báo tin vui cho Jiang Qiuqiu. Đây là tin tốt cho cả hai hướng. Đối với Jiang Qiuqiu, lời kêu gọi của cô đã thành công. Đối với Meimei, cuối cùng cô cũng có được một chiếc mỏ neo có thể chống cự, và biển đầy sao của cô cuối cùng cũng sắp ra khơi! Meimei: Sẽ mất hai hoặc ba ngày để hoàn tất quá trình phụ trợ ở đây, vì vậy bạn có thể đợi ngay bây giờ. Jiang Qiuqiu: Tôi không vội, không sao cả, bạn cứ từ từ. Meili: ...Anh không vội đâu, em cũng vậy. Cô sợ ai đó sẽ phát hiện ra kho báu nhỏ của mình trước khi mọi chuyện được giải quyết. Meili: Nhân tiện, tôi đã thấy thông báo trong phòng phát sóng trực tiếp của bạn. Hôm nay bạn có tiếp tục làm món thịt lợn kho chua ngọt không? Jiang Qiuqiu: Vâng, tôi đã hứa với người hâm mộ. Meimei: Hôm qua bạn mới nâng cấp lên neo 2 sao nên chắc bạn chưa có thời gian xem các chức năng phái sinh mới của phòng phát sóng trực tiếp. Chức năng mới, có một điều như vậy? Jiang Qiuqiu đã gửi một câu hỏi. Mingliang: Có, trong buổi nếm thử có một lựa chọn là trực tiếp tặng một bản sao cho mỗi người trong số 100 người hâm mộ hàng đầu trong danh sách xếp hạng. Có một lựa chọn như vậy? Jiang Qiuqiu khịt mũi, có chút bất đắc dĩ: Điều này không phải hàm ý tiêu thụ quạt sao? Chà... cho dù chức năng này nghe hay đến đâu thì mục đích ban đầu của nó thực sự là khuyến khích người dùng tiêu dùng. Nhưng Meili cảm thấy tính năng này không có gì đáng xấu hổ. Tuy nhiên, không quan trọng cô ấy có cảm thấy điều đó đáng xấu hổ hay không. Nó chỉ quan trọng nếu Jiang Qiuqiu cảm thấy điều đó thật đáng xấu hổ. Sợ cô phản đối chức năng này, Meiliang lập tức giải thích: Ở một góc độ nào đó, lợi ích dành cho 100 fan hàng đầu giống như một cuộc đấu giá. Bạn đấu giá vị trí của 100 người hâm mộ hàng đầu của mình và vị trí này có thể được hưởng những lợi ích mà bạn liên tục phân phối. Và những người hâm mộ tiếp thêm niềm tin cho bạn cũng giống như những ông chủ tại cuộc đấu giá. Họ sử dụng đấu thầu để có được các mặt hàng. Sự khác biệt duy nhất là các cuộc đấu giá bán vật phẩm và bạn bán vật phẩm. Không phải là một sự khác biệt lớn. Sau khi đăng những lời này, Jiang Qiuqiu không trả lời ngay. Cô sợ cô cho rằng không phù hợp nên giải thích: Mạng Ngôi sao Liên bang của chúng tôi có cơ chế sàng lọc nghiêm ngặt đối với trẻ vị thành niên đối với những người dùng thưởng cho người dùng trong phòng phát sóng trực tiếp. Sẽ không bao giờ có trẻ em trong số khán giả để nhận phần thưởng trong phòng phát sóng trực tiếp. Mọi người đều là người lớn và có thể chịu trách nhiệm về hành động của mình. Minh minh:?
+
+---
+*Thời gian thế hệ: 2025-11-19 13:11:07*

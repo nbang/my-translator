@@ -1,0 +1,14 @@
+# Chương 1077: Nắm bắt tư tưởng, bắt đầu từ sinh viên đại học
+
+## Tiêu đề | Tiêu đề
+Chương 1077: Nắm bắt ý tưởng, bắt đầu từ sinh viên đại học
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 1077 chương
+Khi hai giáo viên được phát hiện vào ngày hôm sau, họ đã nằm trên sàn nhà lạnh lẽo suốt đêm. Cả hai đều vô cùng xấu hổ và bị thương nặng. Giáo viên ở đây muốn gửi hai người họ đến Dean Zhu để chữa trị, nhưng giữa họ đã xảy ra cãi vã vào đêm qua. Sao hôm nay họ dám đến đó? Thế là cả hai kiên quyết yêu cầu được đến bệnh viện bên ngoài. Sau khi lấy lại bình tĩnh, phó hiệu trưởng điên cuồng kháng cáo và yêu cầu hiệu trưởng điều tra kỹ lưỡng sự việc để tìm ra kẻ đã thực hiện thủ đoạn bẩn thỉu với họ. Hiệu trưởng Douglas không muốn giải quyết những chuyện này. Nhưng phó trưởng khoa có chút quan hệ nên không quan tâm. Anh ta trực tiếp đến Datian và báo cáo sự việc với Zhao Xun. Khi Zhao Xun nghe thấy điều này, có ổn không? Những chiếc đinh mà tôi đã dày công trồng ra tượng trưng cho tôi! Họ thực sự đang bị tra tấn như thế này! ? Phải làm điều đó! Vân Quán thấy vậy, bệ hạ liền tức giận. Cơ hội đến, hắn lập tức tiến tới gặp kẻ vu khống... Kỳ thực hắn hắng giọng nói: "Bệ hạ, theo như ta thấy, chuyện này nhất định là có một số giáo viên của Đại học Liên bang làm ra." "Trường học nằm dưới sự quản lý của chúng ta thị vệ, bất khả xâm phạm, không có người nào từ bên ngoài nộp đơn nhất định có thể vào được, chỉ có thể là người từ bên trong." "Anh ấy. Họ lén lút như vậy là vì họ không hài lòng với những chính sách mà anh đang thử nghiệm và không muốn đánh mất danh tính của mình tại Đại học Liên bang..." Zhao Xun nghe vậy, "Anh nói đúng." "Tôi sẽ tìm những người này!" "Đúng, tôi sẽ trừng phạt họ thật nặng." Nếu có cùng mối hận với hắn, "Những người đó không phải vừa xứng đáng vừa có uy tín sao? Bệ hạ, ngài chỉ cần tìm những người này và đuổi hết họ ra khỏi Đại học Liên bang!" "Lấy đi tất cả danh dự và của cải của bọn họ, để cho bọn họ biết, không có bọn họ thì Liên bang Đại học vẫn là Liên bang, nhưng nếu rời khỏi Liên bang Đại học, bọn họ chẳng là gì cả." "!" "Bạn nói đúng!" "Chính là như vậy, đến lúc đó, để cho những người này quỳ trên mặt đất cầu xin trở về." "Không sai, bệ hạ có thể tuyển chọn tân thủ vệ, hoặc là từ quý tộc, như vậy, liên bang đại học mới có thể chân chính trở thành một cái mang theo quý tộc trường học, vĩnh viễn phục vụ ngài." Đây là một ý tưởng tồi. cao quý? Lính canh? Chỉ với vài năm kinh nghiệm, bao nhiêu người trong số họ có tài năng thực sự? Ngay cả nếu họ làm vậy, họ có thể dạy được không? Nếu một giáo viên như vậy vào Đại học Liên bang trong một cú trượt ngã, bức tường của Đại học Liên bang sẽ sớm sụp đổ, phải không? Những người như thế này càng nhiều, càng có thể chen vào nhiều người hơn. Con trai quý tộc và con trai dân thường sẽ va chạm với nhau - việc học sinh bình thường không thể tuyển được sẽ chỉ là vấn đề thời gian.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:26:00*

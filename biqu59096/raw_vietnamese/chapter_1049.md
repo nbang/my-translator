@@ -1,0 +1,14 @@
+# Chương 1049 Tại sao bệ hạ lại truyền ngôi cho Triệu Tấn? (ý nghĩa sâu rộng)
+
+## Tiêu đề | Tiêu đề
+Chương 1049 Tại sao bệ hạ lại truyền ngôi cho Triệu Tấn? (ý nghĩa sâu rộng)
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 1049 chương
+Tại sao bệ hạ lại truyền ngôi cho Triệu Tấn? (Nghĩa thâm) Một chút sức ấm áp lan tỏa khắp tứ chi và xương cốt. Anh lại cảm thấy thoải mái hơn một chút. Đây là đặc quyền. Trong suốt cuộc đời của mình, ông là người vô cùng ngông cuồng. Anh biết mình có thể như vậy là nhờ đất nước do cha anh xây dựng, danh tiếng do cha anh tích lũy và tất cả những gì cha anh đã làm. Anh ấy là một nhà lãnh đạo thực sự. Nếu anh ta sống đủ lâu, có lẽ anh ta sẽ không còn là người theo chủ nghĩa khoái lạc như bây giờ nữa. Anh ấy luôn có vẻ là một người đàn ông tuyệt vời, luôn cho đi một cách vị tha. Nếu anh ấy còn sống, chắc chắn vị trí lãnh đạo sẽ được truyền lại cho người giỏi hơn, thay vì tôi tầm thường về mọi mặt, không kén ăn và tìm rắc rối. Anh nheo mắt lại, như thể đang hoài niệm về tuổi thơ của mình. Bệ hạ thực sự rất ngưỡng mộ người cha quá cố của mình. Anh ấy cũng đồng ý với triết lý của mình...nhưng anh ấy không thể làm gì được. Anh ấy là một người ích kỷ như vậy. Anh ta chỉ muốn vui vẻ và không muốn cải tạo. Dù biết có nhiều người tham nhũng nhưng cũng không thể làm gì được. Anh ta không có khả năng đó. Ngay cả khi anh ta biết đề xuất của Liên minh Tự do là đúng, anh ta vẫn không muốn thay đổi nó. Cuộc sống của anh đầy bất lực và có quá nhiều điều anh không dám làm. Vì Bệ hạ không làm gì cả và chỉ dựa vào vinh quang của cha mình, nên những người lính của Liên minh Tự do đã cùng với cố Hoàng đế chinh phục thế giới không có việc gì phải làm. Dù sao... Bệ hạ là con trai duy nhất. Nữ hoàng duy nhất được để lại bởi một người đàn ông vĩ đại như vậy. Về phần bệ hạ, ông có ba người con trai. Ông đã nghiêm túc cân nhắc xem mình muốn truyền lại ngai vàng cho ai. Người con cả quá hiếu thảo nên không truyền lại được, còn người con thứ hai lại quá bướng bỉnh, bằng lòng với hiện trạng nên không truyền lại được. Tại sao? Ông là người hiếu thảo với con cái và có một số tham vọng. Anh ta có thể muốn làm điều đó sau khi tiếp quản, nhưng với tâm trí của mình, làm sao anh ta có thể đánh bại Liên minh Tự do? Bạn đã từng làm việc trong quân đội chưa? Làm sao điều đó có thể được? Nếu ngươi không làm gì khác ngoài việc chết, nếu ngươi chết nếu là một đứa con hiếu thảo, hắn sẽ đau lòng. Đứa thứ hai bướng bỉnh quá nên ở lại đây. Liên minh Tự do khó có thể nổi dậy. Nếu tình trạng này kéo dài, mâu thuẫn giữa hai bên sẽ ngày càng nghiêm trọng. Đứa con thứ hai sẽ không thể sống sót. Hãy thành thật và để anh ta sống. Con thứ ba, ánh mắt của bệ hạ dần dần sáng lên.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:25:26*

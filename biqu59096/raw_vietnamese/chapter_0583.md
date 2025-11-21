@@ -1,0 +1,14 @@
+# Chương 583 Jiang Qiuqiu đã bị đánh bại ngay từ đầu (sự khác biệt giữa S và A là
+
+## Tiêu đề | Tiêu đề
+Chương 583 Jiang Qiuqiu đã bị đánh bại ngay từ đầu (sự khác biệt giữa S và A là
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 583 chương
+Jiang Qiuqiu đã bị hạ gục ngay từ đầu (sự khác biệt giữa S và A lớn đến vậy sao?) Thời gian trôi qua chậm rãi, hiệp thứ hai nhanh chóng kết thúc. Kết quả của vòng này không diễn ra như Jiang Qiuqiu đã đoán. Cô tưởng sẽ còn lại 10 người nhưng từ lúc ngồi xuống đến hết hiệp 2, chỉ có một người vào phòng chờ. Chỉ có tám người có thể đánh bại đối thủ của họ ở vòng này. Trên sân khấu có hai nhóm học sinh đang rất lo lắng. Bạn đưa nó cho tôi và tôi đưa nó cho bạn. Kết thúc phần thi, cả hai đều ngã xuống đất. Cả hai đều muốn đứng dậy nhưng cả hai đều không thể đứng dậy và cả hai đều bị loại. Trong trận chiến bánh xe, mười phút nghỉ ngơi này vô cùng quý giá. Trước khi bắt đầu vòng thi đấu thứ ba, huấn luyện viên trưởng trước tiên xác định danh hiệu chiến sĩ cá nhân xuất sắc cho các học sinh còn lại, sau đó để các học sinh còn lại tự mình bốc thăm. Mọi người ở đây đều không bình tĩnh. Ngoại trừ Hoắc Gia. Bởi vì - không ai muốn vẽ anh ta. Người cấp S duy nhất và là người duy nhất không đổ mồ hôi sau hai trận đấu và trông có phong độ tốt. Nếu bạn đối mặt với anh ta, bạn sẽ phải kết thúc trò chơi trong một cái nhìn. Nhưng nhất định phải có kẻ kém may mắn nào đó, và thứ tự bốc thăm được xác định theo thứ tự thời gian kết thúc ván chơi. Bản thân Hoắc Gia là người vẽ đầu tiên. Anh ta rút một thẻ xanh trong số tám thẻ đó. Cầu thủ số 2 và 3 sau đó đều rút thẻ đỏ và bị phạt trực tiếp. Số 4 rút thẻ trắng trong cuộc giằng co, còn số 5 rút thẻ xanh. Số 6 nhìn ba lá bài duy nhất còn lại, do dự rút một lá ở góc, một lá bài trắng bị lật. Anh thở phào nhẹ nhõm. Đến lượt Giang Thu Thu. Trước mặt cô có hai tấm thẻ, một cái màu xanh lá cây, một cái màu xanh lam. Cô ấy đã quan sát người chơi khác có thẻ xanh. Nếu chống lại anh, cô sẽ có đủ tự tin để chiến đấu đến chết. Nếu là cái này... Cô liếc nhìn Hoắc Gia rồi bấm vào tấm thẻ ở giữa. Dưới ánh đèn sân khấu, tấm thẻ lật lại và màu xanh lá cây hiện ra. Không cần phải lật lại cái cuối cùng, số phận đã được định đoạt. Đối thủ đã được chọn, vòng thứ ba chính thức bắt đầu. Chỉ còn bốn chặng trên sân. Jiang Qiuqiu và Huo Jia cùng nhau kết nối với máy móc. Khả năng nhận thức tinh thần của hai người gần như giống nhau, nhưng anh ta nhanh hơn Jiang Qiuqiu. Giang Cơ Giáp lái xe đi vào giữa sân khấu. Jiang Qiuqiu cũng làm việc chăm chỉ, chỉ chậm hơn anh một bước. Họ gặp nhau trên một con đường hẹp và một trận chiến sắp nổ ra.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:33:51*

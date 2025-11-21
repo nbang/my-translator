@@ -1,0 +1,14 @@
+# Chương 100 Tôi biết mùi vị của thịt kho 2
+
+## Tiêu đề | Tiêu đề
+Chương 100 ta biết mùi vị nước xốt 2
+
+---
+
+## Nội dung | Nội dung
+
+Chương 100
+Tôi biết mùi vị của món hầm. 2. Đun sôi nước trong nồi ở lửa lớn rồi cho tất cả các bộ phận còn dùng được của vịt vào. Nhiệt độ cao khiến da vịt co rút mạnh, thịt hơi đỏ dần dần chuyển sang màu trắng như tuyết. Jiang Qiuqiu ngay lập tức đổ đầy một thùng nước đá lớn. Chẳng mấy chốc, một mảnh màu trắng nổi lên trong nồi. "Sau khi bọt máu sôi lên, chúng ta có thể lấy hết thịt của ngươi ra." "Tại sao lại cho vào nước đá? Bởi vì sự luân phiên nóng lạnh có thể khiến thịt chim có vị chắc hơn và có kết cấu hơn." Cô chần hai nồi vịt lớn một cách dễ dàng, vừa trò chuyện với những người trên đập vừa làm việc đó. Bầu không khí tổng thể khá ấm áp và ngày càng có nhiều khán giả ở lại. Thịt được chế biến nhanh chóng, bước tiếp theo là rau. "Ngoài thịt ra, bạn còn có thể cho một ít rau vào nước sốt om." "Nó sẽ không hầm cho đến khi chín. Chúng ta chỉ cần kiểm soát nhiệt độ thôi." “Rau củ tôi chuẩn bị là khoai tây, rau bảy lỗ, củ cải và tảo bẹ.” Ở thời đại giữa các vì sao, hầu hết các loại rau được trồng đều có cùng tên với các loại rau trước đây, ngoại trừ củ sen này được trường Cao đẳng Nông nghiệp đặt tên là rau bảy lỗ. Thời gian trôi qua, nước muối dần dần tăng nhiệt độ. Jiang Qiuqiu đã từng sử dụng nó để 'đánh thức' miếng thịt một lần. Trong nước súp có chút vị thịt nhẹ, không nồng nặc nhưng hòa quyện vào đây, rất đậm đà. Bắt đầu có cảm giác giống như một buổi phát sóng trực tiếp về đồ ăn ở đây rồi. Công việc trước đã sẵn sàng, bước tiếp theo còn rất hoang đường. Dùng một cái muôi lớn trút hết bát đĩa vào một chiếc xô sắt lớn, vặn lửa từ thấp đến trung bình, rắc một nắm ớt, ớt đỏ chín mọng rất vừa miệng rồi Jiang Qiuqiu đóng nắp lại. Làm món om cũng giống như quá trình lên men. Chỉ cần bạn chuẩn bị đầy đủ những món trước đó, thời gian và sức nóng sẽ tự nhiên biến chúng thành những món ăn ngon nhất. Thùng sắt truyền nhiệt rất nhanh, trong không khí dần dần vang lên tiếng ùng ục. Căn bếp nhỏ tràn ngập mùi đồ nướng. Nó mạnh đến mức Jiang Qiuqiu phải mở cửa sổ. Trên màn hình cũng giống như vậy, mùi thơm thoang thoảng, vô số người trong tiềm thức đang đói bụng. Jiang Qiuqiu xoa tay, "Năm phút sau, khi nước muối gần sôi, chúng ta sẽ cho rau vào đun thêm năm phút nữa, sau đó cho vào hộp thực phẩm đậy kín trong 20 phút. Kỳ thực, ngâm là mấu chốt để món ăn này ngon, nhưng do thời gian có hạn - chúng ta sẽ làm phiên bản tăng tốc trước." "Đợi đã. Có lẽ khi nào cậu có thời gian có thể xem phiên bản pha chế trong cửa sổ. "Được rồi, không nói nhiều nữa. Trong thời gian còn lại, tôi muốn làm một ít đồ uống cho anh, vì món ăn hôm nay cay, uống với chút đá sẽ thú vị hơn. Sau đó, cô bưng ra một hộp lớn trái cây, có dưa hấu, táo, cam và chanh, đều có khả năng làm nước ép rất tốt.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:13:47*

@@ -1,0 +1,14 @@
+# Chương 656 Nếu bạn trai của bạn là một người lính
+
+## Tiêu đề | Tiêu đề
+Chương 656 Nếu bạn trai của bạn là một người lính
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 656 chương
+Nếu bạn trai của cô là một người lính, cô chợt thấy mình nhớ Mo Si. Nỗi khao khát thực sự đã biến thành một cơn thủy triều không biết lúc nào và lao về phía tôi. ...Giang Thu Thu không biết lúc này Mặc Tư có bận không, nên cô ngập ngừng gửi tin nhắn. Nếu Mo Si không trả lời, cuộc gọi sẽ bị ngắt. Nếu bạn trả lời, bạn có thể nói chuyện. Bộ phận liên lạc cô gửi hai ngày qua không trả lời bất kỳ tin nhắn nào của cô. Cô ấy chỉ trả lời một vài tin nhắn vào thời điểm tương đối hỗn loạn. Gần đây anh ấy hơi bận. Nhưng trên các phương tiện truyền thông chính thức chú ý lại không hề có tin tức nào về tiền tuyến. Suy nghĩ của anh đã đi rất xa, và sau vài tiếng bíp, liên lạc đã được kết nối. Jiang Qiuqiu đã gửi một tin nhắn video. Ở Ngôi sao Liên bang vẫn đang là buổi tối, bầu trời vẫn sáng, nhưng ở Ngôi sao Bắc cực lại không có ánh sáng ban ngày. Trong video, Mo Si đang ngồi trên chiến hạm, trong cửa sổ phía sau con tàu là biển sao xanh bao la. "Mộ Tư!" "Cầu Thu." Vẻ mặt anh có chút dịu dàng, nhưng dù có dịu dàng đến đâu cũng không giấu được vẻ mệt mỏi trên mặt. Mộ Tư cũng rất khó chịu. Tôi không biết chuyện gì đã xảy ra trong năm nay. Zerg cực kỳ nhạy cảm sau khi thức dậy. Trước thời điểm sôi động nhất trong những năm trước, quân Zerg đang ráo riết mở rộng ra bên ngoài. Đằng sau cực là thiên hà liên bang. Làm thế nào một nơi như vậy có thể cho phép những kẻ giết người giữa các vì sao xâm nhập? Tất cả những người lính đang điều khiển máy móc và chống cự cho đến chết. Vũ khí công nghệ cao, binh lính mạnh mẽ và sự hợp tác ngầm đảm bảo chiến thắng trong mọi trận chiến. Nhưng xét cho cùng thì con người và côn trùng đều khác nhau. Những thứ đó dường như không mệt mỏi hay đau đớn, nhưng con người lại cảm thấy mệt mỏi. Ba lớp lần lượt di chuyển và rời khỏi nhà ga theo từng đợt. Mo là người phụ trách tình hình. Ngay cả cường giả cấp 3S như anh cũng có chút không thể chống cự. Nhưng bây giờ phó chỉ huy vẫn chưa đến, tướng quân có thể trông coi chiến trường cũng chưa đến nên chỉ có thể gánh từ phía trước. "Qiuqiu, hôm nay là cuối tuần à? Cậu đang đi nghỉ à? Cậu đang lang thang trên bầu trời đầy sao à?" "Ồ, bạn đã ăn thông số thực phẩm tôi gửi trước đó chưa?" "Tôi đã ăn rồi. Vị rất ngon. Tôi rất thích." Thật không may, tất cả những gì anh ấy đưa ra chỉ là một loạt dữ liệu. Jiang Qiuqiu tỏ ra lo lắng, "Bạn có thể nhận đồ ở đó không? Tôi có thể gửi cho bạn một ít đồ ăn không?" "Hiện tại không tiện." Không có sự sắp xếp. "Quqiu đâu, việc luyện tập gần đây của cậu thế nào rồi?"
+
+---
+*Thời gian thế hệ: 2025-11-19 14:08:33*

@@ -1,0 +1,14 @@
+# Chương 547 ngươi đi tới cơ giới đơn binh bộ! ?
+
+## Tiêu đề | Tiêu đề
+Chương 547 ngươi đi cơ giáp đơn binh bộ! ?
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 547 chương
+Bạn đã đến bộ phận lính cơ khí đơn lẻ! ? Kèm theo thông báo nhập học có hướng dẫn đăng ký. Đại học Liên bang là trường học toàn thời gian, có nghĩa là trừ khi có những trường hợp cực kỳ đặc biệt, sinh viên phải sống trong trường và không được phép học. Sau nhiều năm, truyền thống của thế kỷ 21 vẫn được tiếp tục ở đây và phòng dành cho 4 người rất phổ biến. Nó nhằm kiểm tra khả năng tương tác với thế giới của học sinh. Suy cho cùng, hòa hợp với bạn cùng phòng cũng là một thói quen. Ngày đăng ký là ngày chuyển đến và bạn phải chuẩn bị đầy đủ đồ đạc trong ngày đó. Mỗi bộ sẽ tổ chức một cuộc họp vào ngày hôm sau, và sau đó huấn luyện quân sự sẽ bắt đầu vào cùng ngày. Quá trình diễn ra rất nhanh chóng. Vì vậy Jiang Qiuqiu phải chuẩn bị nhu yếu phẩm hàng ngày. Không có nhiều thứ nên chúng được đóng gói nhanh chóng. Họ chuẩn bị khởi hành một cuộc hành trình dài. Qiuqiu đưa Mo Si đến nhà bà Aier để chào tạm biệt bà Ayer. Bà Aier nhìn thấy hai người nắm tay nhau đi dạo, trong mắt đầy ý cười: "Này, Tiểu Mặc và Thu Thu đều ở đây." Ánh mắt nhìn cô đầy trìu mến. Mặc Tư có chút xấu hổ, dù sao anh cũng đã nói ra điều đó trước mặt bà Aier - bà vẫn còn là một đứa trẻ. Cô ấy vẫn còn trẻ. Cô không hiểu tình yêu là gì. Tôi không thích cô ấy, tôi chỉ thương hại cô ấy. Kết quả là chỉ sau một thời gian ngắn, tôi đã nắm tay, hôn và ôm ai đó, mặt tôi bắt đầu hơi đau. So với hắn, Thu Thu còn có khí lực hơn: "Đúng vậy, ngày mai Đại học Liên bang khai giảng. Ta nói cho ngươi biết, ngày mai ta sẽ đi học." "Tốt đấy!" Ánh mắt bà Al đầy khích lệ: “Con rất thích hợp đến trường để học hỏi kiến ​​thức. Việc hiểu biết có hệ thống hơn về sức mạnh tinh thần sẽ giúp con hiểu bản thân mình sâu sắc hơn.” Chỉ khi hiểu biết sâu sắc hơn bạn mới có thể tạo ra phong cách riêng cho mình. Ngoài ra, “Có lẽ cậu ở lại nấu ăn trong trường có chút bất tiện. Tôi sẽ báo cho viện trưởng Chu về khoa chữa bệnh tinh thần của cậu, bảo ông ấy mở cho cậu một chỗ ở phòng giáo viên.” "Chờ ngươi chuẩn bị xong, ngươi có thể mời viện trưởng tới tìm ta, sau đó ta sẽ kêu hắn mang trị liệu tinh." Bà Al đã sắp xếp mọi việc đàng hoàng. Tuy nhiên - Jiang Qiuqiu phát hiện ra rằng cô ấy dường như đã quên nói với những người xung quanh về điều gì đó. "Ừ, có thể, nhưng cậu phải đợi một lát." "Đợi một lát nhé?" "Nghe nói, huấn luyện quân sự cho quân nhân cơ giáp sẽ rất mệt mỏi, có thể tôi không có thời gian nấu ăn, phải đợi đến huấn luyện quân sự sau."
+
+---
+*Thời gian thế hệ: 2025-11-19 13:32:55*

@@ -1,0 +1,14 @@
+# Chương 961 Điện hạ: Nàng không phải chỉ là nữ nhân thôi sao? tôi sẽ chinh phục
+
+## Tiêu đề | Tiêu đề
+Chương 961 điện hạ: Nàng không phải chỉ là nữ nhân sao? tôi sẽ chinh phục
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 961 chương
+Nhị điện hạ: Nàng không phải chỉ là nữ nhân sao? Tôi sẽ chinh phục cô ấy trong nhà của Nhị hoàng tử. Khi bước vào sân, bạn sẽ thấy một hàng ngọc liên tục, không bắt mắt, nhưng nếu nhìn kỹ vào những bức chạm khắc bằng ngọc, bạn sẽ thấy rằng mỗi viên đều rất tinh xảo. Ở đây không có ánh đèn quá chói, mọi thứ đều mềm mại vừa phải, không lộ núi non hay sương mù, xung quanh là cỏ xanh, tựa lưng vào cây. Ai nhìn thấy khu vườn này đều phải thốt lên rằng chủ nhân phải là người rất sang trọng. Đúng vậy, đây quả thực chính là nhân cách mà nhị hoàng tử ở bên ngoài thể hiện ra. Nhẹ nhàng như ngọc. Nhị hoàng tử vốn yêu thích đọc văn cổ địa cầu từ khi còn nhỏ, biết rất rõ rằng không có vị hoàng đế nào muốn có một đứa con trai đầy tham vọng khi còn ở thời kỳ hoàng kim, nên ngay từ khi còn nhỏ, ông đã thể hiện mình là người “không cãi vã” và “tự do như hạc hoang”. Tôi nghĩ như vậy cha tôi sẽ cảm thấy thoải mái với tôi, thích tôi hơn một chút, rồi để tôi trở thành người tiếp theo lên ngôi. Tuy nhiên - "Tôi gần như đã chết và vẫn chưa bày tỏ lập trường của mình." Nhị hoàng tử vẻ mặt âm trầm nói. Chú của hắn, gia chủ Cẩu gia lắc đầu, "Ta nghi ngờ hắn không có hứng thú với ngươi." "Làm sao có thể!" Nhị hoàng tử không tin: “Người hắn thích nhất chính là ta!” "Đã lâu như vậy, bệ hạ không phải là người có thể giấu diếm chuyện gì, nếu thực sự thích ngươi, nhất định là đã thể hiện ra cái gì đó." “…Chú ơi, chú nghĩ chúng ta nên làm gì?” Nhị hoàng tử tức chết được, “Người ta nói phụ thân của ta nhiều nhất có thể trụ được một năm.” “Một năm thì sao? Dự kiến ​​nó sẽ biến mất trong hơn nửa năm. Khoảng thời gian vừa qua chắc hẳn đã trôi qua trong bàng hoàng. Chúng ta không có nhiều thời gian." "Điện hạ, đã không còn hy vọng nên chúng ta phải bắt đầu làm những bước chuẩn bị thứ cấp." Nhị điện hạ Triệu Tấn những năm gần đây nhờ khai thác q3 đã kiếm được rất nhiều tiền. Vậy thì nhà họ Cẩu cũng có thế lực rất lớn trong giới quý tộc. "Trong sáu tháng qua, chúng ta phải chiêu mộ càng nhiều người càng tốt." Ngoài quý tộc, chúng ta còn phải chiêu mộ doanh nhân, dân thường và hộ tống. Tốt nhất là chiêu mộ một quân đoàn để hỗ trợ chúng ta. Nhân tiện, bất kể lão hoàng đế thích ai, người cuối cùng sẽ lên ngôi sẽ là Zhao Xun. "Ồ, vâng." Chú Gou lại nhớ ra điều gì đó, "Gần đây có người xứng đáng được chúng ta chiêu mộ." "Hả?" Điều đáng nói chỉ có chú thôi.”
+
+---
+*Thời gian thế hệ: 2025-11-19 14:19:49*

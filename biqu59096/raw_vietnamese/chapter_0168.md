@@ -1,0 +1,14 @@
+# Chương 168 Troll Studio
+
+## Tiêu đề | Tiêu đề
+Thứ 168 chương Troll Studio
+
+---
+
+## Nội dung | Nội dung
+
+Chương 168
+Studio phun sơn Qingshanlushui Studio. Số 1: Sếp, thời cơ đã đến rồi. Sếp: Gọi mọi người đến đó và đảm bảo sẽ quay lại phòng phát sóng trực tiếp tối nay nhé. Số 1: ok Số 1: Chúng tôi là những người chuyên nghiệp trong việc dẫn dắt nhịp điệu. Sếp: Từ bây giờ đội của bạn sẽ luôn mang tên người dẫn chương trình đó cho đến khi cô ấy bị loại bỏ. Số 1:! Có người trả tiền cho một gói dài hạn? Thật giàu có! Sếp: Đúng vậy, hãy nói với những người dưới quyền của bạn rằng Ke Jin có thể sắp xếp được nhịp độ. Ngoài tiền lương, cô sẽ thưởng cho mỗi người 2.000 đồng sao. 2000 đồng sao! Đây là một con số lớn! Số 1 nhanh chóng chuyển tiếp tin nhắn này đến nhóm hải quân của mình, và cả nhóm ngay lập tức tràn ngập niềm vui. Dù chưa nhận được một xu nào nhưng tôi đã cảm thấy như mình đã kiếm được rất nhiều tiền. 7h50 tối, toàn bộ lực lượng hải quân được điều động! Chúng tôi bắt đầu đến phòng phát sóng trực tiếp của Jiang Qiuqiu, Vòng tròn Thực phẩm Liên bang và vòng tròn của Jiang Jiujiu theo từng đợt, ẩn nấp khi chúng tôi nên và dẫn đầu nhịp điệu khi chúng tôi nên! Trong giới thực phẩm liên bang, một nhóm các anh, chị, chú, dì được dẫn vào phòng phát sóng trực tiếp của Jiang Qiuqiu. Người xem, người hâm mộ tức giận, những kẻ troll và người hâm mộ đến ủng hộ Jiang Qiuqiu sau khi biết tin đã khiến số lượng người hâm mộ trong phòng phát sóng trực tiếp lần đầu tiên vượt quá 300 triệu. Đó cũng là câu mở đầu quen thuộc: "Chào mừng đến với phòng phát sóng trực tiếp dành cho người sành ăn của tôi. Thực đơn hôm nay là: thịt heo chiên giòn". Trên bàn đặt hai miếng thịt ba chỉ đã căng ra. Jiang Qiuqiu nhặt miếng thịt lên và lấy nét trước ống kính. “Nguyên liệu dùng cho món ăn hôm nay vẫn là thịt Gugu.” "Tôi đã không thêm món ăn này khi làm thức ăn đặc biệt cho thú Gugu. Hôm nay tôi đã nghĩ về nó và bù đắp cho nó." Jiang Qiuqiu bình yên, nhưng Shuijun thì không. Vừa xông vào, trước khi người hâm mộ, người qua đường và người xem kịp phản ứng, họ đã nhanh chóng bắt đầu chỉ trích ngay trên sóng phát sóng trực tiếp. [Buổi phát sóng trực tiếp cuối cùng cũng đã bắt đầu. Sự việc chiều nay đã gây xôn xao dư luận. Tại sao các mỏ neo không phản hồi? 】 【Đồ ăn của bạn trị giá một triệu hay mười triệu? Tôi không nghĩ nó có gì đặc biệt. 】 【Nghe có vẻ trẻ trung, bạn có thực sự thích sự cường điệu đến thế không? 】 【Chuyện gì đang xảy ra với giới trẻ ngày nay? Họ không muốn dùng sức mạnh để giành chiến thắng mà đi khắp nơi để cường điệu hóa——】...
+
+---
+*Thời gian thế hệ: 2025-11-19 13:16:00*

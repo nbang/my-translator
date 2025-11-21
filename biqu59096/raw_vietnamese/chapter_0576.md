@@ -1,0 +1,14 @@
+# Chapter 576: Khóc vội
+
+## Tiêu đề | Tiêu đề
+Chương 576 Khóc quá vội vàng
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 576 chương
+Sau ba ngày huấn luyện cơ giáp trực tuyến, mọi người đều mất hứng thú với trò chơi sắp tới. Bởi vì những người xung quanh tôi quá kém cỏi nên việc đi lại trong cơ giới giống như một tay say rượu, và bạn sẽ chiến đấu như thế này sao? Bạn đánh tôi khiến tôi ngã xuống đất khiến tôi không đứng dậy được, vậy bạn thắng à? "..." Điều này nghe có vẻ rất thông minh. Nhưng do hầu hết mọi người học không tốt nên không khí của cuộc thi khá tốt. Phải đến một ngày trước cuộc thi, mọi người mới được nhìn thấy những cỗ máy thực sự trên thực tế. Quân đồn trú rất hào phóng và đã chuyển giao 100 cơ giáp. Hôm nay sẽ không có buổi huấn luyện nào, người hướng dẫn sẽ dẫn dắt đội cho mọi người xem máy móc thực sự. Những chiếc gundam cỡ lớn được đặt tại địa điểm trông giống như những ngọn núi. Cơ khí màu bạc phát sáng lạnh lùng. So với những cỗ máy trong thế giới ảo thì nó hùng vĩ và hấp dẫn hơn nhiều. Người hướng dẫn đưa tất cả học sinh trong phalanx vào buồng lái của cơ giáp, sau đó bắt đầu chiến đấu theo cặp. Các sinh viên trẻ nhìn những người hướng dẫn đứng trên bục điều khiển và chiến đấu với những người ở phía đối diện. Màn hình lớn chiếu hình ảnh hai người máy đang chiến đấu với nhau. Cơ thể kim loại của chúng cọ xát vào nhau và thậm chí còn tạo ra ngọn lửa màu cam tuyệt đẹp. Người hướng dẫn thực hiện mọi động tác và cơ khí cũng làm theo. Mọi người làm theo trái tim của họ, và đây là điều mà mọi người đều coi là anh hùng! Sau màn trình diễn, anh ấy đã động viên mọi người và nói rằng sau khi luyện tập, bạn có thể đạt được hiệu quả này. Sau đó, họ tận dụng thời gian còn lại để yêu cầu từng học sinh lên bục chỉ huy và cố gắng kết nối với ý thức cơ giới và sức mạnh tâm linh thực sự. Đây là quảng trường A1, nơi tập trung những cao thủ hàng đầu. Hầu hết mọi người đều có thể thử và thành công, và vận hành máy móc, giống như Huo Jia, thậm chí dường như có thể làm điều đó một cách dễ dàng. Tất nhiên, anh ấy vốn là một tuyển thủ hạt giống nên mọi người sau khi nhìn thấy đều không khỏi bàng hoàng. Mọi người đều bị sốc khi thấy rằng sau khi Jiang Qiuqiu lên bảng điều khiển, chiếc máy đã được cô điều khiển thành công và chạy tới chạy lui trong thời gian ngắn. Khi nào một người mạnh mẽ như vậy đột nhiên xuất hiện trong lớp? Mặc dù Jiang Qiuqiu thể hiện rất tốt trong hai vòng huấn luyện đầu tiên, nhưng mọi người không nhìn kỹ hơn và cho rằng phẩm chất của cô gái này không tệ. Nhưng sau trải nghiệm này, rất nhanh đã có người phát hiện ra! Cái này quá mạnh! Mỗi phiên tòa kéo dài bốn hoặc năm phút. Sau khi mọi người lên máy móc, mọi người tập trung tại sân tập. Huấn luyện viên trưởng lại xuất hiện và thông báo rằng khóa huấn luyện quân sự đã kết thúc. ...Từ "kết thúc" đến quá nhanh, mang lại cho mọi người một cảm giác không chân thực.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:33:39*

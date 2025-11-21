@@ -1,0 +1,14 @@
+# Chương 985 Đây là năng lượng của Chirp
+
+## Tiêu đề | Tiêu đề
+Chương 985 Đây là năng lượng của Chirp
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 985 chương
+Đây là năng lượng thuộc về tweet. "Không lạc đề nữa, chúng ta quay lại chủ đề thôi!" “Gần đây, tôi thấy trên Internet có quán ăn tự phục vụ mới của trường chúng tôi ở nhiều nhóm cựu sinh viên và một số nhóm học sinh cấp dưới.” "Người ta đồn rằng nó phổ biến trên Internet. Người dẫn chương trình ẩm thực Jiang Qiuqiu gần đây đã mở một nhà hàng trong căng tin của Khoa Văn học của Đại học Liên bang - "Trước khi tìm hiểu về nhà ăn, đài truyền hình đã đưa mọi người đi tìm hiểu về giá cao ngất trời của các tweet và các món ăn trên tweet, cũng như nhiều bình luận khác nhau trên Internet. Ngoài ra còn có bản phân tích về danh tính của Jiujiu, năng lượng đặc biệt có trong thức ăn, v.v. Sau khi phân tích, người truyền thông đã xâm nhập thành công vào trường với sự giúp đỡ của một người bạn cùng lớp từng dạy trong trường và thẻ học sinh đã hết hạn sử dụng. Anh cười vui vẻ trước mặt người hâm mộ: "Được rồi, sau bao vất vả, cuối cùng chúng ta cũng được vào. Bây giờ chúng ta đến căng tin khoa văn xem quán ăn trên Tweet có ngon như lời đồn không nhé". Anh ấy đã giới thiệu nó trong khi nói chuyện và nói với người hâm mộ về các tòa nhà khác trong trường. Chẳng bao lâu sau, điểm tái bản đã đến. Theo kế hoạch ban đầu, mọi người chủ yếu lên xe bay tại điểm trung chuyển này để đi đến căn tin thứ hai, sau đó bắt đầu khám phá cửa hàng. Tuy nhiên, có quá nhiều người đăng lại nó. Vì số lượng xe buýt đi đến Căn tin số 2 có hạn nên phải xếp hàng phía sau xe đi thẳng. Có 30 người trên một xe buýt nên có ít nhất 90 người xếp hàng ở đây. Phát thanh viên: ...Anh ấy choáng váng ngay tại chỗ, nhưng anh ấy nghĩ mình không thể chen vào hàng được nên cố gắng xếp hàng ở phía cuối hàng. Trong khi xếp hàng chờ đợi, anh cũng sẽ nói đôi lời để khán giả không quá nhàm chán. "Đúng vậy, chiếc xe này quả thật gần đây rất được ưa chuộng." “Tôi nhớ khi tôi ở đó, căng tin số 2 chỉ là một phần rất kín đáo trong các căng tin ở đây.” "Được... Tôi sẽ cố gắng hết sức để đến đó. Nếu hôm nay không đến được thì ngày mai tôi sẽ đến sớm. Không đợi xong việc, trong giờ học hãy đến đây!" Người xếp hàng phía trước nghe thấy anh ta nói liền hỏi: "Anh là người dẫn chương trình à? Anh đang phát sóng à?" "À, vâng, đừng lo lắng, máy ảnh của tôi tự động lấy nét vào khuôn mặt của một người và tự động làm mờ bức ảnh ghép của những người khác. "Ồ, tôi biết." Người tiền nhiệm mặc một chiếc áo phông đen rất ngầu, "Tôi rất đẹp trai, tôi không sợ bị chú ý." Neo: ... [Hahaha, một Versailles khác đã xuất hiện! ] "Ý tôi là, bạn có định phát sóng trực tiếp ở căng tin thứ hai không?"
+
+---
+*Thời gian thế hệ: 2025-11-19 14:20:29*

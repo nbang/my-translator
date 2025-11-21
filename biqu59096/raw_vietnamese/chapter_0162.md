@@ -1,0 +1,14 @@
+# Chương 162 Chúng ta đã là đối tác hai mươi năm
+
+## Tiêu đề | Tiêu đề
+Chương 162 Chúng ta đã là đối tác hai mươi năm
+
+---
+
+## Nội dung | Nội dung
+
+Chương 162
+Đoạn video của Mei Lin, cánh tay phải của chúng ta đã làm việc cùng nhau 20 năm, không có gì thú vị, nhưng Jiang Jiang đã đăng video này lên tài khoản của người đàn ông giàu có đó, điều này vẫn gây ra tranh cãi lớn. Những người xem đã đặt cho Merlin một biệt danh vang dội - Chị Triệu. [Triệu chị da bò! 】 【Ăn uống khiến bạn có cảm giác như đang ở sảnh VIP của một nhà hàng xoay. 】 [Ta đang vội, đây là công chúa] [Ăn chậm như vậy có đói không? 】 【Thảo nào chị Baiwan không giành được vị trí ở Jiujiu và phải mua nó. Với tốc độ tay này, cô thậm chí không thể đạt được nó. ] Bởi vì danh hiệu Triệu tỷ khó coi như vậy, Merlin lập tức tức giận: "Những người này là ai!" "Đừng làm video nữa!! Tôi không muốn chia sẻ loại tin tức này!" “…Được rồi, thưa cô.” Anh nén lại một nụ cười. Vòng tròn lần lượt trải qua những cao trào vì những buổi phát sóng trực tiếp này. Không còn nghi ngờ gì nữa, màn trình diễn đầu tiên của Jiang Qiuqiu sau khi ký hợp đồng với một cầu thủ lớn là hoàn hảo. Meili tóm tắt báo cáo dữ liệu và đưa cho Qian Xingxing. Qian Xingxing cũng rất vui vẻ, tiếp tục tải dữ liệu lên và đưa cho Qian Duoduo. Dù không đồng tình với quan điểm của cha nhưng anh vẫn muốn chia sẻ niềm vui với cha - đây chính là con người mới mà anh đã đào bới và trau dồi. Cô ấy có tiềm năng to lớn, giống như mặt trời đỏ rực trong khu ẩm thực. Tương lai được định sẵn sẽ tỏa sáng ở một bên. Để mở đường cho những vụ nổ trong tương lai, người ta phải cẩn thận kẻo bị hack trong thời kỳ trỗi dậy. Ngoài việc yêu cầu nhóm của mình chú ý đến xu hướng dư luận của Xingwang của Qiuqiu, Meili còn gửi một tin nhắn đến hai người quản lý trong vòng. Hãy để Terry và Wanxing chú ý đến động lực của vòng tròn và kiểm soát xu hướng của mọi người. Đừng làm ầm ĩ lên vì những vấn đề tầm thường. Và tại thời điểm này, lợi ích thuộc về quản lý vòng kết nối đã được gửi đi. Trước đây toàn là data, lần này mình gửi đĩa vật lý. Có hai món, một là Gu Gu Heo kho tộ, một là món cá muối đang được ưa chuộng gần đây. Sau khi Terry nhận được đồ ăn, anh ấy đã đăng tin vào nhiều nhóm khác nhau để khoe khoang. Trường Bắc nhìn thấy tin tức sau, liền xin Thu Đạo nghỉ phép, "Ta muốn đi ra ngoài." "Cái gì? Tướng quân đi ra ngoài, ngươi cũng muốn đi ra ngoài?" Thu Đạo khẽ cau mày, "Có chuyện gì vậy? Hai người ngồi trong văn phòng là tốt nhất." “Nếu không thì thưa tướng quân. Ông không đến đây để gửi tin nhắn—” “Tch.” Thường Bắc mím môi, nhỏ giọng nói: “Đã lâu rồi tướng quân mới gửi tin nhắn, mỗi ngày chỉ là chuyển công tác thôi, tôi sẽ ra ngoài cả buổi sáng, sẽ sớm quay lại.” "Bạn định làm gì?" Thu Đạo hỏi. "Ồ, có chuyện gì thế? Tôi chỉ ra ngoài một lát thôi, chúng ta đi thôi."
+
+---
+*Thời gian thế hệ: 2025-11-19 13:15:49*

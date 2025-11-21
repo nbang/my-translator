@@ -1,53 +1,14 @@
-# Chương 1: Còn đáng sợ hơn cả xuyên không, chính là tôi xuyên không rồi, tôi trở nên...
+# Chương 1 Điều đáng sợ hơn du hành thời gian là tôi du hành xuyên thời gian và trở thành một
 
-## Tiêu đề | Title  
-Chương 1: Còn đáng sợ hơn cả xuyên không, chính là tôi xuyên không rồi, tôi trở nên nghèo
+## Tiêu đề | Tiêu đề
+Chương 1 Điều đáng sợ hơn du hành thời gian là tôi du hành xuyên thời gian và trở thành một
 
 ---
 
-## Nội dung | Content  
+## Nội dung | Nội dung
 
-Chương 1  
-Còn đáng sợ hơn cả xuyên không, chính là tôi xuyên không rồi, tôi trở nên nghèo.  
-"Thưa công dân Giang Thu Thu, tài khoản mạng sao của bạn còn lại 1231.3 sao tệ."  
-"Xin chào, nhà của bạn chỉ còn một tháng nữa là hết hạn hợp đồng, bạn quên rồi sao?"  
-"Thưa cô Giang Thu Thu, gói dịch vụ dinh dưỡng bạn đã mua chỉ còn ba ngày nữa là hết hạn, bạn có muốn gia hạn trước không?"  
-"Cô Giang Thu Thu, phí sử dụng điện của bạn—"  
-"Phí sử dụng mạng sao—"  
-"Sắp cuối tháng rồi, phiền bạn thanh toán đúng hạn nhé~"  
+Chương 1
+Điều đáng sợ nhất là tôi du hành xuyên thời gian và trở nên nghèo khó. "Kính gửi công dân Jiang Qiuqiu, tài khoản Star Network của bạn còn lại 1231,3 đồng sao." "Xin chào, nhà của bạn sẽ hết hạn trong một tháng nữa, bạn quên à?" "Chào cô Jiang Qiuqiu, dinh dưỡng cô mua Dịch vụ trọn gói sẽ kết thúc sau ba ngày nữa, cô có muốn gia hạn trước không?" "Cô Jiang Qiuqiu, phí sử dụng điện của cô -" "Phí sử dụng mạng Star -" "Sắp cuối tháng rồi, vui lòng thanh toán kịp thời ~" Sau khi đọc đến đây, trái tim Jiang Qiuqiu bắt đầu tê dại. Điều đáng sợ nhất trên thế giới này là du hành thời gian? Đó là tôi đã du hành xuyên thời gian và trở nên nghèo khó. Jiang Qiuqiu vốn là một blogger ẩm thực ở thế kỷ 21 với lượng người hâm mộ trên khắp một trang web âm nhạc và nhỏ nào đó. Do một tai nạn đáng tiếc khi đang đi du lịch để quay vlog, cô đã du hành đến thời đại giữa các vì sao. Tuy nhiên, trước khi cô có thể thở dài vì xúc động, thực sự đã có tàu vũ trụ, robot và mạng lưới ảnh ba chiều! Con người thực sự có thể du hành xuyên không gian và sử dụng các hành tinh làm thành phố! Cô tràn ngập đủ loại thông tin về Jiang Qiuqiu, chủ sở hữu ban đầu có cùng tên với cô. Jiang Qiuqiu trong thời đại giữa các vì sao được sinh ra trên một hành tinh cấp thấp của Bộ lạc Liên bang. Khi cô tám tuổi, cha mẹ cô lần lượt qua đời và cô sống trong trại trẻ mồ côi kể từ đó. May mắn thay, khi cô 16 tuổi, trại trẻ mồ côi đã làm xét nghiệm di truyền cho cô. Jiang Qiuqiu được phát hiện có sức mạnh tinh thần cấp B+, và cô đã may mắn nhận được thông báo nhập học từ một trường học ở thủ đô liên bang. Nhưng chỉ vài ngày sau khi nhập học, cô đã bị đuổi khỏi trường vì xúc phạm kẻ có quyền lực. Jiang Qiuqiu, người đã mất tư cách nhập học, không muốn quay lại. Trong khi nộp đơn xin quỹ cứu trợ liên bang và làm việc bán thời gian để trang trải cuộc sống, cô liên tục phàn nàn với nhà trường với hy vọng có được phán quyết công bằng nhưng mọi lá thư khiếu nại đều chẳng đi đến đâu. Cho đến sinh nhật thứ mười tám của Jiang Qiuqiu, cô vẫn không nhận được phản hồi nào về lá thư khiếu nại của mình. Đế quốc Liên bang chỉ cấp quỹ cứu trợ cho trẻ em dưới 18 tuổi. Nếu quỹ cứu trợ không còn, đồng lương ít ỏi của nguyên chủ không thể duy trì được chi phí ở thủ đô. Vì vậy, Jiang Qiuqiu, người có tương lai u ám, đã tự sát vào ngày sinh nhật thứ mười tám của mình. Cùng ngày, Jiang Qiuqiu từ thế kỷ 21 đã đến đây. Ngày xưa, Jiang Qiuqiu là một thiếu nữ giàu có với số dư trên thẻ hơn tám chữ số. Bây giờ, cô là một cô gái giữa các vì sao tội nghiệp, cuối tháng sẽ phá sản. Đã quá muộn để buồn bã. Từ trong trí nhớ của nguyên chủ, Giang Thu Thu biết được, ở Liên bang, truy thu là tội rất nghiêm trọng. Nếu không trả phí đúng hạn, rất có thể bạn sẽ bị đưa xuống hành tinh thấp hơn để khai thác hoặc dọn dẹp nhà vệ sinh ở khu vực khắc nghiệt để trả lại tiền! ...Không sao đâu! Đầu tiên cô tính xem mình sẽ phải trả bao nhiêu vào cuối tháng. Tổng phí điện, nước và dung dịch dinh dưỡng khoảng 1.100 đồng sao. Trong tài khoản của cô có tiền để thanh toán, nhưng sau khi hết tháng này, tiền thuê nhà tháng sau, phí internet, nhân công và các thứ linh tinh cộng lại đã lên tới 2.800 đồng sao, số tiền mà cô căn bản không đủ khả năng chi trả. Ở thời đại giữa các vì sao, nhân lực không có bằng cấp như nguyên chủ không hề đắt. Một tháng khổ luyện chỉ tốn khoảng 1.300 tinh tệ, căn bản là không đủ. Cô phải làm gì đó, nếu không cô sẽ bị đuổi ra khỏi mỏ ngay khi lấy lại được mạng sống. Trong trí nhớ của nguyên chủ, ngành truyền hình trực tiếp cũng rất phổ biến ở thời đại này. Có lẽ cô ấy có thể cố gắng tập trung vào công việc kinh doanh cũ của mình và hỗ trợ bản thân thông qua chương trình phát sóng trực tiếp về ẩm thực? Đúng như lời anh ấy nói, Jiang Qiuqiu đã mở Star Network và bắt đầu tìm kiếm tin tức về chương trình phát sóng trực tiếp về ẩm thực. (Cuối chương)
 
-Giang Thu Thu đọc xong những thông báo này, cả trái tim cô như tê liệt.  
-Trên thế giới này, điều còn đáng sợ hơn cả xuyên không là gì? Chính là tôi xuyên không rồi, tôi trở nên nghèo.  
-
-Giang Thu Thu, vốn là một blogger ẩm thực nổi tiếng ở thế kỷ 21, có lượng fan đông đảo trên TikTok và Bilibili. Trong một lần quay vlog du lịch, cô không may gặp tai nạn và bất ngờ xuyên không đến thời đại liên sao.  
-
-Tuy nhiên, chưa kịp cảm thán về việc thực sự có phi thuyền, robot, mạng hologram! Con người thực sự có thể du hành không gian và sống trên các hành tinh như thành phố! Thì hàng loạt thông tin về nguyên chủ cùng tên Giang Thu Thu ở thời đại liên sao đã nhấn chìm cô.  
-
-Ở thời đại liên sao, Giang Thu Thu sinh ra trên một hành tinh cấp thấp thuộc Liên bang. Năm cô tám tuổi, cha mẹ cô lần lượt qua đời, từ đó cô phải sống trong trại trẻ mồ côi. May mắn thay, năm 16 tuổi, trại trẻ mồ côi đã làm xét nghiệm gen cho cô, và cô được phát hiện có tinh thần lực cấp B+, nhờ đó nhận được thư mời nhập học từ một trường trên hành tinh thủ đô của Liên bang.  
-
-Nhưng chưa học được bao lâu, cô đã bị đuổi khỏi trường vì đắc tội với quyền quý. Mất tư cách nhập học, Giang Thu Thu không cam lòng trở về, vừa xin trợ cấp từ Liên bang vừa làm thêm để duy trì cuộc sống, đồng thời liên tục gửi đơn khiếu nại đến trường với hy vọng nhận được một phán quyết công bằng. Nhưng mọi lá đơn của cô đều như đá chìm đáy biển.  
-
-Đến khi cô tròn 18 tuổi, những lá đơn khiếu nại của cô vẫn không nhận được hồi đáp. Liên bang chỉ cấp trợ cấp cho trẻ em dưới 18 tuổi, và khi không còn trợ cấp, với mức lương ít ỏi của nguyên chủ, cô không thể duy trì cuộc sống trên hành tinh thủ đô.  
-
-Vì vậy, trong ngày sinh nhật 18 tuổi, Giang Thu Thu nguyên chủ đã tuyệt vọng tự sát. Cùng ngày đó, Giang Thu Thu của thế kỷ 21 đã đến đây.  
-
-Trước đây, Giang Thu Thu là một nữ đại gia trẻ tuổi với số dư tài khoản vượt quá tám con số. Bây giờ, cô là một kẻ nghèo khổ sắp phá sản vào cuối tháng ở thời đại liên sao.  
-
-Không kịp buồn bã hay than thân trách phận, từ ký ức của nguyên chủ, Giang Thu Thu biết rằng ở Liên bang, việc nợ tiền là một tội rất nghiêm trọng. Nếu không thanh toán đúng hạn, rất có thể sẽ bị đưa đến các hành tinh cấp thấp để khai thác mỏ hoặc làm lao công ở những khu vực có môi trường khắc nghiệt để trả nợ!  
-
-... Điều này không thể chấp nhận được!  
-
-Cô tính toán sơ qua số tiền cần thanh toán vào cuối tháng. Tiền điện, tiền nước, tiền dinh dưỡng cộng lại khoảng 1100 sao tệ. Tài khoản của cô vẫn đủ để trả, nhưng sau khi hết tháng này, tiền thuê nhà, tiền mạng, và các chi phí khác vào tháng sau lên đến 2800 sao tệ, cô hoàn toàn không đủ khả năng chi trả.  
-
-Ở thời đại liên sao, những người không có bằng cấp như nguyên chủ có giá trị lao động rất thấp. Làm việc cật lực cả tháng cũng chỉ kiếm được khoảng 1300 sao tệ, số tiền này hoàn toàn không đủ.  
-
-Cô phải làm gì đó, nếu không vừa mới tái sinh đã phải chết trong mỏ rồi.  
-
-Từ ký ức của nguyên chủ, Giang Thu Thu biết rằng ngành livestream ở thời đại này cũng rất phát triển. Có lẽ, cô có thể thử quay lại nghề cũ, dựa vào livestream ẩm thực để nuôi sống bản thân?  
-
-Nghĩ là làm, Giang Thu Thu mở mạng sao và bắt đầu tìm kiếm thông tin về livestream ẩm thực.  
-
-(Hết chương)  
-
----  
-*Thời gian tạo: 2025-11-19 13:10:19*
+---
+*Thời gian thế hệ: 2025-11-19 13:10:19*

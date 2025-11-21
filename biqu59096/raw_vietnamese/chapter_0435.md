@@ -1,0 +1,14 @@
+# Chương 435 Merlin: Ngươi cho rằng ai là hạ cấp?
+
+## Tiêu đề | Tiêu đề
+Chương 435 Merlin: Ngươi cảm thấy ai là hạ cấp?
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 435 chương
+Merlin: Bạn đang gọi ai là người cấp thấp? Không thể bình luận, những lời như vậy đã khiến cộng đồng người hâm mộ của Jiang Qiuqiu bị sốc. Vốn dĩ chỉ là tranh luận, bây giờ lại tăng lên đến trình độ này? ! Người hâm mộ cấp thấp của mỏ neo cấp thấp? ! Điều này đang nói về ai? Người hâm mộ Qiuqiu vẫn còn giận dữ và chờ đợi bùng nổ. Chiều cùng ngày, một chủ đề mới đột nhiên trở thành chủ đề tìm kiếm nóng trong giới truyền hình trực tiếp liên bang. Mọi người từ mọi tầng lớp trong #Liên đoàn cùng nhau cổ vũ cho Xiong Xin! #Như thể đang trình diễn từ xa. -Xiong Xin, là sinh viên Học viện Quân sự Liên bang, không có nhiều thời gian rảnh rỗi như vậy. Anh ấy thường phát sóng trực tiếp trong quá trình tập luyện và thỉnh thoảng phát sóng trực tiếp đặc biệt trong những ngày nghỉ. Là 'viên kim cương' của học viện quân sự ở cấp độ công cộng, Xiong Xin không bao giờ thư giãn. Vì vậy, danh tiếng của anh trong Liên Đoàn Live luôn rất tốt. Người hâm mộ theo chân sư phụ, và hầu hết người hâm mộ Xiong Xin cũng là những người tích cực. Tất nhiên là ngoại trừ số ít đó. ..."Tôi sắp phát điên rồi." "Người duy nhất trên thế giới có khả năng khiến tôi phát điên là Emily này." Sắc mặt Hùng Tín xụ xuống: “Tại sao ông nội tôi lại đính hôn như vậy?” "Anh không hỏi ý kiến ​​của tôi trước khi chúng ta làm việc đó sao? Hãy nhìn xem cô ấy đang làm gì này?" "Ồ, chàng trai trẻ, đừng cáu kỉnh như vậy!" "Đừng nóng nảy như vậy? Đây là một trò chơi hay, công bằng và chính đáng, để cô ấy tham gia có ý nghĩa gì?" Hơn nữa, cô ấy có đủ tư cách để tham gia không? "Không phải là Amy thích bạn và muốn trút giận lên bạn." "...Bà ơi, bà đang nói gì vậy? Lấy nó ra à?" Hùng Tín gần như tức giận bật cười: “Lấy cái gì ra đây?” "Cái mỏ neo đó vốn đã mạnh rồi, cho dù ta thật sự thua nàng, kỹ năng của ta cũng kém người khác, cũng không có gì có thể lấy ra." "Mau để cô ấy lấy nó ra. Hãy lấy lại tất cả những hình ảnh kỳ lạ đó đi." "KHÔNG!" Một giọng nữ sắc bén đột nhiên truyền đến từ đường dây liên lạc: “Anh Hùng Tâm, là vì anh muốn giúp cô ấy sao?” "Tôi đang giúp anh trai tôi giành được vị trí đầu tiên!" "Sao cậu lại đến nhà tôi?" Nghe được thanh âm này, Hùng Tín bắt đầu cảm thấy buồn nôn, "Im đi, đầu óc của ngươi để ở đâu? Trong đầu ngươi chỉ có nhan sắc thôi?" Nói xong, Hùng Tín cúp máy. Anh ấy đăng nhập vào Star Network và xem qua. Sau khi tập luyện trở về, mọi chuyện đã rất tệ. Anh ấy nghĩ rằng mình có thể kiềm chế người hâm mộ bằng cách đăng một bản cập nhật.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:29:55*

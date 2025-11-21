@@ -1,0 +1,17 @@
+# Chương 842 Nghèo đói Im lặng Tỷ lệ tử vong cao
+
+## Tiêu đề | Tiêu đề
+Thứ 842 chương Nghèo đói im lặng Tỷ lệ tử vong cao
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 842 chương
+nghèo nàn
+đắng
+im lặng
+Tỷ lệ tử vong cực kỳ cao [không phải ai cũng cần được cứu, đó chỉ là một căn bệnh nhẹ. 】 【Tôi nhìn lại danh tính của cô ấy. Ồ, cô ấy là người dẫn chương trình nổi tiếng trên Internet với lượng người hâm mộ khổng lồ. Cô ấy là một sinh viên và là một người dẫn chương trình theo hợp đồng. Lần đầu tiên tôi nghĩ rằng đây là một sự cường điệu. Tôi rất tức giận, và đây chỉ là suy đoán... Tôi đã xem video phỏng vấn trong hai ngày qua nhiều lần và tìm kiếm một số thông tin. Ban đầu tôi muốn tìm một số manh mối về việc người nổi tiếng trên Internet này đang thổi phồng chủ nghĩa anh hùng, nhưng -] [Tôi không ngờ rằng sẽ có chuyện này. Ở đây, tôi xin lỗi vì tất cả ác ý và tất cả những thành kiến ​​của tôi. Tôi không hề biết rằng đây lại là một thế giới không thể diễn tả được. 】Có hai hình ảnh bên dưới. Một bức ảnh là cảnh quay tuyệt đẹp chụp nhóm phỏng vấn lần đầu tiên đến Q3 và chiếc ô tô bay cót két lao qua hàng người. Vì là ảnh tĩnh bị chặn nên hình ảnh hơi mờ nhưng không ảnh hưởng đến khả năng nhận biết của mọi người. Đây... là hình ảnh xếp hàng à? ! Đợi đã, người xem đã bị sốc khi nhìn thấy bức ảnh này. (Thêm một câu hỏi, chúa ơi? Hàng đợi này kéo dài bao lâu?) (...Không, phải không? Có rất nhiều người xếp hàng?) (Có rất nhiều bệnh nhân ở Q3??) Sau đó, người đăng tung ra bức ảnh thứ hai. Đó cũng là bức ảnh được Xiaoxiao chụp trong một cuộc phỏng vấn bên ngoài thành phố, đồng thời cũng là hình bóng do robot máy ảnh tùy ý đi ngang qua để lại. Trong ảnh động, hình bóng này có thể chỉ 1/2 giây và không dễ thấy nhưng hãy cắt nó ra và khoanh tròn bằng bút đỏ - ảnh chụp từ trên cao là đầu người và đầu người. Hình ảnh hơi chính diện này cho thấy cơ thể và cơ thể con người, nhìn thoáng qua gần như không thể nhìn thấy đầu. [Tôi đã tính toán dựa trên một số tỷ lệ. Trong bức ảnh này (ảnh chụp từ trên cao), có ít nhất hàng chục nghìn người đang đứng và đội này không có đầu. 】 【Và tôi đã tìm kiếm một số thông tin về q3. Những người trong quý 3 hiếm khi lên mạng và hầu như không bao giờ lên mạng. Thỉnh thoảng, một số tin tức được đưa ra, toàn là tin tiêu cực, chẳng hạn như thảm họa khai thác mỏ ở các khu vực khai thác mỏ... và những năm đầu, một số người trong giới cổ đại đã phàn nàn rằng mức lương q3 sao thấp. 】Cô ấy còn đính kèm một vài bức ảnh ở đây, tất cả đều khá cũ. Phải mất một chút kiên trì để đào những thứ này ra. Sau đó, cô ấy gửi thêm một số hình ảnh. [Nhìn đây, đây là một số video do nhóm phỏng vấn tin tức liên bang quay tại phòng khám miễn phí đó. Trong video có cảnh sinh viên đối xử với nhân viên xã hội. Trước khi có thông tin trên, tôi thấy những người này rất gầy và không cảm thấy có gì không ổn. 】 [Dù sao đây cũng là một hành tinh có bảng chữ cái, những người này đều là bệnh nhân. Nhưng——] Một loạt ảnh chụp màn hình xuất hiện, lần này không phải ảnh chụp màn hình lớn, mà là ảnh chụp màn hình của một người, hoặc so sánh giữa học sinh và bệnh nhân. [Tôi và người yêu đã cùng nhau xem lại cẩn thận tất cả các cảnh quay, tất cả các video trong các tính năng phỏng vấn này, mọi thứ! Đã chặn hầu hết mọi bệnh nhân đến và họ đều như thế này. 】
+
+---
+*Thời gian thế hệ: 2025-11-19 14:16:54*

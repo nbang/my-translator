@@ -1,0 +1,14 @@
+# Chương 661 Sức mạnh của cô
+
+## Tiêu đề | Tiêu đề
+Chap 661
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 661 chương
+"Tôi hy vọng mọi người có thể hiểu một điều về sức mạnh của cô ấy." "Bạn sinh ra, bạn học tập, bạn kiểm tra sức mạnh tinh thần của mình, bạn đến trường, bạn trở thành một người lính cơ giới, và ngay cả khi bạn nhập ngũ hoặc làm việc trong các ngành công nghiệp khác, bạn cũng không theo đuổi sự công bằng." "Bạn vốn dĩ không công bằng. Hãy nỗ lực ngay từ đầu, và thứ bạn theo đuổi luôn là thành công." "Được rồi, không cần chần chừ gì nữa, chúng ta sẽ bắt đầu đối sánh trực tiếp các đối tượng PK và AI sẽ chỉ định chúng theo cấp bậc và xếp hạng thông thường của bạn. Không được phép phản đối." Lớp này trong thời gian đó rất hỗn loạn. Khắp nơi đều có máy móc rơi xuống, và vào cuối buổi học, những học sinh mang theo hơn 20 máy móc cuối cùng cũng gục ngã. Từ chỗ cố gắng hết sức để thoát ra khỏi phía bên kia, cuối cùng nếu bạn chọc tôi và tôi chọc bạn thì ai giữ được thăng bằng sẽ thắng. May mắn thay, sau hơn nửa tháng thi đấu, cuối cùng tôi cũng đã đạt được thành tựu. Và Jiang Qiuqiu, người lúc đầu bị người khác coi thường, vẫn cho mọi người trong lớp này thấy ý nghĩa của việc trở thành ông chủ của bạn. Ngay cả với áo giáp nhẹ, cô vẫn có thể giành chiến thắng. -Một người xếp thứ 23 trong lớp được ghép đôi với Jiang Qiuqiu. Hai người cùng lúc đứng trên hàng pk. Sắc mặt học sinh rất nghiêm túc. Thật không dễ dàng để anh ấy kiếm được tín dụng và anh ấy không muốn thua. Trước đây anh ấy cũng đã quan sát Jiang Qiuqiu trong lớp. Phương pháp chiến thắng của cô không gì khác hơn là dùng cơ thể dẻo dai móc chân, hạn chế chuyển động của bộ giáp nặng nề, khiến trọng tâm của đối thủ không ổn định trong quá trình đẩy, khiến cô ngã ra khỏi cuộc thi để giành chiến thắng. Hôm nay, anh ấy có một cách tiếp cận mới. Sau khi cả hai lên máy thành công, cả hai cùng đứng ở điểm xuất phát. Thầy Mao bắt đầu hét lên, những người xung quanh bắt đầu lao vào nhau, người bạn cùng lớp này đột nhiên điều khiển máy móc như ngựa thấp và ngã xuống. Jiang Qiuqiu rõ ràng đã choáng váng trong giây lát. Sau đó, bạn cùng lớp số 23 phát động đợt tấn công đầu tiên. Sau khi cơ giáp chạm đất, anh ta không thể di chuyển lớn, vì vậy anh ta trực tiếp bắt đầu chiếm giữ hai bên đường và từ từ tiến về phía trước. Theo luật chơi, đối thủ chỉ được gánh nặng, không được vượt qua hay vượt qua vòng loại. Anh ta đang nằm sấp, gần như toàn bộ trọng lượng cơ thể đã giảm xuống. Hoàn toàn không có cách nào Jiang Qiuqiu có thể đá anh ta lên hoặc di chuyển anh ta. Cô không mạnh mẽ như vậy và cô không thể dẫm lên anh. Vì vậy, Jiang Qiuqiu chỉ có thể đối đầu trực diện với anh ta. Áo giáp nặng và áo giáp nhẹ đối đầu nhau, ai thắng ai thua?
+
+---
+*Thời gian thế hệ: 2025-11-19 14:08:41*

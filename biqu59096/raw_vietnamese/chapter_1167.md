@@ -1,0 +1,14 @@
+# Chương 1167 Thu Thu không có trong số tình nguyện viên
+
+## Tiêu đề | Tiêu đề
+Chap 1167
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 1167 chương
+Qiuqiu không nằm trong số tình nguyện viên [Hãy đến và xem các anh hùng của các cô gái của chúng tôi! 】 Ngoài ra còn có người từ các bộ phận khác đến cổ vũ cho các cô gái. [...Tại sao chỉ có anh hùng trong số các cô gái? Không có chàng trai nào trong khoa chữa bệnh tâm linh! Tôi cũng đi. 】 【Người anh hùng trong số những người đàn ông trên lầu! 】 【Họ đều là anh hùng, họ đều vĩ đại! 】 【Nói đến đây, ta cũng nhìn thấy chúng ta Cơ giáp học viện hiệu trưởng đi tới đó. Tôi nghĩ...tiền tuyến không đủ người và chúng tôi phải tuyển quân trước. 】 [Tôi đoán là không thể tuyển quân trước được. Những người chưa bao giờ nhìn thấy máu chỉ đang cho người ta ăn ở đó. Không thể gọi cho chúng tôi trừ khi họ đang ở trong tình thế tuyệt vọng. 『+1, chúng ta hãy ở lại trường và luyện tập chăm chỉ thôi. Tôi nghĩ sau khi chiến tranh Zerg kết thúc, chúng ta sẽ phải làm những việc khác ngay lập tức. 】 【...Khi nào bệnh viện sẽ được xây dựng? Chúng ta có thể di chuyển những viên gạch được không? 】 [Tôi không biết, vậy thì sẽ có cơ hội. 】Đây là Học viện Quân sự Liên bang. Có rất nhiều trường khác giống như Học viện Quân sự Liên bang. Bạn phải xếp hàng để đăng ký. Mọi người đều muốn đi mà không hề sợ hãi. Tình yêu phá vỡ nỗi sợ hãi, khiến con người hoàn toàn không sợ phóng xạ. Tuy nhiên, các trường khác không có nhiều khoa chữa bệnh tâm linh cấp B như Học viện Quân sự Liên bang, và nhiều người muốn đăng ký cũng không thể đăng ký. Lúc này, nội dung tin nhắn trên Star Network và một số vòng kết nối cũng thay đổi. [Hôm nay con tôi gửi tin nhắn cho tôi nói rằng cháu đã đăng ký. Tôi ủng hộ cô ấy đi! 】 【Hôm nay tôi đến thăm các gia đình quân nhân trong cộng đồng và gửi một số thứ qua, nhưng bây giờ tôi chỉ có thể làm được bấy nhiêu. 】 【Sao lại không có tin tức gì về việc trường học của con gái tôi xây bệnh viện? 】 【Muốn phụng sự đất nước thì không có nơi nào có thể làm được. 】 【Cô gái đã học gì? Một số nghiên cứu tương đối nhỏ đã không tham gia vào cuộc họp chung này. 】 【Con gái tôi học tại Đại học Liên bang. 】Đại học Liên Bang trước đây rất nổi tiếng, nhưng bây giờ, à - mọi người chỉ có thể xấu hổ mỉm cười. [Điều này, các trường đại học liên bang không thuộc cùng một hệ thống. 】 【? ? ? 】 Điều này vẫn có thể được chia thành các hệ thống. Tình cảm gia đình, đất nước xa xôi như vậy liệu có còn chia thành hệ thống được không? Dì không hiểu và mọi người cũng vậy. Cho đến ngày nay, chúng ta vẫn không thể gạt bỏ mối hận thù của mình sao?
+
+---
+*Thời gian thế hệ: 2025-11-19 14:27:44*

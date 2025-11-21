@@ -1,0 +1,14 @@
+# Chương 71 Ôi cái đuôi
+
+## Tiêu đề | Tiêu đề
+Chương 71 ôi cái đuôi
+
+---
+
+## Nội dung | Nội dung
+
+Chương 71
+Wow, giọng điệu của Tails dường như có chút thắc mắc, Qiudao ngay lập tức giải thích: "Chúng tôi vừa kết thúc quá trình huấn luyện ngoài giờ, và người dẫn chương trình này tình cờ bắt đầu phát sóng trực tiếp." "Chúng tôi chỉ nếm thử một loại hương vị để giảm mệt mỏi thôi." Đô đốc đã chứng minh rằng ăn một bữa ăn ngon có thể làm giảm căng thẳng. Cả hai đều giải thích chi tiết. Mặc Tư ngước mắt nói: "Ta không có ý định trừng phạt ngươi, ngươi đừng khách khí." "Tôi chỉ đến đây để hỏi bạn một số câu hỏi." "Chắc là anh vừa ăn xong, tinh thần mệt mỏi đã biến mất chưa?" Khâu Đạo và Thường Bắc đều giơ tay nói rằng họ cảm thấy dễ chịu hơn. Mộ Tư khẽ gật đầu. Có lẽ hắn nhìn thấy trong khoảng thời gian này, sự tò mò của Mặc Tư đối với phòng phát sóng trực tiếp của Khương Cửu Cửu đã lên đến đỉnh điểm. Ngoài ra, anh ta vừa trò chuyện với Terry xong, giọng điệu và thái độ của vị tướng này rất tốt. Chang Bei cảm thấy như mình đã lợi dụng lòng dũng cảm của một con gấu và ép mình kích hoạt phương pháp Amway của mình. "Đô đốc, đồ ăn do mỏ neo này nấu thực sự rất ngon." "Tôi nghĩ ai cũng có thể thử. Một khi đã thử, bạn sẽ không bao giờ quên mùi vị... Đô đốc, anh cũng có thể thử. Anh vẫn đang giải quyết những công việc bí mật của quân đoàn và quân viễn chinh. Chắc hẳn anh rất bận rộn. Anh thực sự có thể thử một lần." Anh ấy đã làm việc chăm chỉ, nhưng Mo Si đã có. Anh ấy sửng sốt trong giây lát, "Tôi biết." Anh ta có gen nhận thức nổi bật nhất liên bang, không ai có thể cảm nhận được cảm giác đó tốt hơn anh ta - "Sau này, sau khi hoàn thành khóa huấn luyện cần thiết trong thời gian không chính thức, có thể xem truyền hình trực tiếp, không cần phải cẩn thận như vậy." "Tôi đồng ý." "Rõ ràng là thế!" "Bạn tiếp tục." Nói xong, Mặc Tư xoay người đi vào văn phòng. Lúc này, Thu Đao dùng ánh mắt sắc bén nhận ra hắn quả nhiên đang mặc áo choàng, "Kỳ lạ, tướng quân có phải đi quân đoàn kiểm tra không?" "A? Không." "Tại sao... đột nhiên anh ấy mặc áo choàng." Chỉ khi kiểm tra, tướng quân mới trịnh trọng như vậy. "Có lẽ nó thuận tiện." Changbei luôn nói một cách bất cẩn: "Đừng nghĩ đến chiếc áo choàng. Bạn chắc chắn sẽ không đồng tình với vẻ mặt điềm tĩnh của Đô đốc!" "Hắn nhất định sẽ không xem truyền hình trực tiếp. A, Đô đốc thật sự... Hắn bỏ lỡ bao nhiêu mỹ nhân? Mùi vị rất tuyệt, cơm cuộn, sườn lợn, thịt kho, vịt quay, măng om, tiết cay, đều rất ngon, nhưng đáng tiếc đô đốc không ăn được." “Đừng tiếc, bạn có thể tưởng tượng được đô đốc đang xem truyền hình trực tiếp trên nhà ga không?” Thu Đạo liếc hắn một cái. Changbei nghẹn ngào ngay lập tức. …
+
+---
+*Thời gian thế hệ: 2025-11-19 13:12:49*

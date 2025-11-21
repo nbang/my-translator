@@ -1,0 +1,14 @@
+# Chương 606 Cuối cùng cũng gặp được! (Gặp offline với cô Merlin
+
+## Tiêu đề | Tiêu đề
+Chương 606 Cuối cùng cũng gặp được! (Gặp offline với cô Merlin
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 606 chương
+Cuối cùng cũng gặp nhau! (Gặp offline với cô Merlin) "Chỉ cần chúng ta không quan tâm thì cứ bình thường thôi." "Michelle tự nhiên cũng sẽ bình tĩnh lại." Nói thế nào nhỉ, chỉ cần mình không xấu hổ thì người khác sẽ xấu hổ. Điều tương tự cũng được áp dụng ở đây. Chỉ cần không có ai xấu hổ thì những chuyện đáng xấu hổ sẽ không tồn tại. Mạnh Xuân cùng Lưu Đình Đình đều gật đầu: "Đúng vậy, vốn dĩ cái này không có gì." Cơm nhạt nhẽo trong căng tin lại xuất hiện. Hôm nay, Liu Tingting đã học được phương pháp ăn uống thần kỳ thỏa mãn tưởng tượng từ các tiền bối trước đây. Sau khi gọi một vài món ăn, cô mở thiết bị đầu cuối của mình và bày những món ăn đã lấy vào phòng phát sóng trực tiếp. Sau đó, tôi kết nối với thiết bị đầu cuối của Jiang Qiuqiu và Mengchun, và chúng tôi cùng nhau bắt đầu hành trình đánh lừa bộ não ngày nay. Không thể không nói, cảm giác này thực sự rất tuyệt vời. Bộ não của tôi nghĩ rằng tôi đã ăn và nó truyền niềm vui thưởng thức món ăn vào toàn bộ tế bào thần kinh. Nó chỉ xảy ra khi thức ăn rất nặng trong miệng. Nó chỉ khiến mọi người nghĩ - ồ, tôi thực sự đã ăn món này. Ánh mắt Mạnh Xuân lập tức sáng lên: "Đây là cái gì, bao gạo? Đình Đình, ngươi mua ở đâu? Còn bán không? Có thể giới thiệu cho ta được không?" "Nó rất ngon." "Hehe." Đình Đình cười nói: "Không phải mua, là ở phòng phát sóng trực tiếp của người dẫn chương trình chộp lấy." Người dẫn chương trình, phòng phát sóng trực tiếp, đồ ăn? Gần đây Mạnh Xuân thường nghe thấy ba từ này, và từ liên quan đến chúng là "Chúa!" Mạnh Xuân cuối cùng cũng nhận ra: "Qiuqiu, anh đã làm việc này phải không?" Giọng điệu của cô ấy quá sốc, như thể cô ấy đã phát hiện ra một thế giới mới. Jiang Qiuqiu kêu lên: "Đúng, là tôi." "..." "Cuối cùng tôi cũng biết tại sao lại có nhiều người thích bạn như vậy." Vì lúc này, cô ấy cũng rất thích bạn. Sau khi vui vẻ kết thúc bữa tối, ba người chuẩn bị ra ngoài. Khi họ đi ngang qua nhà hàng giữa căng tin, đột nhiên có người gọi đến Jiang Jijiu. Hãy là một người hâm mộ. Giang Thu Thu dừng lại. Bên kia, bà cả bỏ đũa xuống, chạy lon ton về phía ba người đối diện. ...Vì không thể nhìn thấy ai nữa, cô ấy sẽ nghĩ rằng cô ấy và Jiang Jiujiu, một thường dân, đã bị phù phép một loại phép thuật nào đó khiến công chúa và hoàng tử không thể gặp nhau. Buổi chiều tan học, tôi vội vàng đến Khoa Cơ Khí Cá Nhân sớm một chút, mới phát hiện lớp học đã kết thúc. Mọi người trong a1 gần như đã đi hết và lại nhớ nó.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:07:16*

@@ -47,12 +47,12 @@ class EditedTranslator:
     RULES_FILE = "EDITOR.md"
     
     def __init__(self):
-        self.api_key = os.getenv('STEP3_API_KEY')
-        self.api_base = os.getenv('STEP3_API_BASE')
-        self.model = os.getenv('STEP3_MODEL', 'gpt-5-mini')
+        self.api_key = os.getenv('LLM_API_KEY')
+        self.api_base = os.getenv('LLM_API_BASE')
+        self.model = os.getenv('LLM_MODEL', 'gpt-5-mini')
         
         if not self.api_key or not self.api_base:
-            raise ValueError("STEP3_API_KEY and STEP3_API_BASE must be set in .env file")
+            raise ValueError("LLM_API_KEY and LLM_API_BASE must be set in .env file")
             
         # Create output directory
         Path(self.OUTPUT_DIR).mkdir(parents=True, exist_ok=True)

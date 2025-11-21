@@ -1,0 +1,14 @@
+# Chương 602 Công chúa ôm
+
+## Tiêu đề | Tiêu đề
+Thứ 602 chương Ôm công chúa
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 602 chương
+Công chúa ôm cô trong bầu không khí hòa thuận. Jiang Qiuqiu chào tạm biệt mọi người và đồng ý tiếp tục phát sóng trực tiếp vào Chủ nhật tuần này. Bạn biết đấy, hôm nay chỉ là thứ Tư! Nếu Chủ Nhật vẫn còn nhiều thì bốn ngày sau không thể ăn lại được sao? Tôi thực sự hy vọng rằng Đại học Liên bang mỗi ngày đều có ngày nghỉ! Tất nhiên, điều này là không thể. Jiang Qiuqiu tắt robot camera. Lúc này, quản gia người máy đã gần như dọn dẹp xong nơi này. Khi đứng trước ống kính, Jiang Qiuqiu vui vẻ và không cảm thấy khó chịu, nhưng khi cô thư giãn, căng thẳng tinh thần cường độ cao trong 5 giờ liên tục khiến cô hơi chóng mặt. Thân thể cô lắc lư, Mặc Tư nhanh chóng đi tới bên cạnh đỡ cô. Với sự hỗ trợ, Jiang Qiuqiu trở nên nhẹ nhàng hơn. Giọng cô nhẹ nhàng êm ái: “Em hơi mệt.” "Vì vậy lần sau đừng phát sóng trực tiếp lâu như vậy nhé." Mo Si nhéo một bên mặt cô. "Lần này ta rời đi đã được một tháng, mọi người đều đang chờ đợi, không thể tùy tiện kết thúc được." Jiang Qiuqiu vẫn kiên trì nguyên tắc của mình. "Hãy đợi đến lần sau. Lần sau hãy để thời gian lâu hơn nhé." Cô vừa nói xong, đột nhiên có một âm thanh thủ thỉ vang lên. ...Giọng nói này quả thực khiến tiểu thư có chút xấu hổ. Mo Si nhìn Jiang Qiuqiu, "Qiuqiu, bạn có đói không?" "Một chút." Cô nói, đứng dậy chuẩn bị bưng đồ ăn lên, nhưng Mặc Tư đã giữ cổ tay cô lại, “Cám ơn em đã vất vả, để anh làm.” Nói xong, Giang Thu Thu còn chưa kịp phản ứng, liền phát hiện mình đột nhiên bay lên không trung. Giang Thu Thu:? Trọng tâm của cô đột nhiên chìm xuống, Mo Si thực sự đã bế cô lên. Cô nép vào vòng tay anh và nhìn vào khuôn mặt của người đàn ông. Anh bước đi rất vững vàng, như thể không có trọng lượng trên tay. Trong lúc đang suy nghĩ, cô đã được đặt lên một chiếc ghế trong phòng ăn. Vừa ngồi xuống, Mặc Tư liền đi vào bếp bưng đồ ăn lên mà không nói một lời. Mở máy điều nhiệt, anh hỏi Jiang Qiuqiu: "Qiuqiu, em muốn ăn gì?" “Cậu muốn ăn gì cứ lấy, xem cậu muốn ăn gì, tôi có thể làm được.” Thực sự có rất nhiều loại trong đó. Mo Si lấy một vài món mà Jiang Qiuqiu thường làm và mang đến phòng khách vài lần, sau đó lấy một chai rượu từ tủ lạnh ra. Có vẻ như một bữa tối rất thịnh soạn. Hai người bắt đầu ăn cùng nhau. Mục đích của việc ăn uống là để bổ sung năng lượng. Quá trình trao đổi chất trong cơ thể của một người lính cơ giáp diễn ra rất nhanh nên cả hai người đều có cảm giác thèm ăn rất lớn. Cả bàn món ăn đã bị gió thổi hoàn toàn ăn sạch. Mọi người dần dần no hơn, no quá chắc chắn sẽ không ngủ được nên hai người quyết định ra ngoài đi dạo.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:07:10*

@@ -1,0 +1,14 @@
+#Chương 312: Không vui mừng vì có được khả năng mới
+
+## Tiêu đề | Tiêu đề
+Chương 312: Không vui mừng vì có được khả năng mới
+
+---
+
+## Nội dung | Nội dung
+
+Chương 312
+Không có niềm vui khi đạt được những khả năng mới. Hôm nay các đồng chí cũ đã được thả. Jiang Qiuqiu không nói gì nữa, nhưng khi gần đến giờ ăn, cô lại ăn một bữa trưa khác tại trung tâm cứu hộ. Và làm quen với những người khác ở trung tâm cứu hộ. Xiao Qing cho biết những người trong trung tâm cứu hộ đều là những bệnh nhân bị suy sụp gen. Nói một cách logic, nếu bạn mắc phải căn bệnh nan y như vậy, dù không quá đau buồn, bạn vẫn sẽ cảm thấy hơi khó chịu. Nhưng hầu hết mọi người trong trung tâm cứu hộ đều rất cởi mở và đáng yêu. Đặc biệt, có một con lai mang gen gấu nâu, cao ráo và ngây thơ. Xiao Qing nói rằng chính vì anh và chủ tiệm đậu phụ là đồng đội nên họ đã tìm thấy Jiang Qiuqiu sau nhiều khúc mắc. Khi chia sẻ bữa ăn vào buổi trưa, Jiang Qiuqiu phát hiện ra rằng họ cũng sẽ chia sẻ một số bữa ăn với những con vật nhỏ trong lồng. Mặc dù... họ không còn có thể sử dụng 'chúng' nữa. Sau bữa ăn, tôi cảm thấy rất nhiều cảm xúc. Sau bữa tối, lẽ ra anh phải về nhà. Jiang Qiuqiu suy nghĩ về điều đó và yêu cầu Xiao Qing đi đến phòng họp. "Có chuyện gì khác xảy ra với cô Jiang không?" "Tiểu Tình, trước đây ta đến Liên Bang Đại học khảo nghiệm thuộc tính linh lực của ta. Tinh thần lực của ta là chữa bệnh, cho nên đồ ăn ta nấu sẽ có một ít khả năng chữa bệnh." "Vậy là xong." Tiêu Tình còn bổ sung thêm: “Tương lai tiểu thư nhất định sẽ trở thành một thầy thuốc tâm linh xuất sắc.” Giang Khâu. Qiu cụp lông mày, hừ nhẹ rồi nói: "Nhưng tôi nghĩ đồ ăn tôi làm chắc chỉ có tác dụng chữa lành tinh thần thôi." "Không, anh-" Xiao Qing định nói rằng họ đã thử rồi, sau khi ăn một bữa, anh càng chắc chắn hơn về khả năng của Jiang Qiuqiu, nhưng khi anh ngước mắt lên và thấy cô gái đang bình tĩnh nhìn mình, anh dường như đột nhiên hiểu ra điều gì đó. Tiêu Tình cũng lập tức đổi ý: "Đúng vậy, Khương cô nương, thật xin lỗi, chúng ta đã phạm sai lầm... Chúng ta quá nóng nảy, quả thực là thần lực chữa lành, không liên quan gì đến gen suy sụp." "Cảm ơn, Tiểu Thanh." "Không, tôi nên thay mặt trung tâm cứu hộ cảm ơn bạn." Tiêu Tình liếm môi dưới. "Đừng lo lắng, chỉ có trung tâm cứu hộ của chúng tôi biết chuyện này, và không ai khác nói ra điều đó." "Chúng tôi sẽ không truyền bá thông tin 'sai'." Nếu việc nấu ăn của Jiang Qiuqiu có chức năng này thì sau này chắc chắn sẽ bị phát hiện, nhưng đó phải là chuyện của tương lai chứ không phải bây giờ. Nó phải được thực hiện sau khi cô ấy trở nên nổi tiếng, sau khi mọi người chú ý đến cô ấy và sau khi cô ấy có khả năng tự bảo vệ mình.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:23:04*

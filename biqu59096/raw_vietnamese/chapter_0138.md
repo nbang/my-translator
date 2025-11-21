@@ -1,0 +1,14 @@
+# Chương 138 Thu Đông cùng ăn bánh bao
+
+## Tiêu đề | Tiêu đề
+Chương 138 thu đông, nên ăn bánh bao
+
+---
+
+## Nội dung | Nội dung
+
+Chương 138
+Vào mùa thu đông, gần đến chiều tôi đang ăn bánh bao và cúp máy liên lạc. Hôm nay là ngày phát sóng trực tiếp, tám giờ tối sẽ phát sóng trực tiếp. Jiang Qiuqiu đang nằm trên ghế suy nghĩ xem hôm nay mình nên làm gì. Trong lò ấp có rất nhiều loại món ăn, có thể nấu được rất nhiều loại món ăn. Biến củ cải thành bánh củ cải cắt nhỏ? Nhiều hương vị khác nhau của khoai tây nghiền? Việc lựa chọn đôi khi là một điều khó khăn. Jiang Qiuqiu nhìn những thứ này với một chút đau khổ. Sau đó, cửa sổ đang mở đột nhiên có tiếng xào xạc, gió thu mát lạnh thổi vào mặt cô. Hoá ra bây giờ đã là mùa thu. Jiang Qiuqiu nghĩ: Cô đột nhiên nhớ món bánh bao do bà ngoại làm khi còn nhỏ. Hôm nay hãy làm bánh bao nhé! - 7h55 tối. Jiang Qiuqiu mở phòng phát sóng trực tiếp sớm năm phút. Vào ngày phát sóng trực tiếp cuối cùng, cô đã kết thúc buổi phát sóng trực tiếp của Gugu Beast. Mọi người đều tò mò liệu cô ấy có tổ chức một buổi phát sóng trực tiếp đặc biệt khác hay không và họ đã đợi ở phòng phát sóng trực tiếp từ sớm. Thấy buổi phát sóng trực tiếp hôm nay bắt đầu sớm nên mọi người đến đều vui vẻ. #Ahahah! Tôi cảm thấy hàng ghế đầu, hàng ghế đầu ấm áp! ##Hôm nay đến sớm như vậy, vận may của tôi trong phòng phát sóng trực tiếp liệu có tốt hơn không? Woohoo. ##Ồ thực đơn hôm nay có gì thế? Có phải vì nó bắt đầu phát sóng sớm hơn? Tại sao tôi thậm chí không nói câu đó trong tweet? Tôi không quen với nó. #江秋秋 sau đó nhận ra: "Đúng vậy, hôm nay tôi quên đề cập đến. Chào mừng mọi người đến với phòng phát sóng trực tiếp đồ ăn của tôi. Tên tôi là Jiang Jiujiu. Thực đơn hôm nay là bánh bao." Như chúng ta đã biết, chương trình phát sóng trực tiếp không thể có phụ đề. Khi mọi người nghe giọng nói mượt mà của Jiang Qiuqiu, thứ lóe lên trong đầu họ là #bàn chân? ##Có giống như móng chim cúc cu làm lần trước không? Lần này là chân ai? ##Nếu lần trước không ăn móng chim cúc cu thì tôi còn tưởng đây là món ăn đen tối cơ! Nhưng bây giờ tôi đang mong chờ nó! Đây là bàn chân của ai! #Mọi người thảo luận nghiêm túc, có mũi có mắt. Jiang Qiuqiu nhìn nó, cố nén nụ cười trên môi. Cuối cùng, khi tám giờ đã đến, cô hắng giọng và chĩa con robot camera đã thu thập được vào đống nguyên liệu trên bàn. “Không, bánh bao hôm nay không phải chân ai cả, là một loại mì ống thơm ngon.” "Đó là một loại bột nhỏ và vỏ bánh được nhào bằng bột mì, bọc với nhiều loại nhân khác nhau và được làm bằng cách hấp, luộc hoặc chiên." "Đang là mùa thu. Một bát bánh bao nóng hổi và một ít súp là một trong những điều tuyệt vời trong cuộc sống."
+
+---
+*Thời gian thế hệ: 2025-11-19 13:15:03*

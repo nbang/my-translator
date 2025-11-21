@@ -1,0 +1,14 @@
+# Chương 1041 Tôi thất vọng đến mức kiện cả trường học.
+
+## Tiêu đề | Tiêu đề
+Chương 1041 Tôi thất vọng đến mức kiện cả trường học
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 1041 chương
+Tôi thất vọng đến mức báo cáo sự việc với nhà trường vào lúc 11 giờ sáng ngày hôm sau. Jiang Qiuqiu, người đã im lặng một thời gian dài, cuối cùng đã xuất hiện vòng tròn đầu tiên của mình sau sự cố lớn. Tuy nhiên, vòng kết nối này không phải là tin nhắn trực tiếp mà là chuyển tiếp. Những gì đang được chuyển tiếp là một lá thư của luật sư công được gửi bởi Xu Jing, một luật sư tại Xưởng luật sư ưu tú liên bang. Thư của luật sư nêu rõ: Thân chủ của tôi, Jiang Qiuqiu là thành viên cấp SSS của quân đội liên bang và được hưởng chế độ đãi ngộ đặc biệt của quân đội. Quyền danh tiếng của anh ta không thể bị xâm phạm. Bây giờ chúng tôi chính thức đệ đơn truy tố công khai đối với @热热的风@奇石 Viện dưỡng lão, người đã đăng thông tin sai lệch ngày hôm qua để bôi xấu danh tiếng của khách hàng của tôi. Chúng tôi sẽ kiện hai người này ra tòa án quân sự liên bang và yêu cầu họ phải công khai xin lỗi và bồi thường cho thân chủ của tôi về sự tổn thất danh tiếng. Ngoài việc bảo vệ danh tiếng của mình, Qiuqiu còn công bố bản ghi âm cuộc trò chuyện buồn bã và tức giận trước đây cùng một số đoạn ghi âm ngắn gọn thông qua công ty luật của mình. Nó bao gồm nhưng không giới hạn việc trò chuyện với trưởng khoa. Zhao Xun cảm thấy chán ghét cuộc đối thoại tán tỉnh của Bala. Và một cuộc trò chuyện ngắn với sĩ quan Wang. Ngoài ra, cô còn cập nhật các trường hợp bệnh nhân, dấu hiệu thực thể, kế hoạch điều trị,… hàng ngày tại Qishi Sanatorium. Tất cả các loại thông tin đều đầy đủ. Những bằng chứng mà Qiuqiu đưa ra hoàn toàn trái ngược với những gì Yang Nuannuan nói về tình hình hiện tại. Có bằng chứng, người Cửu Tinh lập tức dùng một liều trấn an! Một lượng lớn người hâm mộ đã đến minh oan cho Qiuqiu như thể họ đang ăn mừng năm mới. Dương Noãn Noãn cũng đang chú ý tới tin tức này. Ngay khi nhìn thấy lá thư của luật sư này, Yang Nuannuan, người chưa từng nhìn thấy thế giới, bắt đầu hoảng sợ. Cô ấy muốn tiền, nhưng cô ấy không muốn kiện tụng. Không thể tự mình giải quyết sự việc, cô lập tức đi tìm Triệu Tấn. Triệu Tấn cũng bối rối. Không phải anh ta đã nói rằng Jiang Qiuqiu đáng lẽ phải trở thành một chỉ huy đơn thuần sau khi anh ta lừa dối những bằng chứng đó sao? Tại sao vẫn còn đó! Và đống hồ sơ này! Ông lập tức gửi tin nhắn cho giáo sư Lưu, hỏi đầu ông có nước không. . Tại sao bạn nói nó được thực hiện trước khi nó được thực hiện? Điều này khiến giáo sư Lưu quay lại kiểm tra, trong lòng tràn đầy tự tin: "Xong rồi, bản gốc đã thất lạc." “Những gì học sinh gửi là một tập tin sao chép hoặc sao lưu, vì vậy nó là giả mạo.” Đó là một bản sao! Sau đó Triệu Tấn cảm thấy điều đó không thành vấn đề.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:25:17*

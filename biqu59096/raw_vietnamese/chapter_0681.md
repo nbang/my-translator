@@ -1,0 +1,14 @@
+# Chương 681 Thức ăn thuộc về thế giới
+
+## Tiêu đề | Tiêu đề
+Chap 681
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 681 chương
+Thức ăn thuộc về thế giới. Sẽ mất một lúc để Xiaoqian nhận được thông tin liên lạc. Anh ấy vừa có cuộc họp ở bộ phận kỹ thuật. Dữ liệu phát sóng trực tiếp gần đây của Jiang Qiuqiu rất tốt và số lượng người dùng hoạt động hàng ngày của ứng dụng này cũng tăng lên. Bộ phận kỹ thuật và bộ phận biên tập đang thảo luận về cơ chế đề xuất của ứng dụng. Xiaoqian luôn cảm thấy rằng các đề xuất về vị trí cố định như ứng dụng liên bang trước đó là quá lạc hậu. Anh ấy đang thảo luận với các nhân viên trong bộ phận công nghệ về việc liệu có thể sử dụng thuật toán dữ liệu lớn hay không. Nghĩa là, đề xuất bất cứ điều gì cô ấy thấy nhiều nhất và sau đó chỉ sử dụng những đề xuất tương tự ở những vị trí cố định, dễ thấy hơn. Ví dụ: màn hình giật gân, áp phích cấp cao nhất và các vị trí được đề xuất ở thắt lưng. Ý tưởng này hay nhưng lại đòi hỏi người ở bộ phận kỹ thuật phải tiếp tục rụng tóc. Trong khi hai bên vẫn đang nói chuyện, thiết bị đầu cuối của Qian Xingxing reo lên. Khi nhìn thấy người gửi là Qiuqiu, anh ấy nhanh chóng đi đến văn phòng của mình. "Này Thu Thu?" Anh ấy thực sự đã bắt đầu video một cách hiếm có. "Xingxing, tôi có chuyện muốn nói với bạn." "?" Tiền Hành Tinh hỏi: "Sao thế?" Cô ấy đã nói với Qian Xingxing những gì đã xảy ra trong bài đăng gần đây của mình. "À, mua bán à?" "Đúng." Giang Thu Thu đưa ra mấy từ khóa: "Ta phát hiện có rất nhiều người tham gia." “Không chỉ có nhiều người bán mà còn có nhiều người mua”. Mọi người đều sẵn sàng trả tiền đồ ăn, ngay cả khi Jiang Qiuqiu không nói về tiền bạc, Xingxing rất rõ ràng. Các khu ẩm thực và nhà hàng xoay khắp ngành truyền hình trực tiếp liên bang đều được thực khách khen ngợi. Nếu có thị trường của người mua thì thị trường của người bán rất đáng để khám phá. Qian Xingxing hiển nhiên hiểu được sự thật này, vội vàng nói thêm: "Qiuqiu, bạn muốn bán thứ gì đó?" "Không, không phải tôi." Jiang Qiuqiu lắc đầu, "Sức mạnh của một người và năng lực sản xuất là có hạn." Hơn nữa, cô còn đang đi học, thời gian rảnh lại càng có hạn. “Để mở rộng thị trường, chỉ dựa vào một người là chưa đủ”. "Tôi có một ý tưởng." Bạn thân mến, bạn đã nghe nói đến Meituan Takeaway chưa. Thời đại này vẫn chưa bị chiếm đóng bởi các ứng dụng khiêu dâm, nhưng nó có robot giao hàng và vườn ươm thức ăn dành cho người sành ăn. Nó có một nơi sinh sản tự nhiên cho đồ ăn mang về. ‘Điều kiện vận chuyển rất tốt’ và ‘có nhiều nhân viên giao hàng’. "Có lẽ chúng ta có thể tổ chức những người này."
+
+---
+*Thời gian thế hệ: 2025-11-19 14:09:11*

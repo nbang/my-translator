@@ -1,0 +1,14 @@
+# Chương 1110 Đại học Liên bang không xứng với ngươi, xông vào cổng trong
+
+## Tiêu đề | Tiêu đề
+Chương 1110 Đại học Liên bang không xứng với ngươi, xông vào cổng trong
+
+---
+
+## Nội dung | Nội dung
+
+Chương 1110
+Đại học Liên bang không xứng đáng với bạn. Sau khi xông qua cổng trong, tất cả sinh viên tốt nghiệp Khoa Cá nhân Cơ khí của Đại học Liên bang sẽ được ký tên trên ảnh tốt nghiệp. Ký tên của một người như vậy. Những người lính ngưỡng mộ các anh hùng gần như cảm thấy xấu hổ ngay lập tức. Ngay khi cảm xúc này sắp đạt đến đỉnh điểm, giọng nói của Qiuqiu lại xuất hiện. Cô đặt tay lên vai người bạn cùng lớp quen biết. "Long Chí, khi chúng ta ở trong phòng máy tính ảo, chúng ta thường cùng nhau tranh tài. Cậu là một trong những người chăm chỉ nhất mà tôi từng thấy. Thầy Mao thường nhắc đến cậu trong lớp chúng ta." Anh ấy không tài năng lắm nhưng anh ấy làm việc chăm chỉ để giành được mọi thứ. Cô Mao nói rằng cô có thể không trở thành một chuyên gia hàng đầu, nhưng nếu có thời gian, cô sẽ trở thành một ngôi sao và trụ cột cho tương lai của quân đội liên bang. Long Chí không khỏi khen ngợi, sắc mặt hơi đỏ lên. Nhưng chẳng bao lâu, những gì Qiuqiu nói khiến mặt cô tái nhợt. "Bạn đã thụt lùi." Không có lời nói đầu, chỉ có câu này. Nhẹ nhàng thoáng đãng, nhưng bốn chữ này tuyệt đối có thể trấn áp tâm lý phòng ngự của con người. Longchi đã phải nỗ lực bao nhiêu mới có thể đi lên được? Chỉ có bản thân Longchi mới biết được công việc khó khăn đó. Cô cũng biết tình trạng của mình gần đây không đặc biệt tốt, nhưng cô nghĩ đó chỉ là hội chứng kỳ nghỉ và sẽ ổn sau khi qua đi. Nhưng không ngờ rằng người cộng sự tạm thời trước đây của tôi lại nói ra điểm mấu chốt trong một câu. Long Trì biết rằng tinh thần lực của Thu Thu cao hơn mình rất nhiều. Cô rơi vào trạng thái trầm cảm gần như ngay lập tức. Thu Thu nhìn cô: “Giống như đã lâu lắm rồi, tôi cảm thấy khoa chữa bệnh tinh thần của Đại học Liên Bang không xứng với tôi. Hiện tại, tôi cảm thấy khoa cơ giới ở đây không xứng với cô.” Nói xong, cô nghiêng đầu chỉ vào đội trưởng bảo vệ, "Một trưởng khoa như thế này "Và những giáo viên mới trên bảng thông báo." Qiuqiu nhìn vào danh sách không khỏi bật cười. "Một số giáo viên có giỏi như bạn không?" "Tại sao họ phải dạy bạn?" Không ai nói gì, và tất cả học sinh đều nhìn Jiang Qiuqiu. Lúc này, mọi người thực sự nổi loạn. Vâng, tại sao một người như vậy phải dạy chúng tôi? Trong khi các học sinh đang suy nghĩ, Qiuqiu bước tới phía trước, "Bây giờ tôi sẽ theo đuổi công lý của mình. Xin hãy phân biệt đúng sai, biết luật và tôn trọng luật, để tôi vượt qua.”
+
+---
+*Thời gian thế hệ: 2025-11-19 14:26:38*

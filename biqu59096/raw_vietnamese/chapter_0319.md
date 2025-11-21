@@ -1,0 +1,14 @@
+# Chương 319 Đẩy người khác xuống dưới nồi
+
+## Tiêu đề | Tiêu đề
+Chương 319 đẩy người khác xuống dưới nồi
+
+---
+
+## Nội dung | Nội dung
+
+Chương 319
+Cùng lúc với việc nhét một người khác vào dưới nồi, Jiang Qiuqiu PK đối thủ của mình trong phòng phát sóng trực tiếp: "Đối thủ của bạn Jiang Jiujiu đã phát sóng trực tiếp xong." "Số lượng người xem trong phòng phát sóng trực tiếp là 693,1 triệu, số lượng rào chắn hoạt động là 345 triệu, số người nếm thử là 677 triệu. Có 511 triệu người đánh giá, tổng điểm là 4,99 (năm điểm) ~ Bạn phải tiếp tục làm việc chăm chỉ!""..." Đối thủ trong PK này là một đầu bếp có phong cách phàn nàn. Khi nghe được dữ liệu này, anh ấy gần như phun hết đồ uống của mình. 【! Đừng nôn! Nếu bạn nôn, bạn coi như xong ngày hôm nay! 】 【Nếu bạn nôn mửa, hãy để lại bình luận xấu! ? ? ? 】 【Bạn không được phép nôn mửa. Nếu bạn nôn mửa, bạn sẽ kết thúc! 】 Hắn nuốt nước trong miệng, "Thật sự là quá tuyệt vời." "Tôi nghĩ cô ấy nấu ăn chắc chắn rất ngon. Nếu lần PK này thất bại, lần sau chúng ta cùng nhau đi thăm nơi neo đậu này nhé -" Anh chưa kịp nói xong đã thấy fan của mình lướt trên đập "Ừ, ngon quá!" Thực sự ngon! 】 【Gà rán ngon quá! Bạn không muốn thua! 】 【Tiaozi, bạn không tốt bằng những người khác. 】 Một dấu chấm hỏi xuất hiện trên đầu người dẫn chương trình có ID là Langli Baitiao: "Đợi đã, bạn không xem chương trình phát sóng trực tiếp của tôi sao??? Tại sao bạn lại biết mùi vị món ăn cô ấy nấu!?" [Thật ngớ ngẩn, tất nhiên là vì chúng ta đã ăn nó rồi. 】 [Có] [Ngon, đặc biệt ngon. 】 【Tôi vừa đến đó. ] "..." "Vậy là các cậu đến đó để chấm điểm à?" [Đúng. ] "Các bạn vẫn là fan của tôi à?!" [Thật buồn cười, nếu chúng tôi không phải là fan của bạn thì chúng tôi sẽ không quay lại. Bạn còn không biết nó ngon thế nào đâu, xèo xèo, xèo xèo, tôi đang ăn ngay đây. "..." Anh đã hiểu. Điều mà những người này thích không phải là kỹ năng nấu nướng của anh ấy chút nào. Họ thèm muốn thân hình đẹp trai và tâm hồn thú vị của anh ấy! Cám! Nghiến răng nghiến lợi, Lang Li Baitiao đã hoàn thành xong món ăn hôm nay. Mọi người vẫn cười và đánh giá anh ta, nhưng so với số liệu thống kê vô nhân đạo của Jiang Qiuqiu, thất bại đã là chắc chắn. Anh không buồn lắm, chỉ là đáng tiếc thôi. Tại sao lại gặp phải sát thần này sớm như vậy... Hắn có thể tiến vào PK cuối cùng, lọt vào top năm cũng không thành vấn đề. Quên đi, đừng nghĩ nhiều như vậy, sẽ không ảnh hưởng tới tiền bạc của hắn. Sau khi tắt phát sóng trực tiếp, biên tập viên đã đưa ra một tin nhắn đặc biệt để an ủi anh. Lang Li Baitiao trên đầu có vạch đen: “Không phải là ta bị lừa thua, ta mất đi sức lực, ta tin chắc, chuyện nhỏ nhặt như vậy đáng được an ủi sao? Ta không phải là cỏ khóc.”
+
+---
+*Thời gian thế hệ: 2025-11-19 13:23:15*

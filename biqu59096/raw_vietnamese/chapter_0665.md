@@ -1,0 +1,14 @@
+# Chương 665 Một kỷ lục khủng khiếp nhưng không ai cười nhạo
+
+## Tiêu đề | Tiêu đề
+Chương 665 Một kỷ lục khủng khiếp nhưng không ai cười nhạo
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 665 chương
+Đó là một kỷ lục khủng khiếp nhưng không ai cười nhạo nó. Theo lẽ thường, PK của Jiang Qiuqiu không có gì hồi hộp. Tuy nhiên - cả hai lên máy bay cùng lúc, sau khi bắt đầu, số 87 chạy tới trước mặt Jiang Qiuqiu, Jiang Qiuqiu né sang một bên. Nếu bình thường, cô sẽ nhanh chóng né rồi đá lại để nhanh chóng được 3 điểm từ đèn đỏ phía sau. Tuy nhiên, sau tia chớp đó, 87 quay lại, Jiang Qiuqiu vẫn chưa thực hiện bước tiếp theo. Người cảm thấy có điều gì đó không ổn nhanh nhất chính là đối thủ của anh. Dù 87 được xếp vào hạng trung cấp trở xuống trong lớp A1 nhưng anh cũng là niềm tự hào của cả khoa. Vì vậy, hắn nhanh chóng phát động đợt tấn công thứ hai, muốn biết lỗ hổng mà Jiang Qiuqiu tiết lộ là giả hay thật. Đòn thứ hai được tích điện và nhanh hơn trước. Jiang Qiuqiu phải làm hai việc, sử dụng sức mạnh tinh thần của mình để chống lại áp lực trong buồng lái khi điều khiển cơ khí. Phản ứng của cô chậm hơn nhiều so với trước đây. Đã là hiệp thứ hai, cô không thể né được nữa. Bạn phải tiến lên, nếu không sẽ hòa, 0,1 của người khác sẽ bị lãng phí vô cớ. Cần có lòng can đảm để đối mặt với trận chiến, nhưng chỉ có lòng dũng cảm thì không thể mang lại chiến thắng. Đầu tiên là đòn đánh bằng cẳng tay, đối phương bị trừ điểm vì đèn vàng. Khoảng cách đã được mở rộng. Jiang Qiuqiu quyết định nhanh chóng và dùng trái tay đánh vào ngực 87, đối thủ nhận được một điểm vì đèn vàng. Ở hiệp đối đầu thứ hai, hai bên dường như ngang bằng nhau. Nhưng ở hiệp thứ ba và thứ tư, số 87, người ngày càng trở nên điên cuồng hơn với việc đếm ngược, đã dạy cho Jiang Qiuqiu một bài học. Chung cuộc, số 87 ghi được 11 điểm và Jiang Qiuqiu chỉ ghi được 4 điểm. Số 87 đã thắng. Đây là lần đầu tiên trong cuộc thi hạng A1, ngoài Ling, bạn cùng lớp A+ hạng hai của Hoắc Gia và Wannian, còn có một người khác đã đánh bại Jiang Qiuqiu. Mọi người đều không tin. Nhưng sự hoài nghi này chỉ là sự khởi đầu. Bởi vì còn có ván thứ hai, ván thứ ba và ván thứ tư - lúc đầu Giang Thu Thu còn có thể ghi điểm PK, khiến trận đấu không giữ sạch lưới, nhưng sau ván thứ mười, cô đã bắt đầu run rẩy. Ngay cả việc đi lại và thực hiện các động tác cũng bắt đầu trở nên không ổn định và càng không thể ghi bàn. Ai cũng có thể đuổi cô ấy đi, chỉ cần hợp với cô ấy thì gần như có thể thắng, bởi vì chỉ cần cô ấy đẩy mạnh, rất có thể cô ấy sẽ ngã xuống đất. Cô chỉ cần thực hiện một số động tác đơn giản để đối thủ ghi điểm. Có vẻ như việc thay đổi cơ khí đã ảnh hưởng rất lớn đến cô ấy.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:08:47*

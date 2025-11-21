@@ -1,0 +1,14 @@
+# Chương 561 Tưởng học trò cũ tới đây gây chuyện
+
+## Tiêu đề | Tiêu đề
+Chap 561
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 561 chương
+Nghĩ rằng cậu học trò cũ đến đây để gây rắc rối với thầy Ninh, sau khi tan họp, mọi người bắt đầu rời đi. Bởi vì mọi người nói rằng tòa nhà hình tròn này có nhiều lối ra và bạn có thể thoát ra bằng cách đi theo nhiều con đường. Jiang Qiuqiu không thích cảnh đông đúc, vì vậy cô dự định sẽ đợi tại chỗ cho đến khi đám đông thưa dần rồi mới ra ngoài. Nhưng Michelle lại nói: “Cửa sổ có rất nhiều người lấy dung dịch dinh dưỡng, tôi phải ra ngoài trước.” "Mạnh Xuân, ngươi có muốn cùng ta đi lấy không?" Mạnh Xuân nói, cô không muốn tụ tập quá đông, nhưng lại liếc nhìn Giang Thu Thu đang đứng một mình, Michelle đứng một mình, cô vẫn đứng dậy: "Tôi cũng đi lấy dung dịch dinh dưỡng với Michelle." "Qiuqiu Tingting, chúng ta sẽ gặp lại bạn sau." Họ biến mất cùng với đám đông. Lưu Đình Đình liếc nhìn Giang Thu Thu, Giang Thu Thu liếc nhìn cô: "Sao vậy?" "Không có gì đâu, tôi chỉ nghĩ... thật tuyệt khi có bốn người ngủ trong trường của chúng tôi." Mới chỉ ngày thứ nhất, ngày thứ hai mà dường như họ đã bắt đầu chia tay. Trong khi hai người đang trò chuyện, phía trước có một nhóm lớn học sinh cũ cũng đang nhìn xung quanh. "Ai mà không có thị lực tốt? Bạn có đôi mắt tinh tường và có thể nhìn xa hàng trăm mét. Bạn vẫn chưa xem dòng tweet? Thông tin trực tiếp có ở đây." "Sao ngươi không tới nhìn xem... Đừng làm ồn, để ta nhìn kỹ một chút." “Có người đi đến nhóm này hỏi Đình Đình xem phương hướng nào, đừng rời khỏi giảng đường.” Mọi người @ Liu Tingting, nhưng Liu Tingting đang nói chuyện với Qiuqiu, làm sao cô ấy có thể nhìn vào thiết bị đầu cuối. Thời gian trôi qua, đám đông dần dần thưa thớt. Ngay khi các học sinh cũ còn tưởng rằng hôm nay lại là một chuyến đi miễn phí nữa thì người đàn ông năm giác quan đột nhiên có chút hưng phấn: “Tôi thấy rồi, tôi thấy rồi!” "Tôi đã nhìn thấy nó!" "Nó đâu rồi?" "Hình như đang ngồi chờ người rời đi. Chúng ta đi qua đi!" Hàng chục người tụ tập xung quanh. Mọi người đều có một nụ cười lớn ngạc nhiên trên khuôn mặt của họ. Vớ vẩn, gặp được nữ thần sao có thể không vui được? Họ tiếp cận từng chút một. Liu Tingting nhìn thấy đầu tiên và kéo Jiang Qiuqiu. Jiang Qiuqiu cũng ngẩng đầu lên. Ánh mắt họ gặp nhau, và một cảm giác kỳ lạ tràn ngập trong họ. Jiang Qiuqiu đứng dậy, một nhóm người phía trước cũng nhanh chóng chạy tới. Cuối cùng, sau khi đi vòng quanh gần hết trường và chạy tới chạy lui nhiều lần, những người hâm mộ khoa cơ khí là những người đầu tiên gặp được nữ sinh trực tiếp của họ, Jiang Qiuqiu.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:33:16*

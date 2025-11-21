@@ -1,0 +1,14 @@
+# Chương 374 Cô ấy chỉ là một cô gái tốt bụng bình thường
+
+## Tiêu đề | Tiêu đề
+Chương 374 Cô ấy chỉ là một cô gái tốt bụng bình thường
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 374 chương
+Cô ấy chỉ là một cô gái tốt bụng bình thường - tôi đã đến bệnh viện để kiểm tra chi tiết và bác sĩ nói rằng không thể xác nhận được sự phát triển trong tương lai. Tôi đang bối rối. - Năm thứ tư: Tình hình hơi xấu đi. Bác sĩ nói đó là do tâm trạng phức tạp của tôi... và yêu cầu tôi thư giãn. - Cô gái đó biết chuyện và bỏ đi. Cô ấy nói cô ấy không muốn làm tôi xấu hổ và yêu cầu tôi phải bảo vệ bản thân và đừng để tình trạng của tôi trở nên tồi tệ hơn. -Tôi nhớ cô ấy rất nhiều. Sau khi cô ấy rời đi, tôi nghĩ đến nhiều điều hơn và tình trạng của tôi lại trở nên tồi tệ hơn. Có thể thấy, người đăng bài này là một người rất hài hước. Lúc này, anh không khỏi an ủi những bệnh nhân theo dõi anh để cập nhật thông tin: Một số người trong vòng trước đó đã nói rằng tình trạng bệnh không liên quan gì đến tâm trạng. Tôi đã tự mình trải nghiệm và nó vẫn có liên quan nên mọi người nên thoải mái và vui vẻ ~ Tại sao bạn không sống cuộc sống của mình mà không sống hết mình? Jiang Qiuqiu duyệt qua, và những gì được ghi lại dưới đây là câu chuyện về sự trở lại của cô gái và sự chia ly và đoàn tụ của cô với chàng trai trẻ linh dương Tây Tạng vui vẻ này. Họ trải qua sự phản đối của cha mẹ, xung đột quan điểm và cuối cùng bước vào cung điện hôn nhân. Rồi vào năm thứ mười ba, mọi thứ đột ngột kết thúc. Người đăng ban đầu không bao giờ xuất hiện nữa và những người vẫn đăng bài bên dưới chỉ là những người có suy nghĩ đã tham gia vòng kết nối sau đó. Hầu như có tất cả các bài viết như thế này trong vòng kết nối này. Jiang Qiuqiu đọc thêm vài bài nữa rồi dừng lại. Cô cảm thấy có chút nghẹn ngào trong lòng. Và đột nhiên, tôi thực sự muốn rèn luyện chăm chỉ, học tập chăm chỉ và trở thành loại người thực sự có thể chữa khỏi bệnh suy giảm gen chỉ bằng một nỗ lực. Cô nghĩ đôi khi suy nghĩ của mình thật ngây thơ. Anh ấy không phải là siêu nhân nhưng thỉnh thoảng lại muốn “cứu thế giới”. - Buổi tối, Mặc Tư gọi điện. Chắc chắn là anh ấy đang nói về sự việc của Anh Báo. “Ban đầu tôi định giấu cậu.” "Sao em lại giấu anh? Em sợ anh không nhận à?" Giang Thu Thu hỏi hắn. Mo Si chưa bao giờ nghĩ về điều đó theo cách đó. Anh nhìn thấy sự kiên trì của Jiang Qiuqiu. Cho dù biết tin, cô ấy có thể sẽ buồn, nhưng cô ấy sẽ không bao giờ gục ngã. Nhưng - "Tôi đoán những người ở trung tâm cứu hộ sẽ hỏi bạn về tình hình." "Ngươi không biết sự tình, liền có thể che đậy, nếu là biết sự tình..." Mặc Tư nói: "Sẽ rất xấu hổ."
+
+---
+*Thời gian thế hệ: 2025-11-19 13:24:36*

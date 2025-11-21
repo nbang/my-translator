@@ -1,0 +1,14 @@
+# Chương 716 Đi ăn thịt nướng cùng bạn bè vui quá
+
+## Tiêu đề | Tiêu đề
+Chương 716 Đi ăn thịt nướng cùng bạn bè vui quá
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 716 chương
+Ăn thịt nướng cùng bạn bè thật là vui nên hãy chia ra nhé. Michelle và Merlin thực sự là những kẻ ngốc nghếch trong bếp nên họ chỉ thu xếp rửa bát. Điều này thật đơn giản. Sau khi rửa sạch, Mạnh Xuân và Giang Giang tới cắt thịt, Giang Thu Thu và Lưu Đình Đình chịu trách nhiệm xâu xiên, Thu Thu phụ trách ướp thịt. Phân chia thô, thô thì cũng được, nhưng thời gian đầu người cắt rau, xâu xiên không có việc gì làm nên nhiệm vụ được giao dễ bị lộn xộn. Đầu tiên, Giang Giang đi giúp Mỹ Lâm rửa rau, sau đó Mạnh Xuân và Lưu Đình Đình ngồi vào bồn rửa. Năm người cùng tắm rửa chắc phải khá nhanh. Sau khi mọi người xem xét một lúc, họ quyết định - giặt chung, cắt sau khi giặt và mặc chung sau khi cắt thì sao? Tôi không quan tâm đến hiệu quả hay bất cứ điều gì, tôi chỉ nghĩ rằng thật thú vị khi có một nhóm người cùng nhau! Merlin có chút bối rối. Giang Giang nhéo cổ tay cô, đến gần cô: "Cô nương, cô đi sang một bên chia bát đĩa đi. Bát đĩa rửa càng ngày càng nhiều, tôi cần người chia." Cô thực sự phải nhờ người chia sẻ món ăn nên cô vui vẻ bước xuống bậc thang. Nửa giờ sau, cơ bản tất cả bát đĩa đều đã được rửa sạch, thịt của Jiang Qiuqiu đã được ướp. Có thể thực hiện đồng thời việc cắt và xâu rau củ. Vào bếp, cô chỉ lấy ra bốn con dao. Bàn tay khéo léo sẽ cắt nó, phần còn lại đặt nó vào xiên. Tuy nhiên, ở đây chỉ có hai bàn tay tên Jiang là rất ổn định và kích thước của các vết cắt về cơ bản là giống nhau. Chân fan Lưu Đình Đình có một bàn tay nhỏ cầm dao, có những miếng lớn nhỏ, có chút không đều. Nhưng nó có quan trọng gì! "Chào!" "Bà Merlin! Đừng mang những củ khoai tây có kích cỡ khác nhau vào cùng nhau!" Liu Tingting vừa ném những củ khoai tây cắt không đều vào chậu rau. "Thật dễ dàng để họ nấu ăn không đều!" Tay Merlin dừng lại một lúc. Rất ít người có thể nói chuyện với cô bằng giọng điệu này. Cô ấy thường ra lệnh cho người khác. Ping này...người này khá tự nhiên. Nhưng thái độ tự nhiên là khá tốt. Ngoài ra, "Bạn biết rằng các kích cỡ khác nhau sẽ nướng không đều, vậy tại sao bạn không cắt chúng đều nhau?" Chẳng phải điều đó sẽ làm cho việc mặc chúng một cách ngẫu nhiên dễ dàng hơn sao? "Không phải không có cách nào để làm điều này sao?" Lưu Đình Đình than thở: “Nếu biết thì tôi đã không dùng con dao làm bếp này”. Cô hát hay và làm bầu không khí sôi động, mang lại nụ cười trên khuôn mặt mọi người. Giang Giang cũng cắt rau rất nhanh. Sau khi nhìn thấy nụ cười trên mặt Merlin, hắn cũng nhếch lên khóe miệng. Tôi còn chưa ăn gì, bụng còn trống rỗng, trong lòng có chút vui mừng không hiểu.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:10:03*

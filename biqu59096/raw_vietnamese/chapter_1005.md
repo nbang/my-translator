@@ -1,0 +1,14 @@
+# Chương 1005: Chiếc áo khoác bông nhỏ rách rưới và rách rưới
+
+## Tiêu đề | Tiêu đề
+Chương 1005: Một chiếc áo khoác bông nhỏ rách rưới và rách rưới
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 1005 chương
+Đó là tất cả cho chiếc áo khoác nhỏ bị rò rỉ và rách nát. Không có gì ngạc nhiên khi không có bất kỳ thay đổi nào cả. Lượng rượu mà sĩ quan Vương uống vào khoảng 1/15 một bát lớn, thực sự rất nhỏ. Thế thôi, bà vẫn muốn bào chữa cho con gái: “Con không đưa cái này cho con gái được sao? Mẹ thấy nó thích… nên bảo nó uống thêm.” “Thật xin lỗi, bác sĩ Giang, là tôi làm gián đoạn kế hoạch điều trị của anh.” "Lần này được rồi." Mạng sống của sĩ quan Wang đang bị đe dọa. Đối mặt với nhân sinh, Thu Thu ánh mắt kiên định, "Nhưng lần sau sẽ có chuyện." "Tôi đã nhờ robot mang đến cho bạn những món ăn đặc biệt, những người khác không mang đến cho bạn những món ăn đặc biệt, bạn có thể ăn nó." "Nếu ngươi ăn vào, hiệu quả trị liệu của ngươi sẽ giảm đi rất nhiều." Sau khi nói với cảnh sát Vương, Thu Thu quay lại nhìn Dương Noãn Noãn: "Anh có nghe thấy không? Những món ăn đó tương đương với thuốc mà mẹ anh uống. Mỗi ngày, những món thuốc tôi làm đều được để trong cửa sổ đồ ăn ngon của tôi. Nếu cô muốn ăn thì có thể đến quầy đồ ăn và lấy. Đừng chạm vào những thứ này trong phòng bệnh, hiểu không?" Có lẽ là vì vẻ mặt của Thu Thu quá nghiêm túc nên Dương Noãn Noãn mấp máy môi, gật đầu. rất tốt. "Vậy ngày mai tôi sẽ quay lại. Nếu hôm nay cậu không ăn bữa điều trị, số liệu tính toán buổi chiều sẽ không được ghi vào bảng." Cảm giác thực sự tồi tệ khi kế hoạch điều trị bị gián đoạn. Tình trạng thể chất hiện tại của cô không được tốt lắm. Qiuqiu suy nghĩ về điều đó và cho sĩ quan Wang một đợt điều trị tinh thần thuần túy khác trước khi rời đi. Trong quá trình truyền sức mạnh tinh thần chữa lành cho cô, Qiuqiu đã lặng lẽ thử nghiệm ý tưởng của mình vào buổi trưa. Theo lý thuyết trước đây về 'bức tường thành', 'bao vây thành' và 'bảo vệ thành', sĩ quan Vương không thể chịu đựng được việc truyền tải sức mạnh tinh thần quá cao, bởi vì sẽ có quá nhiều quân tiếp viện và bức tường thành sẽ sụp đổ. Điều gì sẽ xảy ra nếu nó không có cường độ cao nhưng sử dụng sức mạnh tinh thần vừa phải và sau đó phát huy nó một cách “cân bằng”? Đây là một ý tưởng xuất sắc, nhưng trong quá trình áp dụng cần phải khắc phục tình trạng run rẩy tinh thần do gợn sóng gây ra bởi sự va chạm giữa sức mạnh tinh thần của cơ thể chính và lực bức xạ trong cơ thể cô ấy... Sự ổn định của việc truyền sức mạnh tinh thần phải được duy trì. Và nó phải luôn ổn định. Phải mất rất nhiều sự chú ý để tập trung vào điều này. Điều này là khó khăn với những người khác, nhưng đối với Qiuqiu, đó là một thử thách.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:24:33*

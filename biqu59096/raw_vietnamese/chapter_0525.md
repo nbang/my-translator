@@ -1,0 +1,14 @@
+# Chương 525 Vậy thì anh có bằng lòng cưới tôi không?
+
+## Tiêu đề | Tiêu đề
+Chương 525 Vậy thì anh có bằng lòng cưới tôi không?
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 525 chương
+Sau đó anh sẽ cưới em chứ? Ngày hôm sau. Ngày 2 tháng 1 vẫn là ngày nghỉ. Jiang Qiuqiu xin nghỉ phép trong phòng phát sóng trực tiếp từ ngày 1 đến ngày 5, để lại 4 ngày, có thể coi là khoảng thời gian nghỉ ngơi cuối cùng trước khi bắt đầu đi học. Sau khi bắt đầu phát sóng vào ngày 5, cô ấy sẽ phát sóng trực tiếp hàng ngày cho đến khi bắt đầu đi học, sau đó chuyển sang phát sóng hàng tuần hoặc phát sóng hai lần một tuần. Lần này nghỉ phép quá lâu, người hâm mộ và những người trong giới đều lo lắng. Jiang Qiuqiu nghĩ, mọi người nên làm quen với cảm giác này trước, dù sao nó sẽ thường xuyên xảy ra trong tương lai. Những ngày rảnh rỗi, hãy chơi đùa với hố đen một cách vui vẻ nhé! Nghĩ đến lỗ đen, cô phát hiện hôm nay lỗ đen vẫn chưa tới. Jiang Qiuqiu đợi thêm năm phút nữa. Không đợi ai, cô quấn khăn quàng cổ rồi đi ra ngoài. Jiang Qiuqiu bấm chuông trước cửa biệt thự nhỏ. Chẳng mấy chốc cánh cửa đã mở ra. Khi Mo Si nhìn thấy Jiang Qiuqiu đang cầm một chiếc máy điều nhiệt trong tay, anh lập tức đưa tay ra, cầm lấy thứ đó trong tay và kéo cô vào cửa. "Sao cậu lại ở đây?" Mộ Tư hỏi. “Anh không tới.” Giang Thu Thu cười nói: "Sợ ngươi xảy ra chuyện gì, liền tới tìm ngươi." "Em có thể nhắn tin cho anh, anh sẽ đi tìm em. Ngoài trời gió lớn và tuyết rơi nhiều, em sợ lạnh, đợi anh một chút." "Lãnh, em cũng muốn tới chỗ anh, nhưng lại không muốn gửi tin nhắn. Có chuyện gì vậy?" Còn có thể nói cái gì, Mặc Tư chỉ có thể âm thầm vui đùa. “Nhưng có chuyện gì với cậu ở đây thế?” “Không có gì…” Chuyện này dài lắm, nhưng cũng có thể rút ngắn lại. Ban đầu Mo Si định hôm nay bộc lộ tình cảm của mình và mong muốn trở thành đối tác hợp pháp với Qiuqiu, nhưng khi tỉnh dậy vào buổi sáng, anh thấy quần áo của mình quá giống nhau nên muốn mặc quần áo trẻ trung hơn. Kết quả là anh ta thử đi thử lại nửa tiếng nhưng vẫn không thể đưa ra quyết định nên đã đến muộn. May mắn thay, Qiuqiu đã đến gặp anh. Tôi cũng mang đồ ăn ngon đến đây! Bánh bao hấp với măng thái hạt lựu và thịt lợn, sữa đậu nành và vài miếng bánh nhân thịt bò đều là những món mà Mo Si yêu thích. Sau khi tắm rửa xong, anh ăn sáng với vẻ mặt vui vẻ. "Qiuqiu, cậu cũng ăn đi." "Ừ, tôi cũng ăn. Nhanh ăn thêm đi." Giang Thu Thu vẻ mặt hài lòng nhìn hắn, khóe miệng nhếch lên, "Nhân tiện, Hố Đen, ta xin nghỉ phát sóng trực tiếp, cho đến ngày 5 mới tiếp tục phát sóng. Ngày mai chúng ta cùng đi đến thành phố liên bang chính nhé?"
+
+---
+*Thời gian thế hệ: 2025-11-19 13:32:21*

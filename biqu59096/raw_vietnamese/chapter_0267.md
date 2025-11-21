@@ -1,0 +1,14 @@
+# Chương 267 Mùi dung dịch dinh dưỡng tỏa ra từ trong ra ngoài
+
+## Tiêu đề | Tiêu đề
+Chương 267 mùi dung dịch dinh dưỡng từ trong ra ngoài tỏa ra
+
+---
+
+## Nội dung | Nội dung
+
+Chương 267
+Nó tỏa ra mùi dung dịch dinh dưỡng từ trong ra ngoài. Bởi vì Mo Si luôn đứng bên cạnh Jiang Qiuqiu với thái độ bảo vệ nên cả Mingliang và Qian Xingxing đều nghĩ anh là bạn trai của Qiuqiu. Ngoài ra, anh ấy còn có thể chăm sóc tốt cho Qiuqiu, khí chất của anh ấy quá mạnh mẽ ... Để tránh bị coi là bóng đèn, họ ở lại trong một khoảng thời gian ngắn và chụp vài bức ảnh cho Jiang Qiuqiu, sau đó hai người rời đi. Lúc này, Jiang Qiuqiu đã bôi chất lỏng nuôi dưỡng tâm linh. Cô không thể uống nó nên phải tiêm năng lượng này vào tĩnh mạch bằng phương pháp cổ xưa nhất. Xung quanh im lặng. Bà Aier ra ngoài gặp một vị tướng già khác. Mo Si mở thiết bị đầu cuối và bắt đầu duyệt thông tin về Jiang Tianming. Trước đây anh ấy đã hỏi Jiang Qiuqiu về lý do tại sao anh ấy bỏ học. Jiang Qiuqiu nói rằng anh ấy muốn tự mình giải quyết vấn đề. Mo Si cũng cảm thấy mình không nên tò mò quá nhiều vào chuyện riêng tư của cô bé. Hơn nữa cô cũng khá tự tin nên Mặc Tư cũng không hỏi thêm gì nữa. Nhưng khoảnh khắc thư giãn—thực sự đã gây ra những chuyện này. Anh ấy quan sát tất cả những điều này với khuôn mặt vô cảm. Từ lúc Jiang Qiuqiu kiểm tra sức mạnh tinh thần B+ từ một ngôi sao cấp thấp đến Liên bang, bước vào trường học và gặp gỡ Jiang Tianming và những người khác, tất cả các sự việc đều được liệt kê rõ ràng trong báo cáo này. Suy cho cùng, trong mắt quý tộc, tiện dân và kiến ​​từ các ngôi sao cấp thấp đều không có ý đồ gì. Cho dù có người nhìn thấy họ đốt một đàn kiến, ai sẽ nói gì? Càng nhìn, đôi mắt của Mo Si càng trở nên tối tăm. Đó là điều mà một số trường đại học hiện nay đang thực hiện. Một số quý tộc. Một số người không biết xấu hổ. ——Mo Si: Liệt kê tất cả những người trong vòng kết nối đó. ——Qiu Dao: Đô đốc, đây là cái gì? ——Mo Si: Gửi tin nhắn đến trung tâm học tập và hỏi họ, Gong Fan đã trở thành hiệu trưởng như thế nào? ---Qiu Dao: Tướng quân tốt. ——Mo Si: Bộ phận duyệt lính đánh thuê cũng phải chịu trách nhiệm. Bạn có nghĩ đây vẫn là Đế chế Taal trước đây không? Nó thật vô dụng. Liên đoàn đã thành lập gần trăm năm mà rác rưởi vẫn có thể chạm vào web đen? Thu Đao nhạy bén nhận thức được tâm trạng của Mặc Tư lúc này không tốt. Rất tệ. Đô đốc thực sự đã nói những lời bẩn thỉu ... Bạn biết đấy, chỉ trong những trường hợp hiếm hoi, khi ở tiền tuyến và trên chiến trường, đô đốc mới nói những điều mà thời bình thường không thể nói được. ——Qiu Dao: Ngày mai tôi sẽ trực tiếp đến cục kiểm duyệt đi dạo.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:21:58*

@@ -1,0 +1,14 @@
+# Thứ 568 chương Cơ giáp tài năng của Khương Thu Thu
+
+## Tiêu đề | Tiêu đề
+Chap 568
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 568 chương
+Tài năng cơ khí của Jiang Qiuqiu Jiang Qiuqiu nằm trong số đó, và anh ấy cũng khơi dậy tinh thần chiến đấu vô hạn. Không có nhiều khác biệt giữa huấn luyện quân sự thường xuyên trên các vì sao và huấn luyện quân sự thường xuyên trong thế kỷ 21. Cả hai đều rèn luyện thể lực và khả năng phản ứng trước tiên, mọi người lần lượt chạy và leo núi với tạ nặng theo một vòng tròn lớn - không phân biệt nam hay nữ. Rất mệt mỏi nhưng ít người phàn nàn, họ đều nghiến răng nghiến lợi tiến về phía trước. Bởi vì ai cũng muốn chứng tỏ bản thân và muốn đứng nhất lớp A. Ai mà không đầy đam mê và ai lại muốn bị cho là kém nhất? Đặc biệt là trong giờ nghỉ giải lao, mọi người “vô tình” biết được đội trưởng dẫn dắt đội a1 vốn là người lai gen cấp B. Anh đã đạt được thành tích như ngày nay nhờ rèn luyện thể chất và tinh thần với cường độ gấp đôi. Vào buổi chiều, mọi người đều cảm thấy như bị tiêm thuốc. Có những tấm gương thành công làm sẵn ngay trước mặt tôi. Nếu mình không chăm chỉ thì người khác sẽ là người tạo nên điều kỳ diệu! Và phía bên kia. Một nhóm hướng dẫn viên và một nhóm giáo viên đã quan sát mọi thứ trên sân tập thông qua robot camera ẩn. "Đúng đúng, học sinh năm nay còn ngây thơ hơn trước." “Hiệu quả hôm nay là kim không chọc được.” Người hướng dẫn trưởng nghiêm túc cười: “Nhìn xem, em làm việc chăm chỉ quá!” "Tất cả là để phấn đấu đạt đến đỉnh cao." "Lần sau đừng bảo tôi giả làm học sinh nói chuyện ở quảng trường học sinh, quá ngu ngốc, dù sao tôi cũng là giáo viên, bị phát hiện thật xấu hổ." "Ai cho ngươi có giọng nói trẻ nhất? Đừng nói nữa. Nhìn đây, đội trưởng Xu. Đây là chữ S duy nhất trong bộ phận cơ giáp của chúng ta trong năm nay." “Đây là đứa trẻ nhà Hoắc sao?” Máy ảnh. Người máy nhanh chóng quay màn hình sang bên đó: "Quả nhiên là tốt. Đáng lẽ anh ta phải được huấn luyện đặc biệt ở nhà. Mức độ huấn luyện này chỉ nên coi là khởi động cho anh ta thôi." "Mặc dù rất tàn nhẫn, nhưng người có gia cảnh tốt sẽ được huấn luyện tốt hơn nhiều so với người đến từ Tinh Hoang hoặc tinh tú cấp thấp." "Nhìn này, anh ấy cũng đến từ A1, anh ấy cũng là một thanh niên ngoan, đã được huấn luyện, rất ổn định, chắc chắn có gen động vật tốt. Anh ấy khá xuất sắc, lớn lên sẽ là một tuyển thủ giỏi trong quân đội." Mọi người vừa xem vừa bình luận, hầu hết học sinh lớp A đều nhận được lời khen, tuy nhiên cũng có một số học sinh ở lớp B nhưng ít hơn. Nhưng rất nhanh, ánh mắt của huấn luyện viên Từ đã bị thu hút bởi một bóng người nhỏ bé trên màn hình, "Đây là ai?" "Đây? Là con gái à?"
+
+---
+*Thời gian thế hệ: 2025-11-19 13:33:27*

@@ -1,0 +1,14 @@
+# Chương 860 Thu Thu mỉm cười khi nhắc đến người cứu hộ
+
+## Tiêu đề | Tiêu đề
+Chương 860 Thu Thu mỉm cười khi nhắc đến người cứu hộ
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 860 chương
+Khi nhắc đến những người cứu hộ, Qiuqiu nở một nụ cười chứa đầy những lời động viên được người dân Jiixing để lại. Họ nói rằng họ rất tin tưởng vào Qiuqiu. Cách đây rất lâu, khi Qiuqiu còn hơi trong suốt, cô ấy là một fan hâm mộ của Tweet khi phát sóng trực tiếp trong một ngôi nhà nhỏ tồi tàn. Trên đường đi, Thu Cửu nhiều lần có cơ hội thăng thiên, nhưng Cửu Cửu lại không bao giờ làm được. Lời nhắn từ một người hâm mộ: [Đã nhiều lần Chiujiu có thể chọn trở thành một người dẫn chương trình cao cấp hơn và tiếp cận với một nhóm cốt lõi hơn, nhưng Chiujiu chưa bao giờ làm vậy. 】 【Điều này không có nghĩa là Chiujiu không yêu tiền, dù thế nào đi nữa, điều đó có nghĩa là Chiujiu có thái độ bình đẳng với mọi người, haha, tôi luôn cảm thấy mình giống như bà cả (Merlin) trong phòng phát sóng trực tiếp. Chúng tôi luôn ủng hộ bạn! ] Đôi mắt của Qiuqiu trượt xuống, với một nụ cười nhàn nhạt trên khuôn mặt. Vòng tròn nhỏ này đã là vùng đất thuần khiết nhất ở Qiuqiu. Tất cả tin nhắn ở đây đều từ hai ngày trước. Hai ngày trước, nhóm người hâm mộ Jiuxingren đã tổ chức một sự kiện nhắn tin và sau đó, Wanxing đã cấm vòng kết nối trong 15 ngày với quyền quản trị viên nền. Trong 15 ngày này, không ai có thể nói chuyện trong vòng tròn. Số lượng người tham gia nhóm đã tăng mạnh và hiện tại lượng fan chính là thành trì cuối cùng của các tweeter. Nhưng mọi người vẫn kiên trì, vẫn tích cực và vẫn lên tiếng vì Qiuqiu. Cô không cần phản kháng nhưng cũng không thể không cho người hâm mộ bất kỳ phản ứng nào. Vì vậy, Qiuqiu đã mở bục và viết đoạn này. [Những người trong sạch nên trong sạch. Tôi tin rằng những gì tôi muốn làm, những gì tôi muốn thể hiện, con người tôi, tính cách và giá trị của tôi đều được phản ánh trong cuộc sống, lời nói và việc làm, thái độ và thậm chí cả đồ ăn của tôi. Cảm ơn tất cả các bạn vẫn ở bên cạnh tôi. 】 Sau khi đăng xong, Wanxing nhanh chóng chuyển tiếp dòng tweet và bình luận: Tweet là một dòng tweet và nó chưa bao giờ thay đổi. Sau khi đăng bài, Jiang Qiuqiu đã đóng quyền bình luận, chỉ để lại lượt retweet và lượt thích. Sau đó, cô đóng thiết bị đầu cuối. Đôi mắt cô sâu thẳm và sáng ngời, "Tiếp theo, chúng ta hãy đợi người đến." “…Khi nào họ sẽ đến?” Tiêu Khiêm luôn nhìn thấy có người xông vào mắng Vạn Hành vì không đóng bình luận ngay lập tức, trong lòng có chút khó chịu. Nhưng câu trả lời vốn khó nắm bắt bỗng nhiên xuất hiện. "Bạn không cần phải đợi quá lâu." Cô nhẹ nhàng nói: “Ngày mốt sẽ đến.” Nói xong, Tiêu Khiêm luôn phát hiện mình dường như nhìn thấy trên mặt Thu Thu một nụ cười thoáng qua. Nụ cười! ? ? Làm sao có thể có tiếng cười! Cô ấy vẫn có thể cười được! Người phụ nữ này thật mạnh mẽ!
+
+---
+*Thời gian thế hệ: 2025-11-19 14:17:20*

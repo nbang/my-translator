@@ -1,0 +1,14 @@
+# Thứ 669 chương Quyết định, Thu Thu: Song Tu
+
+## Tiêu đề | Tiêu đề
+Thứ 669 chương Quyết định, Thu Thu: Song Tu
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 669 chương
+Hãy quyết định đi, Qiuqiu: Shuangxiu sẽ khiến bạn cảm thấy khó chịu nếu xem đi xem lại video này trong thời gian dài. Sau khi Jiang Qiuqiu xem vài lần, anh ấy đóng video và gửi tin nhắn cho Mo Si. Nhưng không có câu trả lời từ phía bên kia. Tôi không biết liệu anh ấy đang nghỉ ngơi hay đang chỉ đạo từ phía trước. Không cách nào biết được, thời gian càng ngày càng muộn, nhưng lúc này Giang Thu Thu khó có thể cảm thấy buồn ngủ. Cô mở thiết bị đầu cuối lần nữa và quẹt thẻ bên dưới Imperial Blade. Sự sắp xếp phía trên được thực hiện rất tốt, Mo Si là một hot search riêng biệt, còn phía dưới là một nhóm anh hùng. Kèm theo đó là nhiều tướng trẻ và tân binh trên chiến trường. Jiang Qiuqiu chỉ đang xem video để giết thời gian, nhưng một cuộc phỏng vấn với các tân binh trong đó đột nhiên khiến cô cảm động vì lý do nào đó. Nó rất vang dội. "Tôi có thể hỏi tại sao bạn lại đến Quân đội Polar không?" Phóng viên còn cười hỏi: "Có vẻ như gia cảnh của anh rất tốt." Bởi vì bộ quân phục của chàng trai trẻ còn có một chiếc trâm nhỏ cài trên cổ áo. Chiếc trâm cài này có thể được coi là một vật trang trí đắt tiền. Những người có thể sở hữu những món đồ như vậy không phải xuất thân từ gia đình nghèo. "Ngươi chọn nghề nghiệp nào không liên quan gì đến việc nhà ngươi có giàu không... nhưng ta biết chiến trường của chúng ta không được cha mẹ ưa chuộng." "Bố mẹ tôi thực ra không ủng hộ việc tôi đến, nhưng tôi vẫn đến." "Lý do không nhiều, chính là ta tốt nghiệp Liên bang đại học, ta còn nhớ rõ năm thứ nhất ta đi tới Cơ giáp cá nhân bộ phận, cửa vào nói gì đó, về sau ta cùng ngươi chiến đấu trong tinh tú và trong biển." Lúc đó anh cảm thấy câu nói này rất thú vị. Không biết tại sao nhưng điều đó lại khiến trái tim cậu bé lỡ nhịp, cậu chôn vùi khát vọng được cùng nhau chiến đấu trên các vì sao. “Sau này tôi cũng rất thích máy móc và thích vận hành chúng.” "Tôi thực sự muốn trải nghiệm cảm giác giết kẻ thù một cách chân thành, vì vậy tôi đã đến đây." ... Jiang Qiuqiu nghĩ rằng lý do tại sao anh ấy không thể ngủ được thực sự rất rõ ràng. Bởi vì sắp đến kỳ tháng ba nên cô rất thích hệ thống lính cơ giới. Cô không muốn đánh mất cơ hội cùng nhau chiến đấu trên các vì sao và trên biển, và cô không muốn từ bỏ việc học khả năng chữa lành tinh thần. Cô muốn mang lại hy vọng cho một số bệnh nhân bị suy giảm gen. Cô biết chính xác những gì cô muốn. Tôi cũng muốn thực hiện bước này. Cô nghĩ - cô mở tìm kiếm thiết bị đầu cuối. [Có ai ở Đại học Liên bang có thể theo đuổi bằng cấp kép và tham gia các khóa học của khoa kép cùng một lúc không? 】 -Đúng vậy, trường chúng tôi có hệ thống học kép, có trên trang web chính thức của trường và có thể phù hợp. Jiang Qiuqiu chuyển sang chờ đợi và theo dõi, tìm kiếm một trận đấu chuyên nghiệp.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:08:53*

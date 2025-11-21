@@ -1,0 +1,14 @@
+# Chương 135 Hoàn cảnh Càn gia
+
+## Tiêu đề | Tiêu đề
+Thứ 135 chương Tiền gia
+
+---
+
+## Nội dung | Nội dung
+
+Chương 135
+Đó là buổi tối khi gia đình Qian hỗn loạn, Qian Xingxing trở về gia đình Qian. Trong khoảng thời gian làm việc chăm chỉ tại chi nhánh, về cơ bản anh ấy sống ở cộng đồng bên cạnh chi nhánh. Hôm nay, vì Jiang Qiuqiu sắp được phong làm đại thần nên đã đến khu biệt thự quê hương để hẹn gặp. Điều này là do chủ nhân đã đồng ý đóng ấn con dấu cá nhân của Qian Duoduo, sau đó Qian Xingxing có thể sử dụng hợp đồng này để huy động một số nguồn lực của gia đình Qian để giúp Jiang Qiuqiu có được đặc quyền của chủ nhân. Tiền Đa Đa gọi con trai vào thư phòng. "Hiệu suất của bạn ở chi nhánh gần đây rất tốt." "Tôi cũng nghĩ vậy!" Tiền Hành Hành hai mắt sáng ngời, sắc mặt có chút đỏ bừng: "Ba, ngươi khen ta thật vui mừng!" Ánh mắt của Qian Xingxing tràn đầy ngưỡng mộ khi được cha mình nhận ra. "Ngươi vẫn là có ý thức tốt, ngươi chọn cái mỏ neo cũng thật là tốt." Tiền Đa Đa mời Tiền Hành Hành ngồi xuống: “Hôm nay bố sẽ dạy con một bài học nhỏ.” "Cái gì?" "Ngươi có biết vì sao ta lại đồng ý để nàng thăng cấp đại thần không?" "Cái này... bởi vì thống kê của Thu Thu cao? Bố, bố đã ăn đồ cô ấy nấu chưa? Bố có thấy nó có tiềm năng rất lớn không?" "Không, không có gì cả. Đó là vì cô ấy đã được Tin tức Liên bang đưa tin. Những năm gần đây, người dẫn chương trình của chúng tôi rất ít xuất hiện trên Tin tức Liên bang... Mặc dù công ty ngày càng lớn mạnh, nhưng thời đại lớn của chúng ta đã không còn nữa." Qian Duoduo cũng nói về rất nhiều điều về quy trình, lịch sử, hình ảnh hiện tại của công ty và mối liên hệ của nó với Liên bang, v.v. mà Qian Xingxing không hiểu. Anh nghe nói điểm vào của Tiền Đa Đa có vẻ kỳ lạ, “Không phải ngẫu nhiên mà cô ấy, một người dẫn chương trình mới, lại xuất hiện trên bản tin liên bang.” "Ừm, Thu Thu nấu ăn rất ngon." Sau đó Tiền Hành Hành nghe thấy Tiền Đa Đa cười nhẹ, "Được rồi, chúng ta không thảo luận chuyện này. Bất kể là ai đóng góp, ngươi có thể khen ngợi người dẫn chương trình này." "Tôi đề nghị sau này bạn nên phát triển cô ấy thành dòng cao cấp. Điều này sẽ đưa cô ấy lên một tầm cao mới." “…Dòng cao cấp?” Qian Xingxing có chút bối rối. Qian Duoduo đã gửi cho nó một bản kế hoạch, trong đó ghi lại hành trình tiếp thị của một người dẫn chương trình ẩm thực nổi tiếng trên kênh truyền hình trực tiếp liên bang. Anh ta, Qian Xingxing, cũng biết có một mỏ neo chuyên nấu ăn cho quý tộc. ...đào tạo Qiuqiu trở thành người phụ trách nấu ăn cho một nhóm người cụ thể? Tiền Hành Hành lắc đầu: “Ba, con không thích kế hoạch này.”
+
+---
+*Thời gian thế hệ: 2025-11-19 13:14:59*

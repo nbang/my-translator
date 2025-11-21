@@ -1,0 +1,14 @@
+# Thứ 393 chương Đưa cành ô liu cầu xin
+
+## Tiêu đề | Tiêu đề
+Chap 393
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 393 chương
+Đưa ra một nhánh ô liu mời chào, "Cứ nói những gì bạn cần nói mà không cần biểu hiện này." “Chị ơi, gần đây tinh thần của em dạo này tệ lắm phải không?” Phương Bình có vẻ lo lắng. Bà Al: "Gần đây con có uống chất lỏng sưởi ấm tinh thần không? Một ngày bao nhiêu lần? Con có đến cơ giáp với họ và chơi PK cơ giáp ba chiều không?" "Điều này - làm sao có thể tránh được điều này." Fang Ping nói: "Toàn bộ hưu trí không ai có thể làm được điều đó ngoại trừ Lao Tie." "Đừng thay đổi chủ đề. Tình hình của tôi đang trở nên tồi tệ hơn phải không?" Phương Bình hồi hộp. Bà Eyre thở dài. Phương Bình càng cảm thấy lo lắng hơn. “Không, chỉ có một điều thôi.” Bà Al đã nói điều này không biết bao nhiêu lần: “Các ngươi đều đã già rồi, càng lớn lên, thể chất càng ngày càng yếu đi.” Và bởi vì khi còn trẻ bạn đã sử dụng quá nhiều tiềm năng và chịu nhiều tổn thương hơn nên tốc độ thoái hóa sẽ nhanh hơn nhiều so với người bình thường. Vì vậy, bạn cần phải từ bỏ một số thứ, bắt đầu uống chất lỏng nuôi dưỡng tâm linh và nhận sức mạnh chữa lành tâm linh từ một người chữa lành tâm linh một cách thường xuyên. Nhưng, cô đã nói điều này hàng vạn lần nhưng không ai nghe. Tất cả đều hỗn loạn. “Thật sự chỉ một chút thôi sao?” "Nếu thật sự sợ hãi như vậy, ngươi nên giống như Lão Thiết, hắn lớn tuổi hơn các ngươi, nhưng khỏe mạnh hơn các ngươi." Phương Bình lắc đầu, người bình thường làm sao có thể giống như Lão Thiết. "Vậy cậu đang nói về cái gì vậy? Hãy đợi cho đến khi mọi chuyện trở nên tồi tệ hơn." Cuộc trò chuyện giữa hai người kết thúc tại đây. Mãi cho đến khi Giang Thu Thu bắt đầu nấu canh trong nồi và đun nóng dầu để xào thịt, mũi Phương Bình giật giật, không nhịn được liếc nhìn bà Aier, "Thật sự không tệ hơn nhiều sao?" “Không…” Bà Aier gần như chán ngấy câu hỏi của anh, “Tại sao anh luôn hỏi điều này?” "Nếu không, sao đột nhiên anh lại sợ hãi đến mức thuê đầu bếp từ nhà hàng xoay nấu món gì ngon cho tôi." “…” Bà Aier nhất thời không nói nên lời, “Con thật giàu trí tưởng tượng.” “Hơn nữa, cậu chưa bao giờ ăn ở nhà hàng xoay à?” Bà Aier giới thiệu lại Jiang Qiuqiu. "Vậy cô ấy thực sự là một người chữa lành tâm linh?" "Ừ, một người chữa bệnh tâm linh dùng thức ăn làm chỉ dẫn, kỹ năng nấu nướng của cô ấy đặc biệt tốt." “…Thật sự có người trị liệu tâm linh kiểu này à?” Phương Bình sửng sốt. "Ừ, chuyện đó đã xảy ra một lần trước đây." Nhưng đó là một thời gian dài trước đây. Ngược lại với Qiuqiu, thầy thuốc tâm linh dựa trên thực phẩm cùng thế hệ với bà Al có kỹ năng nấu nướng không tốt lắm, thậm chí có chút tệ.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:25:05*

@@ -1,0 +1,14 @@
+# Chương 972 Một căn phòng đầy tai gấu trúc (dễ thương)
+
+## Tiêu đề | Tiêu đề
+Chương 972 Một căn phòng đầy tai gấu trúc (dễ thương)
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 972 chương
+Căn phòng đầy tai gấu trúc (dễ thương) "Hả? Sao không gửi qua?" Bà Mo hỏi một cách tự nhiên khi thấy Mo Chengyu đã mang mọi thứ về. Mặc Thừa Vũ cười nói: “Bọn họ nói ăn bánh đậu xanh là đủ rồi.” “Quả nhiên bánh đậu xanh này ngon thật.” Bà Mo rất thích món ăn này. "Bà ơi, ngon lắm nhưng đừng no quá. Thu Thu rất giỏi nấu những món khác! Hãy bớt thèm ăn và tối nay chúng ta sẽ có một bữa tối thịnh soạn!" "Được rồi!" Bà nội Mo cũng rất phấn khởi. "Trước khi sinh ra, ta cũng có thể ăn được món ăn do cháu trai và cháu dâu nấu!" Bầu trời nhanh chóng tối sầm lại. Có thêm Thu Thu, tốc độ của Mặc Tư nhanh hơn rất nhiều, điều này cũng mang theo yến tiệc gia đình dự kiến ​​ban đầu từ 7 giờ 30 tối đến 6 giờ 30 tối, bữa tiệc cũng vô cùng phong phú. Có loài bay trên trời, có loài chạy dưới đất, có loài bơi dưới nước. Tất nhiên, đối với một gia đình lớn lai gấu trúc, món ăn chính là măng. Có măng khô, măng xanh, trứng chim chiên, sườn heo hầm. Hương thơm thơm và ngon. Sau khi đồ ăn đã chuẩn bị xong, một nhóm đàn em theo mùi thơm và không có quá nhiều quy tắc phức tạp. Dù sao thì mỗi người cũng mang một bát thức ăn đặt ở đại sảnh. Thu Thu và Mặc Tư cũng vây quanh ngồi vào bàn. Dù sao thì đó là 'quý vị khách mời, mời ngồi'. Khi công việc đã xong, mọi người đều ngồi xuống. Đó là một chiếc bàn dài nên không đông đúc với hai mươi ba mươi người ngồi nhưng trông vẫn khá hoành tráng. Không có gì ngạc nhiên khi bạn phải chia một món ăn thành nhiều bát. Nếu thiếu một phần thì sẽ không đủ và nếu đặt quá xa thì sẽ không dễ nhặt lên. Với tư cách là những người lớn tuổi nhất trong bàn, bà Mo và ông nội Mo đã nhiệt liệt chào đón sự xuất hiện của Qiuqiu. Các đàn em vỗ tay vui vẻ, sau đó mọi người bắt đầu dùng đũa. Thức ăn là thứ chinh phục nhất. Đặc biệt là vào mùa đông này, một bát măng thái hạt lựu và súp thịt cừu nóng hổi, ​​hương thơm sảng khoái trong lòng và lá lách - những người trong nước khen ngợi Qiuqiu. Giống như Thần nấu ăn được tái sinh, sau đó anh ta nói rằng Mo Si thật may mắn, gà rán rất ngon và có thể tìm được một người bạn gái như Qiuqiu. Mo Si cũng được lệnh phải học nấu ăn để Qiuqiu có thể rảnh tay và thưởng thức những món ăn ngon trong tương lai. Tôi phải nói rằng thái độ của mọi người rất tự nhiên và thân thiện, điều này khiến Qiuqiu rất thoải mái. Tất nhiên, lý do tại sao Qiuqiu có ấn tượng tốt với nhà họ Mo trong bữa tối này và cảm thấy mọi người trong phòng đều đặc biệt dễ thương vẫn còn ở phía sau——
+
+---
+*Thời gian thế hệ: 2025-11-19 14:20:10*

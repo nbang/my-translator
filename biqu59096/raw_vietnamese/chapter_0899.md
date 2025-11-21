@@ -1,0 +1,14 @@
+# Chương 899 Tôi thực sự nghi ngờ dòng tweet này có làm thiếu tướng nào của chúng ta không
+
+## Tiêu đề | Tiêu đề
+Chương 899 Tôi thực sự nghi ngờ về việc dòng tweet này khiến bất kỳ tướng lĩnh thiếu tá nào của chúng ta
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 899 chương
+Tôi thực sự nghi ngờ rằng dòng tweet này có phải là bạn gái của bất kỳ thiếu tướng nào của chúng ta trong phòng họp lớn của Tập đoàn quân VI hay không. Đây là một địa điểm lớn có thể chứa 100.000 người. Những người đến đây hôm nay đều là những tân binh được tuyển chọn từ những quân nhân xuất sắc và một số học viện quân sự liên bang. Họ mới gia nhập trung đoàn vài ngày trước, và chỉ huy Mo Xin, người đảm nhận vai trò hướng dẫn tân binh, đã cho họ năm ngày huấn luyện nghiêm ngặt để kiểm tra xem những 'người mới' này có đủ tiêu chuẩn hay không. Bạn có một cơ thể khỏe mạnh và một trái tim mạnh mẽ? Việc kiểm tra về cơ bản là đủ điều kiện. Vốn dĩ có chu kỳ năm ngày, hôm nay được cho là ngày quân đoàn phân phát chất lỏng nuôi dưỡng tinh thần và nghỉ nửa ngày. Nhưng trước ngày lễ, Mặc Tâm thần bí nói rằng hôm nay sẽ có một sự kiện đặc biệt nên mọi người nhất định phải mong chờ! Tất nhiên ai cũng mong chờ khi người hướng dẫn chơi trò này. Một nhóm người trưởng thành đã thảo luận từ tối qua đến hôm nay: Bạn có muốn cho chúng tôi xem cơ giáp cấp 3S không? Tốt nhất là chạm và chụp ảnh cùng nhau? Hay là Đô đốc Mo Si đang đến? Hay bạn muốn chọn trưởng nhóm và PK trước trận đấu? Tại sao tất cả các bạn lại thảo luận về điều này? Không phải là ngày nghỉ lễ bị hủy bỏ sao? "..." Người vẫn đang vui vẻ lập tức cứng đờ. Dựa vào đặc tính tiết niệu của Mo Xin, điều đó quả thực có thể xảy ra. Hôm nay tôi đến với tâm trạng bỡ ngỡ. Không ngờ buổi sáng sau khi tập luyện, tôi lại đến đây họp? Mẹ ơi, điều họ ghét nhất là họp hành. Mọi người thì thào hai tiếng, rất nhanh, giọng nói của Mặc Tâm truyền qua micro truyền đến toàn bộ phòng họp: “Theo lẽ thường, lúc này đã là ngày nghỉ rồi, không cần phải khách sáo như vậy.” "Sau này ta sẽ mở màn hình trung tâm, mọi người nhớ kết nối thiết bị đầu cuối của mình. Bộ quân sự chúng ta đang tìm kiếm những phương pháp mới để phân phối dịch nuôi dưỡng tinh thần cho mọi người. Hôm nay là một cuộc thử nghiệm, chúng ta hãy thử trước." Hôm nay là ngày nghỉ nên bạn có thể trò chuyện. Có người ngay lập tức bắt đầu nói chuyện với người bên cạnh về dạng chất lỏng nuôi dưỡng tâm linh mới là gì... Điều kỳ lạ nhanh chóng được giải thích sau khi màn hình được bật lên. Bởi vì ở giữa màn hình, xuất hiện một người quen thuộc với nhiều tân binh - Jiang Qiuqiu. Người khác không biết, nhưng những người đã tốt nghiệp Khoa Cá nhân Cơ giáp của Đại học Liên bang nhất định sẽ biết.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:18:16*

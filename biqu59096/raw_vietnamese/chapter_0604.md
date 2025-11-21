@@ -1,0 +1,14 @@
+# Chương 604 Anh muốn thời gian ở lại với chúng ta (ngọt ngào)
+
+## Tiêu đề | Tiêu đề
+Chương 604 anh muốn thời gian ở lại với chúng ta (ngọt ngào)
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 604 chương
+Tôi muốn thời gian ở lại cho chúng ta (ngọt ngào) Mo Si vừa nói một loạt lời ngọt ngào với Jiang Qiuqiu. Đương nhiên, trong mắt Mặc Tư, những lời này đều là lời nói thật lòng của hắn, sao có thể gọi là lời nói ngọt ngào! Chính thái độ này bạn cho rằng tôi đang tán tỉnh nhưng tôi lại cho rằng tôi đang nói ra sự thật khách quan, điều này càng khiến mọi người tin tưởng hơn. Tôi không khỏi thở dài, bạn trai tôi giỏi thật đấy. Bây giờ chúng ta đã nói về sự xuất sắc của những người bạn gái của mình, chúng ta không thể không nói về những vấn đề lớn nhất có thể nảy sinh khi có những người bạn gái xuất sắc. Mặc Tư: “Nửa tháng nữa ta sẽ ra tiền tuyến.” Chuyến đi này sẽ mất ít nhất nửa năm. Không biết khi nào mùa đông năm nay sẽ hoàn toàn bước vào. "Tôi thực sự lo lắng rằng người khác sẽ thích bạn." "Đừng lo lắng." Giang Thu Thu: "Tôi sẽ trực tiếp nói với anh ấy rằng tôi có bạn trai." "Thật ra, ai biết tôi đều biết tôi có bạn trai." Đúng, cô chưa bao giờ che giấu mối quan hệ giữa hai người, điều này cũng mang lại cho Mo Si cảm giác an toàn vô cùng. "Sao ngươi lại không chắc chắn như vậy? Ngươi phải biết mình là Thanh kiếm của Đế quốc!" Jiang Qiuqiu ôm mặt Mo Si bằng cả hai tay. Bản thân Mặc Tư cũng đã nghĩ tới vấn đề này, tại sao vậy? Có lẽ vì bạn sẽ nhìn thấy những cuộc tình của người khác. Có quá nhiều lý do để đi vào chi tiết từng cái một. Anh ta chỉ nói: "Bạn biết đấy, ngoài thân phận là Blade of the Empire, tôi thực sự không phải là người dễ mến." Đối với những người hắn không biết rõ, Mặc Tư cơ bản sẽ chỉ thờ ơ với hắn. Đối với những người quen thuộc... như Mo Chengyu và Jiang Qiuqiu, anh ấy đôi khi không thể kiểm soát được miệng mình. Nhiều khi ở bên nhau, anh cảm thấy mình thật nhàm chán. Cảm giác như có ẩn giấu gì đó quá khứ không rõ ràng trong những lời này, nhưng hiện tại rõ ràng không phải là lúc để truy tìm những chuyện đã qua. Jiang Qiuqiu không thể thấy Mo Si buồn tẻ như vậy. Cô hét lên, cắt ngang dòng suy nghĩ của Mặc Tư: “Không ngờ anh lại có nhiều suy nghĩ như vậy.” "Bạn thực sự kỳ lạ." Thật hiếm khi cô ấy nói những lời tự ái như vậy: "Anh nghĩ em rất tốt phải không?" "Vâng." Anh không ngần ngại. Ánh sáng ban đêm như nước, xuân hạ hòa quyện, gió đêm không quá lạnh. Gió mát thổi tung tóc Giang Thu Thu trên thái dương, cô nói: "Anh cho rằng em rất tốt, nhưng em thích anh, anh cho rằng em thật đáng sợ." "Không có mối quan hệ hợp lý nào giữa ba điều này, phải không?"
+
+---
+*Thời gian thế hệ: 2025-11-19 14:07:13*

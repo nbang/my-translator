@@ -1,0 +1,14 @@
+# Chương 803 Người ở phía dưới có nằm mơ cũng mệt mỏi.
+
+## Tiêu đề | Tiêu đề
+Chương 803 người ở phía dưới, nằm mơ cũng mệt mỏi
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 803 chương
+Đối với những người ở dưới đáy, ngay cả mơ mộng cũng mệt mỏi. "Lần này chúng tôi cùng các trường khác thực hiện việc này. Mặc dù là nỗ lực chung nhưng chúng tôi cũng sẽ có một số cạnh tranh." "Bắt đầu từ ngày mai, chúng ta sẽ thành lập một bảng xếp hạng chung giữa các trường cao đẳng và đại học và khoa chữa bệnh tinh thần để tính toán số người được chữa khỏi bệnh của mỗi bạn cùng lớp." "Đương nhiên không phải là toàn cấp xếp hạng, bọn họ sẽ xếp hạng theo bốn cấp độ C, B, A, A+ trở lên. Người đứng đầu mỗi cấp sẽ có cơ hội nhận được bằng khen danh dự do liên trường cấp, giải thưởng do bộ chuẩn bị, có cơ hội gia nhập trường trị liệu tâm linh hàng đầu." Phần thưởng không hề rẻ, độ khó cũng giảm bớt, khiến người phía dưới tự nhiên hưng phấn. Có vẻ như ai cũng có cơ hội chiếm vị trí đầu tiên. Dean Zhu nhìn chàng trai trẻ lơ lửng và không hài lòng. Thay vào đó, ông nói thêm: "Nhưng mọi người phải nhớ rằng khi bạn ngồi trong bệnh viện vào ngày mai, bạn sẽ là 'người chữa bệnh tâm linh chính thức'". "Là những người chữa bệnh thực sự, chúng tôi yêu cầu bạn đừng chẩn đoán sai hoặc không chữa khỏi." Viện trưởng Chu vẻ mặt nghiêm túc: “Một khi chuyện này xảy ra, việc kiểm kê trong ngày sẽ bị hủy bỏ và không có người nào được ghi nhận.” Cánh đồng yên tĩnh một lúc. Hình phạt này phải quá nặng. Sau đó, trước khi Dean Zhu rời đi, mọi người đã hỏi một số câu hỏi có chủ đích. Ví dụ, tôi nên làm gì nếu bệnh nhân tôi tiếp nhận bị bệnh quá nặng và không thể nhìn rõ được? Trả lời: Tôi không thể làm được. Tôi không thể làm điều đó. Vui lòng chuyển sang phần tiếp theo. Hoặc có căn bệnh tiềm ẩn nào đó chưa được chữa khỏi. Trả lời: Chỉ cần các giáo sư nhận định đó là một căn bệnh tiềm ẩn mà bạn không thể phát hiện ra thì sẽ ổn thôi. Tóm lại, quy tắc kết hợp khá chi tiết. Sau cuộc họp và làm theo một số hướng dẫn từ Q3 để xem 'các bộ phận' của mình, hôm nay là ngày cuối cùng. Trong ký túc xá, vô số người trẻ kiêu hãnh đang hồi hộp chờ đợi ánh sáng đầu tiên vụt tắt và một ánh sáng khác lại đến. Ở phía bên kia, những người tị nạn đang chờ đợi. q3 Trên hành tinh này, nhiệt độ rất cao ngay cả vào ban đêm. Không khí khô hanh, gió thổi ra có chút cát, ngột ngạt, có chút cắt vào mặt. Vài cọc tre cao khoảng 1,7 mét tụ lại với nhau và ho sặc sụa. Một số người dân xung quanh đây khó có thể chịu đựng được màn đêm nên lùi lại một chút rồi nằm xuống nghỉ dưới gầm nhà và bên đường. Những người còn đứng đây về cơ bản là bị bệnh nan y. Vốn dĩ bọn họ định hạ cánh chờ chết, nhưng sau khi nghe tin thầy thuốc tâm linh đang đến, những người sắp chết bộc phát sức sống kinh người và đến đây.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:15:59*

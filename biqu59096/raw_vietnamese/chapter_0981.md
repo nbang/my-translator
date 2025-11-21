@@ -1,0 +1,14 @@
+# Chương 981 Đây là một bất ngờ lớn đối với tất cả học sinh
+
+## Tiêu đề | Tiêu đề
+Chương 981 Đây là một sự ngạc nhiên lớn đối với tất cả học sinh
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 981 chương
+Đây là một bất ngờ lớn đối với tất cả học sinh. Đây là tuần thứ hai kể từ khi bắt đầu đi học. Vẫn không có gì đáng chú ý. Con người thực sự là sinh vật kỳ lạ. Sau một kỳ nghỉ dài và ở nhà, em nghĩ việc đến trường khá thú vị. Hóa ra tôi mới vào trường được một tuần, chưa đến mười ngày, liền đổi phe. Tôi nghĩ sẽ thật tuyệt nếu có một kỳ nghỉ bây giờ. Có hại. Nó thật mâu thuẫn. Các khóa học phức tạp luôn gây mệt mỏi cho những sinh viên nghèo, những người chỉ có thể học chúng với nỗ lực rất lớn, nhưng một số chuyên gia không chỉ có thể học chúng mà còn có thể mở rộng chúng và rút ra suy luận từ một ví dụ. Xia Qianqian, một sinh viên đại học liên bang bình thường, không thể so sánh với sự chăm chỉ của bạn cùng phòng, nhưng cô ấy vẫn duyệt các diễn đàn trong khuôn viên trường và thỉnh thoảng bị những sinh viên đại học kỳ lạ ở đó chọc cười. Hôm nay cô ấy vẫn lướt web như thường lệ. Vòng tròn nhỏ của khoa văn quá nhàm chán, ngày nào cô cũng nói về những điều nhỏ nhặt chua chát và ghen tị. Hạ Thiên Thiến hôm nay quyết định bơi sang một cái ao khác, đi sang nhà bên cạnh mấy vòng để đọc tin đồn. Khi nhìn vào nó, cô cảm thấy rằng có một tin đồn phổ biến ở mọi vòng tròn. Việc cải tạo nhà hàng phổ biến nhất là gì? Lại đổi căng tin à? Nó chưa được sửa đổi trước đây phải không? Làm thế nào nó có thể được cải tạo nhanh chóng như vậy? Cô tò mò bước vào và nhanh chóng phát hiện ra rằng căn tin sẽ không được sửa sang. Hình như có tin đồn rằng một quán ăn tự phục vụ sẽ được mở trong trường! ? ? ? Hạ Thiên Thiên lập tức ngồi dậy. Vâng, cô ấy cũng là một tweeter. Chỉ là mình là người nhà, tốc độ tay không nhanh lắm. Tôi không thích nói chuyện hay đăng bài nên tôi tương đối vô hình. Nhưng dù bạn có vô hình đến đâu, bạn cũng không thể trở nên vô hình sau khi xem loại tin tức này! Cô liền nói với bạn cùng phòng của sếp về việc này. Bạn cùng phòng của tôi trông rất nghiêm túc và cũng là một fan cuồng nhiệt của Jiujiu! Mỗi lần ôn tập hoặc học bài mới, tôi đều phải ăn Jiangjiang do Jiujiu sản xuất. Bạn cùng phòng của đại ca tương đối bình tĩnh: “Sao có thể là sự thật được?” "Phong cách của Ziujiu không hợp với nhà ăn chút nào, và trường chúng tôi không đủ tiền thuê Jiujiu, cô ấy vẫn phải đến lớp... Đó hẳn là tin giả được một số người đăng lên để nổi tiếng." "Ồ." Hạ Thiên Thiên cũng cảm thấy có lý, nhưng nhìn một chút! "Đây là người của Cục quân nhân cơ giáp, phía dưới có rất nhiều người đồng ý." “Bên cạnh cũng có mấy ông lớn của Linh Y hệ ra mặt nói là thật.” "Thật sự?" Bạn cùng phòng của sếp lớn cũng bắt đầu dao động: "Để tôi xem." Trường nghệ thuật tự do của họ ở rất xa và tin tức không còn được cập nhật nhiều.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:20:23*

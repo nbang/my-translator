@@ -1,0 +1,14 @@
+# Chương 877 Kẻ ác kỳ quái còn viết nhật ký
+
+## Tiêu đề | Tiêu đề
+Chương 877 quái vật phản diện còn viết nhật ký
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 877 chương
+Tên ác nhân kỳ quái thậm chí còn viết nhật ký và thảo luận nhiều lần nhưng vẫn không tìm ra giải pháp. Cuối cùng, mọi người quyết định chờ đợi và quên nó đi. Bạn chắc chắn có thể tìm thấy một ai đó. Tệ nhất sẽ có người được đưa lên từ bên dưới. Nếu bạn nhận lỗi, bạn sẽ nhận lỗi. Chỉ cần bạn có thể được thăng chức, sẽ có người chịu trách nhiệm. Nhưng điều không nói nên lời nhất chính là... người an bài ngày hôm qua rõ ràng là Mặc Tư, kẻ vô pháp, dựa vào công lao của mình mà làm bất cứ điều gì mình muốn. Mọi người không thấy được nhiều điểm quan trọng như vậy sao? Tại sao anh ta trải qua nhiều chuyện như vậy, sau đó chợp mắt một lát, chủ đề nóng lại chuyển sang yêu cầu anh ta làm công tố viên? ! Danh tiếng của Mặc Tư có lớn như vậy trong đám đông không? Sau cuộc họp, để giữ uy tín cho Sảnh tiếp tân Nội các, một số người được phân công đến lắng nghe lời kêu gọi của người dân. Không có ngoại lệ, tất cả những người đến đây đều là vì Q3 và Mo Si. Nội các hôm nay đang sôi sục. Nhưng nội các vẫn chưa thực sự đạt đến điểm sôi, bởi lượng truy cập mà quả cầu tuyết thường không thực sự bùng nổ cho đến ngày hôm sau. Sáng hôm sau, giao thông lại bùng nổ. Vì hôm nay là cuối tuần nên học sinh không đến lớp. Nhiều người lướt web hơn, nhiều người giao tiếp hơn, các hộp thư chứa đầy thư và có một hộp các tông khổng lồ bên dưới hộp ý kiến ​​​​của Thượng viện. Số người đến sảnh tiếp tân ngày càng đông, hàng người từ hàng dài chuyển sang xếp hàng kín cả cửa Thượng viện. Thượng viện nằm ở giữa chính phủ liên bang. Thành thật mà nói, có rất nhiều người đến và đi ở đây. Với rất nhiều người tụ tập quanh đây nên luôn có người quay video để thu hút người xem. Sau khi xem xong, ngày hôm sau có nhiều người đến đây hơn. Đây là một vòng luẩn quẩn đối với Thượng viện. Khi đó, chúng tôi giới thiệu một chỉ huy đồn trú ở độ tuổi 50 và dự định bổ nhiệm ông ta làm công tố viên. Không thể bổ nhiệm Mặc Tư. Chúng ta vẫn phải đợi hắn quay lại Liên bang từ Q3 để phát động tấn công. Không biết tin tức bổ nhiệm tư lệnh đồn trú bị lọt ra ngoài từ khi nào. Tôi nghĩ rằng sẽ có một cơn bão trên Internet và một số người sẽ nói những điều không hay. Điều này cũng có thể coi những người hâm mộ Mo Si là "kẻ cô độc". Nhưng anh không bao giờ nghĩ rằng vị chỉ huy quân sự may mắn được chọn này lại có được hàng chục triệu người theo dõi ngay lập tức. Ngay sau đó, cư dân mạng đã liệt kê một danh sách điều tra dài, yêu cầu chỉ huy quân sự giải quyết triệt để các câu hỏi trong danh sách điều tra sau khi đi một vòng. Hơn nữa, số lượng máy nhảy đến Quý 3 trong giai đoạn này đã tăng mạnh. Nhiều người nói muốn thành lập một nhóm để đến Q3 phát sóng trực tiếp xem chỉ huy điều tra như thế nào và ra sao.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:17:46*

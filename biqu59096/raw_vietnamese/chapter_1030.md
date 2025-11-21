@@ -1,0 +1,14 @@
+# Chương 1030 Đây là một cái bẫy được Triệu Huân cẩn thận giăng ra cho Thu Thu
+
+## Tiêu đề | Tiêu đề
+Chương 1030 Đây là cái bẫy Triệu Tấn cẩn thận giăng ra cho Thu Thu
+
+---
+
+## Nội dung | Nội dung
+
+Chương 1030
+Đây là một cái bẫy được Zhao Xun cẩn thận giăng ra cho Qiuqiu. Lúc đầu, có những người hâm mộ tweet đầy tự hào về tìm kiếm nóng bỏng này. [Haha, bạn biết đấy, tweet của chúng tôi khác nhau và chúng tôi luyện tập nhanh hơn những người khác! 】 【1551, quay lại! Thật tuyệt vời! 】 【Nó quá mạnh. Cuộc hành trình kéo dài hai tháng đối với những người khác đã được hoàn thành trong vòng chưa đầy một tháng đối với Tweet! 】 Mọi người đều không biết tại sao, thậm chí họ cũng không nghĩ rằng Qiuqiu có mâu thuẫn với viện dưỡng lão. Trong mắt nhóm người hâm mộ này, một người chữa lành tinh thần ở cấp độ Jiang Jiujiu là sự hỗ trợ tự nguyện! Sau đó những người được hỗ trợ có thể nếm thử món ăn ngon này miễn phí! Thành thật mà nói, tôi muốn trở thành một bệnh nhân. Bất kể khóa đào tạo nào, đó phải là một kịch bản đôi bên cùng có lợi, trong đó bệnh nhân hài lòng và sức khỏe được cải thiện, viện dưỡng lão được đón nhận nồng nhiệt và các dòng tweet đã cải thiện kỹ năng của họ thông qua đào tạo. Làm sao có thể có mâu thuẫn được? Vì vậy, dưới sự hướng dẫn của những người có tâm, chủ đề này ngày càng trở nên phổ biến, và ngày càng có nhiều người hâm mộ nảy sinh cảm giác tự hào. Người hâm mộ thực sự ngưỡng mộ nó. Nhưng họ không biết rằng lời khen ngợi chân thành như vậy dành cho Qiuqiu, xuất phát từ tận đáy lòng họ, lại là phần đầu tiên trong kế hoạch của ai đó. Ánh mắt của Triệu Tấn gần như dán chặt vào Giang Thu Thu. Anh chưa bao giờ phải chịu sự sỉ nhục đáng xấu hổ như vậy. Anh quyết tâm giết Jiang Qiuqiu và để danh tiếng của cô sa sút. Phía sau anh ta, sĩ quan Vương và con gái đang ngồi. Bản thân sĩ quan Vương trông vô cùng xanh xao và các ngón tay hơi run rẩy. Trái tim cô tràn ngập những mớ rối ren vô tận. Vốn dĩ cô cũng có ác cảm với Jiang Qiuqiu. Cô ghét cô vì đã rời đi mà không nói lời từ biệt và ghét cô vì đã nói chuyện với cô như vậy. Tôi nghĩ kỹ năng y tế của cô ấy ở mức trung bình, không xuất sắc và thái độ của cô ấy cũng tệ. Tôi cũng ghét bà vì đã phá hợp đồng giữa chừng, khiến con gái bà vô hiệu hóa thỏa thuận đã ký với đồng nghiệp, khiến bà xấu hổ và mất bình tĩnh khi quay về. Nhưng loại hận thù này, tức là hận ý của thường dân, có thể nói bằng lời, nhưng lời nguyền trong lòng sẽ qua đi. Trong thời gian rảnh rỗi, sĩ quan Vương cũng sẽ nghĩ rằng dòng tweet này thực ra không tệ, ít nhất trong khoảng thời gian này anh đã tiết kiệm được nhiều tiền như vậy cho Nuan Noãn.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:25:03*

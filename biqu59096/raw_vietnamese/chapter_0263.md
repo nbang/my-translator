@@ -1,0 +1,14 @@
+# Chương 263 Bạn trai của cô ấy? ! Cô ấy thật nhỏ bé! Thật giàu có!
+
+## Tiêu đề | Tiêu đề
+Chương 263 Bạn trai của cô ấy? ! Cô ấy thật nhỏ bé! Thật giàu có!
+
+---
+
+## Nội dung | Nội dung
+
+Chương 263
+Bạn trai của cô ấy? ! Cô ấy thật nhỏ bé! Thật giàu có! Thật dễ dàng để được thèm muốn. Khi màn hình cắt cảnh Giang Thu Thu ngã xuống đất, tim Mo Si ngừng đập trong giây lát, sau đó anh lập tức đứng dậy, gần như thở dốc lao ra khỏi văn phòng. Bởi vì tinh thần lực chạy quá nhanh, nên khi né tránh, tai và má của Mặc Tư bị phủ một lớp lông tơ mỏng màu trắng. Tình cờ là máy nhảy từ Hành tinh 13 vẫn còn ở đó cho đến ngày nay. Mo Si nhảy lên máy móc, nhanh chóng khởi động và lang thang trên bầu trời đầy sao. Tốc độ của cơ giáp nhảy rất nhanh, Mo Si trực tiếp mở nó ra với sức mạnh tối đa, cơ giáp màu trắng bạc gần như biến thành một tia sáng. Lang thang trên bầu trời đầy sao - cỗ máy nhảy đậu ngay cạnh biệt thự nhỏ của Mo Chengyu. Mo Si đeo mặt nạ và chạy thẳng vào nhà Jiang Qiuqiu. Anh ta lập tức nhìn thấy Jiang Qiuqiu vẫn còn nằm trên mặt đất. Mặt đất rất lạnh và cô không mặc nhiều quần áo. Mo Si nhanh chóng bước đến bên cạnh cô, quỳ xuống và nhẹ nhàng vỗ nhẹ vào mặt Jiang Qiuqiu. Không có gì xảy ra. Anh ta đè nén giọng nói của mình, truyền vào giọng nói một tia sức mạnh tâm linh và hét lên tên của Jiang Qiuqiu. "Qiuqiu, Qiuqiu, bạn ổn chứ?" Không có phản hồi. Anh ta ngơ ngác nhìn, trực tiếp ôm lấy Jiang Qiuqiu. Sau đó, Mộ Tư nhắm mắt lại. Anh ta muốn liên lạc với sức mạnh tinh thần của Jiang Qiuqiu, nhưng các xúc tu sức mạnh tinh thần của anh ta trống rỗng và anh ta không cảm thấy gì. Mo Si dừng lại, mở mắt ra, cúi đầu xuống và áp trán mình vào Jiang Qiuqiu. Nó có cảm giác hơi mát khi chạm vào. Anh ta cố gắng huy động sức mạnh tinh thần của mình để đi vào biển tâm linh của Jiang Qiuqiu, nhưng anh ta không cảm nhận được gì. ...Mo Si trực tiếp bế Jiang Qiuqiu ra khỏi sân và chạy về phía một ngôi nhà ở phía đông nam Starry Sky. Những người khác rời đi, nhưng tiếng đập phá trong phòng phát sóng trực tiếp bùng nổ. [Giọng nói vừa rồi là ai? 】 【Là gia đình sao? Không phải quản lý vừa nói mời người từ bệnh viện sao? Tại sao vẫn chưa có ai từ bệnh viện đến? 】 【Chuyện gì đang xảy ra vậy? Bây giờ tôi đang rất lo lắng. Tôi lo lắng đến mức không ăn được hàu...] Meiliang, người đang ở trên chiếc xe nổi, cũng luôn lo lắng về những gì đang diễn ra trong phòng phát sóng trực tiếp. Khi nhìn thấy sự thay đổi đột ngột, cô có chút bối rối: “Đáng lẽ chúng ta nên nói chuyện với người đã ký hợp đồng với Qiuqiu trước đó. Cô ấy nói rằng cha mẹ cô ấy đều đã chết và cô ấy không có người thân. Người này đột nhiên xuất hiện là ai?”
+
+---
+*Thời gian thế hệ: 2025-11-19 13:21:52*

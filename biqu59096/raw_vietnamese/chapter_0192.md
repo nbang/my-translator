@@ -1,0 +1,14 @@
+# Chương 192 Mọi người không tò mò sao?
+
+## Tiêu đề | Tiêu đề
+Chương 192 Mọi người không tò mò sao?
+
+---
+
+## Nội dung | Nội dung
+
+Chương 192
+Mọi người có tò mò không? Không ai tò mò về khuôn mặt bị màn hình che phủ. Không ai muốn nhìn trộm vào những bí mật ẩn giấu. Có lẽ một số người muốn cạnh tranh với người dẫn chương trình - ai đẹp hơn? Những gì hải quân nói giống như một viên gạch ném đi. Gạch đá rơi xuống đất phát nổ, theo sau là vô số 'ngọc'. Càng nhiều người muốn người dẫn chương trình lộ mặt thì người dẫn chương trình trẻ sẽ bắt đầu hoảng sợ. Phải làm sao, mình nhìn không ổn, làm sao lộ mặt. Sự hoảng loạn làm dấy lên sự nghi ngờ của mọi người. Ảo tưởng ban đầu - chỉ cần cô ấy/anh ấy xinh đẹp, đột nhiên không còn trong tưởng tượng nữa, và tôi nghi ngờ trong lòng: Chẳng lẽ cô ấy/anh ấy xấu xí thật sao? Một chuỗi phản ứng dây chuyền thường dẫn đến hai kết cục: 1. Người neo bị đánh chết và không lộ mặt. Tuy nhiên, tin đồn ngoại hình xấu được xác nhận và độ nổi tiếng của anh ngày càng giảm sút. 2. Mỏ neo bị choáng ngợp và cuối cùng cũng lộ mặt. Với sự ủng hộ của một số người hâm mộ, anh tin rằng dù không đẹp trai nhưng anh vẫn có thể có được mùa xuân. Sau đó sự nổi tiếng giảm sút. Người trong trường quay đang chờ đợi phản ứng của Khương Cửu Cửu. Liệu anh ấy sẽ đáp lại hay bỏ qua nó? Cô ấy có thể đáp lại, dù sao thì cô ấy cũng là một cô gái trẻ. Tuy nhiên, đòn tấn công phun trào này không khơi dậy được sự quan tâm của Jiang Qiuqiu. Trong mắt cô, thứ quan trọng nhất lúc này chính là chiếc bánh bí ngô trước mặt. Nhiệt độ của dầu trên lửa nóng dễ thay đổi, bột dễ bị già. Nếu bạn không chú ý, bông phấn nhỏ xinh sẽ xẹp xuống do nhiệt độ cao. Không ai trả lời, và hải quân bắt đầu cảm thấy hơi buồn chán. Nhưng công việc vẫn cần phải được thực hiện. Nếu bạn không trả lời thì hãy hỏi lại. Không trả lời có nghĩa là lương tâm tội lỗi. --À, đôi khi tôi vẫn cảm thấy hơi xấu hổ khi ăn đồ do người dẫn chương trình nấu và đồng thời đưa ra những bình luận vu khống. ---Này, nếu bạn nói như vậy thì tôi thực sự khá thích hack mỏ neo này đấy, haha. Tôi có thể kiếm tiền trong khi ăn và tôi rất hạnh phúc! Số tiền bỏ ra để giành lấy một vị trí cũng có thể được hoàn lại. ——+1——Chúc mừng! [Cửu Cửu thực sự không đẹp trai sao...] [Không, tôi nghĩ người có thể làm ra những món ăn ngon như vậy nhất định phải là tiên nữ! 】 【Sao cậu không nói gì? Ngay cả khi chúng tôi trông không được ổn, chúng tôi vẫn-] [Các thủy thủ trên lầu làm gì để kiếm sống? Nó có liên quan gì đến bạn dù nó có đẹp hay không? Cho mình hỏi size của bạn nhé 】 [Đừng hỏi, ngươi hỏi chúng ta cũng không quan tâm, đẹp hay không không quan trọng. Trên đời này còn món gì đẹp mắt hơn thịt lợn gogu om, sườn heo chiên, thịt lợn giòn ngắn, bánh bí đỏ...? ! Có cái nào không? 】
+
+---
+*Thời gian thế hệ: 2025-11-19 13:16:36*

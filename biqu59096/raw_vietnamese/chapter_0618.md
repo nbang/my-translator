@@ -1,0 +1,14 @@
+# Chương 618 Nói cho bạn cùng phòng biết sự thật
+
+## Tiêu đề | Tiêu đề
+Chương 618 Nói cho bạn cùng phòng sự thật
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 618 chương
+Khi nói sự thật với bạn cùng phòng, Michelle ngắt lời: “Những người này thường nghĩ như vậy”. "Cho dù tám trên mười người biết, cũng không giúp được gì, tân sinh viên cho dù nó không chịu được trọng lực cũng rất khó liên kết." Jiang Qiuqiu hiểu rất rõ suy nghĩ của những người này. Liễu Đình Đình: "Vậy ngày mai thỉnh giáo sư Mao cho bọn hắn thử máy nhẹ của ngươi đi! Để bọn hắn xem, cho dù ngươi có đổi máy! Họ vẫn là người đếm cuối cùng!" “Không cần gọi điện, thầy Mao chắc chắn sẽ sắp xếp, đồng thời cũng sẽ sắp xếp để bọn họ công khai xin lỗi, nhưng dù vậy, dù có thua cũng không phải lúc hưng phấn.” "Như vậy còn chưa đủ kích động sao?" Mạnh Xuân nằm trên giường như đang nghe kể chuyện, đưa mắt nhìn về đây. Giang Thu Thu chậm rãi gật đầu, "Đúng vậy, cái này còn chưa đủ nhiệt tình, chỉ có thể coi là thường lệ thao tác." "Bạn có biết khi nào máu thực sự sôi lên không?" Ba người lắc đầu, Jiang Qiuqiu mỉm cười và nhận được sự phản công từ nữ chính Shuangwen: "Sau một thời gian dài huấn luyện, tôi đã điều khiển một cơ giáp hạng nhẹ, và tôi có thể ấn chúng xuống đất và chà xát, thậm chí còn đặt chúng xuống đất. Hầu hết những người trong lớp đang lái áo giáp hạng nặng đều bị đánh bại." Hoặc có thể, với tư cách là một người tự nhiên, tôi đã lên cơ giáp hạng nặng hoặc cơ giáp loại chiến binh tấn công. Khi đó họ sẽ thực sự cảm thấy mình hèn mọn trong cát bụi." Liu Tingting thấy Jiang Qiuqiuyun nói điều này một cách bình tĩnh, và tất cả những gì cô ấy nghĩ là-Được rồi, tiếng ríu rít của tôi sẽ có tác dụng! Cô ấy phải làm việc chăm chỉ và làm mọi người ngạc nhiên! Gen sói, gen hổ, gen sư tử đều là em trai! Tiếng ríu rít trong đám đông đột nhiên trở nên to hơn, và sau đó mọi người đều bị giẫm đạp dưới chân! Cô ấy rất phấn khích khi nghe thấy một câu phát ra từ giường bên cạnh: "Nhưng tôi không biết liệu tôi có thể làm được không" Hoàn thành mục tiêu nhỏ 1." "Tại sao tôi không thể hoàn thành mục tiêu nhỏ 1?" "Qiuqiu, bạn chắc chắn có thể làm được." Mengchun cũng phân tích: "Ưu điểm của áo giáp nhẹ cũng rất rõ ràng, số ít người đó Nếu không thể tận dụng được áo giáp hạng nặng, bạn sẽ không khó để giành chiến thắng." Michelle: "Đúng vậy, bạn phải tin vào chính mình." "Tất nhiên là tôi tin tưởng vào bản thân mình. Tôi chỉ nghĩ rằng có thể không có đủ thời gian." Liu Tingting: Không có đủ thời gian là sao? Trong ba người không ai hiểu rõ ý nghĩa của câu này. Jiang Qiuqiu cảm thấy bây giờ là một thời điểm rất thích hợp. "Thật ra, có một điều tôi đã quên nói với mọi người trước đây."
+
+---
+*Thời gian thế hệ: 2025-11-19 14:07:33*

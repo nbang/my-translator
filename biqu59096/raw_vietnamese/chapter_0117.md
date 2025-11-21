@@ -1,0 +1,14 @@
+# Chương 117 A, một cái bát
+
+## Tiêu đề | Tiêu đề
+Chương 117 A, một cái bát
+
+---
+
+## Nội dung | Nội dung
+
+Chương 117
+À, một cái bát. Kể từ khi bắt đầu rèn luyện tinh thần trong lâu đài nhỏ của Mo Chengyu, năng lượng của Jiang Qiuqiu đã được cải thiện rất nhiều mỗi khi nấu ăn. Không bao giờ cảm thấy mệt mỏi một cách tình cờ nữa. Cô đáp lại sự ưu ái đó và rất biết ơn Mo Chengyu đã đưa cô lên đường. Cô thường xuyên đến thăm cô với những món ăn cô nấu. Hai người trò chuyện rất vui vẻ, từ lịch sử của Liên bang đến nguồn gốc của sức mạnh tâm linh, từ những câu chuyện thú vị về trái đất cổ đại cho đến những sự thật hiện tại. Mặc dù quan điểm của hai người thỉnh thoảng có mâu thuẫn nhưng cả Jiang Qiuqiu và Mo Chengyu đều có tư tưởng rộng rãi và không bận tâm đến vấn đề này. Nhờ đó, mối quan hệ của họ ngày càng trở nên tốt đẹp hơn. Điều duy nhất là Jiang Qiuqiu tò mò. Cô vẫn luôn nghe Mặc Thừa Ngọc nói có một người chăm sóc tinh thần đến gia đình, tinh thần lực của anh ta rất mạnh mẽ. Chơi trò chơi rèn luyện tinh thần đó cũng giống như chơi... Nhưng đã lâu như vậy, Giang Thu Thu chưa bao giờ nhìn thấy anh ta trong biệt thự nhỏ của Mo Chengyu. “Đừng nhắc tới chuyện đó.” Mặc Thừa Vũ thực sự bất lực: “Anh ấy dè dặt hơn, không thích nói chuyện, không thích gặp người lạ.” Ban đầu, anh cho biết sẽ làm bộ mặt lạ để tránh bị phát hiện và xác định danh tính. Sau này, Mo Si phát hiện ra rằng không cần thiết phải xuất hiện trước mặt người khác để tư vấn tinh thần cho Mo Chengyu. Anh ta đơn giản tránh mặt Jiang Qiuqiu và trốn trong phòng ngày này qua ngày khác, không biết mình đang làm gì. "Vậy là xong." Giang Thu Thu kêu lên. Người anh cả thực sự đầy khuyết điểm. Ban đầu cô ấy muốn giới thiệu Qiuqiu với anh ấy, sau đó hai người sẽ nghiên cứu danh tính của Qiuqiu như một người chữa lành tâm linh. Bây giờ Mo Si La Mo không thể tránh được, hãy để cô ấy từ từ nghiên cứu một mình! "Nhân tiện, Qiuqiu, thực đơn hôm nay của bạn là gì!" “Thịt lợn kho chua ngọt, thịt viên chiên hay cùi bắp lợn?” "Hôm nay..." Hôm nay là ngày không phát sóng trực tiếp nên chỉ làm món encore thôi. Taotao Fresh sáng nay phục vụ một mẻ măng tươi, Jiang Qiuqiu nói: "Tôi đi làm món măng om." “Măng tre?” "Ừm." "Nhân tiện, Qiuqiu, bạn làm nghề gì? Mỗi ngày bạn nấu ăn như thế nào?" Ở cùng nhau hồi lâu, Mặc Thừa Vũ cuối cùng cũng hỏi ra vấn đề khiến hắn tò mò này. Trong thực tế, không có gì để che giấu. Jiang Qiuqiu những ngày gần đây quan sát thành ngữ Mo, cô đoán rằng người bên kia chắc chắn là một người có địa vị cao, hiểu biết và là một người rất tốt. "Tôi làm người dẫn chương trình ẩm thực trên đài truyền hình trực tiếp liên bang." "!"
+
+---
+*Thời gian thế hệ: 2025-11-19 13:14:17*

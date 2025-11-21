@@ -1,0 +1,14 @@
+# Chương 389 Thắng! Chúng tôi đã thắng!
+
+## Tiêu đề | Tiêu đề
+Chương 389 Thắng! Chúng tôi đã thắng!
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 389 chương
+Đó là một chiến thắng! Chúng tôi đã thắng! Trong lúc trao đổi ngắn ngủi, Trần Ngọc đã ăn xong bữa ăn nhỏ trên bàn. Trận PK trực tiếp sắp kết thúc. Anh ta nhìn Jiang Qiuqiu: "Sao vậy, Master Jiujiu, tại sao bạn vẫn nhìn tôi? Bạn có thấy kỳ lạ không?" Tôi phải nói rằng Chen Yu thực sự rất táo bạo. Anh ta chỉ nói bất cứ điều gì anh ta muốn: "Kỳ lạ tại sao tôi lại giới thiệu đồ của đối thủ trong PK?" Trước khi Jiang Qiuqiu có thể trả lời liệu điều đó có đúng hay không, các fan trên sân đã phát điên. 【Đúng! Vâng, lạ lùng! tò mò! ] "Ừ, tôi tò mò." "Có hai điểm." Anh uể oải nói: “Đầu tiên là có người mời anh, còn điểm thứ hai… thực sự rất ngon.” Ánh mắt anh mờ đi, "Thật là một hương vị rất dễ chịu." "Cảm ơn đánh giá của bạn." Jiang Qiuqiu nghiêm túc cảm ơn quán ăn vì đã thích anh. Chen Yu nhìn Jiang Qiuqiu trong bức ảnh cận cảnh và đột nhiên cảm thấy cô gái này vô cùng xinh đẹp. Các đường nét trên khuôn mặt của cô ấy rất tự nhiên và hài hòa. Càng nhiều thì sẽ duyên dáng, càng ít thì sẽ xanh xao. Cô ấy có ngoại hình vừa phải, làn da trắng ngần, đôi mắt hình quả hạnh và mái tóc đen quyến rũ. Cô ấy là một người đẹp mà ai cũng sẽ thốt lên "đẹp trai" khi nhìn thấy cô ấy. Anh ta nhìn chằm chằm vào Jiang Qiuqiu và đột nhiên nói: "Em không nên đến quầy đồ ăn." "?" Giang Thu Thu. "Ngươi nên đến phần ngoại hình, trước tiên khoe ra dung mạo của mình, sau đó làm món ăn ngon. Như vậy ngươi sẽ có một con đường rộng rãi phía trước." Ít nhất bạn phải có ba tỷ người hâm mộ. Jiang Qiuqiu không hề hối hận khi lựa chọn khu ẩm thực: "Cho dù tôi có chọn khu ẩm thực, tôi vẫn có một con đường rộng để đi." "Đúng, bởi vì bạn sẽ tiếp tục PK." Trần Ngư nói: "Hôm nay PK ngươi sẽ thắng, ngươi có kinh ngạc không?" Anh ta nói xong thì phòng phát sóng trực tiếp mới hoạt động được một giờ, tất cả fan hâm mộ ở lại phòng phát sóng trực tiếp một tiếng đều có thêm một vé PK trong tay. Những người hâm mộ cuồng nhiệt của Jiang Qiuqiu ngay lập tức bình chọn cho Jiang Qiuqiu mà không hề do dự - nhan sắc thì tốt nhưng đồ ăn thì vô giá! Thịt lợn Gogu om luôn là ngon nhất! Kết quả là số phiếu bầu của Jiang Qiuqiu nhanh chóng đạt tới 500 triệu. Mặt khác, Chen Yu ban đầu là một lựa chọn phổ biến trong top 10. Với lượng fan lên đến 3,7 tỷ, việc đạt được 50.000 chỉ mất vài phút nhưng hiện tại, anh chỉ có 300 triệu phiếu bầu. Điều đó đã được một người hâm mộ cuồng nhiệt bình chọn trong vài giây. Sau khi nghe anh nói, những người hâm mộ còn lại đều đứng im bỏ phiếu, không biết bỏ phiếu cho ai.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:24:59*

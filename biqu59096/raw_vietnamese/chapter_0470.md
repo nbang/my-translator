@@ -1,0 +1,14 @@
+# Chương 470 Người đó vén váy thật chướng mắt
+
+## Tiêu đề | Tiêu đề
+Chương 470 người đó vén váy thật chướng mắt
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 470 chương
+Người giơ gấu váy lên thực sự khiến bầu trời đầy sao mất tập trung. Bởi vì Tết Nguyên đán sắp đến, viện nghiên cứu cũng đạt được thành quả, lại cải tiến vũ khí chế tạo trước đó, làm việc nhiều ngày, nên trạng thái tinh thần của Mặc Thừa Vũ có chút dao động. Giám đốc Zhang sợ cô lại suy sụp tinh thần nên đã cho cô nghỉ phép trước. Hiện tại, Mo Chengyu, Mo Si, Zuo Kai và Right Protector đều đang xem truyền hình trực tiếp trong đại sảnh của lâu đài nhỏ. Một số người đàn ông im lặng. Người duy nhất lên tiếng ngoại trừ người dẫn chương trình phát sóng trực tiếp là Mo Idiom. "Này, người này khá đẹp trai." Mo Chengyu dựa vào ghế sofa bình luận: "Này, đây này! Họ đều đẹp trai quá." "Khó trách chương trình phát sóng trực tiếp của liên bang lại được ưa chuộng như vậy. Chỉ nhìn bộ mặt này thôi, KPI và tinh tệ đều lộ ra." Cô nhiệt tình bình luận, Mặc Tư cũng ngẩng đầu liếc nhìn: “Anh thích cái này à?” "Đúng vậy, mỹ nam hiện nay là trào lưu thẩm mỹ, không chỉ có ta, mọi người đều thích, không tin thì cứ xem đập phá đi." Cùng với đó, Mo Idiom đã điều chỉnh đòn tấn công trực tiếp. Bây giờ bước tới là những người về đích ở vị trí thứ hai và thứ ba ở phần thi sắc đẹp. Họ có rất nhiều người hâm mộ. Ngay khi rào cản mở ra, toàn bộ màn hình phía trên tràn ngập những dòng chữ như "Gà rán trông ngon quá", "Chồng ơi, nhìn em đi", "A, em chết mất", "Vợ em đẹp quá". Nó cho thấy sự phổ biến của nó. Mo Si hoàn toàn không có hứng thú với chuyện này. Anh nhìn vào màn hình, vẻ mặt dần dần nhạt đi, cho đến khi – “Người tiếp theo bước vào là người dẫn chương trình nổi tiếng mới của chúng ta năm nay, Jiang Jiujiu của bộ phận ẩm thực và Chen Yu của bộ phận ngoại hình.” Trong video, robot quay phim của các phương tiện truyền thông lớn ở hai bên thảm đỏ bắt đầu hoạt động, Mo Si ngay lập tức ngồi thẳng dậy. Động tác trên sô pha khiến Mặc Thừa Vũ lén nhìn hắn một cái, sau đó trong lòng mỉm cười. Có vẻ như trong thời gian cô đến làm việc trong phòng thí nghiệm, anh trai cô ngày càng ít bí mật hơn về chuyện của Thu Thu. Người hâm mộ của Jiang Jiujiu cũng sảng khoái như Mo Si. 【Cửu Cửu xuất hiện! 】 【Đó là một tweet! Cuối cùng nó cũng ở đây! 】 Hàng rào nhanh chóng bị người hâm mộ của Jiang Qiuqiu chiếm giữ. Chẳng bao lâu sau, người hâm mộ đã nhận thấy điều bất thường! Hai người này dường như không trực tiếp vào địa điểm như những người dẫn chương trình trước đó. Người neo tên Chen Yu này dường như chỉ đi sau Jiang Qiuqiu vài bước. [Ờmmm? Tại sao họ không ở cùng nhau? 】
+
+---
+*Thời gian thế hệ: 2025-11-19 13:30:50*

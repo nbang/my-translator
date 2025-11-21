@@ -1,0 +1,14 @@
+# Chương 86 'Ông nội' của người hầu
+
+## Tiêu đề | Tiêu đề
+Chương 86 'Ông nội' của người hầu
+
+---
+
+## Nội dung | Nội dung
+
+Chương 86
+Những 'ông nội' bị dùng làm công cụ đều nghĩ rằng tôi là người nghiêm túc, và tôi chắc chắn không biết sử dụng StarNet, và tôi cũng không chơi diễn đàn… Họ nghĩ tôi thật nhàm chán và nhàm chán. #Thực ra họ chỉ là những người trên trăm tuổi mà thôi. Chơi trên Star Network không chỉ là vấn đề nhàn rỗi. Ông nội cũng có vòng kết nối xã hội của riêng họ. Và bà ngoại! Trang phục hàng ngày cũng có vòng tròn riêng! Chủ đề này ngày càng trở nên quanh co hơn khi được nói đến và mọi người đều quên mất lý do tại sao ngay từ đầu nó lại trở nên phổ biến đến vậy. Sau đó, một người qua đường không quen biết đăng lên - #Tôi thật có lỗi với mọi người, tôi đều bị coi như một công cụ## Vấn đề gây chú ý không đơn giản như vậy. #Ồ, mọi người mới nhớ ra vẫn còn có chuyện cần chú ý. Khi trò chuyện trở lại, có người hỏi tại sao mọi chuyện không còn đơn giản nữa. Người bước ra nói là một ông già cô độc. Con trai và con dâu của ông đều chết trong thảm họa hầm mỏ nên ông để lại một đứa cháu trai. Trong nhiều năm, ông đã làm việc chăm chỉ để nuôi cháu trai. Hôm nay, cháu trai ông đang học tại Đại học Liên bang bất ngờ chia sẻ mỏ neo với ông. Ông lão không biết cách làm món này nhưng khi nhìn thấy nó là của cháu trai mình, ông liền làm theo hướng dẫn và bắt tay vào thực hiện. Cháu trai nói với ông rằng đây là người dẫn chương trình mà ông tìm thấy trên StarNet, người đã làm ra những món ăn ngon và ông hy vọng rằng ông nội có thể cùng mình nếm thử những món ăn ngon. Sau khi biết về giao thông của Jiang Qiuqiu, sự nổi tiếng của Jiang Qiuqiu, sự nổi tiếng của Jiang Qiuqiu và thu nhập hàng ngày của anh ta, ông già đã rất ngạc nhiên. Những phương pháp mới của thời đại mới thật sự rất tuyệt vời. Sau đó, khi cháu trai của ông đang trò chuyện với ông, ông vô tình đề cập đến một số hoạt động gây chú ý trong vòng tròn của Jiang Qiuqiu. Tìm ông bà, bố, mẹ, ông bà, ông bà không xem được mạng sao để chú ý, loại bỏ kẻ thù tiềm tàng và nhận được đồ ăn ngon 100%. Ban đầu anh ấy nghĩ đó là một trò đùa nhỏ, nhưng anh ấy không ngờ rằng khi nhìn vào nhóm bạn cũ của mình, anh ấy nhận ra rằng vấn đề này đã được lan truyền rộng rãi. Anh kể lại sự việc như nó vốn có, không hề thêm chút bối rối hay ghen tị nào. Ngôn ngữ của ông rất rõ ràng và đơn giản, ngoại trừ việc ông thêm một câu ở cuối - #我cháu trai nói rằng món ăn do mỏ neo này nấu quả thực rất ngon và được đánh giá cao. Anh ấy muốn chia sẻ nó với tôi và cùng ăn. #Mang một chút khoe khoang. Làn sóng này mang tính khoe khoang, những ông nội bị coi là “công cụ” ở bên kia sẽ không vui. Cái gì! Bé nhà người khác biết chia sẻ đồ ăn ngon với ông bà, còn bé nhà mình thì lén ăn một mình!
+
+---
+*Thời gian thế hệ: 2025-11-19 13:13:21*

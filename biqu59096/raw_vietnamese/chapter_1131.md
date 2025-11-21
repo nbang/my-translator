@@ -1,0 +1,14 @@
+# Chương 1131 Cửu Tinh người vẫn luôn biết Thu Thu
+
+## Tiêu đề | Tiêu đề
+Chương 1131 Cửu Tinh người luôn biết Thu Thu
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 1131 chương
+Người dân Jiuxing luôn biết hai thanh niên khiêng cáng của Qiuqiu. Họ liếc nhìn cô và nhanh chóng cất đồ đạc đi. Bạn có vẻ tin cô ấy? Kiều Thu mỉm cười. Dù thế nào đi chăng nữa, cảm giác được tin tưởng cũng thật tốt. Như đã đề cập trước đó, Qiuqiu luôn là một cầu thủ chịu được áp lực. Cô ấy thường có thể kích hoạt sức mạnh ý chí của mình và kích thích tiềm năng trong cơ thể trong những tình huống tuyệt vọng hoặc khi cô ấy kiệt sức. Cũng giống như bây giờ, những người chữa bệnh tâm linh khác đi cùng anh dần dần bắt đầu mất đi sức mạnh thể chất, nhưng Qiuqiu, vì cô đã ăn uống đầy đủ trong hai năm qua, không bao giờ lười biếng trong luyện tập (kéo dài sức mạnh tinh thần của mình là tiêu chuẩn), không bao giờ mất PK (đấu kiếm cấp SSS), và biến phòng trọng lực thành nhà của mình, một cách kỳ diệu đã theo kịp tốc độ của mọi người mặc dù cô hoàn toàn đắm chìm trong sức mạnh thần thánh. Chọn chỗ nghỉ ngơi cho đến khi ca thứ 2 bắt đầu. Sau khi quay liên tục và đột ngột dừng lại, Qiuqiu cảm thấy như mình sắp ngã xuống. May mắn thay, sau khi Ti Liu quay lại hai lần, trước khi có người kịp đưa tay ra, Qiuqiu đã bám vào cái cây bên cạnh và thở hổn hển. Ánh mắt của hắn có chút mơ hồ, đột nhiên có một giọng nữ cắt ngang. "Bạn ổn chứ? Bạn có bị mất sức không?" Thu Thu liếc sang một bên, vẻ mặt hiền lành nhưng xa lạ. "Quên giới thiệu với cậu, tôi là lớp phó của lớp 2. Giang học sinh, cậu thế nào rồi? Có muốn tôi gọi y sĩ bên cạnh đến chữa trị cho cậu không?" Khâu Thu khóe miệng giật giật, bất đắc dĩ chỉ vào mình: "Bản thân ta cũng là thầy thuốc tâm linh." Bây giờ mọi người đều mệt mỏi. Phó tiểu đội trưởng sờ sờ đầu, "Không phải là bác sĩ không tự chữa khỏi bệnh sao? Ta thấy ngươi khó chịu, cho ta hỏi một chút." "Tôi ổn, cảm ơn." Thu Thu lau mồ hôi, "Ta chỉ hơi mệt chút thôi, tiểu đội trưởng, tiểu đội của chúng ta nên mai phục ở đây hay sau này tiếp tục tiến sâu hơn?" "Chúng tôi đã chuẩn bị sẵn sàng để có mặt tại chỗ." Luật chơi ở đây là được chấp nhận tương đương với việc gia nhập đội hình, không có gì phải giấu giếm. Đội trưởng cũng rất trực tiếp. "Mọi người sẽ không thể chịu đựng được nếu chúng ta tiếp tục. Chúng ta sẽ tìm một số đồ ăn tại chỗ." Cô ấy nhìn Qiuqiu và nói: "Hãy để những người chữa bệnh khác thực hiện một phương pháp điều trị đơn giản trước. Học sinh Jiang, bạn chịu trách nhiệm nấu ăn. Một là bổ sung năng lượng cho mọi người, hai là liệu pháp ăn kiêng ..." Khi cô ấy nói, người chữa bệnh ở đó đã bắt đầu điều trị cơ bản đầu tiên. Có thể thấy rằng họ thực sự đang ở giai đoạn cuối của cuộc chơi. Anh ấy đã nâng mình lên hoàn toàn bằng ý chí.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:27:02*

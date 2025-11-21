@@ -1,0 +1,14 @@
+# Chương 68 Máu cay khó cưỡng
+
+## Tiêu đề | Tiêu đề
+Chương 68 máu cay không thể cưỡng lại
+
+---
+
+## Nội dung | Nội dung
+
+Chương 68
+Người có khí huyết cay nồng, mạnh mẽ khó cưỡng luôn có thể được người khác tôn trọng. #Nếu bạn có kỹ năng thì ít nhất bạn không phải là người trình diễn, bạn thực sự trông giống một đầu bếp! ##Tốt hơn nhiều so với những kỹ thuật tôi thấy ở các nhà hàng nhỏ! ##Bạn đang làm gì vậy, so sánh em gái Jiujiu của chúng tôi với đầu bếp trong một nhà hàng nhỏ? Bạn thật mù quáng! # Trong phòng cắt rau, nước trong nồi đã sôi, những quả ớt chìm trong nồi dâng lên theo làn nước khuấy. Mùi thơm cay nồng bị nắp nồi giữ lại mấy phút cũng bay dọc theo thiết bị phát sóng trực tiếp đến lỗ mũi của mỗi khán giả đang xem trước màn hình. Jiang Qiuqiu thêm nhiều gia vị và một chút muối để tăng hương vị. Dầu chiết xuất từ ​​hải sản đã bổ sung thêm hương vị umami đậm đà hơn cùng với vị cay. Jiang Qiuqiu đặt Xuewang mềm vào nồi. "Bản thân Xuewang không có hương vị đặc biệt, nhưng kết cấu của nó không giống bất kỳ món ăn nào khác. Kết cấu mềm mịn kết hợp với hương vị Tứ Xuyên, cay và thơm, hầu như không ai có thể từ chối." "Chúng ta chờ ba phút, có thể nếm thử món ăn ngon." Như thường lệ, Jiang Qiuqiu dẫn đầu trong việc bày ra chiếc bát nhỏ trước khi bắt đầu nồi. “Tiếp theo, hãy cắt các đồ trang trí, tỏi, ớt khô và rau mùi.” Vì phải làm rất nhiều bát nên Jiang Qiuqiu đã cắt rất nhiều đồ trang trí. Nồi bắt đầu kêu bíp bíp, cô nhanh chóng tắt lửa, dùng thìa dài múc máu vào bát. Món đậu phụ huyết cô làm cực kỳ mềm, khi rơi vào bát nó sẽ chìm xuống và hơi nảy lên. Đây chỉ là một cảnh tượng hết sức bình thường, nhưng không hiểu vì sao, có người lại không khỏi nuốt nước bọt. Có vẻ như... ngon. Có vẻ như... không phải ẩm thực tối tăm. Nó còn có chút mùi thơm, vị cay cay đó, thật hấp dẫn! Nhưng đây không phải là bước cuối cùng. Rắc đồ trang trí vào từng bát nhỏ và đun nóng nồi dầu nóng. "Hương vị đậm đà nhất của Mala Xuewang phụ thuộc vào thìa dầu nóng cuối cùng." Dầu nóng tác động trực tiếp vào những quả ớt khô, xào chín để mang lại vị cay “đích thực” nhất. Rau mùi và hành lá được đun nóng trong dầu nóng sẽ tỏa ra mùi thơm hấp dẫn. Phiên nấu ăn thông thường được theo sau bởi việc quét, lấy mẫu và ăn. Hôm nay Jiang Qiuqiu đã bổ sung thêm một buổi giải thích về thực phẩm. Cô dùng tay trần cầm một chiếc bát nhỏ lên, lấy ra một chiếc thìa nhỏ màu trắng, múc một thìa Tuyết Vương, chậm rãi nhấc ra khỏi video rồi cho vào miệng. Nó mượt mà trong miệng đến nỗi tan chảy trong cổ họng cô trước khi cô nhấp một ngụm, và vị cay ngay lập tức tỏa ra. Cô đã lâu không được ăn món ăn kích thích như vậy, nhưng sau khi được kích thích lại là một loại cảm giác thích thú khác.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:12:44*

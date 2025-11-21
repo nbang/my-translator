@@ -1,0 +1,14 @@
+# Chương 644 Sự ích kỷ của con bướm (cốt truyện đặc biệt Merlin x Jiang Jiang)
+
+## Tiêu đề | Tiêu đề
+Chương 644: Sự ích kỷ của con bướm (cốt truyện đặc biệt Merlin x Jiang Jiang)
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 644 chương
+So với trường đại học nữ, những người đến khoa tài chính ở đây phần lớn đều là con trai thứ của quý tộc liên bang hoặc con ngoài giá thú. Theo mặc định, những người đến trường này không có cơ hội kế thừa công việc kinh doanh của gia đình, về cơ bản sẽ chỉ nhận cổ tức. Merlin, với tư cách là con gái duy nhất của gia đình Dais, vừa mới đến, ở đây rất nhiều người đều ngưỡng mộ Merlin. Ý nghĩa là rõ ràng. Muốn đoạt lại mỹ nhân thì tiện tay cởi bỏ người đẹp sau lưng nhà họ Dai, trực tiếp thăng chức hầu tước, sao không làm. Giang Giang ghét những người đó. Không phải vì ghen tị mà họ có thể đứng về phía Merlin một cách chính đáng, mà là vì thái độ và nhận thức của họ. Họ không đặt cô Merlin vào tình thế truy đuổi bình thường chút nào. Nhiều người không tôn trọng cô, họ chỉ nhìn bạn gái hoặc thậm chí là vợ của họ để giúp cô đưa ra quyết định. Nhưng anh ấy chưa bao giờ nói điều đó cho đến lúc này... "Đúng." Giang Giang rất kiên định, trong mắt tràn đầy tin tưởng: "Tôi tin cô, cô có thể dẫn dắt Ứng dụng Tâm tính trở thành công ty phát sóng trực tiếp lớn nhất toàn thiên hà!" “…” “Ta nắm giữ một phần nhỏ, ta không phải người đứng đầu, quên đi, đừng nói nữa!” Merlin vẻ mặt nghiêm túc, "Ngày mai tôi sẽ đầu tư tiền vào Qianxingxing! Đầu tư nhiều hơn nữa! Hãy để anh ấy phát triển công ty nhanh chóng!" Cậu có muốn nghe cái gì khác không?" "Không, tôi chỉ ghét bầu không khí ở đây thôi." Merlin cũng lo lắng, "Tôi tưởng anh ta sẽ đi sâu hơn, nhưng hình như gần đây anh ta toàn nói những chuyện đơn giản và khủng khiếp." "Tôi vốn tưởng rằng anh ta đang làm từng bước một, nhưng bây giờ tôi phát hiện ra rằng anh ta thực sự đang bắt được tên khốn đó ở vùng nước nông." Cô rõ ràng muốn tìm hiểu thêm. "Vậy tại sao chúng ta không đến phòng tài chính để tham gia lớp học?" Giang Giang nói những lời này với giọng điệu bình tĩnh, khiến anh rất vui vẻ. "Tôi đã hỏi trước rồi. Ngoại trừ những khóa học có tính chất chuyên môn, tất cả các khoa trong trường đều được phép kiểm tra." "Còn các lớp ở đây thì sao?" "Chúng tôi không cần phải tham dự. Giáo viên thực ra không quan tâm trong lớp có bao nhiêu người, thưa cô.." Merlin có chút muốn đến lớp của một học sinh thực sự, nhưng cô cũng có chút bối rối, "Nếu tôi không theo kịp thì sao?" "Không, cô đã cố gắng hết sức trong lớp." Nhưng cô vẫn sợ một tình huống, "Nếu tôi đến lớp và giáo viên nhìn thấy tôi, thầy ấy yêu cầu tôi đứng dậy trả lời câu hỏi và tôi không thể trả lời..." Nghĩ đến đây tôi thấy xấu hổ quá. Nhưng Giang Giang cảm thấy rằng tất cả điều này sẽ không bao giờ xảy ra.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:08:15*

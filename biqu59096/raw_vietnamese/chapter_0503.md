@@ -1,0 +1,14 @@
+# Chương 503 Hừ, ta không còn vui nữa
+
+## Tiêu đề | Tiêu đề
+Chương 503 Hừ, ta không còn vui nữa
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 503 chương
+Hừm, tôi không vui chút nào. "Không phải là quá nhàm chán sao?" Jiang Qiuqiu yêu cầu robot quản gia dọn dẹp đống bừa bộn. Cô đi tới phòng khách bưng mấy món ăn tối nay làm, gọi Mặc Tư Tư đi ăn: “Em để anh đợi lâu như vậy.” "Nó không nhàm chán. Nó rất thú vị." “Ha ha, ăn đi, không biết cậu có thích đồ ngọt không, nên cũng không cho nhiều như vậy.” Bây giờ Mo Si đã quen nói rằng nó rất ngon. Dù là món gì, chỉ cần được Jiang Qiuqiu phục vụ là ngon! Khi bữa ăn gần xong, Mo Si nghĩ tới điều gì đó và hỏi Jiang Qiuqiu: "Anh có định làm mười tám món cho bữa tối đêm giao thừa vào cuối tháng này không?" "Ừ, có chuyện gì thế?" “Hôm nay làm ba món mất nhiều thời gian như vậy…” Nếu làm mười tám món, chẳng phải sẽ tốn rất nhiều công sức sao. "Hôm nay tôi đã thực hiện một số hướng dẫn vì phần ăn quá lớn và tôi đã không sử dụng thời gian của mình một cách hợp lý." Jiang Qiuqiu có thể nói rằng Mo Si đang quan tâm đến cô. “Bữa tối đêm giao thừa tôi chỉ nấu cơm thôi, chắc không nói nhiều đâu, thế là nhanh rồi”. Nhưng dù có nhanh đến đâu, bạn vẫn sẽ cảm thấy mệt mỏi. “Đừng lo lắng, tôi nấu mười tám món không khó đâu.” Khi nhắc đến bữa tối giao thừa thì không thể tránh khỏi nhắc đến đêm giao thừa. “Cậu đón giao thừa ở đây một mình à?” "Đúng." Giang Thu Thu cảm thấy hôm nay Mặc Tư hỏi rất nhiều vấn đề đều có 'câu trả lời'. “Ta ở quê không có người thân, không cần lo lắng, cũng không cần bay về.” "Đêm giao thừa sẽ ngay sau khi chuẩn bị bữa tối giao thừa. Ăn xong chúng ta có thể đi ngủ, lúc đó sẽ là ngày đầu năm mới." "Đúng." Bạn hỏi tôi, tôi chỉ nhớ hỏi, khi nào bạn và chị Chengyu về nhà ăn mừng năm mới?" Mo Si suy nghĩ một lúc, "Sẽ là vào ngày 27." "Sẽ sớm thôi." Jiang Qiuqiu tiếp tục thưởng thức đồ ăn. Bữa tối cũng không có gì chuẩn bị nhiều. Khi Mo Si trở lại, Jiang Qiuqiu đã mang cho anh ấy một chiếc máy điều nhiệt nhỏ. "Hãy coi đó như một bữa ăn thêm cho chị Idiom và những người khác. Ngươi có thể nhanh chóng quay về." Trên đường trở lại lâu đài, Mo Si không ngừng nghĩ về việc Jiang Qiuqiu tự mình nấu toàn bộ bữa tiệc đêm giao thừa. Sau khi nấu xong, 18 món ăn được xếp gọn gàng trên bàn họ vừa dùng. Các món ăn hoàn hảo, giống như một bức tranh, đầy đủ các loại và thơm. Nhưng ở ghế chính chỉ có một người. Jiang Qiuqiu một mình cầm đũa, đối diện với bàn ăn vào đêm giao thừa. Chỉ nghĩ đến điều đó thôi cũng khiến tôi cảm thấy vô cùng cô đơn. Anh không muốn xảy ra cảnh tượng này. - Sau khi Mặc Tư rời đi, Khương Thu Thu nhanh chóng tắm rửa rồi đi ngủ, cô cảm thấy hôm nay một số câu hỏi mà Mo Si hỏi có ý nghĩa hơn một chút.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:31:45*

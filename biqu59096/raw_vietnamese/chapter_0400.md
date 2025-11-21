@@ -1,0 +1,14 @@
+# Chương 400 Theo mỏ neo, món ngon thiên nhiên cổ địa đều miễn phí
+
+## Tiêu đề | Tiêu đề
+Chương 400 Theo mỏ neo, món ngon thiên nhiên cổ địa đều miễn phí
+
+---
+
+## Nội dung | Nội dung
+
+Chương 400
+Hãy đi theo mỏ neo và nhận miễn phí những món ngon tự nhiên từ trái đất cổ xưa! "Những anh chàng đẹp trai và mỹ nhân vẫn đang xếp hàng có thể ra ga trước ~" "Chỉ cần quét mã QR và làm theo người dẫn chương trình của chúng tôi, bạn có thể nhận được một phần miễn phí món súp đậu phụ ngon tự nhiên của trái đất cổ đại ~" Đây là lối vào của Trung tâm Hoạt động Người cao tuổi. Hầu hết những người chờ đợi ở nhà ga đều trên 150 tuổi. Họ là những công dân cấp cao thực sự trong Liên bang. Khi chúng ra đời, công nghệ vẫn chưa phát triển. Chương trình phát sóng trực tiếp và chương trình cố định không phải là sản phẩm phổ biến vào thời của họ, vì vậy chỉ một số ít người biết cách theo dõi chương trình cố định trên thiết bị đầu cuối và hầu hết mọi người vẫn còn bối rối khi đề cập đến điều này. Tất nhiên, không biết cũng không sao. Người dùng mới! Cậu bé cầm loa nhẹ nhàng dạy những người lớn tuổi đến và đi: "Rất đơn giản, chỉ cần mở thiết bị đầu cuối! Vâng, ông nội, thiết bị đầu cuối của ông rất tiên tiến." "Nhìn xem, trước tiên bấm vào đây, quét mã ID của chúng tôi, bạn có thể thấy rằng mình đã theo dõi thành công." "Chủ nhân của chúng ta. Người dẫn chương trình tên là Khương Cửu Cửu, món ăn chúng ta nấu hôm nay đều là món cô ấy nấu trước đó. Ăn xong nếu có hứng thú thì có thể đến xem chương trình phát sóng trực tiếp của cô ấy ~" Có rất nhiều người, thiếu niên cũng không giải thích quá lâu. Sau khi chú ý, anh đưa canh đậu phụ bên cạnh cho ông lão. Sau khi nhận súp, người già, người trẻ đều chụp ảnh cùng robot camera. Ông lão cầm bát canh, lúc đầu tỏ ra không đồng tình, sau đó nhấp một ngụm. Anh ấy là người đầu tiên uống súp. Những người trong đội liên tục nhìn anh. Họ nhìn thấy anh ta dùng thìa nhấp một ngụm súp rồi uống. Có lẽ vì đã lớn tuổi nên trên mặt ông không có biểu cảm gì, cũng không ai có thể biết được nó có ngon hay không. Nhưng chẳng bao lâu sau, mọi người đều phát hiện ra mình đã sai. Bởi vì có lão nhân này mà tốc độ uống canh đột nhiên trở nên nhanh hơn. Anh vốn chỉ múc một thìa lên nhấp một ngụm, nhưng sau đó anh lại cầm chiếc bát giấy bằng hai tay và bắt đầu thổi. Sau khi súp nguội, anh nhanh chóng nhấp một ngụm. Sắc mặt hắn không thay đổi, nhưng tốc độ lại cực kỳ nhanh. Tôi ăn xong bát súp một cách nhanh chóng trong lúc múc và thổi. Nếu không ngon thì làm sao có thể uống nhanh như vậy? Có một sự náo động nhỏ trong đội. Tuy nhiên, đây không phải là hoạt động khó chịu nhất. Hành động khó chịu nhất là sau khi bát của ông già đã cạn, ông sải bước đến cuối hàng và xếp hàng. Tà Mi:...Tata Mi:! Tata Mi tóm lấy Wang Chichi và nói: "Cái này, cái này trông ngon quá!"
+
+---
+*Thời gian thế hệ: 2025-11-19 13:25:15*

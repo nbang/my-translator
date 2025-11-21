@@ -1,0 +1,14 @@
+# Chương 869 Mặc Tư giống như một quả trứng liền mạch
+
+## Tiêu đề | Tiêu đề
+Chương 869 Mặc Tư giống như một quả trứng liền mạch
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 869 chương
+Mo Si giống như một quả trứng liền mạch. Nội các và Thượng viện được thắp sáng suốt đêm. Khi nói đến nội các, chúng ta phải nói chi tiết về cơ cấu cấp trên của liên đoàn. Toàn bộ thiên hà liên bang bao gồm ba bên. Một là hoàng gia và quý tộc. Thứ hai là Nội các Thượng viện. Thứ ba là một liên minh bao gồm các gia đình quý tộc như gia đình Mo, tuân thủ di sản của vị vua tiền nhiệm và hy vọng thúc đẩy nhân quyền bình đẳng. Tuy nhiên, ba lực lượng này không hoàn toàn rõ ràng. Trong số đó, hoàng gia và Liên minh Tự do tương đối rõ ràng, trong khi thành phần Thượng viện lại rất phức tạp. Có quý tộc, liên minh tự do, có người bình thường từng bước leo lên bằng chính phương tiện của mình. Chúng là phần phức tạp nhất của nó. Ba thế lực thù địch lẫn nhau và đan xen vào nhau, giữ vững toàn bộ liên bang. Trong những năm qua, hoàng gia luôn là thế lực thống trị. Sau này, với sự trỗi dậy của những người trẻ thuộc Liên minh Tự do do Mo Si lãnh đạo và Star Network ngày càng phát triển, cuộc sống của người dân ổn định và suy nghĩ của họ bắt đầu thay đổi. Ngày càng có nhiều người bình thường tin rằng 'quyền bình đẳng' là tốt, và sức mạnh của Liên minh Tự do ngày càng mạnh mẽ. Theo quỹ đạo của lịch sử, cuối cùng hai bên sẽ đối đầu trực diện. Muốn tranh giành quyền lực thì phải có sức mạnh. Gia đình hoàng gia kiểm soát Vệ binh và Vệ binh Pháp quan, một số đồn trú và một số quân đoàn. Liên minh Tự do ban đầu không có nhiều sức mạnh quân sự, nhưng sau đó Moss bất ngờ nổi lên và tỏa sáng rực rỡ trên chiến trường, trở thành lưỡi kiếm của đế quốc và gây chấn động các ngôi sao vùng cực nên có sức mạnh quân sự lớn hơn. Không chỉ vậy, vì đã chiến đấu quanh năm nên sự dũng cảm của lực lượng viễn chinh đã được nhiều người biết đến trong thế giới giữa các vì sao. Hơn nữa, bản thân Mo Si còn có danh tiếng xuất sắc trên Star Network và có rất nhiều người hâm mộ. Bạn càng mạnh mẽ và càng nổi tiếng thì bạn sẽ càng bị coi là cái gai trong mắt người khác và cái gai trong thịt họ. Đáng tiếc, Mặc Tư quanh năm sống ẩn dật, ít xuất hiện, ít nói trên truyền thông. Hầu hết trong số đó là những video giết Zerg bằng tay không. Thế thôi, trời không thể tối được chút nào. Nếu không chơi với phụ nữ, không chơi tiền, không tham quyền, không quan tâm đến em trai mình, trên người sẽ không có một vết đen nào! Hoàng gia hận hắn đến nghiến răng nghiến lợi nhưng lần này lại không thể làm gì được!
+
+---
+*Thời gian thế hệ: 2025-11-19 14:17:34*

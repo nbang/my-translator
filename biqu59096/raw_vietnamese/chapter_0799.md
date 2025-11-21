@@ -1,0 +1,14 @@
+# Chapter 799: Những kẻ không thể chạm tới trên hành tinh
+
+## Tiêu đề | Tiêu đề
+Chương 799: Những kẻ không thể chạm tới trên hành tinh
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 799 chương
+The Untouchables on the Planet "Về phần các khẩu hiệu, hiệu trưởng của chúng tôi đã yêu cầu họ hét lên." “Ở đây tụ tập một nhóm người đông quá cũng vô ích. Sao không hô khẩu hiệu để tất cả những thầy thuốc tâm linh đến đây thấy rằng chúng ta rất coi trọng nó”. Giang Thu Thu ở một bên nghe. Sau đó lại hỏi: “Ngoài cửa có bao nhiêu người?” "Có bao nhiêu người... Cái này ta không biết, chung quanh nơi này phỏng chừng chỉ có mấy trăm vạn người, tương đối ít. Có một số người ở rất xa nơi này, còn đang trên đường tới đây." "Vậy ở đây có nhiều người như vậy, người ta có đủ tiền chữa trị không?" Sau khi Qiuqiu hỏi câu hỏi này, người hướng dẫn viên mỉm cười, "Tất nhiên, nguồn lực y tế khan hiếm, và ở đây có quá nhiều người không có tiền." “Đó không phải là một căn bệnh hiểm nghèo, vậy ai sẽ sẵn sàng trả tiền cho nó?” "Nhưng nói cách khác, tốc độ nhanh như vậy, chết cũng chỉ là lãng phí tinh tệ mà thôi." Người hướng dẫn nói nhanh. Nói xong, hắn thấy hai cô bé bên cạnh lộ ra vẻ mặt kỳ quái, vội nói thêm: “Bản chất con người là già, bệnh, chết.” Chỉ là ở đây có nhiều người chết hơn mà thôi. "Được rồi, các quý cô, các cô muốn đi mua sắm. Các cô muốn đi đâu?" "Chúng ta nên đi mua sắm ở chợ hay trung tâm mua sắm ở đây?" "Sự khác biệt giữa chợ và trung tâm mua sắm là gì?" “Chợ do chính người dân điều hành. Nó không vui lắm nhưng một số người cho rằng ở đó mới lạ hơn”. Người hướng dẫn viên mỉm cười, “Trung tâm mua sắm là nơi mua sắm lớn nhất trên hành tinh của chúng ta và chỉ những khách hàng nổi bật nhất mới có thể đến đó.” Cố Tương muốn đi trung tâm mua sắm. Dù sao thì Qiuqiu vẫn ổn, tôi chỉ cần anh Xiaoqian đón tôi ở đâu đó. Hai cô gái trẻ cũng không phản đối gì, cả nhóm cùng nhau đi đến trung tâm thương mại. Những chiếc xe đường bộ ở đây đang chạy trên đường. Đường đến khu mua sắm khá sạch sẽ nhưng trên đường đi lại có nhiều người bị theo dõi. Quần áo Cố Tương và Vương Sa Sa mặc hôm nay có màu sắc tươi sáng, không hợp với màu xám ở đây, đặc biệt bắt mắt. Bởi vì có quá nhiều người nhìn chằm chằm vào bọn họ, Cố Tương và Vương Sa Sa đều cảm thấy có chút xấu hổ. Rốt cuộc, cô ấy là một cô gái trẻ. Người hướng dẫn cau mày khi nhìn thấy sự xuất hiện của hai người. Sau đó, khi xe đất tiếp tục tiến về phía trước, có người đang nhìn ở giữa, người hướng dẫn viên đột nhiên bấm còi vài lần, sau đó nghiêng đầu hét về phía bên đường: "Thường dân đang nhìn cái gì vậy!?" Người dân bên đường lập tức giải tán.
+
+---
+*Thời gian thế hệ: 2025-11-19 14:15:54*

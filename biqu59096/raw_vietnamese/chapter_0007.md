@@ -1,35 +1,14 @@
-# Chương 7: Đây có phải là chọc phá ổ của gia tộc động vật không？
+# Chương 7 Đây là đâm vào tổ thú của gia tộc sao?
 
-## Tiêu đề | Title
-Chương 7: Đây có phải là chọc phá ổ của gia tộc động vật không？
+## Tiêu đề | Tiêu đề
+Chương 7 Đây là đâm vào tổ thú nhà sao?
 
 ---
 
-## Nội dung | Content
+## Nội dung | Nội dung
 
 Chương 7
-Đây có phải là chọc phá ổ của gia tộc động vật không? Giang Giang Giang ngủ đến sáng sớm. Khoảng cuối tháng lại gần thêm một ngày, cô ấy giống như trước đây ở Trái Đất, vô thức mở nền tảng phát sóng của mình để xem fan, rồi cô ấy đã choáng váng. Hôm qua chỉ có hơn hai mươi fan, hôm nay lại đột nhiên vượt ngưỡng mả—hơn một nghìn người! Chuyện gì đã xảy ra vậy? Dù Liên Bang có nhiều người đến đâu, cũng không ai nhanh chóng lên tận trời như vậy chứ. Giang Thu Thu rất phấn khích một lúc lâu, khoảng vào khoảng 11 giờ sáng có người gõ cửa nhà cô.
-
-“Kính thưa cô Giang Thu Thu ạ, dưỡng dịch d-1 mà quý vị đặt đã đến, xin tiếp nhận ~” Hóa ra là robot giao dưỡng dịch đã tới. Nhận xong dưỡng dịch, robot hỏi Giang Thu Thu: “Dịch vụ phân phối dưỡng dịch của quý khách còn hai ngày nữa là đến hạn, có cần gia hạn trước không?” Việc gia hạn dưỡng dịch này sẽ mất 300 sao. Giang Thu Thu hiện tại tiền mặt rất hạn hẹp, túng thiếu, cô liền từ chối: “Không cần đâu, đến hạn sẽ tự gia hạn.”
-
-“Được rồi, vậy không quấy rầy quý ngài nữa, chúc quý ngài sống vui vẻ.” Robot không dây dưa, trực tiếp đi sang nhà tiếp theo.
-
-Nhận được dưỡng dịch, Giang Thu Thu quả thực thấy đói.
-
-Cô chạm tay lên bụng, mở nắp chai, cũng không suy nghĩ nhiều, ngửa đầu đổ dưỡng dịch thẳng vào miệng. Một giây, hai giây… Trong ký ức của chủ nhân trước đây chưa từng có khái niệm dưỡng dịch khó uống, nên dù Giang Thu Thu từng thấy trên Tinh Mạng rằng dưỡng dịch giống như nước phân khó nuốt, trong đầu cô ta chỉ thoáng nghĩ rằng dưỡng dịch có thể càng đắt càng khó uống.
-
-Kết quả hôm nay một ống chất lỏng được đổ thẳng vào cổ họng mà cô ấy hoàn toàn chẳng có sự chuẩn bị, mùi vị không thể diễn tả bằng lời nhanh chóng lan tỏa khắp các giác quan. Nói rằng loại dưỡng dịch này là từ thời kỳ đầu của Liên Bang, khi không có thực phẩm, được tinh chế từ khoáng thạch thành một loại tinh thể năng lượng. Vật này tổng thể không có vị thức ăn nào, toàn là mùi kim loại gỉ sét, một mùi mặn tanh, và còn vô số mùi lạ khó có thể dùng ngôn ngữ để diễn tả — tất cả trộn lẫn với nhau—ôi. Ôi. Giang Thu Thu khuôn mặt vặn vẹo.
-
-Lúc này, Giang Thu Thu thề sẽ phải nỗ lực kiếm tiền, khi có tiền rồi nhất định ăn những thứ ăn được bằng người sống, tuyệt đối sẽ không ăn loại dung dịch độc hại 10 sao nữa, sẽ ăn no mỗi bữa ăn. Khoảng mười phút sau, Giang Thu Thu mới thoát khỏi cảm xúc tiêu cực vì mùi vị khó nuốt ấy. Tuy nhiên thật kỳ diệu, chỉ sau một ống dung dịch nhỏ ấy, cô ấy cảm thấy tinh thần khởi sắc hơn một chút, bụng trống rỗng cũng đã no.
-
-Trưa 12 giờ, Giang Thu Thu mở Đào Đào Sinh Tiên Mạng, tìm kiếm các món ăn, xem đặc tính của các loại nguyên liệu, mua sắm đồ rẻ, cố gắng nhận diện, ghép một số nguyên liệu hiện có với những nguyên liệu trước đây. Vì vậy mà rất bận rộn, tới gần tám giờ tối.
-
-Giang Thu Thu mở Tinh Mạng và thiết bị phát sóng, vào đúng lúc 7:59, mở phòng phát sóng. Tê Lý nhận được nhắc nhở từ Tinh Mạng ngay lập tức, nhanh chóng đăng nhập vào #KinhNgạc！……#Phòng Phát Sóng.
-
-“Chào buổi tối mọi người, chào mừng mọi người đã vào phòng phát sóng ẩm thực của tôi, tôi là Giang Chiêu Chiêu, hôm nay tôi chuẩn bị công thức món ăn: viên thịt nhỏ chiên.” Giang Thu Thu quay lại, một khúc thịt thú lớn xuất hiện trên thớt. Cô ấy trực tiếp đi thẳng vào vấn đề, bắt đầu giới thiệu, “Hôm nay làm viên thịt nhỏ chiên dùng thịt của Bỉ Bỉ Thú —” Có lẽ vì có nhiều người xem hơn, chỉ vừa nói một câu, bình luận trên màn hình đã bắt đầu lăng mạ và phê phán.
-
-#Xương Bắc Lão Hổ: Xin lỗi nói thẳng, thịt của Bỉ Bỉ Thú thật sự ăn được không? Sự tối tăm của nó có thể so sánh với nước dinh dưỡng của chó—(hết chương)
+Đây có phải là một cú đâm vào hang ổ của gia đình động vật? Jiang Qiuqiu ngủ cho đến khi bình minh. Đã gần đến một ngày cuối tháng. Cũng giống như trước đây trên trái đất, cô ấy vô thức mở chương trình phát sóng trực tiếp của mình ở hậu trường, liếc nhìn người hâm mộ và sau đó cô ấy bị sốc. Hôm qua chỉ có khoảng 20 người hâm mộ, nhưng hôm nay con số này đột nhiên vượt quá bốn con số, với hơn một nghìn người hâm mộ! Chuyện gì đã xảy ra thế? Ngay cả khi có nhiều người trong Liên bang, họ cũng không thể cưỡi tên lửa như thế này. Jiang Qiuqiu đã vui vẻ một lúc. Khoảng 11 giờ sáng, có người gõ cửa nhà cô. "Cô Jiang Qiuqiu thân mến, dung dịch dinh dưỡng d-1 mà cô đặt đã đến. Xin vui lòng nhận lấy ~" Thì ra robot cung cấp dung dịch dinh dưỡng đã đến. Sau khi nhận được dung dịch dinh dưỡng, robot hỏi Jiang Qiuqiu: "Dịch vụ cung cấp dung dịch dinh dưỡng của bạn sẽ hết hạn sau hai ngày nữa. Bạn có cần gia hạn trước không?" Dung dịch dinh dưỡng tốn 300 đồng sao để gia hạn. Jiang Qiuqiu có rất ít tiền trong tay và thiếu tiền nên cô từ chối, "Không, tôi sẽ tự gia hạn khi hết hạn." "Được rồi, vậy tôi không làm phiền cậu nữa, chúc cậu sống vui vẻ." Robot không bận tâm nhiều và đi thẳng đến cửa hàng tiếp theo. Sau khi nhận được dung dịch dinh dưỡng, Jiang Qiuqiu thực sự có chút đói. Cô sờ bụng, mở nắp chai, không suy nghĩ nhiều, ngẩng đầu đổ dung dịch dinh dưỡng vào miệng. Một giây, hai giây... Nguyên chủ trong trí nhớ của cô chưa bao giờ có khái niệm dung dịch dinh dưỡng khó uống, cho nên mặc dù Giang Thu Thu đã đọc nhiều lần trên Star Network rằng dung dịch dinh dưỡng cũng khó nuốt như Shi, nhưng trong đầu cô hiện lên một suy đoán rằng dung dịch dinh dưỡng càng đắt thì càng khó ăn. Kết quả hôm nay uống vào, cô hoàn toàn không chuẩn bị gì cả. Một ống chất lỏng xông thẳng vào cổ họng cô, mùi vị khó tả trong chốc lát tiêu tan. Người ta nói rằng dung dịch dinh dưỡng này là một chất lỏng tinh thể năng lượng được chiết xuất từ ​​​​quặng năng lượng bởi những người Liên bang sơ khai khi chưa có thức ăn. Thứ này không có mùi giống bất kỳ món ăn nào cả. Nó tràn ngập mùi rỉ sét, mùi mặn và đủ loại mùi lạ không thể diễn tả bằng lời. Tất cả đều trộn lẫn với nhau - nôn mửa. nôn mửa. Khuôn mặt nhỏ của Jiang Qiuqiu đã hoàn toàn bị biến dạng. Lúc này, Jiang Qiuqiu thề rằng cô phải làm việc chăm chỉ để kiếm tiền. Khi giàu có, cô ấy phải ăn thức ăn của con người. Cô sẽ không bao giờ ăn chất lỏng 10 xu này nữa và cô phải ăn mỗi bữa. Sau khoảng mười phút chậm lại, Jiang Qiuqiu đã thoát khỏi cảm xúc tiêu cực khó chịu. Nhưng điều đáng kinh ngạc là sau khi uống một ống chất lỏng nhỏ như vậy, cô rõ ràng cảm thấy năng lượng của mình đã hồi phục một chút, bụng trống rỗng cũng cảm thấy no. Vào lúc 12 giờ trưa, Jiang Qiuqiu mở trang web Thực phẩm tươi sống Taotao, tìm kiếm các món ăn trên đó, xem xét đặc điểm của các nguyên liệu khác nhau, mua hàng giá hời, cố gắng xác định và so sánh một số nguyên liệu hiện có với các nguyên liệu trước đó. Với tất cả công việc bận rộn này, đã gần tám giờ rồi. Jiang Qiuqiu bật star network và thiết bị phát sóng trực tiếp, mở phòng phát sóng trực tiếp lúc 7:59. Terry ngay lập tức nhận được lời nhắc từ Xingwang và nhanh chóng đăng nhập vào #Shock! …… #直播间. "Chào buổi tối mọi người, chào mừng đến với phòng phát sóng trực tiếp đồ ăn của tôi. Tôi tên là Jiang Jiujiu, và công thức tôi chuẩn bị hôm nay là: thịt viên chiên." Jiang Qiuqiu trái tay, và một miếng thịt động vật lớn xuất hiện trên thớt. Cô đi thẳng vào vấn đề và bắt đầu giới thiệu: "Hôm nay thịt viên chiên được làm từ thịt của thú Bibi—" Có lẽ vì trong phòng phát sóng trực tiếp có nhiều người hơn nên Jiang Qiuqiu chỉ nói một lời, liền bắt đầu chê bai. #长北虎: Với tất cả sự tôn trọng, thịt của quái thú Bibi có thực sự ăn được không? Nó có sẫm màu hơn dung dịch dinh dưỡng cho chó không? #(Hết chương này)
 
 ---
-
- *Thời gian tạo: 2025-11-19 13:10:30*
+*Thời gian thế hệ: 2025-11-19 13:10:30*

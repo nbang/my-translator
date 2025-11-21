@@ -1,0 +1,14 @@
+# Thứ 590 chương Sự nghiệp mới khởi hành
+
+## Tiêu đề | Tiêu đề
+Chương 590: Sự nghiệp mới khởi hành
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 590 chương
+Sau khi khởi hành cho một sự nghiệp mới và lấy lại được sự tự tin, mặc dù tôi vẫn là một ngôi sao tiền bạc hốc hác nhưng cuối cùng tôi trông bớt suy đồi và uể oải hơn. Jiang Qiuqiu hỏi chị Meimei đã đi đâu. "Tôi bảo cô ấy quay lại trước." Qian Xingxing thở dài, "Tôi sợ anh ta sẽ nhắm vào cô ấy." Hơn nữa, dạo này ở đây không có nhiều chuyện xảy ra nên hai người ngồi đây không làm gì cũng chán lắm. "Vậy là xong. Sau đó chúng ta có thể sắp xếp để cô ấy bắt đầu tuyển người." "Ừ, học kỳ vừa mới bắt đầu, sau khi tốt nghiệp có rất nhiều sinh viên tìm việc làm, có một số còn là thực tập sinh, chúng ta tuyển người hẳn là không có vấn đề." Jiang Qiuqiu cũng đồng ý: "Tốt nhất là thuê một người quản lý khác." Quản lý toàn bộ công ty hoàn toàn khác với việc tiếp quản một chi nhánh. Để công ty phát triển ổn định hơn, việc tìm được một người quản lý có kinh nghiệm là một vấn đề lớn. "Nhân tiện, bạn đã chắc chắn rằng Kế hoạch B là mở một công ty mới. Bạn đã chuẩn bị cho phần mềm phát sóng trực tiếp chưa? Còn kỹ năng chuyên môn của bạn thì sao?" "Cái này... tôi có một ý tưởng." Nhưng hắn cũng không nghĩ nhiều, bởi vì lúc đó Tiền Hành Hành cảm thấy mình có thể thắng. Nghĩ đến đây, anh hơi đỏ mặt. Không sao đâu, chỉ cần có kế hoạch là được. Nếu bạn mới bắt đầu sự nghiệp, bạn có thể dành thời gian. "Tôi rất thích một ứng dụng phát sóng trực tiếp nhỏ và chuẩn bị tiền mua nó để chúng tôi có một ứng dụng nguồn." Hai người đã thảo luận về công ty mới, ứng dụng mới và các chức năng khác nhau trong một thời gian. Đây chỉ là một cuộc nói chuyện dài trên giấy thôi, hãy nói ra để đôi bên tự tin hơn. Nói xong, Jiang Qiuqiu hỏi về hợp đồng phát sóng trực tiếp liên bang của anh ấy. “Điều gì sẽ xảy ra với bản hợp đồng tuyệt vời mà tôi đã ký trước đây?” "Trực tiếp vi phạm hợp đồng?" Điều đó có thể yêu cầu một khoản bồi thường cực kỳ lớn. "Không cần." Qian Xingxing cảm thấy lần duy nhất anh ấy thông minh là trong hợp đồng, "Hợp đồng chúng ta ký không phải là vấn đề lớn theo nghĩa truyền thống." Khi đó Jiang Qiuqiu nói rằng anh phải đi học, và sau này anh có thể không hoàn thành được thời gian phát sóng trực tiếp mà đại thần trong trường đã đồng ý. Qian Xingxing không muốn hạn chế cô bé trong hợp đồng, học tập cũng là một vấn đề lớn nên anh đã cải thiện một số điều kiện bổ sung trong hợp đồng của Jiang Qiuqiu với đại sư phụ. Họ đã ký hợp đồng hợp tác, điều đó có nghĩa là Jiang Qiuqiu có quyền tự mình nộp đơn xin chấm dứt hợp đồng. “Bạn có thể nộp đơn trực tiếp vào công ty với lý do bận học.”
+
+---
+*Thời gian thế hệ: 2025-11-19 13:34:05*

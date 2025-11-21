@@ -1,0 +1,14 @@
+# Chương 87 Bạn đang rất lo lắng phải không?
+
+## Tiêu đề | Tiêu đề
+Chương 87 Bạn đang rất lo lắng phải không?
+
+---
+
+## Nội dung | Nội dung
+
+Chương 87
+Bạn đang vội phải không? Vấn đề lớn hơn một chút là liệu Jiang Qiuqiu có thể bận rộn khi ngày mai cô ấy làm hơn 30 miếng thịt lợn kho hay không. Meili lo lắng về điều này, nhưng Jiang Qiuqiu vẫn rất tự tin vào tính chuyên nghiệp của mình. "Tôi không có vấn đề gì khi làm điều này." "Nếu không có vấn đề gì thì tôi cúp máy trước, tôi đi làm việc." “Chị Meimei, cứ tiếp tục đi.” Sau khi cúp điện thoại, Jiang Qiuqiu nằm ở nhà một lúc, ra ngoài đi dạo, cân nhắc xem có nên đến nhà Mo Chengyu hay không, suy nghĩ cuối cùng bỏ cuộc. Taotao Fresh Food cũng cung cấp thịt lợn và thịt lợn cay ngọt sẽ được sử dụng. Lâu lắm rồi tôi mới ăn cơm thịt kho. Trước khi phát sóng trực tiếp, Jiang Qiuqiu quyết định ăn một bữa no trước! Sau khi hài lòng kết thúc bữa trưa, đã đến lúc suy nghĩ xem buổi tối sẽ quay lại làm gì. Chà, thịt viên chiên quá phức tạp và phải tốn rất nhiều công sức để làm món thịt băm. Sau nhiều cân nhắc, tôi quyết định dùng thịt lợn gogu để làm bít tết. Tiếng dao nhà bếp gõ lên tấm gỗ rất nhanh chóng tràn ngập khoảng sân nhỏ kiểu Trung Quốc này, tràn ngập mùi thơm của dầu và thịt gặp nhau ở nhiệt độ cao. Ngay khi món schnitzel tối nay xuất hiện, phải mất vài giây để hàng triệu chỗ được lấp đầy, giống như nước trong thác nước, mới chạm đáy. Lũ trẻ vẫn vui vẻ chộp lấy miếng bít tết, mong chờ món thịt kho tàu ngày mai nhưng chúng không biết rằng mình đã bị nhắm đến! - 7 giờ tối ngày hôm sau. Yang Shan và anh họ Qiu Ping gần như đã đợi trước phòng phát sóng trực tiếp để chờ buổi phát sóng trực tiếp bắt đầu. Đột nhiên, Cha Yang gọi họ về nhà với một tin nhắn khẩn cấp. Trên đường đi, họ gặp nhau. Dương Sơn: "Xảy ra chuyện gì? Tại sao ông nội lại gọi ngươi tới đây?" "Ta không biết, ông nội nói hắn rất lo lắng." “Không phải có chuyện gì xấu xảy ra sao?” Dương Sơn vừa nói vừa vội vàng kéo Thu Bình vào nhà ông nội. Trong gia đình ông nội có rất nhiều người, bao gồm bố mẹ, bà, cô dì chú bác. Quả nhiên đã xảy ra chuyện lớn! Anh ấy thực sự đã gọi cả gia đình đến. Anh vội vàng hỏi: “Sao thế?” Cha Dương nói: "Không sao đâu. Nếu có chuyện gì xảy ra trong thời buổi hòa bình và thịnh vượng này, cha sẽ mời con đến trò chuyện với cha." Sau đó, Zhen Zhen chuyển từ trạng thái vội vàng sang trạng thái trò chuyện thoải mái. Người lớn bắt chéo chân, mỉm cười và trò chuyện về những điều vụn vặt, vụn vặt trong cuộc sống. Thỉnh thoảng, họ sẽ ra hiệu cho Qiu Ping và Yang Shan, nhưng sau khi hai bạn trẻ biết rằng ở nhà không có chuyện gì xảy ra, họ mới thở phào nhẹ nhõm. Chỉ nghĩ đến việc quay trở lại! Bây giờ vẫn chưa tới tám giờ. Tôi đang bắt chuyến tàu tốc hành trở về và nóng lòng chờ buổi phát sóng trực tiếp bắt đầu, nhưng tôi vẫn có thể mua đồ ăn!
+
+---
+*Thời gian thế hệ: 2025-11-19 13:13:22*

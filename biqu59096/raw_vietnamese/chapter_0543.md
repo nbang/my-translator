@@ -1,0 +1,14 @@
+# Chương 543 Cái này tôi không mua, có người bỏ quên
+
+## Tiêu đề | Tiêu đề
+Chương 543 Cái này tôi không mua, có người bỏ quên
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 543 chương
+Tôi không mua cái này, ai đó đã bỏ nó lại. “Anh biết nấu ăn à?” "Ừ... có lẽ vậy." Mặc Tư: “Chỉ là không ngon bằng đồ anh nấu thôi.” Đã rất muộn và đã đến lúc người đàn ông phải quay lại. Họ lại chào tạm biệt ở cửa. Trong vài ngày nữa, anh sẽ phải làm nhiệm vụ tại trụ sở quân đội. Với ánh đèn đêm dài chiếu vào mặt, Jiang Qiuqiu hộ tống Mo Si ra cửa. Mặc Tư đứng ở chân bậc thang. Cô đang ở trên bậc thang và chiều cao của họ gần như bằng nhau. Cô nói: "Về nghỉ ngơi sớm đi! Ngày mai chúng ta gặp lại!" “Hôm nay chúng ta vẫn chưa hôn nhau.” "..." Đó là tất cả những gì cô thực sự nhớ được. Ngay khi cô chuẩn bị ngẩng đầu lên hôn anh, anh đã ôm cô vào lòng, hơi thở mạnh mẽ của anh phả vào mặt cô. Lâu lắm rồi anh mới quay lại. Jiang Qiuqiu chạm vào môi và thầm nguyền rủa bản thân. Đáng lẽ lúc đó cậu không nên hôn anh ấy. Ôi, anh tàn nhẫn quá, cô không thể kiểm soát được anh nữa. Tuy nhiên, Jiang Qiuqiu trở về nhà với tâm trạng vui vẻ dù nói rằng mình rất chán ghét. Chết tiệt, thực ra...đôi khi bạn trai mạnh mẽ hơn một chút cũng tốt. Ngày hôm sau. Mặc Tư vốn là người nói sẽ tới nấu ăn, lại tới đây từ rất sớm. Jiang Qiuqiu vừa mới đứng dậy. Cô mở cửa với đôi mắt ngái ngủ thì thấy Mặc Tư mang theo hai chiếc hộp đi vào. "?" "Sao cậu lại đến đây mang theo nhiều đồ như vậy?" Giang Thu Thu sửng sốt: "Đây là cái gì?" "Tôi sẽ nấu ăn." Mặc Tư: “Hôm qua không phải em nói muốn ăn đồ ăn bạn trai nấu sao? Có anh ở đây.” Anh lao vào bếp. Cảm giác hung hãn của anh ta thực sự quá mạnh mẽ khi không đeo mặt nạ. Anh đứng trong bếp và nhặt con dao lên. Trông không phải anh ta định nấu ăn mà giống như anh ta định bật máy lên để tiêu diệt kẻ thù ngay lập tức. Trán. "Hmm... cậu có muốn tôi gọi món không? Nếu không thì cậu muốn nấu gì cũng được, tôi không kén chọn đồ ăn đâu." Được rồi, Giang Thu Thu không có gọi món, nên Mặc Tư quyết định ăn sáng bằng bánh bao. Bánh bao rất khó làm. Cô muốn thuyết phục Mặc Tư thử cái khác, nhưng anh đã quyết định rồi, bảo Thu Thu tắm rửa trước: “Có lẽ em đi ngủ một lát.” “Bình thường cậu không dậy sớm thế đâu.” Dù vậy, bạn trai của cô vẫn chăm chú tới đây, Giang Thu Thu làm sao có thể ngủ được? Sau khi vui vẻ tắm rửa thay quần áo, cô mới đi vào bếp. Lúc này cô mới nhìn thấy trong hai chiếc hộp mà Mặc Tư mang đến có thứ gì. Đó là tất cả các loại... đồ dùng. Bao gồm nhưng không giới hạn ở robot cân, robot thông minh nhỏ, robot kiểm soát nhiệt độ, robot tính giờ, v.v.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:32:49*

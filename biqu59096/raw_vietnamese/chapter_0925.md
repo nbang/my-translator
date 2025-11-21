@@ -1,0 +1,14 @@
+# Chương 925 Vâng, tôi sẽ nhập ngũ
+
+## Tiêu đề | Tiêu đề
+Chương 925 Vâng, tôi sẽ nhập ngũ
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 925 chương
+Vâng, tôi sẽ gia nhập quân trưởng và bỏ lại ông già. Thu Thu hừ hừ nói: "Hắn là cơ giáp chiến sĩ." "Anh ấy phải là một người rất tốt mới được Qiuqiu thích." "Ừ. Anh ấy rất tốt." "Vậy sau khi tốt nghiệp... cậu có định gia nhập quân đội không?" “Ừ, tôi sẽ gia nhập quân đội.” Sau khi tốt nghiệp, anh mở một nhà hàng chữa bệnh và ra tiền tuyến hỗ trợ những người chữa bệnh tâm thần trong thời chiến. Trong thời gian không có chiến tranh, ông mở nhà hàng nhỏ của riêng mình. Sau đó thỉnh thoảng phát sóng trực tiếp, đọc tin đồn, nhặt gấu trúc đỏ, đó cũng là một cuộc sống trong mơ. Các sinh viên đều có chính kiến ​​của mình, Chu viện trưởng cũng không nói nhiều. Anh ấy chỉ nói: "Bạn có thể luyện tập nhiều hơn trong bộ phận quân nhân cơ giới. Muốn ra chiến trường, bạn cần một cơ thể khỏe mạnh hơn." "Tôi biết!" Sau khi trò chuyện một lúc về việc chữa bệnh bằng tinh thần, hai người trao đổi ý kiến ​​và Qiuqiu bước ra khỏi văn phòng. Sau khi bước ra khỏi tòa nhà ở đây, đã đến lúc ăn trưa. Hôm nay tôi có chút cố ý, không muốn xuống nhà ăn ăn. Qiuqiu quyết định đến căn hộ của giáo viên để tự mình nấu bữa ăn. Cứ làm như vậy, lái chiếc ô tô bay nhỏ đến đó, đi thẳng đến nơi cần đến, mở tủ lạnh ra, còn sót lại một ít thịt bò còn sót lại từ buổi phát sóng trực tiếp ngày hôm kia, Qiuqiu chia ba, năm, hai và làm một bát cơm phi lê bò. Cảm giác thèm ăn tăng lên. Trước khi bắt đầu, Thu Thu theo thói quen chia phần lớn cơm trong nồi thành hai phần, ghi chép dữ liệu và tải lên cửa sổ hiển thị đồ ăn, sau đó chính mình ăn một phần, đóng gói phần còn lại và yêu cầu quản gia robot gửi đến văn phòng chuyển phát nhanh và gửi đến văn phòng quân sự ở phía bên kia thành phố. Vào một ngày se lạnh, thật tuyệt vời khi được ăn một miếng thịt to, mềm và mọng nước. Người còn lại cũng thấy điều đó thật tuyệt vời như cô ấy là một người lướt ứng dụng Xinxing. Một sinh viên đại học hoảng sợ treo tài khoản của mình trong phòng phát sóng trực tiếp với màn hình đen. Tôi hít một hơi, biết hôm nay không phải là một ngày kỳ quặc mà chỉ muốn ngồi xổm trong phòng phát sóng trực tiếp. Tôi là một kẻ háu ăn, và tôi là một kẻ háu ăn đang cố gắng thỏa mãn cơn thèm của mình trong phòng phát sóng trực tiếp. Vốn tưởng rằng hôm nay lại là một ngày vô vọng và cô đơn nữa, nhưng phòng phát sóng trực tiếp đột ngột dừng lại. Lúc đầu mọi người đều cho rằng bộ não máy móc lại bị kẹt. Nhưng sau đó tôi nghĩ lại, đây là bộ não máy móc cấp 10, làm sao có thể bị kẹt được!
+
+---
+*Thời gian thế hệ: 2025-11-19 14:18:57*

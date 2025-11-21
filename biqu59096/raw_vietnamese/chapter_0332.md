@@ -1,0 +1,14 @@
+# Chương 332 Ngươi không phải thua oan
+
+## Tiêu đề | Tiêu đề
+Chương 332 ngươi không phải thua oan
+
+---
+
+## Nội dung | Nội dung
+
+Chương 332
+Bạn không thua một cách oan uổng. Hôm nay trời có tuyết. Tôi chưa bao giờ phải trải qua khoảng thời gian đau đớn khi chiên thịt viên như vậy. Về mặt lý thuyết mà nói, với lượng fan đến phòng phát sóng trực tiếp nhiều như vậy, cô nên nói chuyện nhiều hơn, thu hút họ để có thể hút máu đối thủ PK của mình. Nhưng dù cô ấy có nói gì đi nữa thì cuộc tấn công đã chết. Nhạt nhẽo đến mức cô cảm thấy con số ở góc trên bên phải là giả và không có nhiều người chút nào. Giữa sự nghi ngờ và bối rối vô tận, cuối cùng món thịt viên cũng đã chín. Cô nhanh chóng chia đĩa, đổ một ít mật ong và các hương liệu khác lên trên, yêu cầu robot quản gia tải đồ ăn lên và nhanh chóng giới thiệu bản thân trước ống kính. Dù không có ai đáp lại nhưng cô cũng không thể nản lòng. Đây là món ăn cô đã dày công nghiên cứu, không thể nào không có người thích. "Đây là thịt viên được làm từ thịt động vật Gugu được nghiên cứu nông nghiệp công bố. Tôi dùng mật ong và các gia vị khác để băm thịt thành từng miếng mịn, nhào thành từng viên rồi xào, để thịt viên tràn ngập mùi thơm của mật ong và..." Vừa nói, robot đã tải lên tất cả 20 viên thịt và kênh thu thập ngay lập tức được mở trên màn hình. Hàng trăm triệu người ngay lập tức nhấp vào liên kết để yêu cầu nó. Vì có quá nhiều người nên toàn bộ phòng phát sóng trực tiếp thậm chí còn bị kẹt. Cô chưa bao giờ gặp phải tình huống như vậy trong tuyết ngày hôm nay. Trong chốc lát, đầu óc cô chợt lóe lên. Đây có phải là rắc rối khi phát sóng trực tiếp của chủ nhân không? Nhưng trước khi cô có năm giây để lo lắng về điều này, số người trực tuyến ở góc trên bên phải đã giảm xuống với tốc độ mà mắt thường có thể nhìn thấy, giống như một cỗ máy nhảy. Chỉ trong vòng chưa đầy một phút, số người trực tuyến đã giảm từ 700 triệu xuống còn 300 triệu. Khoảng cách này khiến toàn bộ suy nghĩ của Xue Xue bối rối. Cô không biết cách sắp xếp lời nói của mình, nhưng cô vẫn nói được vài từ. Ba phút sau, số người trong phòng phát sóng trực tiếp đã trở lại mức bình thường của cô. Một trăm năm mươi triệu người. Cô hiểu rằng những người hâm mộ bên cạnh đã rời đi. Nỗi buồn bao trùm nữ đầu bếp. Cô ấy ngồi vào bàn ăn với món thịt viên của mình và bắt đầu giao lưu với người hâm mộ trong khi ăn. Cô nhét một viên thịt vào và cắn một miếng. Đôi mắt cô đỏ hoe và ươn ướt: “Hôm nay các cậu sang nhà bên cạnh lấy đồ ăn phải không?” "Mọi người đã đi chưa?" "Có phải người hâm mộ của tôi bây giờ là những người duy nhất ở trong phòng phát sóng trực tiếp không?" "Thật sự?" cô ấy đã hỏi nhiều lần. Thái độ này có thể khiến già trẻ trong nhóm fan nòng cốt cảm thấy đau lòng. ——Tôi, Xuexue, thật đáng thương.
+
+---
+*Thời gian thế hệ: 2025-11-19 13:23:33*

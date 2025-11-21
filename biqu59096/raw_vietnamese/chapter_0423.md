@@ -1,0 +1,14 @@
+# Chương 423 trận chung kết
+
+## Tiêu đề | Tiêu đề
+Thứ 423 chương Cuối cùng
+
+---
+
+## Nội dung | Nội dung
+
+Thứ 423 chương
+Đã một giờ sau khi trận chung kết rời khỏi phòng họp. Qian Xingxing quả thực còn trẻ. Ngay cả khi phải chịu hết đòn này đến đòn khác, anh ấy vẫn tin tưởng người khác. Anh ấy trực tiếp nói về tình hình gần đây và kế hoạch tương lai của mình trong phòng họp. Qian Xingxing tự tin rằng Jiang Qiuqiu sẽ giành được vị trí đầu tiên và trở thành trụ cột của Công ty Phát thanh Trực tiếp Liên bang. Anh ấy nói với Jiang Qiuqiu rằng anh ấy sẽ dùng vé của cô ấy để trở thành một cuộc họp cổ đông và làm việc chăm chỉ để trở thành ông chủ mới của Federal Live Broadcasting. Nếu thực sự không thể trở thành ông chủ mới, anh ấy hy vọng có thể tách chi nhánh và thành lập một công ty phát sóng trực tiếp mới. Trong buổi giới thiệu, anh ấy hy vọng Jiang Qiuqiu có thể đến công ty mới cùng anh ấy. Anh ấy không ngần ngại nói rõ hơn về tầm quan trọng của Jiang Qiuqiu đối với các kế hoạch của công ty mới. Khi đồ đạc bị bày ra và vỡ thành từng mảnh, Jiang Qiuqiu không sợ tăng giá. Trong mắt tôi chỉ có hai từ: tin tưởng. Và sau khi nói điều này, anh ấy cũng nói về rất nhiều sự đảm bảo, nói rằng ngay cả khi anh ấy rời khỏi nền tảng phát sóng trực tiếp liên bang, anh ấy sẽ làm việc chăm chỉ để tạo ra một nền tảng không thua kém gì nền tảng này, để sự nổi tiếng của Jiang Qiuqiu có thể trở lại đỉnh cao, v.v. Có vẻ như Jiang Qiuqiu sẽ đi theo anh ta. Trả lời câu hỏi của Jiang Qiuqiu, Qian Xingxing dừng lại và chỉ nói một câu: "Kỳ thực, tôi không hoàn toàn chắc chắn, nhưng tôi cảm thấy Qiuqiu sẽ rời xa tôi." Dường như câu này quá chắc chắn và quá mỏng nên anh ấy nói thêm một câu khác: “Tôi nghĩ ý tưởng của chúng ta rất giống nhau”. Trong sáu tháng qua, Qian Xingxing đã từ một đứa trẻ trở thành người trưởng thành và đã hơn một lần chia sẻ kế hoạch phát sóng trực tiếp từ thiện của mình. Mỗi lần nhắc đến chuyện này, Tiền Hành Hành đều có thể cảm giác được Giang Thu Thu ủng hộ mình. Giang Thu Thu không ngờ hắn lại quan sát cẩn thận như vậy, "Ngươi quan sát rất cẩn thận." Jiang Qiuqiu không có nhiều ám ảnh về nơi phát sóng trực tiếp. Nền tảng phát sóng trực tiếp của Liên đoàn đối với cô chỉ là một cái tên, và chỉ những người trong công ty mới khiến anh cảm thấy gắn bó với nền tảng này. Hơn nữa: "Khái niệm của chúng tôi thực sự rất giống nhau." Sau khi vượt qua giai đoạn chỉ muốn kiếm tiền, tôi cũng muốn... sử dụng khả năng của mình để tạo ra một thay đổi nhỏ trong thế giới giữa các vì sao. Sự chấp thuận của Ace khiến cho sự hứng thú của Qian Xingxing trong chốc lát lại tăng lên: "Khi đến lúc! Tôi mời cậu trở thành cổ đông của công ty!"
+
+---
+*Thời gian thế hệ: 2025-11-19 13:29:38*
