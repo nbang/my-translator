@@ -276,21 +276,24 @@ class RawTranslator:
                 # Rate limiting
                 time.sleep(1.5) 
                 
-                # Use the single translation API endpoint
+                # Use the single translation API endpoint with POST to handle large text
                 url = "https://translate.google.com/translate_a/single"
                 params = {
                     "client": "gtx",
                     "sl": "zh-CN",
                     "tl": "vi",
-                    "dt": "t",
+                    "dt": "t"
+                }
+                data = {
                     "q": text
                 }
                 
                 headers = {
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+                    'Content-Type': 'application/x-www-form-urlencoded'
                 }
                 
-                response = requests.get(url, params=params, headers=headers, timeout=30)
+                response = requests.post(url, params=params, data=data, headers=headers, timeout=30)
                 
                 if response.status_code == 200:
                     # Parse JSON response

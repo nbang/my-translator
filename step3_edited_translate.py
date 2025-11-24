@@ -41,18 +41,23 @@ logger = logging.getLogger(__name__)
 class EditedTranslator:
     """Translates Chinese content to polished Vietnamese using dynamic rules."""
     
-    INPUT_DIR = os.path.join(os.getenv("BOOK_BASE_DIR", "bjXRF"), "raw_vietnamese")
-    REF_DIR = os.path.join(os.getenv("BOOK_BASE_DIR", "bjXRF"), "raw_chinese")
-    OUTPUT_DIR = os.path.join(os.getenv("BOOK_BASE_DIR", "bjXRF"), "edited_vietnamese")
-    RULES_FILE = "EDITOR.md"
+    BOOK_DIR = os.getenv("BOOK_BASE_DIR", "bjXRF")
+    INPUT_DIR = os.path.join(BOOK_DIR, "raw_vietnamese")
+    REF_DIR = os.path.join(BOOK_DIR, "raw_chinese")
+    OUTPUT_DIR = os.path.join(BOOK_DIR, "edited_vietnamese")
+    RULES_FILE = os.path.join(BOOK_DIR, "EDITOR.md")
     
     def __init__(self):
+        self.provider = os.getenv('LLM_PROVIDER', 'openai').lower()
         self.api_key = os.getenv('LLM_API_KEY')
         self.api_base = os.getenv('LLM_API_BASE')
         self.model = os.getenv('LLM_MODEL', 'gpt-5-mini')
         
-        if not self.api_key or not self.api_base:
-            raise ValueError("LLM_API_KEY and LLM_API_BASE must be set in .env file")
+        if not self.api_key:
+            raise ValueError("LLM_API_KEY must be set in .env file")
+            
+        if self.provider == 'openai' and not self.api_base:
+             raise ValueError("LLM_API_BASE must be set in .env file for OpenAI provider")
             
         # Create output directory
         Path(self.OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
@@ -75,12 +80,65 @@ class EditedTranslator:
 
     def translate_text(self, text: str, ref_text: str, rules: str, retries: int = 3) -> Optional[str]:
         """
-        Translate text using OpenAI API with dynamic rules and Chinese reference.
+        Translate text using the configured provider (OpenAI or Google).
         Returns None if translation fails after retries.
         """
         if not text.strip():
             return ""
+
+        if self.provider == 'google':
+            return self._translate_google(text, ref_text, rules, retries)
+        else:
+            return self._translate_openai(text, ref_text, rules, retries)
+
+    def _translate_google(self, text: str, ref_text: str, rules: str, retries: int) -> Optional[str]:
+        """Translate using Google Generative AI (Gemini) REST API."""
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{self.model}:generateContent?key={self.api_key}"
+        headers = {"Content-Type": "application/json"}
+        
+        # Construct the prompt with system instructions and user content
+        # Note: 'system_instruction' is supported in newer Gemini models.
+        # If using an older model that doesn't support it, it might be better to prepend to the prompt.
+        # For now, we'll try the system_instruction field for cleaner separation.
+        
+        payload = {
+            "system_instruction": {
+                "parts": [{"text": rules}]
+            },
+            "contents": [{
+                "parts": [{"text": f"Bản dịch thô:\n{text}\n\nBản gốc:\n{ref_text}"}]
+            }],
+            "generationConfig": {
+                "temperature": 0.7
+            }
+        }
+
+        for attempt in range(retries):
+            try:
+                response = requests.post(url, headers=headers, json=payload, timeout=120)
+                
+                if response.status_code == 200:
+                    data = response.json()
+                    # Check for valid response structure
+                    if 'candidates' in data and data['candidates']:
+                        content = data['candidates'][0]['content']['parts'][0]['text']
+                        return content.strip()
+                    else:
+                        logger.warning(f"Google API returned no candidates: {data}")
+                else:
+                    logger.warning(f"Google API request failed (Attempt {attempt + 1}/{retries}): {response.status_code} - {response.text}")
+                    
+            except Exception as e:
+                logger.warning(f"Translation error (Attempt {attempt + 1}/{retries}): {e}")
             
+            if attempt < retries - 1:
+                time.sleep(2)
+            
+        logger.error("Translation failed after all retries.")
+        return None
+
+    def _translate_openai(self, text: str, ref_text: str, rules: str, retries: int) -> Optional[str]:
+        """Translate using OpenAI-compatible API."""
         headers = {
             "Authorization": f"Bearer {self.api_key}",
             "Content-Type": "application/json"
@@ -100,7 +158,7 @@ class EditedTranslator:
         payload = {
             "model": self.model,
             "messages": messages,
-            "temperature": 0.7, # Higher temperature for more creative/natural flow
+            "temperature": 0.7,
         }
         
         for attempt in range(retries):
@@ -122,7 +180,7 @@ class EditedTranslator:
                 logger.warning(f"Translation error (Attempt {attempt + 1}/{retries}): {e}")
             
             if attempt < retries - 1:
-                time.sleep(2) # Wait before retry
+                time.sleep(2)
             
         logger.error("Translation failed after all retries.")
         return None
