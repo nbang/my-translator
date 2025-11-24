@@ -56,7 +56,16 @@ Tuân thủ nghiêm ngặt các ký hiệu sau để phân biệt các loại n�
     - Ví dụ: [Món này nhìn ngon quá!]
 4. *Ghi chú:* Mọi giải thích của dịch giả đặt ở cuối chương (Footnotes).
 
-## V. VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLES)
+## V. THUẬT NGỮ CỐ ĐỊNH (GLOSSARY)
+
+|   |   |   |
+|---|---|---|
+|**Thuật ngữ gốc**|**Dịch cố định**|**Ghi chú**|
+|**小众点评**|Cộng Đồng Đánh Giá Độc Đáo||
+|**美食网红打卡APP**|Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng||
+|**环境**|không gian||
+
+## VI. VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLES)
 
 Input (Trung/Convert):
 
