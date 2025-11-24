@@ -1,143 +1,135 @@
-Tuyệt vời, tôi sẽ tiến hành biên tập lại bản dịch thô dựa trên bộ quy tắc đã được thiết lập.
+Chỉ tính riêng lượng khách lẻ, tiệm này đã đông nhất cả con phố. Hòa Ái Xích nhìn người đàn ông lớn tuổi dùng đôi đũa dài lật những thanh quẩy đang phồng lên trong chảo dầu, lòng thầm hiểu vì sao nơi này lại hút khách đến vậy.
 
-***
+Dù sao đây cũng là quẩy chiên kiểu xưa nóng hổi, một món ngon mà người dân cả nước đều biết đến. Quẩy chiên kiểu xưa được làm tại chỗ là của hiếm ở cả thành phố Bành Thành này, có thể xem như tài nguyên quý giá. Món này làm thì lích kích mà lãi lại chẳng cao, bán đắt thì không ai ăn, bán rẻ thì chẳng bõ công. Hầu hết các tiệm ăn sáng đều nhập hàng sẵn hoặc bán loại quẩy an toàn đóng gói.
 
-### Chương 5: Bữa sáng muộn và nhiệm vụ khó nhằn
+Hòa Ái Xích không thích loại đó, cô chỉ mê món quẩy chiên kiểu xưa không "an toàn", loại vừa vớt ra khỏi chảo, bên trong gần như rỗng ruột, vỏ ngoài giòn tan. Giống hệt như loại đang được chiên trong chảo trước mắt cô.
 
-Nếu chỉ xét về lượng khách qua lại, tiệm này có thể xem là đông khách lẻ nhất cả con phố. Hòa Ái Xích nhìn người chú đang dùng đôi đũa dài lật những chiếc quẩy phồng rộp trong chảo, và cô hoàn toàn hiểu được lý do những vị khách này ghé đến.
+Cô nhìn những thanh quẩy trong chảo dần chuyển sang màu vàng ruộm hấp dẫn dưới đôi tay khéo léo của người chủ tiệm, rồi quyết định sẽ giải quyết bữa trưa của mình tại đây.
 
-Suy cho cùng, đây là quẩy nóng kiểu cũ mới ra lò, một món ngon mà người dân cả nước đều biết tiếng.
+Và phải tự trả tiền! Cô không định dùng cơ hội hoàn tiền ăn của ứng dụng ở tiệm Đại Hồng Quẩy này. Rốt cuộc, một cây quẩy giá một đồng rưỡi cô vẫn mua nổi. Hơn nữa, hạn mức hoàn tiền của nhiệm vụ lên tới hai mươi đồng, phải ăn bao nhiêu quẩy và bánh khoai tây mới đủ con số đó chứ. Đã薅 len* thì phải薅 cho tới nóc mới sướng, tiệm này không thích hợp.
 
-Ở cả cái đất Bành Thành này, quẩy nóng kiểu cũ là của hiếm. Món này làm thì lích kích mà lợi nhuận chẳng cao. Bán đắt thì không ai ăn, bán rẻ thì chẳng bõ công. Hầu hết các tiệm ăn sáng đều nhập hàng sẵn hoặc bán loại quẩy công nghiệp đóng gói.
+Cô bước tới, gọi một cây quẩy và một chiếc bánh khoai tây, dùng điện thoại trả ba đồng rưỡi. Mắt cô vẫn dán vào những thanh quẩy đang nổi lềnh bềnh trong chảo dầu, kèm theo yêu cầu nhỏ:
 
-Hòa Ái Xích không thích loại đó. Cô chỉ mê món quẩy truyền thống kia, loại vừa vớt ra khỏi chảo, bên trong gần như rỗng ruột, còn vỏ ngoài thì giòn tan. Giống hệt như những chiếc quẩy đang chiên trong chảo trước mắt cô.
+"Cháu muốn cái vừa mới chiên xong ạ."
 
-Nhìn những thanh quẩy trong chảo dần chuyển sang màu vàng ruộm hấp dẫn dưới đôi tay khéo léo của người chú, cô quyết định giải quyết bữa sáng muộn của mình tại đây.
+Người dì gắp quẩy rõ ràng đã quá quen với yêu cầu này, bà chẳng hề ngạc nhiên:
 
-Và phải tự trả tiền! Cô không định lãng phí cơ hội được hoàn tiền bữa ăn tại tiệm Quẩy Đại Hồng. Rốt cuộc, một chiếc quẩy giá 1.5 tệ thì cô thừa sức mua được. Hơn nữa, hạn mức hoàn tiền của nhiệm vụ lên tới 20 tệ, phải ăn bao nhiêu quẩy với bánh khoai tây mới đủ con số này chứ. Đã tận dụng ưu đãi thì phải dùng cho tới nóc mới sướng, tiệm này không thích hợp.
+"Mấy cái này đều mới chiên cả đấy, vừa vớt ra để cho ráo dầu thôi. Nóng quá nó làm quéo túi, không cầm được đâu."
 
-Cô bước tới, gọi một chiếc quẩy và một cái bánh khoai tây, rồi dùng điện thoại thanh toán 3.5 tệ. Mắt vẫn dán vào những chiếc quẩy đang nổi lềnh bềnh trong chảo dầu, cô đưa ra yêu cầu nhỏ của mình:
+Bà ấy khéo léo cho chiếc bánh khoai tây vào túi rồi hỏi cô: "Quẩy cháu muốn ăn loại mềm hay giòn?"
 
-"Cháu muốn cái mới chiên xong ạ."
+Hòa Ái Xích lúc này mới chịu dời mắt khỏi những món chiên hấp dẫn trong chảo dầu để nhìn lên người dì, đáp: "Cháu thích ăn giòn ạ."
 
-Người dì đang gắp quẩy dường như đã quá quen với yêu cầu này. Bà chẳng hề ngạc nhiên, đáp:
+"Được thôi, lấy cho cháu cây chiên già lửa một chút nhé." Người dì đưa túi đựng quẩy và bánh khoai tây cho Hòa Ái Xích, sau đó quay sang hỏi vị khách tiếp theo muốn ăn gì.
 
-"Mấy cái này đều mới chiên cả đấy, vừa vớt ra cho ráo dầu thôi. Nóng quá nó làm quéo túi, không cầm được đâu."
+Những người xếp hàng phía sau rõ ràng đều là khách quen, lúc gọi quẩy họ đều chủ động nói rõ muốn loại mềm hay giòn.
 
-Bà khéo léo cho chiếc bánh khoai tây vào túi, rồi hỏi cô: "Quẩy thì cháu muốn lấy cái mềm hay giòn hơn?"
+Túi đồ chiên nóng hổi vừa vào tay, Hòa Ái Xích liền biết người dì nói thật, cả quẩy lẫn bánh khoai tây đều còn ấm ran, thậm chí có phần bỏng tay. Cô vừa định há miệng ăn thì chợt nhớ đến ứng dụng kỳ lạ trong điện thoại, bèn quyết định chụp vài tấm ảnh trước khi ăn, biết đâu sau này có nhiệm vụ cần dùng đến, phòng xa vẫn hơn.
 
-Hòa Ái Xích khó khăn lắm mới dời mắt khỏi chảo đồ chiên hấp dẫn để nhìn vào khuôn mặt của người dì, đáp: "Cháu thích ăn giòn ạ."
+Thanh quẩy trên tay, mặt tiền của tiệm, những món chiên đang lật mình trong chảo dầu lớn, mỗi thứ một tấm. Lần này cô đã cẩn thận lấy nét rồi mới chụp.
 
-"Được rồi, để dì lấy cho cháu cái chiên già hơn nhé."
+Xác nhận ảnh không bị mờ, Hòa Ái Xích cất điện thoại, chuẩn bị chuyên tâm xử lý bữa trưa của mình. Cô cẩn thận cầm thanh quẩy qua lớp túi giấy, há miệng cắn một miếng vào phần đầu.
 
-Người dì đưa chiếc túi đựng quẩy và bánh khoai tây cho Hòa Ái Xích, sau đó quay sang hỏi vị khách tiếp theo muốn dùng gì. Những người xếp hàng phía sau rõ ràng đều là khách quen, lúc gọi món họ đều chủ động nói rõ mình muốn quẩy mềm hay giòn.
+*Rắc.*
 
-Túi đồ chiên nóng hổi vừa được trao vào tay, Hòa Ái Xích liền biết người dì không nói dối. Cả quẩy và bánh khoai tây vẫn còn ấm sực, thậm chí có phần hơi bỏng tay.
+Tiếng giòn tan vang lên, những mảnh vỏ vàng ruộm rơi vào trong miệng. Hòa Ái Xích cảm động hít một hơi thật sâu.
 
-Cô vừa há miệng định ăn thì chợt nhớ ra ứng dụng kỳ lạ trong điện thoại, bèn quyết định chụp một tấm ảnh trước. *Biết đâu sau này có nhiệm vụ nào dùng đến, cẩn tắc vô ưu.*
+*Chính là hương vị này!*
 
-Chiếc quẩy trên tay, biển hiệu của tiệm, và chảo dầu lớn với những món chiên đang lật mình sôi sùng sục, mỗi thứ một tấm. Lần này cô đã cẩn thận lấy nét rồi mới bấm máy.
+Thanh quẩy vừa ra lò vẫn còn hơi nóng, chỉ cần răng vừa chạm tới là lớp vỏ đã vỡ ra. Vỏ quẩy giòn tan mang vị mặn nhẹ quyện với phần ruột dai dai còn sót lại, hai kết cấu đan xen trong miệng khiến người ta ăn xong một miếng lại muốn thêm miếng nữa.
 
-Xác nhận ảnh không bị mờ, Hòa Ái Xích cất điện thoại, chuẩn bị chuyên tâm xử lý bữa sáng của mình. Cô cẩn thận cầm chiếc quẩy qua lớp túi giấy, há miệng cắn một miếng vào phần đầu.
+Gia vị của quẩy ở đây nhạt hơn bình thường, rất thích hợp để ăn kèm với thứ khác. Quẩy ăn riêng đã ngon, mà kết hợp với các nguyên liệu khác lại càng tuyệt. Phổ biến nhất là quẩy ăn cùng sữa đậu nành, một sự kết hợp có thể tìm thấy ở hầu hết mọi nơi trên cả nước.
 
-*Rắc!*
+Mỗi vùng miền lại có cách "xử lý" quẩy riêng. Ở một số nơi phía Bắc, người ta kẹp quẩy vào trong bánh nướng. Người Thượng Hải thì dùng cơm nắm để bọc quẩy. Người Hà Nam sẽ nhúng quẩy vào súp cay hồ lạt. Người Vân Nam lại thích ăn quẩy với bột đậu Hà Lan. Người Quảng Đông không ăn cay sẽ chấm quẩy với cháo, trong khi ở một số vùng chuộng vị cay, người ta có thể ngẫu hứng dìm chết một cây quẩy trong bát bún cay. Thậm chí còn có cách ăn rạch đôi cây quẩy ra rồi nhét củ cải muối giòn vào giữa.
 
-Tiếng vỏ bánh giòn tan vỡ ra khi cô cắn xuống, những mảnh vụn vàng nâu rơi vào trong miệng. Hòa Ái Xích xúc động hít một hơi.
+Tiếc là tiệm Đại Hồng Quẩy không bán những món ăn kèm này.
 
-*Chính là vị này!*
+Tiệm quẩy không bán, nhưng biết đâu tiệm khác lại có. Hòa Ái Xích cắn thêm một miếng quẩy, đảo mắt nhìn khắp con phố ẩm thực, cố tìm một quán nhỏ bán sữa đậu nành. Không có thì cháo cũng được.
 
-Chiếc quẩy mới ra lò vẫn còn hơi nóng, vừa chạm răng đã vỡ tan. Lớp vỏ giòn thơm vị mặn nhẹ quyện với phần ruột dai dai bên trong. Hai kết cấu đan xen trong miệng khiến người ta ăn xong một miếng lại muốn cắn thêm miếng nữa. Gia vị của quẩy ở đây có phần nhạt hơn bình thường, rất thích hợp để ăn kèm với thứ khác.
+Thực ra những món ăn sáng thế này thường dọn hàng sau mười rưỡi để bán món khác. Tiệm quẩy này mở đến tận chiều tối đã là của lạ rồi, nên Hòa Ái Xích cũng không hy vọng nhiều sẽ tìm được sữa đậu nành.
 
-Quẩy ăn không đã ngon, mà kết hợp với các nguyên liệu khác lại càng tuyệt. Phổ biến nhất là quẩy ăn cùng sữa đậu nành, một sự kết hợp có thể tìm thấy ở hầu hết mọi miền đất nước. Mỗi vùng miền lại có cách thưởng thức quẩy rất riêng. Ở một số nơi phía Bắc, người ta kẹp quẩy vào trong bánh nướng. Người Thượng Hải thì dùng cơm nắm bọc quẩy. Người Hà Nam lại nhúng quẩy vào bát súp cay. Người Vân Nam thích ăn quẩy với bột đậu. Người Quảng Đông không ăn cay thì dùng quẩy chấm cháo, trong khi những vùng ăn cay lại sẵn sàng "dìm chết" chiếc quẩy trong một tô mì cay xé lưỡi. Thậm chí còn có cách ăn độc đáo là rạch đôi chiếc quẩy rồi nhồi củ cải muối giòn vào giữa.
+Nào ngờ cô chỉ mất vài giây đã tìm thấy mục tiêu – sữa đậu nành thì không có, nhưng tiệm tạp hóa đối diện quán quẩy lại bán tào phớ. Không ít thực khách mua quẩy xong liền quay đầu đi thẳng vào tiệm tạp hóa, cô chỉ cần đi theo là tìm thấy, chẳng tốn chút công sức nào.
 
-Tiếc là tiệm Quẩy Đại Hồng không bán những món ăn kèm này.
-
-Tiệm quẩy không bán, nhưng biết đâu tiệm khác lại có. Hòa Ái Xích cắn thêm một miếng quẩy, mắt đảo một vòng quanh khu phố ẩm thực, cố tìm một hàng bán sữa đậu nành. Không có thì cháo cũng được.
-
-Thực ra, những món ăn sáng thế này thường dọn hàng sau 10 giờ 30 để bán thứ khác. Tiệm quẩy này mở đến tận chiều tối đã là của lạ rồi, nên Hòa Ái Xích cũng không đặt nhiều hy vọng.
-
-Không ngờ chỉ mất vài giây cô đã tìm thấy mục tiêu – sữa đậu nành thì đúng là không có, nhưng tiệm tạp hóa đối diện lại bán tào phớ. Rất nhiều thực khách mua quẩy xong đều quay người đi thẳng vào tiệm tạp hóa đó. Cô chỉ cần đi theo họ là tìm thấy, chẳng tốn chút công sức nào.
-
-Việc kinh doanh phát đạt của tiệm quẩy đã kéo theo doanh số bán tào phớ của tiệm tạp hóa tăng vọt. Ông chủ tiệm tạp hóa quả là có đầu óc kinh doanh.
+Việc kinh doanh phát đạt của tiệm quẩy đã kéo theo doanh số bán tào phớ của tiệm tạp hóa cũng rất tốt. Ông chủ tiệm tạp hóa quả là có đầu óc kinh doanh.
 
 "Tào phớ bán thế nào ạ?"
 
-"3 tệ một bát."
+"Ba đồng một bát."
 
-Bát nhựa. Chà, một bát tào phớ chay nhỏ xíu mà giá gần bằng cả chiếc quẩy lẫn cái bánh khoai tây. Nhưng thực ra, đây mới là mức giá thực tế. Một bát tào phớ 3 tệ ở Bành Thành thậm chí còn được coi là hơi rẻ.
+Bát nhựa. Chà, một bát tào phớ chay nhỏ mà giá gần bằng cả cây quẩy với chiếc bánh khoai tây. Nhưng thực ra đây mới là giá cả thực tế, một bát tào phớ ba đồng ở Bành Thành thậm chí còn được coi là hơi rẻ.
 
-Nhân lúc anh chàng nhân viên đang múc tào phớ, Hòa Ái Xích nhanh tay lôi điện thoại ra tìm kiếm "Tiệm Quẩy Đại Hồng", xem thử liệu nó đã bị ứng dụng Đánh Giá Tinh Hoa thu thập hay chưa.
+Tranh thủ lúc nhân viên đang múc tào phớ, Hòa Ái Xích nhanh chóng rút điện thoại ra tìm kiếm "Đại Hồng Quẩy", xem thử tiệm này đã được đưa lên Cộng Đồng Đánh Giá Độc Đáo hay chưa.
 
-*Chương 4, cô đã từng nghĩ, tiệm Quẩy Đại Hồng tuy cũ kỹ nhưng lượng khách quen đã đủ khiến hai vợ chồng ông chủ bận tối mắt, trông họ cũng không giống kiểu người sẽ đăng ký thông tin cửa hàng lên mạng.*
+*Nghĩ lại thì, tiệm Đại Hồng Quẩy tuy cũ kỹ nhưng lượng khách quen đã đủ khiến vợ chồng ông chủ bận tối mắt tối mũi, trông họ cũng không giống kiểu người sẽ đăng ký thông tin cửa hàng lên mạng.*
 
-Hòa Ái Xích怀满 hy vọng nhấn nút tìm kiếm, nhưng kết quả hiện ra khiến cô thất vọng tràn trề.
+Hòa Ái Xích tràn đầy hy vọng nhấn nút tìm kiếm, nhưng kết quả hiện ra lại khiến cô thất vọng não nề.
 
-Tiệm Quẩy Đại Hồng không những có trên ứng dụng, mà xem các bình luận, có vẻ nó còn khá nổi tiếng trên mạng. Vài người dùng cho biết họ muốn ăn quẩy mới chiên, đã xem giới thiệu ở đâu đó rồi tìm đến tận nơi...
+Đại Hồng Quẩy không những có thông tin trên Cộng Đồng Đánh Giá Độc Đáo, mà xem bình luận thì tiệm này có vẻ còn khá nổi tiếng trên mạng. Vài người dùng cho biết họ muốn ăn quẩy chiên tại chỗ nên đã tìm đến đây sau khi xem giới thiệu về bữa sáng ở đâu đó...
 
-Thôi được rồi. Dù hai vợ chồng chủ tiệm có vẻ không quảng cáo trên mạng, nhưng khách quen của họ sẽ làm điều đó.
+Thôi được rồi. Dù vợ chồng chủ tiệm trông không giống người sẽ quảng cáo trên mạng, nhưng khách quen của họ thì có.
 
-Hòa Ái Xích nhận bát tào phớ từ tay anh nhân viên tạp hóa, một ý nghĩ lóe lên trong đầu. *Vậy còn quán tào phớ này thì sao? Đã bị thu thập chưa?*
+Hòa Ái Xích nhận bát tào phớ từ tay nhân viên tiệm tạp hóa, một ý nghĩ lóe lên trong đầu. *Vậy còn quán tào phớ này thì sao? Đã được đưa lên chưa?*
 
 Tìm kiếm lần nữa!
 
-Kết quả vẫn đáng thất vọng. Tuy tào phớ không được thu thập như một cửa hàng ẩm thực riêng biệt, nhưng tiệm tạp hóa thì có, và nó được xếp vào danh mục mua sắm tiện lợi.
+Kết quả vẫn đáng thất vọng. Dù tào phớ không được đưa lên như một cửa hàng ẩm thực riêng lẻ, nhưng tiệm tạp hóa thì có, và nó thuộc danh mục mua sắm tiện lợi.
 
-Hòa Ái Xích húp một thìa tào phớ, hậm hực cắn một miếng quẩy thật to, rồi xách những thứ còn lại về căn phòng trọ nhỏ của mình.
+Hòa Ái Xích húp một thìa tào phớ, bực bội cắn một miếng quẩy thật to rồi xách những thứ còn lại về căn phòng trọ nhỏ của mình.
 
-*Cái ứng dụng vớ vẩn với nhiệm vụ vớ vẩn, hoàn thành xong cũng chỉ được vài trăm tệ tiền thưởng chứ gì, mình cũng đâu có hiếm lạ. Người ta vẫn phải dựa vào chính mình, phải về tìm việc thôi!*
+*Cái ứng dụng vớ vẩn với nhiệm vụ vớ vẩn, hoàn thành xong cũng chỉ được vài trăm đồng tiền thưởng, mình cũng đâu có thèm! Con người vẫn phải dựa vào chính mình, phải về tìm việc thôi!*
 
-***
+Trên chiếc bàn trà nhỏ màu trắng duy nhất trong phòng trọ là một chiếc điện thoại cũ đã bốn năm tuổi.
 
-Trên chiếc bàn trà nhỏ màu trắng duy nhất trong căn phòng trọ, một chiếc điện thoại cũ kỹ từ bốn năm trước đang nằm nghiêng ngả.
+Về đến phòng, Hòa Ái Xích không tìm việc. Tay trái cô đang cầm chiếc bánh khoai tây gặm, tay phải dùng một ngón gõ chữ trên trang chăm sóc khách hàng của Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng:
 
-Về đến phòng, Hòa Ái Xích không tìm việc ngay. Tay trái cô cầm bánh khoai tây gặm, tay phải dùng một ngón gõ chữ trên trang dịch vụ khách hàng của ứng dụng "Check-in Ẩm thực":
+[Chuỗi nhiệm vụ tân thủ không thể hoàn thành thì sẽ thế nào?]
 
-[Nhiệm vụ chuỗi tân thủ không hoàn thành được thì sẽ thế nào?]
-
-[Dịch vụ khách hàng: Hệ thống sẽ chuyển sang chế độ ngủ đông, và bạn sẽ không thể nhận thêm bất kỳ nhiệm vụ nào nữa.]
+Chăm sóc khách hàng: [Hệ thống sẽ chuyển sang trạng thái ngủ đông, bạn sẽ không thể nhận thêm bất kỳ nhiệm vụ nào nữa.]
 
 !!!
 
-Hòa Ái Xích giật nảy mình.
+*Hòa Ái Xích giật nảy mình.*
 
-*Thế chẳng phải khoản trợ cấp ăn uống 20 tệ mỗi ngày cũng mất toi à? Một ngày 20, một tháng là 600, sau này nâng cấp còn có thể lên 50, hoặc hơn nữa. Không, không được, cô không thể để hệ thống ngủ đông.*
+*Vậy chẳng phải khoản hoàn trả hai mươi đồng tiền ăn mỗi ngày cũng mất luôn sao? Một ngày hai mươi, một tháng sáu trăm, sau này nâng cấp còn có thể lên năm mươi, hoặc nhiều hơn. Không, không được, cô không thể để hệ thống ngủ đông được. Chuyện này phải xem xét nghiêm túc. Hệ thống có được nhờ may mắn, thì phải dựa vào chính mình để giữ lấy nó!*
 
-Chuyện này phải xem xét nghiêm túc. Hệ thống do may mắn mà có, thì phải dựa vào chính mình để giữ lấy nó!
+Ăn xong miếng bánh khoai tây cuối cùng, Hòa Ái Xích dùng giấy ăn lau miệng và tay, bật máy tính xách tay, vào bản đồ Adu và mở chế độ xem toàn cảnh. Cùng lúc đó, cô mở chế độ bản đồ ẩm thực của Cộng Đồng Đánh Giá Độc Đáo trên điện thoại.
 
-Gặm xong miếng bánh khoai tây cuối cùng, Hòa Ái Xích dùng một tờ giấy ăn lau miệng và tay, bật laptop, truy cập Bản đồ A Độ và mở chế độ xem toàn cảnh. Cùng lúc đó, trên điện thoại, cô cũng mở chế độ bản đồ ẩm thực của ứng dụng Đánh Giá Tinh Hoa.
+Đối chiếu thông tin các cửa hàng trên hai bản đồ và tiến hành tìm kiếm theo kiểu rà soát tổng thể, cô không tin mình không thể tìm ra một quán ăn chưa đăng nhập vào Cộng Đồng Đánh Giá Độc Đáo!
 
-So sánh thông tin trên hai bản đồ và tiến hành tìm kiếm tổng thể, cô không tin mình không thể tìm ra một cửa hàng chưa được đăng ký!
+Cô tràn đầy tự tin.
 
-Hòa Ái Xích tràn đầy tự tin.
-
-... Ba giờ sau.
+... Ba tiếng sau.
 
 "..."
 
 Hòa Ái Xích cạn lời toàn tập.
 
-Không ngờ, cô tính toán đủ đường mà lại không tính đến việc bản đồ toàn cảnh của A Độ không cập nhật theo thời gian thực. Những hình ảnh trên đó về cơ bản là của mấy tháng trước. Mỗi khi cô phát hiện một cửa hàng mới trên bản đồ A Độ và thử đăng ký nó lên ứng dụng, cô lại phát hiện ra cửa hàng này trước đây đã từng được đăng ký, chỉ là... bây giờ nó sập tiệm rồi.
+Không ngờ, cô tính toán đủ đường mà lại không tính đến việc bản đồ toàn cảnh của Adu không cập nhật theo thời gian thực. Những hình ảnh trên đó về cơ bản là của mấy tháng trước. Mỗi khi cô phát hiện một quán mới trên bản đồ Adu chưa được thu thập và thử đăng ký nó trên Cộng Đồng Đánh Giá Độc Đáo, cô lại phát hiện ra rằng quán này trước đây đã từng được đăng ký, chỉ là bây giờ nó đã... dẹp tiệm.
 
-Vậy là cô đã dành ba tiếng đồng hồ để tìm ra một loạt nhà hàng đã đóng cửa.
+Thế là cô đã dành ba tiếng đồng hồ để tìm ra một loạt nhà hàng đã đóng cửa.
 
-Lúc này, chỉ có thể thở dài một tiếng – tốc độ đào thải của các nhà hàng ở Bành Thành thật quá nhanh!
+Lúc này, chỉ có thể cảm thán một câu – tốc độ đào thải của các nhà hàng ở Bành Thành nhanh thật!
 
-Không tìm được cửa hàng mới nào chưa đăng ký, Hòa Ái Xích đành phải quay lại tìm việc. Rốt cuộc, nếu nhiệm vụ tân thủ này không thể hoàn thành, cô chỉ có thể dựa vào ứng dụng này để nhận thêm 7 nhiệm vụ hằng ngày nữa, tổng cộng là 140 tệ.
+Không tìm được cửa hàng mới chưa đăng ký, Hòa Ái Xích đành phải tiếp tục tìm việc. Dù sao thì, nếu nhiệm vụ tân thủ này không thể hoàn thành, cô cũng chỉ có thể dựa vào ứng dụng này để薅 thêm bảy nhiệm vụ hàng ngày nữa, tổng cộng là một trăm bốn mươi đồng.
 
-Vẫn là tìm việc thì thực tế hơn. Đợi khi cô tìm được một công việc tốt, 140 tệ cỏn con này còn không bằng lương một ngày của cô!
+Vẫn là tìm việc thì thực tế hơn. Đợi cô tìm được một công việc tốt và phù hợp, một trăm bốn mươi đồng cỏn con này còn chẳng bằng lương một ngày của cô!
 
-Dòng suy nghĩ của Hòa Ái Xích cứ nhảy qua nhảy lại giữa việc tìm việc và hoàn thành nhiệm vụ. Đang tìm việc, cô thỉnh thoảng lại nghĩ ra gì đó, lại lướt trình duyệt một lúc, gõ vào thanh tìm kiếm những cụm từ như: "quán ăn ngon chưa có trên ứng dụng đánh giá".
+Suy nghĩ của Hòa Ái Xích cứ nhảy qua nhảy lại giữa việc tìm việc và hoàn thành nhiệm vụ tân thủ. Trong lúc tìm việc, cô thỉnh thoảng lại nghĩ ra điều gì đó, lại lướt trình duyệt một lúc, nhập vào thanh tìm kiếm những từ khóa như: "quán ăn ngon chưa có trên ứng dụng đánh giá".
 
-Mấy tiếng đồng hồ trôi qua trong sự bực bội. Con người ta một khi đã suy nghĩ là rất dễ quên ăn. Mãi đến gần tám giờ tối, cô mới nhận ra mình đói cồn cào, bèn quyết định xuống lầu tìm gì đó để ăn.
+Mấy tiếng đồng hồ trôi qua trong sự bực bội, mà con người một khi đã suy nghĩ nhiều thì rất dễ quên ăn. Mãi đến gần tám giờ tối, cô mới nhận ra mình đói meo, bèn quyết định xuống lầu tìm gì đó để ăn.
 
-Vẫn còn nhiệm vụ hằng ngày trị giá 20 tệ chưa làm.
+Vẫn còn một nhiệm vụ hàng ngày trị giá hai mươi đồng chưa hoàn thành.
 
-Hòa Ái Xích đi xuyên qua con phố ẩm thực trong "làng trong phố", đảo mắt một vòng rồi tiếp tục đi ra phía ngoài.
+Hòa Ái Xích đi qua con phố ẩm thực trong khu làng đô thị, liếc nhìn một vòng rồi tiếp tục đi ra ngoài.
 
-Nếu phải tự bỏ tiền túi, trong lúc eo hẹp thế này, cô sẽ cố gắng chọn những món mình đã từng ăn, vừa không sợ dở, vừa dễ kiểm soát giá cả. Nhưng bây giờ có thể được hoàn tiền, nên có thể mạo hiểm một chút.
+Nếu phải tiêu tiền của mình, vào những lúc eo hẹp thế này, Hòa Ái Xích sẽ cố gắng chọn những món mình đã từng ăn, vừa không sợ dở lại vừa dễ kiểm soát giá cả. Nhưng bây giờ có thể được hoàn tiền, vậy thì có thể mạo hiểm một chút.
 
-Hôm nay Hòa Ái Xích đã ngồi trong phòng xem ứng dụng Đánh Giá Tinh Hoa mấy tiếng đồng hồ, tên các nhà hàng gần đây cô đều nắm rõ, biết được quán nào bán gì và nằm ở đâu. Còn quán nào ngon, quán nào dở thì cô không biết, vì hôm nay cô chỉ nhìn tên quán chứ không đọc kỹ bình luận.
+Hôm nay Hòa Ái Xích đã ngồi trong phòng xem Cộng Đồng Đánh Giá Độc Đáo mấy tiếng đồng hồ, cô nắm rõ tên các nhà hàng gần đây như lòng bàn tay,大概 biết các quán khác nhau bán gì và ở đâu. Còn quán nào ngon, quán nào dở thì cô không biết, vì hôm nay cô chỉ xem tên quán chứ không đọc kỹ đánh giá.
 
-Cô cân nhắc rằng sau khi viết bài đánh giá, mình không chỉ được hoàn tiền bữa ăn mà sau này còn có thể nhận được thu nhập dựa trên sức ảnh hưởng. Vì vậy, Hòa Ái Xích quyết định thử một quán mới hơn, có ít lượt đánh giá hơn.
+Xét thấy sau khi viết đánh giá, không chỉ được hoàn tiền ăn để hoàn thành nhiệm vụ, mà sau này còn có thu nhập dựa trên sức ảnh hưởng, Hòa Ái Xích quyết định thử một quán mới hơn, có số lượng đánh giá ít hơn.
 
-Bởi lẽ, một quán có tổng số đánh giá càng ít, thì cơ hội để mỗi bài đánh giá trong đó được người khác nhìn thấy sẽ càng lớn.
+Rốt cuộc, một quán càng có ít đánh giá thì mỗi bài viết mới càng có cơ hội được chú ý nhiều hơn.
+
+---
+*Ghi chú của người dịch:*
+* *Hão len (薅羊毛):* Từ lóng mạng Trung Quốc, chỉ hành động tận dụng các chương trình khuyến mãi, ưu đãi để kiếm lợi nhỏ, tương tự như "săn sale" hoặc "tận dụng triệt để" ở Việt Nam.
