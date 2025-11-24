@@ -46,8 +46,8 @@ logger = logging.getLogger(__name__)
 class RawTranslator:
     """Translates Chinese content to Vietnamese using a basic prompt."""
     
-    INPUT_DIR = "biqu59096/raw_chinese"
-    OUTPUT_DIR = "biqu59096/raw_vietnamese"
+    INPUT_DIR = os.path.join(os.getenv("BOOK_BASE_DIR", "biqu59096"), "raw_chinese")
+    OUTPUT_DIR = os.path.join(os.getenv("BOOK_BASE_DIR", "biqu59096"), "raw_vietnamese")
     def __init__(self, batch_size: Optional[int] = None):
         # We don't need API keys for this method, but we keep the structure
         self.model = "google-translate-m"

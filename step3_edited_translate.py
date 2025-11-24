@@ -41,9 +41,9 @@ logger = logging.getLogger(__name__)
 class EditedTranslator:
     """Translates Chinese content to polished Vietnamese using dynamic rules."""
     
-    INPUT_DIR = "biqu59096/raw_vietnamese"
-    REF_DIR = "biqu59096/raw_chinese"
-    OUTPUT_DIR = "biqu59096/edited_vietnamese"
+    INPUT_DIR = os.path.join(os.getenv("BOOK_BASE_DIR", "bjXRF"), "raw_vietnamese")
+    REF_DIR = os.path.join(os.getenv("BOOK_BASE_DIR", "bjXRF"), "raw_chinese")
+    OUTPUT_DIR = os.path.join(os.getenv("BOOK_BASE_DIR", "bjXRF"), "edited_vietnamese")
     RULES_FILE = "EDITOR.md"
     
     def __init__(self):

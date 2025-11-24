@@ -28,8 +28,8 @@ logger = logging.getLogger(__name__)
 class ChapterScraper:
     """Scrapes chapters from HTML file and fetches content from website."""
     
-    BASE_URL = "https://www.22biqu.com"
-    RAW_DIR = "biqu59096/raw_chinese"
+    BASE_URL = os.getenv("BOOK_SOURCE_URL", "https://www.52shuku.net")
+    RAW_DIR = os.path.join(os.getenv("BOOK_BASE_DIR", "bjXRF"), "raw_chinese")
     
     def __init__(self, html_file: str):
         """
@@ -63,11 +63,13 @@ class ChapterScraper:
                 href = link.get('href', '')
                 text = link.get_text(strip=True)
                 
-                # Match chapter pattern like "第1章 章节标题"
-                match = re.match(r'第(\d+)章\s*(.*)', text)
+                # Match chapter pattern like "第1章 章节标题" or "第1页"
+                match = re.match(r'第(\d+)[页章]\s*(.*)', text)
                 if match:
                     chapter_num = int(match.group(1))
-                    chapter_title = match.group(2)
+                    chapter_title = match.group(2).strip()
+                    if not chapter_title:
+                        chapter_title = text
                     # Construct full URL
                     if isinstance(href, str) and href.startswith('/'):
                         url = self.BASE_URL + href
@@ -107,8 +109,8 @@ class ChapterScraper:
             
             soup = BeautifulSoup(response.text, 'html.parser')
             
-            # Find chapter content (typically in a div with class like "content" or "chapter-content")
-            content_div = soup.find('div', class_=re.compile(r'(content|chapter)'))
+            # Find chapter content in div with id="text"
+            content_div = soup.find('div', id='text')
             
             if content_div:
                 content = content_div.get_text(strip=True)
