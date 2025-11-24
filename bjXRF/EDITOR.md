@@ -64,6 +64,7 @@ Tuân thủ nghiêm ngặt các ký hiệu sau để phân biệt các loại n�
 |**小众点评**|Cộng Đồng Đánh Giá Độc Đáo||
 |**美食网红打卡APP**|Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng||
 |**环境**|không gian||
+|**影响力收入**|Thu nhập Ảnh hưởng||
 
 ## VI. VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLES)
 
