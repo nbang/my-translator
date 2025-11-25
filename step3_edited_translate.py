@@ -106,7 +106,7 @@ class EditedTranslator:
                 "parts": [{"text": rules}]
             },
             "contents": [{
-                "parts": [{"text": f"Bản dịch thô:\n{text}\n\nBản gốc:\n{ref_text}"}]
+                "parts": [{"text": f"##Bản dịch thô:\n{text}\n\n##Bản gốc:\n{ref_text}"}]
             }],
             "generationConfig": {
                 "temperature": 0.7
@@ -151,7 +151,7 @@ class EditedTranslator:
             },
             {
                 "role": "user", 
-                "content": f"Bản dịch thô:\n{text}\n\nBản gốc:\n{ref_text}"
+                "content": f"##Bản dịch thô:\n{text}\n\n##Bản gốc:\n{ref_text}"
             }
         ]
         
@@ -190,6 +190,7 @@ class EditedTranslator:
         try:
             input_path = Path(self.INPUT_DIR) / chapter_file
             output_path = Path(self.OUTPUT_DIR) / chapter_file
+            ref_path = Path(self.REF_DIR) / chapter_file
             
             if output_path.exists() and not force:
                 if output_path.stat().st_size > 0:
@@ -208,7 +209,6 @@ class EditedTranslator:
                 content = f.read()
 
             # Read Reference (Raw Chinese)
-            ref_path = Path(self.REF_DIR) / chapter_file
             if ref_path.exists():
                 with open(ref_path, 'r', encoding='utf-8') as f:
                     ref_content = f.read()

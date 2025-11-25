@@ -140,14 +140,14 @@ class ChapterScraper:
         filename = f"chapter_{chapter_num:04d}.md"
         filepath = Path(self.RAW_DIR) / filename
         
-        markdown_content = f"""# 第{chapter_num}章 {title}
+        markdown_content = f"""
+### 标题 | Title
 
-## 标题 | Title
 第{chapter_num}章 {title}
 
 ---
 
-## 内容 | Content
+### 内容 | Content
 
 {content}
 
