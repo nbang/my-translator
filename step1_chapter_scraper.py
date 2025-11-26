@@ -13,6 +13,7 @@ from bs4 import BeautifulSoup
 import requests
 import logging
 from dotenv import load_dotenv
+from urllib.parse import urljoin, urlparse
 
 # Load environment variables from .env
 load_dotenv()
@@ -26,38 +27,67 @@ logger = logging.getLogger(__name__)
 
 
 class ChapterScraper:
-    """Scrapes chapters from HTML file and fetches content from website."""
+    """Scrapes chapters from website."""
     
-    BASE_URL = os.getenv("BOOK_SOURCE_URL", "https://www.52shuku.net")
-    RAW_DIR = os.path.join(os.getenv("BOOK_BASE_DIR", "bjXRF"), "raw_chinese")
-    
-    def __init__(self, html_file: str):
+    def __init__(self):
         """
         Initialize the scraper.
-        
-        Args:
-            html_file: Path to the HTML file containing chapter links
+        Reads URL from .env and determines output directory dynamically.
         """
-        self.html_file = html_file
+        self.url = os.getenv("BOOK_SOURCE_URL")
+        if not self.url:
+            raise ValueError("BOOK_SOURCE_URL not found in .env")
+            
+        # Try to get base dir from environment first
+        env_base_dir = os.getenv("BOOK_BASE_DIR")
+        
+        if env_base_dir and env_base_dir.strip():
+            self.base_dir = env_base_dir.strip()
+            self.book_name = self.base_dir # Use base dir as book name for consistency
+        else:
+            # Derive book name/base dir from URL
+            # e.g. https://www.52shuku.net/yanqing/29_b/bkadd.html -> bkadd
+            path = urlparse(self.url).path
+            filename = os.path.basename(path)
+            # Remove extension if present
+            self.book_name = os.path.splitext(filename)[0]
+            self.base_dir = self.book_name
+        self.raw_dir = os.path.join(self.base_dir, "raw_chinese")
+        
         self.chapters: List[Dict] = []
         
         # Create output directories
-        Path(self.RAW_DIR).mkdir(parents=True, exist_ok=True)
-        logger.info(f"Output directory created: {self.RAW_DIR}")
+        Path(self.raw_dir).mkdir(parents=True, exist_ok=True)
+        logger.info(f"Target URL: {self.url}")
+        logger.info(f"Output directory: {self.raw_dir}")
     
-    def parse_chapters_from_html(self) -> list:
+    def fetch_and_parse_chapters(self) -> list:
         """
-        Parse chapter links and titles from HTML file.
+        Fetch chapter list from the source URL and parse links.
         
         Returns:
-            List of tuples (chapter_number, title, url)
+            List of dictionaries containing chapter info
         """
         try:
-            with open(self.html_file, 'r', encoding='utf-8') as f:
-                soup = BeautifulSoup(f, 'html.parser')
+            logger.info(f"Fetching chapter list from {self.url}...")
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            }
+            response = requests.get(self.url, headers=headers, timeout=10)
+            response.encoding = 'utf-8'
+            
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # Find the list container: <ul class="list clearfix">
+            chapter_list_ul = soup.find('ul', class_='list clearfix')
+            
+            if not chapter_list_ul:
+                logger.error("Could not find <ul class='list clearfix'> in the page.")
+                return []
             
             chapters = []
-            links = soup.find_all('a')
+            # Find all links inside the ul
+            links = chapter_list_ul.find_all('a')
             
             for link in links:
                 href = link.get('href', '')
@@ -65,29 +95,34 @@ class ChapterScraper:
                 
                 # Match chapter pattern like "第1章 章节标题" or "第1页"
                 match = re.match(r'第(\d+)[页章]\s*(.*)', text)
+                
                 if match:
                     chapter_num = int(match.group(1))
                     chapter_title = match.group(2).strip()
                     if not chapter_title:
                         chapter_title = text
-                    # Construct full URL
-                    if isinstance(href, str) and href.startswith('/'):
-                        url = self.BASE_URL + href
-                    else:
-                        url = str(href)
-                    chapters.append({
-                        'number': chapter_num,
-                        'title': chapter_title,
-                        'url': url,
-                        'full_title': text
-                    })
+                else:
+                    continue
+
+                # Construct full URL
+                full_url = urljoin(self.url, href)
+                
+                chapters.append({
+                    'number': chapter_num,
+                    'title': chapter_title,
+                    'url': full_url,
+                    'full_title': text
+                })
+            
+            # Sort chapters by number to ensure order
+            chapters.sort(key=lambda x: x['number'])
             
             self.chapters = chapters
-            logger.info(f"Parsed {len(chapters)} chapters from HTML")
+            logger.info(f"Parsed {len(chapters)} chapters from website")
             return chapters
         
         except Exception as e:
-            logger.error(f"Error parsing HTML file: {e}")
+            logger.error(f"Error fetching/parsing chapters: {e}")
             return []
     
     def fetch_chapter_content(self, url: str) -> str:
@@ -138,7 +173,7 @@ class ChapterScraper:
             Path to saved file
         """
         filename = f"chapter_{chapter_num:04d}.md"
-        filepath = Path(self.RAW_DIR) / filename
+        filepath = Path(self.raw_dir) / filename
         
         markdown_content = f"""
 ### 标题 | Title
@@ -174,7 +209,7 @@ class ChapterScraper:
             delay: Delay between requests in seconds
         """
         if not self.chapters:
-            self.parse_chapters_from_html()
+            self.fetch_and_parse_chapters()
         
         chapters_to_process = self.chapters[:max_chapters] if max_chapters else self.chapters
         total = len(chapters_to_process)
@@ -185,6 +220,13 @@ class ChapterScraper:
             try:
                 logger.info(f"[{idx}/{total}] Processing chapter {chapter['number']}: {chapter['title']}")
                 
+                # Check if file already exists
+                filename = f"chapter_{chapter['number']:04d}.md"
+                filepath = Path(self.raw_dir) / filename
+                if filepath.exists():
+                     logger.info(f"Skipping chapter {chapter['number']} - already exists")
+                     continue
+
                 # Fetch content
                 content = self.fetch_chapter_content(chapter['url'])
                 if not content:
@@ -209,36 +251,37 @@ def main():
     """Main execution function."""
     import sys
     
-    # Configuration
-    html_file = "chapters.html"
     max_chapters = None  # Set to a number to limit processing
     
     # Parse command line arguments
     if len(sys.argv) > 1:
-        html_file = sys.argv[1]
-    if len(sys.argv) > 2:
-        max_chapters = int(sys.argv[2])
+        try:
+            max_chapters = int(sys.argv[1])
+        except ValueError:
+            pass 
     
     logger.info(f"Starting chapter scraper (Step 1)")
-    logger.info(f"HTML file: {html_file}")
     logger.info(f"Max chapters: {max_chapters}")
     
-    # Initialize scraper
-    scraper = ChapterScraper(html_file)
-    
-    # Parse chapters
-    chapters = scraper.parse_chapters_from_html()
-    if not chapters:
-        logger.error("No chapters found. Exiting.")
-        return
-    
-    logger.info(f"Found {len(chapters)} chapters")
-    
-    # Process chapters
-    scraper.process_chapters(max_chapters=max_chapters, delay=1.0)
-    
-    logger.info("Done!")
-
+    try:
+        # Initialize scraper
+        scraper = ChapterScraper()
+        
+        # Parse chapters
+        chapters = scraper.fetch_and_parse_chapters()
+        if not chapters:
+            logger.error("No chapters found. Exiting.")
+            return
+        
+        logger.info(f"Found {len(chapters)} chapters")
+        
+        # Process chapters
+        scraper.process_chapters(max_chapters=max_chapters, delay=1.0)
+        
+        logger.info("Done!")
+        
+    except Exception as e:
+        logger.error(f"An error occurred: {e}")
 
 if __name__ == "__main__":
     main()

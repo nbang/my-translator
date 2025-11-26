@@ -5,111 +5,461 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Translation Workflow Dashboard</title>
-    <link rel="stylesheet" href="static/css/style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        /* Custom scrollbar for code block */
+        pre::-webkit-scrollbar {
+            height: 8px;
+        }
+
+        pre::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+
+        pre::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+
+        pre::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+    </style>
 </head>
 
-<body>
-    <div class="container">
-        <header>
-            <h1>Translation Workflow Dashboard</h1>
+<body class="bg-gray-50 text-gray-800 min-h-screen p-6">
+
+    <div class="max-w-5xl mx-auto">
+        <header class="mb-10 text-center">
+            <h1 class="text-4xl font-extrabold text-gray-900 tracking-tight mb-2">Translation Workflow Dashboard</h1>
+            <p class="text-gray-500">Manage your book translation pipeline with ease</p>
         </header>
 
-        <nav class="tabs">
-            <button class="tab-btn active" onclick="openTab('config')">Configuration</button>
-            <button class="tab-btn" onclick="openTab('actions')">Actions</button>
-            <button class="tab-btn" onclick="openTab('data')">Data Browser</button>
-        </nav>
+        <!-- Navigation Tabs -->
+        <div class="flex justify-center mb-8 border-b border-gray-200">
+            <nav class="flex space-x-8" aria-label="Tabs">
+                <button onclick="openTab('config')" data-tab="config"
+                    class="tab-btn border-b-2 border-blue-600 py-4 px-1 text-sm font-medium text-blue-600 hover:text-blue-800 focus:outline-none transition-colors duration-200">
+                    Configuration
+                </button>
+                <button onclick="openTab('actions')" data-tab="actions"
+                    class="tab-btn border-b-2 border-transparent py-4 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300 focus:outline-none transition-colors duration-200">
+                    Actions
+                </button>
+                <button onclick="openTab('data')" data-tab="data"
+                    class="tab-btn border-b-2 border-transparent py-4 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300 focus:outline-none transition-colors duration-200">
+                    Data Browser
+                </button>
+            </nav>
+        </div>
 
         <main>
             <!-- Configuration Tab -->
-            <section id="config" class="tab-content active">
-                <h2>GitHub Configuration</h2>
-                <div class="form-group">
-                    <label for="github-token">GitHub Personal Access Token (PAT)</label>
-                    <input type="password" id="github-token" placeholder="ghp_..." onchange="saveLocalConfig()">
-                    <small>Stored locally in your browser. Requires 'repo' and 'workflow' scopes.</small>
-                </div>
-                <div class="form-group">
-                    <label for="github-owner">Owner (User/Org)</label>
-                    <input type="text" id="github-owner" placeholder="username" onchange="saveLocalConfig()">
-                </div>
-                <div class="form-group">
-                    <label for="github-repo">Repository Name</label>
-                    <input type="text" id="github-repo" placeholder="repo-name" onchange="saveLocalConfig()">
-                </div>
+            <section id="config" class="tab-content block animate-fade-in">
+                <div class="bg-white shadow-sm rounded-xl p-8 border border-gray-100">
+                    <h2 class="text-xl font-semibold text-gray-900 mb-6">GitHub Configuration</h2>
+                    <div class="grid grid-cols-1 gap-6">
+                        <div>
+                            <label for="github-token" class="block text-sm font-medium text-gray-700 mb-1">GitHub
+                                Personal Access Token (PAT)</label>
+                            <input type="password" id="github-token" placeholder="ghp_..."
+                                class="block w-full rounded-lg border-gray-300 border px-4 py-2 focus:border-blue-500 focus:ring-blue-500 sm:text-sm shadow-sm transition duration-150 ease-in-out">
+                            <p class="mt-1 text-xs text-gray-500">Requires 'repo' and 'workflow' scopes.</p>
+                        </div>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <div>
+                                <label for="github-owner" class="block text-sm font-medium text-gray-700 mb-1">Owner
+                                    (User/Org)</label>
+                                <input type="text" id="github-owner" placeholder="username"
+                                    class="block w-full rounded-lg border-gray-300 border px-4 py-2 focus:border-blue-500 focus:ring-blue-500 sm:text-sm shadow-sm">
+                            </div>
+                            <div>
+                                <label for="github-repo" class="block text-sm font-medium text-gray-700 mb-1">Repository
+                                    Name</label>
+                                <input type="text" id="github-repo" placeholder="repo-name"
+                                    class="block w-full rounded-lg border-gray-300 border px-4 py-2 focus:border-blue-500 focus:ring-blue-500 sm:text-sm shadow-sm">
+                            </div>
+                        </div>
+                    </div>
 
-                <hr>
+                    <div class="border-t border-gray-100 my-8"></div>
 
-                <h2>Workflow Configuration (Inputs)</h2>
-                <p>These values are passed as inputs to the workflows.</p>
-
-                <div class="form-group">
-                    <label for="config-url">BOOK_SOURCE_URL</label>
-                    <input type="text" id="config-url" placeholder="https://www.52shuku.net"
-                        onchange="saveLocalConfig()">
-                </div>
-                <div class="form-group">
-                    <label for="config-base-dir">BOOK_BASE_DIR</label>
-                    <input type="text" id="config-base-dir" placeholder="bjXRF" onchange="saveLocalConfig()">
+                    <h2 class="text-xl font-semibold text-gray-900 mb-6">Workflow Inputs</h2>
+                    <div class="grid grid-cols-1 gap-6">
+                        <div>
+                            <label for="config-url"
+                                class="block text-sm font-medium text-gray-700 mb-1">BOOK_SOURCE_URL</label>
+                            <input type="text" id="config-url" placeholder="https://www.52shuku.net/..."
+                                class="block w-full rounded-lg border-gray-300 border px-4 py-2 focus:border-blue-500 focus:ring-blue-500 sm:text-sm shadow-sm">
+                        </div>
+                        <div>
+                            <label for="config-base-dir"
+                                class="block text-sm font-medium text-gray-700 mb-1">BOOK_BASE_DIR</label>
+                            <input type="text" id="config-base-dir" placeholder="bjXRF"
+                                class="block w-full rounded-lg border-gray-300 border px-4 py-2 focus:border-blue-500 focus:ring-blue-500 sm:text-sm shadow-sm">
+                        </div>
+                    </div>
                 </div>
             </section>
 
             <!-- Actions Tab -->
-            <section id="actions" class="tab-content">
-                <div class="card">
-                    <h3>Step 1: Chapter Scraper</h3>
-                    <p>Scrapes chapters from the source URL based on <code>chapters.html</code>.</p>
-                    <div class="form-group">
-                        <label>Update chapters.html (Optional)</label>
-                        <textarea id="chapters-html-content" rows="5"
-                            placeholder="Paste new HTML content here to update..."></textarea>
+            <section id="actions" class="tab-content hidden animate-fade-in">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <!-- Step 1 Card -->
+                    <div class="bg-white shadow-sm rounded-xl p-6 border border-gray-100 flex flex-col h-full">
+                        <div class="mb-4">
+                            <span
+                                class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800">Step
+                                1</span>
+                            <h3 class="text-lg font-bold text-gray-900 mt-2">Chapter Scraper</h3>
+                            <p class="text-sm text-gray-500 mt-1">Scrapes chapters from the source URL.</p>
+                        </div>
+                        <div class="flex-grow">
+                            <p class="text-sm text-gray-600 mb-4">
+                                The scraper will automatically fetch chapters from the <strong>BOOK_SOURCE_URL</strong>
+                                configured in the Configuration tab.
+                            </p>
+                        </div>
+                        <div class="mt-6">
+                            <button onclick="triggerScraper()"
+                                class="w-full flex justify-center py-2 px-4 border border-transparent rounded-lg shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors duration-200">
+                                Run Scraper Workflow
+                            </button>
+                        </div>
                     </div>
-                    <button onclick="triggerScraper()" class="primary">Run Scraper Workflow</button>
+
+                    <!-- Step 2 Card -->
+                    <div class="bg-white shadow-sm rounded-xl p-6 border border-gray-100 flex flex-col h-full">
+                        <div class="mb-4">
+                            <span
+                                class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-purple-100 text-purple-800">Step
+                                2</span>
+                            <h3 class="text-lg font-bold text-gray-900 mt-2">Raw Translator</h3>
+                            <p class="text-sm text-gray-500 mt-1">Translates raw Chinese chapters to Vietnamese.</p>
+                        </div>
+                        <div class="flex-grow space-y-4">
+                            <div>
+                                <label for="batch-size" class="block text-sm font-medium text-gray-700 mb-1">Batch Size
+                                    (1-10)</label>
+                                <input type="number" id="batch-size" value="5" min="1" max="10"
+                                    class="block w-full rounded-lg border-gray-300 border px-3 py-2 focus:border-blue-500 focus:ring-blue-500 sm:text-sm shadow-sm">
+                            </div>
+                            <div class="flex items-center">
+                                <input id="force-translate" type="checkbox"
+                                    class="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded">
+                                <label for="force-translate" class="ml-2 block text-sm text-gray-900">Force
+                                    Re-translation</label>
+                            </div>
+                        </div>
+                        <div class="mt-6">
+                            <button onclick="triggerTranslator()"
+                                class="w-full flex justify-center py-2 px-4 border border-transparent rounded-lg shadow-sm text-sm font-medium text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 transition-colors duration-200">
+                                Run Translator Workflow
+                            </button>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="card">
-                    <h3>Step 2: Raw Translator</h3>
-                    <p>Translates raw Chinese chapters to Vietnamese.</p>
-                    <div class="form-group">
-                        <label for="batch-size">Batch Size (1-10)</label>
-                        <input type="number" id="batch-size" value="5" min="1" max="10">
+                <!-- Status Section -->
+                <div class="mt-8 bg-white shadow-sm rounded-xl p-6 border border-gray-100">
+                    <div class="flex justify-between items-center mb-4">
+                        <h3 class="text-lg font-bold text-gray-900">Workflow Status</h3>
+                        <button onclick="checkWorkflowStatus()"
+                            class="inline-flex items-center px-3 py-1.5 border border-gray-300 shadow-sm text-xs font-medium rounded text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                            Refresh Status
+                        </button>
                     </div>
-                    <div class="form-group checkbox">
-                        <input type="checkbox" id="force-translate">
-                        <label for="force-translate">Force Re-translation</label>
+                    <div id="workflow-status-list" class="space-y-2">
+                        <p class="text-sm text-gray-500 italic">No recent workflows found or not connected.</p>
                     </div>
-                    <button onclick="triggerTranslator()" class="primary">Run Translator Workflow</button>
-                </div>
-
-                <div class="card">
-                    <h3>Workflow Status</h3>
-                    <button onclick="checkWorkflowStatus()">Refresh Status</button>
-                    <div id="workflow-status-list"></div>
                 </div>
             </section>
 
             <!-- Data Browser Tab -->
-            <section id="data" class="tab-content">
-                <div class="browser-controls">
-                    <select id="folder-select" onchange="loadFileList()" aria-label="Folder Selection">
-                        <option value="raw_chinese">Raw Chinese</option>
-                        <option value="raw_vietnamese">Raw Vietnamese</option>
-                    </select>
-                    <button onclick="loadFileList()">Refresh Files</button>
-                </div>
-                <div class="file-browser">
-                    <ul id="file-list"></ul>
-                    <div id="file-preview">
-                        <h4>File Content</h4>
-                        <pre id="file-content-display">Select a file to view...</pre>
+            <section id="data" class="tab-content hidden animate-fade-in">
+                <div class="bg-white shadow-sm rounded-xl p-6 border border-gray-100 h-[600px] flex flex-col">
+                    <div class="flex items-center justify-between mb-4">
+                        <div class="flex items-center space-x-4">
+                            <select id="folder-select" onchange="loadFileList()"
+                                class="block w-48 pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm rounded-md">
+                                <option value="raw_chinese">Raw Chinese</option>
+                                <option value="raw_vietnamese">Raw Vietnamese</option>
+                            </select>
+                            <button onclick="loadFileList()"
+                                class="inline-flex items-center px-3 py-2 border border-gray-300 shadow-sm text-sm leading-4 font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Refresh Files
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="flex-grow flex border border-gray-200 rounded-lg overflow-hidden">
+                        <!-- File List -->
+                        <div class="w-1/3 border-r border-gray-200 bg-gray-50 overflow-y-auto">
+                            <ul id="file-list" class="divide-y divide-gray-200">
+                                <!-- List items will be injected here -->
+                                <li class="px-4 py-3 text-sm text-gray-500 text-center italic">Select a folder to view
+                                    files</li>
+                            </ul>
+                        </div>
+                        <!-- File Content -->
+                        <div class="w-2/3 bg-white flex flex-col">
+                            <div class="px-4 py-2 border-b border-gray-200 bg-gray-50">
+                                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider">File Content
+                                </h4>
+                            </div>
+                            <div class="flex-grow overflow-auto p-4">
+                                <pre id="file-content-display"
+                                    class="text-sm font-mono text-gray-800 whitespace-pre-wrap">Select a file to view...</pre>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
         </main>
     </div>
 
-    <div id="toast" class="toast"></div>
-    <script src="static/js/app.js"></script>
+    <!-- Toast Notification -->
+    <div id="toast" class="fixed bottom-5 right-5 transform translate-y-20 opacity-0 transition-all duration-300 z-50">
+        <div class="bg-gray-800 text-white px-6 py-3 rounded-lg shadow-lg flex items-center">
+            <span id="toast-message">Notification</span>
+        </div>
+    </div>
+
+    <script>
+        // GitHub API Base URL
+        const GITHUB_API_BASE = 'https://api.github.com';
+
+        // Initialization
+        document.addEventListener('DOMContentLoaded', () => {
+            openTab('config');
+        });
+
+        // Tab Navigation
+        function openTab(tabId) {
+            // Hide all contents
+            document.querySelectorAll('.tab-content').forEach(el => el.classList.add('hidden'));
+
+            // Reset all buttons
+            document.querySelectorAll('.tab-btn').forEach(el => {
+                el.classList.remove('border-blue-600', 'text-blue-600');
+                el.classList.add('border-transparent', 'text-gray-500');
+            });
+
+            // Show target content
+            document.getElementById(tabId).classList.remove('hidden');
+
+            // Activate target button
+            const btn = document.querySelector(`button[data-tab="${tabId}"]`);
+            if (btn) {
+                btn.classList.remove('border-transparent', 'text-gray-500');
+                btn.classList.add('border-blue-600', 'text-blue-600');
+            }
+        }
+
+        // Helper: Get Config
+        function getConfig() {
+            return {
+                token: document.getElementById('github-token').value.trim(),
+                owner: document.getElementById('github-owner').value.trim(),
+                repo: document.getElementById('github-repo').value.trim(),
+                url: document.getElementById('config-url').value.trim(),
+                baseDir: document.getElementById('config-base-dir').value.trim()
+            };
+        }
+
+        // Helper: Get Headers
+        function getHeaders(token) {
+            return {
+                'Authorization': `token ${token}`,
+                'Accept': 'application/vnd.github.v3+json',
+                'Content-Type': 'application/json'
+            };
+        }
+
+        // Helper: Show Toast
+        function showToast(message, isError = false) {
+            const toast = document.getElementById('toast');
+            const msg = document.getElementById('toast-message');
+            msg.textContent = message;
+
+            if (isError) {
+                toast.firstElementChild.classList.remove('bg-gray-800');
+                toast.firstElementChild.classList.add('bg-red-600');
+            } else {
+                toast.firstElementChild.classList.remove('bg-red-600');
+                toast.firstElementChild.classList.add('bg-gray-800');
+            }
+
+            toast.classList.remove('translate-y-20', 'opacity-0');
+            setTimeout(() => {
+                toast.classList.add('translate-y-20', 'opacity-0');
+            }, 3000);
+        }
+
+        // Trigger Scraper
+        async function triggerScraper() {
+            const config = getConfig();
+            if (!config.token || !config.repo || !config.owner) return showToast('Please configure GitHub settings first.', true);
+
+            try {
+                const url = `${GITHUB_API_BASE}/repos/${config.owner}/${config.repo}/actions/workflows/scraper.yml/dispatches`;
+                const body = {
+                    ref: 'main',
+                    inputs: {
+                        book_source_url: config.url,
+                        book_base_dir: config.baseDir
+                    }
+                };
+
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: getHeaders(config.token),
+                    body: JSON.stringify(body)
+                });
+
+                if (!response.ok) throw new Error('Failed to trigger scraper');
+
+                showToast('Scraper workflow triggered!');
+                checkWorkflowStatus();
+            } catch (error) {
+                console.error(error);
+                showToast('Error: ' + error.message, true);
+            }
+        }
+
+        // Trigger Translator
+        async function triggerTranslator() {
+            const config = getConfig();
+            if (!config.token || !config.repo || !config.owner) return showToast('Please configure GitHub settings first.', true);
+
+            const batchSize = document.getElementById('batch-size').value;
+            const force = document.getElementById('force-translate').checked;
+
+            try {
+                const url = `${GITHUB_API_BASE}/repos/${config.owner}/${config.repo}/actions/workflows/translator.yml/dispatches`;
+                const body = {
+                    ref: 'main',
+                    inputs: {
+                        batch_size: batchSize,
+                        force: force.toString(),
+                        book_base_dir: config.baseDir
+                    }
+                };
+
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: getHeaders(config.token),
+                    body: JSON.stringify(body)
+                });
+
+                if (!response.ok) throw new Error('Failed to trigger translator');
+
+                showToast('Translator workflow triggered!');
+                checkWorkflowStatus();
+            } catch (error) {
+                console.error(error);
+                showToast('Error: ' + error.message, true);
+            }
+        }
+
+        // Check Status
+        async function checkWorkflowStatus() {
+            const config = getConfig();
+            if (!config.token || !config.repo || !config.owner) return;
+
+            try {
+                const url = `${GITHUB_API_BASE}/repos/${config.owner}/${config.repo}/actions/runs?per_page=5`;
+                const response = await fetch(url, { headers: getHeaders(config.token) });
+                const data = await response.json();
+
+                const list = document.getElementById('workflow-status-list');
+                list.innerHTML = '';
+
+                if (data.workflow_runs && data.workflow_runs.length > 0) {
+                    data.workflow_runs.forEach(run => {
+                        const statusColor = run.conclusion === 'success' ? 'text-green-600 bg-green-50' :
+                            run.conclusion === 'failure' ? 'text-red-600 bg-red-50' :
+                                'text-yellow-600 bg-yellow-50';
+
+                        const div = document.createElement('div');
+                        div.className = 'flex justify-between items-center p-3 rounded-lg border border-gray-100 bg-white';
+                        div.innerHTML = `
+                            <span class="text-sm font-medium text-gray-700">${run.name} #${run.run_number}</span>
+                            <span class="px-2 py-1 text-xs font-semibold rounded-full ${statusColor} capitalize">
+                                ${run.status === 'completed' ? run.conclusion : run.status}
+                            </span>
+                        `;
+                        list.appendChild(div);
+                    });
+                } else {
+                    list.innerHTML = '<p class="text-sm text-gray-500 italic">No runs found.</p>';
+                }
+            } catch (error) {
+                console.error(error);
+                showToast('Error checking status', true);
+            }
+        }
+
+        // File Browser
+        async function loadFileList() {
+            const config = getConfig();
+            if (!config.token || !config.repo || !config.owner) return showToast('Please configure GitHub settings first.', true);
+
+            const folder = document.getElementById('folder-select').value;
+            let baseDir = config.baseDir || 'bjXRF';
+            const path = `${baseDir}/${folder}`;
+
+            try {
+                const url = `${GITHUB_API_BASE}/repos/${config.owner}/${config.repo}/contents/${path}`;
+                const response = await fetch(url, { headers: getHeaders(config.token) });
+
+                if (!response.ok) throw new Error('Folder not found');
+
+                const files = await response.json();
+                const list = document.getElementById('file-list');
+                list.innerHTML = '';
+
+                files.forEach(file => {
+                    if (file.type === 'file') {
+                        const li = document.createElement('li');
+                        li.className = 'px-4 py-2 hover:bg-blue-50 cursor-pointer text-sm text-gray-700 transition-colors duration-150 border-b border-gray-100 last:border-0';
+                        li.textContent = file.name;
+                        li.onclick = () => {
+                            // Highlight active
+                            document.querySelectorAll('#file-list li').forEach(el => el.classList.remove('bg-blue-100', 'text-blue-700'));
+                            li.classList.add('bg-blue-100', 'text-blue-700');
+                            loadFileContent(file.path);
+                        };
+                        list.appendChild(li);
+                    }
+                });
+            } catch (error) {
+                console.error(error);
+                showToast('Error loading files: ' + error.message, true);
+            }
+        }
+
+        async function loadFileContent(path) {
+            const config = getConfig();
+            try {
+                const url = `${GITHUB_API_BASE}/repos/${config.owner}/${config.repo}/contents/${path}`;
+                const response = await fetch(url, { headers: getHeaders(config.token) });
+                const data = await response.json();
+
+                // Decode content (UTF-8 safe decode)
+                const content = decodeURIComponent(escape(atob(data.content)));
+                document.getElementById('file-content-display').textContent = content;
+            } catch (error) {
+                console.error(error);
+                showToast('Error loading file content', true);
+            }
+        }
+    </script>
 </body>
 
 </html>
