@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translation Workflow Dashboard</title>
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Translation Workflow Dashboard</h1>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab-btn active" onclick="openTab('config')">Configuration</button>
+            <button class="tab-btn" onclick="openTab('actions')">Actions</button>
+            <button class="tab-btn" onclick="openTab('data')">Data Browser</button>
+        </nav>
+
+        <main>
+            <!-- Configuration Tab -->
+            <section id="config" class="tab-content active">
+                <h2>GitHub Configuration</h2>
+                <div class="form-group">
+                    <label for="github-token">GitHub Personal Access Token (PAT)</label>
+                    <input type="password" id="github-token" placeholder="ghp_..." onchange="saveLocalConfig()">
+                    <small>Stored locally in your browser. Requires 'repo' and 'workflow' scopes.</small>
+                </div>
+                <div class="form-group">
+                    <label for="github-owner">Owner (User/Org)</label>
+                    <input type="text" id="github-owner" placeholder="username" onchange="saveLocalConfig()">
+                </div>
+                <div class="form-group">
+                    <label for="github-repo">Repository Name</label>
+                    <input type="text" id="github-repo" placeholder="repo-name" onchange="saveLocalConfig()">
+                </div>
+
+                <hr>
+
+                <h2>Environment Variables (.env)</h2>
+                <div class="actions-bar">
+                    <button onclick="loadEnvFromRepo()">Load .env from Repo</button>
+                    <button onclick="saveEnvToRepo()" class="primary">Save .env to Repo</button>
+                </div>
+                <div class="form-group">
+                    <textarea id="env-content" rows="10" placeholder="BOOK_SOURCE_URL=..."></textarea>
+                </div>
+            </section>
+
+            <!-- Actions Tab -->
+            <section id="actions" class="tab-content">
+                <div class="card">
+                    <h3>Step 1: Chapter Scraper</h3>
+                    <p>Scrapes chapters from the source URL based on <code>chapters.html</code>.</p>
+                    <div class="form-group">
+                        <label>Update chapters.html (Optional)</label>
+                        <textarea id="chapters-html-content" rows="5"
+                            placeholder="Paste new HTML content here to update..."></textarea>
+                    </div>
+                    <button onclick="triggerScraper()" class="primary">Run Scraper Workflow</button>
+                </div>
+
+                <div class="card">
+                    <h3>Step 2: Raw Translator</h3>
+                    <p>Translates raw Chinese chapters to Vietnamese.</p>
+                    <div class="form-group">
+                        <label for="batch-size">Batch Size (1-10)</label>
+                        <input type="number" id="batch-size" value="5" min="1" max="10">
+                    </div>
+                    <div class="form-group checkbox">
+                        <input type="checkbox" id="force-translate">
+                        <label for="force-translate">Force Re-translation</label>
+                    </div>
+                    <button onclick="triggerTranslator()" class="primary">Run Translator Workflow</button>
+                </div>
+
+                <div class="card">
+                    <h3>Workflow Status</h3>
+                    <button onclick="checkWorkflowStatus()">Refresh Status</button>
+                    <div id="workflow-status-list"></div>
+                </div>
+            </section>
+
+            <!-- Data Browser Tab -->
+            <section id="data" class="tab-content">
+                <div class="browser-controls">
+                    <select id="folder-select" onchange="loadFileList()">
+                        <option value="raw_chinese">Raw Chinese</option>
+                        <option value="raw_vietnamese">Raw Vietnamese</option>
+                    </select>
+                    <button onclick="loadFileList()">Refresh Files</button>
+                </div>
+                <div class="file-browser">
+                    <ul id="file-list"></ul>
+                    <div id="file-preview">
+                        <h4>File Content</h4>
+                        <pre id="file-content-display">Select a file to view...</pre>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast" class="toast"></div>
+    <script src="static/js/app.js"></script>
+</body>
+
+</html>
