@@ -106,7 +106,7 @@ class EditedTranslator:
                 "parts": [{"text": rules}]
             },
             "contents": [{
-                "parts": [{"text": f"##Bản dịch thô:\n{text}\n\n##Bản gốc:\n{ref_text}"}]
+                "parts": [{"text": f"## Bản gốc:\n{ref_text}\n\n## Bản dịch thô:\n{text}"}]
             }],
             "generationConfig": {
                 "temperature": 0.7
@@ -151,7 +151,7 @@ class EditedTranslator:
             },
             {
                 "role": "user", 
-                "content": f"##Bản dịch thô:\n{text}\n\n##Bản gốc:\n{ref_text}"
+                "content": f"## Bản gốc:\n{ref_text}\n\n## Bản dịch thô:\n{text}"
             }
         ]
         

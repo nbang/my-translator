@@ -1,73 +1,111 @@
-# Chương 21: Hoành thánh và Bánh ú
+### **Chương 21**
 
-Người dì đặt vỏ bánh lên lòng bàn tay, tay kia thoăn thoắt múc nhân cho vào giữa. Chỉ cần túm lại một cái là xong một chiếc hoành thánh, cả quá trình chưa đến vài giây.
+---
 
-*Hoành thánh à?* Cô nhớ ra mấy hôm trước mình cũng vừa ăn, nhưng tiếc là quán đó làm không ngon. *Biết đâu hoành thánh ở đây lại ngon thì sao? Dù gì người ta cũng đang gói ngay trước mắt mình mà.*
+Một tay xòe vỏ hoành thánh trong lòng bàn tay, tay kia thoăn thoắt xúc nhân cho vào, rồi túm lại là xong một chiếc, cả quá trình chưa đến vài giây.
 
-Cô đứng trước cửa tiệm, ngập ngừng giây lát rồi chú ý đến một tờ giấy dán trên cửa: "Tiệm chúng tôi chỉ có một địa chỉ duy nhất, không chi nhánh, không có trên các ứng dụng giao hàng. Quý khách vui lòng dùng bữa tại chỗ hoặc đến tiệm mua mang về. Xin hãy cẩn thận để tránh nhầm lẫn!"
+À, hoành thánh. Mấy hôm trước cô cũng ăn hoành thánh, tiếc là quán lần trước không ngon chút nào. Có lẽ hoành thánh ở đây ăn được chăng? Dù gì người ta cũng gói ngay trước mặt mình mà.
 
-*Ra là tiệm này còn bị làm giả nữa cơ à? Chắc cũng nổi tiếng lắm đây? Nhưng sao trong tiệm lại vắng khách thế nhỉ?* Sự tò mò trỗi dậy, thôi thúc cô.
+Cô đứng trước cửa tiệm do dự một lúc, rồi trông thấy một tờ giấy dán trên cửa ghi: "Tiệm chỉ có một địa chỉ duy nhất, không có chi nhánh, không đăng ký trên các nền tảng giao đồ ăn, chỉ phục vụ tại chỗ hoặc khách tự đến mua mang về. Xin quý khách lưu ý để tránh nhầm lẫn!"
 
-Cô bước vào trong, người dì đang gói hoành thánh chẳng buồn ngẩng đầu lên, cất tiếng:
+Theo ý này, quán này còn bị làm giả nữa sao?
 
-“Cô tìm chỗ ngồi rồi quét mã gọi món nhé.” Tay bà ấy vẫn thoăn thoắt làm việc.
+*Lẽ nào quán này cũng nổi tiếng? Nhưng trong tiệm đâu có đông khách?*
 
-*Đúng là một quán ăn không chú trọng dịch vụ.*
+Điều này khiến Hòa Ái Xích tò mò. Cô bước vào trong vài bước, người dì đang gói hoành thánh không ngẩng đầu lên, nói:
 
-Cô chọn đại một chỗ sát tường rồi ngồi xuống, vừa ngắm nghía cách bài trí của tiệm, vừa rút điện thoại ra chụp vài tấm ảnh. *Hôm nay đi phỏng vấn nên mình không mang theo máy ảnh.*
+"Ngồi rồi quét mã đặt món."
 
-Đây là một quán ăn kiểu Quảng Đông cũ kỹ với lối trang trí khá kỳ lạ, nửa cũ nửa mới. Nửa cũ vẫn còn giữ tấm biển hiệu đã phai màu theo năm tháng. Nửa mới tuy có màu sắc đồng bộ với nửa cũ, nhưng gạch men ốp tường thì trắng và sáng hơn hẳn. Trông cứ như thể quán cũ làm ăn phát đạt, hết chỗ ngồi nên khi tiệm bên cạnh hết hợp đồng, họ thuê luôn rồi đập thông tường để mở rộng vậy. Chẳng có chút gì gọi là tinh tế.
+Tay bà ấy vẫn tiếp tục gói hoành thánh nhanh thoăn thoắt.
 
-Trên bức tường ốp gạch men trắng là những tấm thực đơn viết tay dán ngay ngắn. Nét chữ khá đẹp.
+*Ừm, đúng là một quán không chú trọng phục vụ.*
 
-Cô nhanh chóng tìm thấy giá hoành thánh: phần nhỏ 13 tệ, phần lớn 20 tệ. Phần lớn 20 tệ vừa đủ để được hoàn tiền sau khi viết đánh giá, nhưng lần này cô đã cẩn thận hơn. *Lỡ như không ngon mà gọi phần lớn thì đúng là tự làm khổ mình. Nhưng nếu gọi phần nhỏ 13 tệ thì lại thừa 7 tệ trong hạn mức hoàn tiền.*
+Chọn đại một chỗ sát tường ngồi xuống, Hòa Ái Xích vừa ngắm nghía cách bài trí của quán vừa rút điện thoại ra chụp vài tấm ảnh.
 
-Thế là cô bắt đầu tìm món gọi thêm.
+*(Đi phỏng vấn nên không mang theo máy ảnh chuyên dụng.)*
 
-*“Không ăn mì, cũng không ăn bún, dù không đắt nhưng đã gọi hoành thánh rồi, gọi thêm một món chính nữa lỡ không ngon lại khó mang về. Vậy chỉ còn cải ngồng hoặc xà lách, 11 tệ một phần. Ngoài ra có bánh ú nhân thịt và chè đậu xanh, 9 tệ…”*
+Đây là một quán ăn kiểu Quảng Đông lâu đời với lối trang trí rất kỳ lạ, một nửa cũ kỹ, một nửa lại mới toanh. Nửa cũ vẫn còn tấm biển hiệu, trông đã phai màu vì mưa nắng bao năm. Nửa mới tuy xét về màu sắc trông khá đồng bộ với nửa cũ, nhưng gạch ốp tường rõ ràng trắng và sáng hơn nhiều. Cứ như thể quán cũ đang kinh doanh thì hết chỗ, vừa hay tiệm bên cạnh hết hợp đồng thuê nên chủ quán thuê luôn cả hai rồi đập thông tường để sử dụng. Chẳng có chút tinh tế nào.
 
-*Rau mà 11 tệ thì hơi chát, còn bánh ú nhân thịt… Món này trong các quán ăn Quảng Đông cũ thường không tệ lắm.*
+Nhìn lên tường, toàn bộ được ốp gạch men trắng. Thực đơn được viết tay trên từng tờ giấy rồi dán lên. Chữ viết cũng khá đẹp.
 
-Suy nghĩ một hồi, cô quyết định chọn bánh ú nhân thịt thay vì chè đậu xanh, chủ yếu vì cô thấy thịt đắt hơn đậu. Hoành thánh 13 tệ, bánh ú nhân thịt 9 tệ, tổng cộng là 22 tệ. Viết đánh giá chỉ được hoàn 20 tệ, vậy là cô vẫn phải tự trả 2 tệ.
+Hòa Ái Xích nhanh chóng tìm thấy giá món hoành thánh mình muốn ăn, phần nhỏ 13 tệ, phần lớn 20 tệ. Phần lớn 20 tệ vừa khéo có thể được hoàn tiền khi viết đánh giá, nhưng lần này cô đã cẩn thận hơn.
 
-Cô nhấn nút gọi món rồi ngồi chờ.
+*Lỡ không ngon mà gọi phần lớn thì đúng là tự đày đọa bản thân. Nhưng gọi phần nhỏ 13 tệ thì lại còn thừa 7 tệ trong hạn mức hoàn tiền.*
 
-Vì hoành thánh phải nấu tại chỗ nên bánh ú nhân thịt được mang ra trước.
+Thế là cô khởi động chế độ ghép đơn, tiếp tục lướt xem các món khác.
 
-Nhắc đến bánh ú, không thể không kể đến cuộc chiến “ngọt - mặn” giữa hai miền Nam - Bắc mỗi dịp Tết Đoan Ngọ. Mẹ cô thích ăn bánh ú ngọt, còn cha cô lại thích bánh ú nhân thịt. Từ nhỏ, nhà cô lúc nào cũng có cả hai loại, nên cô ăn được cả hai. Lên đại học, bạn bè cô đến từ khắp mọi miền đất nước. Cứ đến dịp lễ, nhiều người lại mang bánh nhà làm đi trao đổi, người miền Nam và người miền Bắc cũng thử bánh của nhau cho biết.
+*"Không ăn mì, không ăn bún, tuy không đắt nhưng đã gọi hoành thánh rồi, gọi thêm một món chính nữa lỡ không ngon lại khó mang về. Vậy chỉ còn cải tâm hoặc xà lách, một phần 11 tệ, còn có bánh ú thịt và chè đậu xanh, 9 tệ..."*
 
-Quay lại với chiếc bánh ú vừa được dọn ra. Phải công nhận tiệm này không chỉ có lối trang trí mà ngay cả bộ dụng cụ ăn uống cũng rất đậm chất Quảng Đông. Chiếc đĩa đựng bánh ú làm bằng thép không gỉ, loại rất phổ biến trong các gia đình ở đây, nổi tiếng bền bỉ, không sợ rơi vỡ hay ẩm mốc.
+*"Rau 11 tệ thì hơi chát, còn bánh ú thịt... mấy quán kiểu Quảng Đông lâu đời thì bánh ú thịt thường không tệ đi đâu được."*
 
-Cô dùng đũa gạt lớp lá ra. *Chụp một tấm ảnh cho điện thoại “ăn” trước đã.*
+Suy nghĩ một hồi, Hòa Ái Xích chọn bánh ú thịt thay vì chè đậu xanh, *chủ yếu vì cô cho rằng thịt đắt hơn đậu xanh.*
 
-Có người thích ăn bánh ú từ góc, ăn tuần tự từ đầu đến cuối. Còn thói quen của cô là dùng đũa xắn đôi chiếc bánh, ăn từ giữa. Việc này rất quan trọng, vì cô cần xác định vị trí và lượng thịt bên trong. Bánh ú nhà làm thì khỏi phải nói, nhân nhiều thịt, nếp chỉ là phụ. Nhưng bánh mua ở tiệm thì khác, thường chỉ có một miếng thịt nhỏ cho có lệ.
+Hoành thánh 13 tệ, bánh ú thịt 9 tệ, tổng cộng 22 tệ. Viết đánh giá chỉ được hoàn 20 tệ, vậy là Hòa Ái Xích phải tự trả 2 tệ. Mấy ngày liền kiếm được tiền từ ứng dụng, giờ cô cũng thoáng hơn hẳn, 2 tệ thôi mà, nhằm nhò gì.
 
-Chiếc bánh ở đây cũng không ngoại lệ. Bánh không lớn, nhân chỉ có một miếng thịt ba rọi cỡ hai centimet khối và một ít đậu đỏ, khá đơn giản. Cô dùng đũa chia miếng thịt ra làm nhiều phần nhỏ, gắp một miếng kèm với nếp và đậu đỏ rồi đưa lên miệng.
+Đặt món, chờ đồ ăn lên!
 
-Tuy dùng không nhiều nguyên liệu, nhưng cách tẩm ướp và chế biến của quán lại rất khéo léo. Miếng ba rọi được tẩm ướp kỹ càng, hầm trong thời gian dài nên mỡ đã tan chảy, quyện vào từng hạt nếp. Hạt đậu đỏ cứng cũng được hầm mềm nhừ, khi cắn ra có cảm giác bùi bùi, có lẽ vì đã thấm chút mỡ heo nên ăn vào dẻo thơm như hạt dẻ.
+Vì hoành thánh phải nấu tại chỗ nên bánh ú thịt được mang ra trước.
 
-Trong lúc chờ hoành thánh, cô từ tốn dùng đũa gắp từng miếng bánh ú thưởng thức, đến cuối cùng còn cạo sạch phần nếp dính trên lá, ăn xong mà vẫn còn thòm thèm.
+Nhắc đến bánh ú, không thể không kể đến cuộc chiến bánh ú mặn ngọt Nam - Bắc diễn ra vào mỗi dịp Tết Đoan Ngọ. Người miền Bắc từ nhỏ quen ăn bánh ú ngọt không thể hiểu nổi tại sao trong bánh lại có thịt, còn người miền Nam lớn lên cùng bánh ú thịt lại chẳng tài nào hiểu nổi tại sao bánh lại có thể có vị ngọt. Nhưng mọi người cũng chỉ tranh luận cho vui trên mạng, chứ ngoài đời đa số đều chấp nhận được cả hai vị. Mẹ của Hòa Ái Xích thích ăn bánh ú ngọt, bố cô lại thích bánh ú thịt, nên từ nhỏ nhà cô đã có cả hai loại, vì vậy cô ăn được cả hai. Hồi đại học, bạn bè cô đến từ khắp mọi miền đất nước. Mỗi dịp Tết Đoan Ngọ, nhiều bạn sẽ trao đổi bánh ú nhà làm, người Nam đổi cho người Bắc để nếm thử hương vị quê nhà của nhau.
 
-Bánh ú ăn xong, không phải chờ lâu, hoành thánh cũng được bưng ra.
+Kể xong chuyện bánh ú mặn ngọt, giờ hãy quay lại với chiếc bánh ú thịt vừa được đặt lên bàn.
 
-Quán bán loại hoành thánh nhỏ kiểu Quảng Đông. So với những viên hoành thánh lớn ở quán Lão Hải lần trước, một viên ở đó phải to bằng ba viên ở đây. Bát đựng hoành thánh cũng làm bằng thép không gỉ. Thành ra, bát hoành thánh trông rất bình thường, chụp ảnh lên cũng không có gì đặc sắc. Trên mặt nước dùng có rắc vài cọng hành lá thái nhỏ cho đỡ đơn điệu, ngoài ra chỉ có những viên hoành thánh nhỏ da mỏng nhân căng đang nổi lềnh bềnh, không có món ăn kèm nào khác.
+Phải công nhận quán này không chỉ có lối trang trí mà ngay cả dụng cụ ăn uống cũng rất đậm chất Quảng Đông xưa. Đĩa đựng bánh ú là loại đĩa inox rất phổ biến trong các gia đình ở Quảng Đông, ưu điểm lớn nhất là bền, khó vỡ, lại không bị mốc.
 
-Nước dùng màu trắng sữa nhưng không dậy mùi thơm.
+Cô dùng đũa gỡ lớp lá chuối ra, một chiếc bánh ú màu nâu nhạt bình thường, thoang thoảng hương lá chuối hiện ra trước mắt. Chụp một tấm ảnh trước đã, điện thoại phải được "ăn" trước.
 
-Cô cẩn thận múc một viên hoành thánh nhỏ, thổi hai lần rồi cắn thử. Hương vị lan tỏa trong miệng khiến cô không khỏi ngạc nhiên. Nhân hoành thánh dai và đàn hồi, nhưng nếm kỹ thì thấy dường như không có gì khác ngoài thịt heo nguyên chất. Cái dai đó hoàn toàn là do người đầu bếp đã xay nhuyễn rồi quết thịt nhiều lần.
+Có người thích ăn bánh ú từ góc, chủ yếu để giữ cho chiếc bánh được nguyên vẹn từ đầu đến cuối. Còn thói quen ăn bánh ú thịt của Hòa Ái Xích là dùng đũa xắn chiếc bánh ra làm đôi, ăn từ giữa.
 
-Hơn nữa, dù là hoành thánh nhỏ nhưng nhân lại rất nhiều. Nhân hoành thánh ở quán Lão Hải có phần lỏng lẻo hơn, còn ở đây thì rất chắc. Vỏ bánh ở đây rất mỏng, sau khi nấu chín còn hơi trong, trông là biết loại vỏ tươi làm mỗi ngày. Vỏ mỏng thế này nếu để đông lạnh sẽ rất dễ bị nát khi luộc. Những viên hoành thánh ở đây đều còn nguyên vẹn, chứng tỏ độ tươi được kiểm soát rất tốt.
+*Điều này rất quan trọng, vì cô cần xác định vị trí và khối lượng của miếng thịt qua hành động này.*
 
-Vỏ bánh mỏng thấm đẫm nước dùng nhàn nhạt, kết hợp với phần nhân thịt tươi ngon một cách kỳ lạ. Ăn không có cảm giác ngấy của thịt, ngược lại càng ăn càng ghiền, ăn xong một miếng lại muốn ăn thêm miếng nữa.
+Bánh ú nhà gói thì dĩ nhiên nhân nhiều bao nhiêu hay bấy nhiêu, chỉ hận không thể nhét đầy nhân từ đầu đến cuối, nếp chỉ cần thêm vào cho có lệ. Nhưng bánh ú mua ở tiệm thì không được như vậy, thịt chỉ có một miếng nhỏ xíu gọi là.
 
-Cảm giác này khác hẳn với vị mặn, cay, chua gắt của món đậu phụ thối và mì Trùng Khánh mà cô đã ăn vài hôm trước. Các món ở đây, từ bánh ú đến hoành thánh, đều mang hương vị nhẹ nhàng, tinh tế, thấm đẫm mà dịu dàng. Hơn nữa, ăn xong bụng dạ rất dễ chịu. Đối với dân công sở, trong những lúc bận rộn, một bữa ăn ngon mà lại êm bụng là điều vô cùng quý giá. Chẳng trách tiệm này có thể tồn tại ở Bành Thành nhiều năm như vậy, biển hiệu đã bạc màu mà vẫn có thể mở rộng thêm mặt bằng.
+Bánh ú thịt của quán Mì Ngon cũng không ngoại lệ. Chiếc bánh vốn không lớn, là dạng bánh ú tam giác. Thịt dùng trong bánh là thịt ba rọi, ước chừng chỉ bằng một khối vuông cạnh 2cm, không lớn nhưng vẫn nhìn thấy được. Ngoài thịt ra, trong bánh còn có một ít đậu đỏ. Nhân chỉ có hai thứ đó, cực kỳ đơn giản.
 
-Khi cô ăn xong bát hoành thánh, ngẩng đầu nhìn quanh thì nhận ra khách đã bắt đầu đông lên. Hai người dì lúc nãy ngồi gói bánh giờ đã tất bật chạy bàn phục vụ. Cô nhìn đồng hồ, đã hơn sáu giờ tối.
+Hòa Ái Xích dùng đũa xắn miếng thịt nhỏ ra làm mấy phần, gắp một miếng nhỏ cùng với nếp và đậu đỏ rồi đưa vào miệng.
 
-*“…Thảo nào lúc nãy vắng thế.”*
+Tuy bánh ú thịt của quán này không dùng nhiều nguyên liệu, nhưng cách nêm nếm và chế biến lại đủ điêu luyện. Thịt ba rọi được tẩm ướp kỹ lưỡng, gói giữa lớp nếp rồi hầm trong thời gian dài nên trông teo đi khá nhiều và gần như không thấy mỡ đâu. Phần mỡ đã sớm tan thành mỡ heo tự nhiên, thấm đẫm vào từng hạt nếp. Hạt đậu đỏ cứng cũng được hầm mềm nhừ, khi miết ra có cảm giác hơi bột bột, có lẽ do đã ngấm một ít mỡ heo nên ăn vào còn có chút dẻo, giống như hạt dẻ.
 
-Ăn một bữa no nê, cô quên hẳn chuyện phỏng vấn không vui ban sáng. Cô thong thả đi dạo trên phố, vừa nghĩ xem lát nữa sẽ viết đánh giá thế nào, vừa tìm xem gần đây có quán nhỏ nào không để hoàn thành nhiệm vụ hằng ngày.
+Kết hợp cả ba thứ này lại với nhau, nếp và đậu đỏ được nêm hơi nhạt, ăn vào vừa dẻo dính răng vừa béo ngậy thơm tho, đang nhai mà cắn trúng miếng thịt được nêm đậm đà hơn, cảm giác sẽ bất ngờ và vui sướng cứ ngỡ như tìm được kho báu.
 
-Cô tìm một chiếc ghế dài bên đường ngồi nghỉ, tiện tay soạn bài đánh giá cho tiệm mì.
+Trong lúc chờ hoành thánh, Hòa Ái Xích cứ dùng đũa gắp từng chút bánh ú một cách chậm rãi, cuối cùng còn cạo sạch cả phần nếp dính trên lá, ăn xong mà vẫn còn thòm thèm. Bánh ú làm thủ công tại tiệm đúng là khác biệt, chỉ tiếc là một chiếc nhỏ xíu đã 9 tệ, quả thực hơi đắt. Nhưng xét đến vật giá và tiền thuê mặt bằng đắt đỏ ở Bằng Thành thì cũng có thể hiểu được.
 
-Hương vị của tiệm tuy rất ổn (4.5 sao), ăn xong lại dễ chịu, nhưng vì không gian bình thường (3 sao), dịch vụ cũng bình thường (3 sao), nên sau khi cân nhắc, cô chỉ cho điểm tổng thể là bốn sao (tốt).
+Ăn xong bánh ú, không phải chờ quá lâu, hoành thánh đã được bưng lên.
+
+Hoành thánh của quán Mì Ngon là loại hoành thánh nhỏ kiểu Quảng Đông. So với hoành thánh lớn ở quán Lão Hải lần trước, một chiếc hoành thánh của quán Lão Hải có thể to bằng ba chiếc ở đây.
+
+Dụng cụ đựng hoành thánh cũng giống như bánh ú, đều là chén inox. Dụng cụ inox có ưu điểm là khó hỏng, nhưng nhược điểm cũng rất rõ ràng – không đẹp mắt. Điều này khiến tô hoành thánh trông rất bình thường, ảnh chụp cũng có cảm giác thiếu thiếu gì đó.
+
+Trên mặt nước dùng có rắc vài lát hành lá cho đỡ đơn điệu, ngoài ra chỉ có những viên hoành thánh nhỏ vỏ mỏng nhân căng đầy nổi lềnh bềnh trong tô, không có thêm món ăn kèm nào khác. Nước dùng màu trắng sữa không ngửi thấy mùi thơm gì đặc biệt. Húp thử một ngụm, vị không đậm cũng không ngọt thanh, chỉ đủ để làm dịu cổ họng, có lẽ đây không phải nước hầm xương gì cao siêu mà chỉ là nước luộc hoành thánh thông thường.
+
+Cô cẩn thận dùng thìa múc một viên hoành thánh nhỏ, thổi phù phù hai cái rồi mới cắn một miếng.
+
+Hương vị trong miệng khiến Hòa Ái Xích có chút kinh ngạc.
+
+Nhân hoành thánh chắc nịch, ăn vào hơi dai giòn sần sật. Nếm kỹ hơn, cô phát hiện nhân của viên hoành thánh này dường như không thêm thắt gì khác, đơn sơ đến mức chỉ có độc thịt heo. Độ dai giòn hoàn toàn là nhờ xay nhuyễn thịt heo rồi quết đi quết lại nhiều lần cho tới khi dẻo dai.
+
+Và mặc dù hoành thánh của quán Mì Ngon là loại nhỏ, nhưng nhân lại rất nhiều. Hoành thánh của quán Lão Hải nhìn về thể tích thì lớn hơn quán Mì Ngon rất nhiều, nhưng lượng nhân lại tương đương nhau. Hơn nữa, nhân của quán Lão Hải khá rời rạc, còn của quán Mì Ngon lại chắc nịch hơn hẳn. Xem ra, hoành thánh của quán Mì Ngon còn nhiều nhân hơn?
+
+Nói đến vỏ hoành thánh. Vỏ của quán Mì Ngon rất mỏng, luộc chín thậm chí còn hơi trong, vừa nhìn đã biết là loại vỏ tươi làm trong ngày. Bởi vì vỏ mỏng như vậy nếu không tươi, đã qua đông lạnh thì khi cho vào nồi rất dễ bị nát. Hoành thánh ở đây viên nào viên nấy đều nguyên vẹn, ít nhất khâu kiểm soát độ tươi đã làm rất tốt.
+
+Lớp vỏ hoành thánh cực mỏng quyện với thứ nước dùng nhàn nhạt, cộng thêm phần nhân thịt tươi ngon, khi nhai cùng nhau lại hợp đến lạ. Không hề có cảm giác nhàm chán như khi chỉ ăn mỗi thịt heo, ngược lại càng ăn càng nghiện, ăn xong một viên lại muốn thêm viên nữa.
+
+Cảm giác này khác hẳn với vị mặn, cay, chua, nồng của món đậu phụ thối và mì Trùng Khánh mà cô ăn mấy hôm trước. Các món ăn của quán này, từ bánh ú thịt đến hoành thánh, đều mang lại cảm giác giống hệt như chính quán ăn vậy. Trông rất bình thường, nhưng khi tìm hiểu và thưởng thức kỹ, lại thấy có những dư vị riêng.
+
+Loại trước có thể kích thích vị giác ngay tức thì, mang lại cảm giác mạnh mẽ, còn hương vị của loại sau lại dịu dàng hơn, tựa như mưa dầm thấm lâu.
+
+Và ăn xong, dạ dày còn rất dễ chịu.
+
+Đối với dân công sở, vào những thời điểm quan trọng, một bữa ăn mà sau đó dạ dày vẫn cảm thấy thoải mái là vô cùng quý giá. Chẳng trách quán này có thể tồn tại ở Bằng Thành nhiều năm như vậy, biển hiệu đã phai màu mà vẫn có thể mở rộng thêm mặt bằng.
+
+Khi Hòa Ái Xích ăn xong hoành thánh, ngẩng đầu nhìn quanh thì mới phát hiện khách đã bắt đầu đông dần lên từ lúc nào. Có người ăn tại chỗ, có người mua bánh ú và hoành thánh sống mang về. Hai người dì ngồi gói hoành thánh ở bàn lúc nãy đã rời khỏi chỗ, bắt đầu bận rộn bưng bê phục vụ khách.
+
+Cô liếc nhìn đồng hồ, đã hơn sáu giờ tối.
+
+*"...Bảo sao lúc nãy vắng."* Hóa ra là cô đến sớm.
+
+Màn đêm buông xuống, đèn hoa rực rỡ. Dân văn phòng bắt đầu tan làm, các hàng quán trở nên tấp nập. Hòa Ái Xích no căng bụng đã quên sạch sự không vui của buổi phỏng vấn hôm nay, cô thong dong dạo phố, trong đầu suy tính xem lát nữa sẽ viết đánh giá như thế nào. Tiện thể cô cũng ngó nghiêng xem gần đây có gánh hàng rong nào không, nhiệm vụ hằng ngày vẫn phải làm, có thể kiếm được mấy trăm tệ chứ chẳng chơi.
+
+Ăn no đi dạo cho tiêu cơm, Hòa Ái Xích tìm một chiếc ghế dài ven đường ngồi nghỉ, thuận tiện biên tập bài đánh giá cho quán Mì Ngon.
+
+Mặc dù hương vị của quán Mì Ngon không tệ, 4.5 sao (rất tuyệt), ăn xong dạ dày còn dễ chịu, nhưng vì không gian 3 sao (bình thường), phục vụ cũng rất bình thường 3 sao (bình thường), nên sau khi cân nhắc, Hòa Ái Xích vẫn chỉ cho tổng điểm bốn sao (tốt).

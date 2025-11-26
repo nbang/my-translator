@@ -1,117 +1,123 @@
-Tuyệt vời, tuân thủ nghiêm ngặt bộ quy tắc được giao, tôi sẽ tiến hành biên tập.
+### Chương 9
 
----
+May mà hôm đó đường đông người, chiếc xe ba gác không chạy nhanh được, nếu không cô đã mất dấu từ giữa đường rồi. Nhưng hôm đó, ngoài Hòa Ái Xích ra còn có hai ông chú trạc bốn mươi tuổi cũng đang đuổi theo món đậu phụ thối.
 
-### **Chương 9**
+Ban đầu, cô không để ý đến hai người họ. Mãi đến khi đuổi được khoảng nửa con phố, cô mới nhận ra lộ trình của hai ông chú này giống hệt mình. Đúng là do định kiến mà ra. Hai người họ ăn mặc tươm tất, dáng người cân đối, trông ra dáng doanh nhân thành đạt, nên cô chẳng tài nào ngờ được họ cũng là những thực khách đang cùng mình săn lùng gánh đậu phụ thối. Mãi sau này, hai người họ càng đi càng nhanh, vượt lên phía trước. Một trong hai người mặc vest, đi giày da, trông rất bảnh bao, chắc là do đuổi theo muốn hụt hơi nên sốt ruột.
 
-May mà hôm ấy đường đông, xe ba gác không đi nhanh được, nếu không cô đã lạc mất dấu ông ta giữa chừng rồi. Nhưng hôm đó, ngoài Hòa Ái Xích ra còn có hai người đàn ông trạc bốn mươi tuổi cũng đang đuổi theo xe đậu phụ thối.
+Đến khi gánh đậu phụ thối cuối cùng cũng chịu dừng lại, ông chú đó liền xông thẳng tới, chỉ vào mặt ông chủ Trần mà chất vấn:
 
-Ban đầu, cô không để ý đến hai người họ. Mãi cho đến khi đuổi được nửa con phố, cô mới nhận ra lộ trình của hai người này giống hệt mình. Có lẽ là do định kiến. Hai người họ ăn mặc chỉnh tề, dáng người cân đối, trông ra dáng người thành đạt, nên Hòa Ái Xích không tài nào ngờ rằng họ cũng là những thực khách đang cùng cô săn lùng quầy đậu phụ thối.
+"Sao ông chạy nhanh thế? Tôi đuổi theo muốn đứt hơi!"
 
-Mãi sau, hai người họ càng đi càng nhanh, vượt lên phía trước. Một trong hai người mặc vest, ăn mặc bảnh bao. Có lẽ vì đuổi theo riết quá nên ông ta đã nổi cáu. Vừa thấy xe đậu phụ thối ngừng lại, ông ta liền xông thẳng tới trước mặt ông chủ Trần, chất vấn: "Sao ông chạy nhanh thế? Tôi đuổi theo muốn hụt hơi!"
+Sau đó, ông ấy gọi một phần đậu phụ thối.
 
-Sau đó, ông ta gọi một phần đậu phụ thối.
+Bữa đậu phụ thối hôm ấy khiến Hòa Ái Xích ăn đến thở không ra hơi, đúng là một kỷ niệm khó quên. May là ông chủ Trần tuy thích di chuyển nhưng không đi sang quận khác, nên mỗi khi muốn ăn, cô chỉ cần hỏi ông trước giờ dọn hàng là y như rằng sẽ được ăn. Vì vậy, ngày thường cô chẳng bao giờ để ý đến tin nhắn trong nhóm.
 
-Cái cảm giác vừa thở hổn hển vừa ăn đậu phụ thối ngày hôm đó, cô sẽ không bao giờ quên.
+Nào ngờ, bây giờ gánh hàng lại bày ngay dưới nhà cô, đây chẳng phải là miếng ngon dâng tận miệng sao?
 
-May mắn là ông chủ Trần tuy thích chạy lung tung nhưng không đi quá xa khỏi khu vực này. Mỗi khi muốn ăn, chỉ cần hỏi ông ta trước giờ mở hàng là luôn tìm được. Vì vậy, Hòa Ái Xích thường chẳng bao giờ để ý đến tin nhắn trong nhóm.
+Hòa Ái Xích vội vã chạy xuống lầu, mục tiêu đã rõ, chẳng cần nhìn bản đồ mà đi thẳng đến siêu thị Đại Phi ở cuối con phố ẩm thực trong khu dân cư cũ. Mới đi được nửa đường, cô đã ngửi thấy mùi đặc trưng.
 
-Không ngờ bây giờ quầy hàng lại được bày ngay dưới nhà mình, chẳng phải là dâng tận miệng cho cô rồi sao?
+Đúng là thối thật, thảo nào bị quản lý đô thị đuổi suốt.
 
-Hòa Ái Xích lao xuống lầu với mục tiêu rõ ràng, chẳng cần đến bản đồ, cứ thế đi thẳng về phía siêu thị Đại Phi ở cuối con phố ẩm thực trong khu dân cư. Mới đi được nửa đường, cô đã ngửi thấy mùi đặc trưng.
+Rảo bước nhanh hơn, cô tiến vào phố ẩm thực và nhận ra dù đã quá nửa đêm, nhiều hàng quán vẫn còn sáng đèn. Không chỉ vậy, trên con phố về đêm còn xuất hiện thêm không ít gánh hàng rong, riêng bán đậu phụ thối đã có tới ba nhà. Chẳng biết có phải vì quá muộn không mà trong ba hàng, chỉ có quán Đậu Phụ Thối Trần Ký là có khách, có lẽ đều là những người vừa xem tin trong nhóm rồi mới chạy ra. Hai gánh hàng còn lại chỉ biết đứng nhìn ông chủ Trần hốt bạc trong thèm thuồng.
 
-Đúng là thối thật, thảo nào bị quản lý đô thị đuổi.
+Gánh hàng của ông chủ Trần rất dễ nhận biết. Trên khung chiếc xe ba gác của ông có gắn ba con vịt vàng đồ chơi bằng nhựa có lò xo, mỗi khi xe chạy là chúng lại nhún nhảy, lắc lư tứ tung. Tấm biển hiệu của quán cũng khác người. Ông chủ Trần tự phong là người nổi tiếng, trên xe dùng chữ đỏ cỡ lớn ghi "Đậu Phụ Thối Trứ Danh Cõi Mạng", có phần hơi mặt dày.
 
-Cô rảo bước, chẳng mấy chốc đã vào tới con phố ẩm thực. Dù đã quá nửa đêm, nơi đây vẫn còn rất nhiều hàng quán sáng đèn. Không chỉ vậy, trên phố còn xuất hiện không ít gánh hàng rong, riêng bán đậu phụ thối đã có đến ba nhà. Chẳng biết có phải vì đã muộn hay không mà trong ba quầy, chỉ có quán đậu phụ thối Trần Ký là có khách. Có lẽ họ cũng vừa xem tin trong nhóm rồi mới chạy ra. Hai người bán hàng còn lại chỉ đành đứng nhìn ông chủ Trần hốt bạc.
+Đậu phụ thối của ông chủ Trần cũng rất cầu kỳ. Trên chiếc xe ba gác được cải tạo thành quầy hàng có ba chiếc nồi inox sâu lòng. Hai nồi dùng để chứa dầu chiên đậu phụ, nhưng nhiệt độ dầu ở hai nồi này lại khác nhau. Nồi đầu tiên có nhiệt độ không quá cao, dùng để chiên cho đậu phụ chín và thấm đều. Sau khi đậu phụ đã chín kỹ, ông sẽ vớt ra và cho vào nồi thứ hai. Dầu trong nồi này nóng hơn, giúp lớp vỏ đậu phụ trở nên giòn rụm. Nồi thứ ba nhỏ hơn hai nồi kia, dùng để đựng nước dùng đã được hầm sẵn. Nước dùng luôn được giữ ấm liu riu trên bếp để duy trì nhiệt độ vừa phải khi ăn.
 
-Quầy đậu phụ thối của Trần Ký rất dễ nhận ra. Trên khung xe của ông ta có gắn ba con vịt nhựa lò xo màu vàng, mỗi khi xe chạy là chúng lại nhún nhảy, lắc lư. Tấm biển hiệu cũng khác người. Ông chủ Trần tự phong là người nổi tiếng trên mạng, trên xe còn dùng chữ đỏ cỡ lớn ghi "Đậu Phụ Thối Trứ Danh Của Tín Đồ Mạng", trông có hơi trơ trẽn.
+Ông chủ Trần có nhiều khách quen nên không mấy khi chủ động mời chào, thay vào đó lại ung dung nhắc nhở:
 
-Món đậu phụ thối của ông chủ Trần cũng rất có nghề. Quầy hàng được cải tạo từ xe ba gác có ba chiếc nồi inox sâu lòng. Hai nồi dùng để chiên đậu phụ, nhiệt độ dầu trong mỗi nồi lại khác nhau. Nồi đầu tiên có nhiệt độ không cao lắm, dùng để chiên cho đậu chín kỹ từ trong ra ngoài. Sau khi đậu đã chín thấu, ông ta sẽ vớt ra và cho vào nồi thứ hai. Dầu trong nồi này nóng hơn, giúp lớp vỏ đậu phụ trở nên giòn rụm. Nồi thứ ba nhỏ hơn hai nồi còn lại, dùng để đựng nước dùng đã được hầm sẵn. Nước dùng luôn được giữ ấm trên lửa nhỏ để duy trì nhiệt độ vừa phải, ăn vào là ấm miệng ngay.
+"Món nào cũng chiên tại chỗ, mọi người chịu khó chờ một chút nhé."
 
-Ông chủ Trần có nhiều khách quen nên không cần mời chào, ngược lại còn ung dung nói: "Toàn là đồ chiên mới cả, phải từ từ chờ nhé."
+Vừa chiên đậu phụ, ông chủ Trần thỉnh thoảng lại liếc nhìn điện thoại để quản lý mấy nhóm khách hàng lên đến cả nghìn người của mình.
 
-Vừa chiên đậu phụ, ông ta thỉnh thoảng lại liếc nhìn điện thoại để quản lý nhóm khách hàng mấy nghìn người của mình.
+"Phải chờ bao lâu ạ?" một vị khách mới đến ở bên cạnh hỏi.
 
-"Phải chờ bao lâu ạ?" một vị khách mới đứng bên cạnh hỏi.
+"Một mẻ mới tinh thì phải mất mười phút. Đồ ngon thì phải chờ thôi," ông chủ Trần tự tin đáp. "Hàng chiên tại chỗ nó khác hẳn."
 
-"Chiên một mẻ mới tinh phải mất mười phút. Đồ ăn ngon là phải biết chờ đợi." Ông chủ Trần tự tin đáp: "Đồ chiên tại chỗ nó khác hẳn."
+Hòa Ái Xích hoàn toàn đồng tình với quan điểm này, bởi trước đây cô đã từng đi ăn đậu phụ thối ở không biết bao nhiêu nơi. Nếu đậu phụ đã được chiên sơ một lần rồi để nguội, khi chiên lại lần hai rất dễ bị quá lửa, khiến lớp vỏ cứng ngắc. Còn nếu nhiệt độ dầu không đủ, ăn vào sẽ có mùi dầu hôi khó chịu. Ngược lại, nếu chiên chưa đủ thời gian, chưa tới độ, chỉ cần rưới nước dùng và sốt lên là đậu phụ sẽ ỉu xìu, ăn chẳng khác gì miếng đậu phụ chiên rỗng ruột thông thường, không có gì đặc sắc. Người mới làm rất khó nắm bắt được độ chuẩn này, vì mắt thường không thể nào phân biệt được.
 
-Hòa Ái Xích hoàn toàn đồng ý với quan điểm này. Dù gì thì trước đây cô cũng đã ăn đậu phụ thối ở không biết bao nhiêu nơi. Nếu đậu phụ đã được chiên sẵn một lần rồi để nguội, khi chiên lại lần hai rất dễ bị quá lửa, khiến vỏ cứng ngắc. Ngược lại, nếu dầu không đủ nóng, ăn sẽ có mùi hôi dầu. Còn nếu thời gian chiên không đủ, đậu chưa chín tới, chỉ cần rưới nước dùng và nước sốt lên là miếng đậu sẽ mềm nhũn, ăn chẳng khác gì đậu phụ rán thông thường, không có gì đặc sắc. Người mới vào nghề rất khó nắm bắt được độ lửa này, vì mắt thường không thể nhìn ra được. Kỹ thuật của ông chủ Trần đã rất thành thạo, có thể chiên đậu vừa chín tới một cách hoàn hảo.
+Kỹ thuật chiên đậu phụ của ông chủ Trần đã đạt đến mức điêu luyện, có thể chiên vừa ngon tới.
 
-"Ông chủ, cho tôi mười tệ đậu phụ thối." Hòa Ái Xích vội vàng gọi món, sợ có người đến sau thì lại phải xếp hàng chờ lâu hơn.
+"Bác ơi, cho cháu mười tệ đậu phụ thối," Hòa Ái Xích vội vàng tiến lên gọi món, kẻo có người đến sau thì cô lại phải xếp hàng dài hơn.
 
-"Được thôi." Ông chủ Trần điệu nghệ dùng vợt lưới lật những miếng đậu phụ trong chảo dầu, hỏi: "Cô muốn loại to hay loại nhỏ?"
+"Được thôi," ông chủ Trần điệu nghệ dùng vợt lưới đảo những miếng đậu phụ trong chảo dầu, đoạn hỏi: "Cháu muốn ăn loại miếng to hay miếng nhỏ?"
 
-"Loại nhỏ, cay vừa ạ."
+"Loại nhỏ, ít cay ạ."
 
-Ngày nay thông tin và giao thông phát triển, gần như nơi nào trên cả nước cũng có quán bán đậu phụ thối, kể cả ở những nơi vốn không có món này. Các loại phổ biến nhất là đậu phụ thối cổ điển Trường Sa, đậu phụ thối Quý Châu, đậu phụ thối Đài Loan... Trong đó, loại đậu phụ thối đen cổ điển của Trường Sa là phổ biến hơn cả.
+Ngày nay, thông tin và giao thông phát triển, gần như khắp mọi nơi trên cả nước, kể cả những nơi vốn không có món này, đều có quán bán đậu phụ thối. Phần lớn là các loại như đậu phụ thối cổ điển Trường Sa, đậu phụ thối Quý Châu, đậu phụ thối Đài Loan... Trong đó, đậu phụ thối đen cổ điển của Trường Sa là phổ biến và dễ tìm nhất. Dù hình dáng có thể trông giống nhau, nhưng cách nêm nếm và kỹ thuật chiên khác biệt sẽ tạo ra hương vị hoàn toàn khác.
 
-Dù trông có vẻ giống nhau, nhưng cách nêm nếm và kỹ thuật chiên khác nhau sẽ cho ra hương vị hoàn toàn khác biệt.
+Quầy của ông chủ Trần bán hai loại, và cả hai đều là đậu phụ thối đen.
 
-Quầy của ông chủ Trần bán hai loại, đều là đậu phụ thối đen. Loại lớn là đậu phụ thối cổ điển của Trường Sa, có hình vuông dẹt. Miếng đậu to hơn, vỏ dày và chắc hơn, sau khi chiên giòn, dù ngâm trong nước dùng cũng giữ được độ giòn rất lâu. Loại nhỏ là loại mới xuất hiện vài năm gần đây, không rõ xuất xứ từ thành phố nào. Nó có hình lập phương, kích thước nhỏ hơn miếng đậu rán thông thường một chút. Sau khi chiên, lớp vỏ mỏng và giòn tan, phải ăn ngay lập tức, nếu không sẽ mềm đi rất nhanh.
+Loại to là đậu phụ thối cổ điển Trường Sa quen thuộc, có dáng dẹt hình vuông, miếng lớn, vỏ dày hơn. Sau khi chiên giòn, dù ngâm trong nước dùng một lúc lâu vẫn giữ được độ giòn.
 
-Thời gian chờ đợi khá lâu, Hòa Ái Xích bèn bắt chuyện với ông chủ Trần: "Ông chủ, gần đây ông bán ở đâu vậy? Ngày nào cũng ở đây ạ?"
+Loại nhỏ thì mới xuất hiện trong vài năm gần đây, không rõ có nguồn gốc từ thành phố nào. Chúng có hình lập phương, kích thước còn nhỏ hơn cả miếng đậu phụ chiên rỗng ruột thông thường. Sau khi chiên, lớp vỏ vừa mỏng vừa giòn, phải ăn ngay lập tức, nếu không sẽ mềm đi rất nhanh.
 
-"Đúng rồi, ngày nào cũng ở đây." Ông chủ Trần rõ ràng cũng đang buồn chán, thấy có người nói chuyện với mình thì khá vui vẻ.
+Thời gian chờ đợi đậu phụ thật dài, Hòa Ái Xích bèn bắt chuyện với ông chủ Trần: "Bác ơi, dạo này bác hay bán ở đâu ạ? Có phải ngày nào cũng ở đây không?"
 
-"Vậy sao trước đây tôi không thấy ông? Ông thường dọn hàng lúc mấy giờ?"
+"Đúng rồi, ngày nào bác cũng ở đây," ông chủ Trần có vẻ cũng đang buồn chán, thấy có người nói chuyện cùng thì khá vui vẻ.
 
-"Tôi thường bắt đầu bán từ bốn, năm giờ chiều, nhưng phải sau mười giờ tối mới qua đây được. Sau mười giờ, đội quản lý đô thị ở đây tan làm, nên những người bán hàng rong đều đến vào giờ này."
+"Vậy sao trước đây cháu không thấy bác nhỉ? Thường thì mấy giờ bác dọn hàng ạ?"
 
-Miệng nói chuyện nhưng tay ông chủ Trần không hề ngơi nghỉ. Một mẻ đậu phụ vừa chiên xong, ông ta nhanh tay cho vào bát giấy rồi chan nước dùng lên.
+"Bác thường dọn hàng lúc bốn, năm giờ chiều, nhưng phải sau mười giờ tối mới qua đây được. Sau mười giờ, quản lý đô thị ở đây tan làm, các gánh hàng rong toàn chọn giờ này để ra bán."
 
-Người phụ nữ đã chờ đợi từ lâu nghiêng người tới hỏi: "Phần này là của tôi phải không ạ?"
+Nói chuyện là vậy, nhưng tay ông chủ Trần vẫn làm việc không một chút ngơi nghỉ. Một phần đậu phụ vừa chiên xong, ông nhanh tay cho vào bát giấy rồi pha chế nước dùng để rưới lên. Người phụ nữ đứng chờ nãy giờ nghiêng đầu qua hỏi:
 
-"Của cô đây, cay vừa đúng không?" Ông chủ Trần đưa bát đậu phụ cho cô gái: "Ăn nóng nhé, để lâu sẽ bị mềm đấy."
+"Phần này của tôi phải không ạ?"
 
-Giao xong phần ăn, ông chủ Trần lại rảnh tay và tiếp tục trò chuyện với Hòa Ái Xích: "Cô đã vào nhóm chưa? Vào nhóm tôi sẽ gửi định vị. Thường thì tôi sẽ đến con hẻm đối diện khu chợ quần áo bên cạnh trước, lúc mặt trời lặn, khoảng sáu rưỡi tối là tôi qua bên đó."
+"Của cô đây, ít cay đúng không?" Ông chủ Trần đưa bát đậu phụ cho người phụ nữ. "Ăn ngay lúc còn nóng nhé, để lâu sẽ bị mềm đấy."
 
-"Tôi vào nhóm rồi ạ." Hòa Ái Xích hỏi: "Toàn là mấy địa điểm cố định này thôi ạ?"
+Phục vụ xong một suất, tay cũng rảnh rang hơn, ông chủ Trần lại quay sang trò chuyện với Hòa Ái Xích: "Cháu vào nhóm chưa? Vào nhóm bác sẽ gửi định vị. Thường thì bác hay đến con hẻm đối diện trung tâm thương mại thời trang bên cạnh trước, lúc mặt trời lặn, khoảng sau sáu rưỡi tối mới qua bên trung tâm thương mại."
 
-"Đúng vậy, mấy chỗ này khách quen nhiều, thỉnh thoảng tôi cũng đi nơi khác."
+"Cháu vào nhóm rồi ạ," Hòa Ái Xích hỏi, "Mấy địa điểm này là cố định hết ạ?"
 
-Ánh mắt cô lướt qua mấy chữ "Đậu Phụ Thối Trứ Danh Của Tín Đồ Mạng" trên xe, một ý nghĩ chợt lóe lên trong đầu Hòa Ái Xích.
+"Đúng vậy, mấy chỗ này nhiều khách quen mà, thỉnh thoảng bác cũng đi chỗ khác."
 
-*Một gánh hàng rong như thế này liệu có thể đăng ký làm cửa hàng trên Cộng Đồng Đánh Giá Độc Đáo không nhỉ? Thử tìm kiếm xem sao?*
+Ánh mắt cô lướt qua dòng chữ "Đậu Phụ Thối Trứ Danh Cõi Mạng" trên xe của ông chủ Trần, bỗng một ý nghĩ lóe lên trong đầu cô.
 
-Có thể! Hơn nữa, một người như ông chủ Trần, người hay tự đăng video về món đậu phụ thối của mình lên các nền tảng mạng xã hội, lại chưa hề đăng ký thông tin cửa hàng trên Cộng Đồng Đánh Giá Độc Đáo!
+*Loại gánh hàng rong thế này có đăng ký làm cửa hàng trên Cộng Đồng Đánh Giá Độc Đáo được không nhỉ? Thử tìm xem sao?*
 
-Khi cô hỏi tại sao, ông ta rất ngạc nhiên: "Tôi chỉ là gánh hàng rong chứ có phải cửa hàng đâu, địa chỉ cũng không cố định. Thế mà cũng đăng ký được à?"
+Có thể! Tuyệt vời!
 
-"Được chứ ạ, để tôi làm cho ông ngay bây giờ."
+Hơn nữa, một người như ông chủ Trần, người tự quay video về đậu phụ thối đăng lên các nền tảng mạng xã hội, lại chưa hề đăng ký thông tin cửa hàng trên Cộng Đồng Đánh Giá Độc Đáo! Khi cô hỏi tại sao, ông ấy rất ngạc nhiên:
 
-Nghĩ đến việc có thể hoàn thành nhiệm vụ tân thủ, không chỉ nhận được tiền thưởng mà còn có thể tiếp tục "vặt lông cừu" của ứng dụng, Hòa Ái Xích mừng rơn. Giờ nhìn ông chủ Trần, cô thấy ông ta cũng hiền lành, dễ mến hơn hẳn.
+"Bác chỉ là gánh hàng nhỏ, đâu phải cửa hàng, làm gì có địa chỉ cố định. Thế cũng đăng ký được à?"
 
-Rồi cô lại nghĩ, sau khi đăng ký thông tin cửa hàng xong, chẳng phải quán này cũng có thể được hoàn tiền bữa ăn thông qua bài đánh giá hay sao?
+"Được chứ ạ, để cháu làm cho bác ngay bây giờ."
 
-Thế là Hòa Ái Xích hào phóng vung tay: "Cho tôi thêm 10 tệ đậu phụ thối nữa, tổng cộng 20 tệ. Ông chiên giòn cho tôi nhé!"
+Nghĩ đến việc có thể hoàn thành nhiệm vụ tân thủ, không chỉ nhận được tiền thưởng mà còn tiếp tục được hưởng lợi từ ứng dụng, Hòa Ái Xích vui mừng khôn xiết. Cô nhìn ông chủ Trần mà thấy ông hiền từ, dễ mến hơn hẳn. Chợt cô lại nghĩ, sau khi đăng ký thông tin xong, chẳng phải quán này cũng có thể dùng để hoàn tiền bữa ăn qua các bài đánh giá sao?
 
-Hôm nay, cô quyết dùng hết hạn mức hoàn tiền vào quán này, ăn một bữa đậu phụ thối 20 tệ cho đã! Phải gọi là chơi lớn!
+Thế là Hòa Ái Xích hào phóng vung tay: "Bác cho cháu thêm mười tệ đậu phụ thối nữa, tổng cộng hai mươi tệ, chiên giòn cho cháu nhé!"
 
-"Thêm 10 tệ đậu phụ nhỏ nữa à?" Ông chủ Trần liếc nhìn Hòa Ái Xích, thấy dáng vẻ cô không giống người có thể ăn hết từng đó một mình, liền hỏi: "Mua cho người khác à? Có cần tôi gói riêng hai phần không?"
+*Hôm nay, cô quyết dùng hết hạn mức hoàn tiền vào quán này, ăn một lèo hết hai mươi tệ đậu phụ thối cho đã! Đúng là một tay chơi hào phóng!*
 
-"Vâng ạ." Hòa Ái Xích không giải thích thêm rằng thực ra chỉ có mình cô ăn.
+"Thêm mười tệ đậu phụ nhỏ nữa hả?" Ông chủ Trần liếc nhìn Hòa Ái Xích, thấy cô không giống người có thể ăn hết nhiều như vậy, bèn hỏi: "Mua cho người khác à? Bác gói riêng hai phần cho nhé?"
 
-Trong lúc ông chủ Trần chiên đậu phụ, Hòa Ái Xích bắt đầu chụp ảnh. Đầu tiên là một tấm chụp chiếc xe ba gác, sau đó là một tấm chụp không gian xung quanh, tiện thể chụp luôn cả biển số nhà của siêu thị Đại Phi bên cạnh, rồi bắt đầu tải thông tin lên.
+"Dạ vâng ạ," Hòa Ái Xích cũng không giải thích thêm rằng thực ra chỉ có một mình cô ăn.
 
-Tên cửa hàng và hình ảnh rất đơn giản. Giờ hoạt động là từ 17:00 đến 1:30. Phần địa chỉ phức tạp hơn một chút, cô dùng thẳng chức năng định vị bản đồ của Cộng Đồng Đánh Giá Độc Đáo để khoanh vùng vị trí của quầy hàng trên con phố. Cuối cùng, cô điền vào hai số điện thoại của ông chủ.
+Trong lúc ông chủ Trần chiên đậu phụ, Hòa Ái Xích bắt đầu chụp ảnh. Đầu tiên là một tấm chụp chiếc xe ba gác, sau đó là một tấm chụp không gian xung quanh. Tiện thể, cô còn chụp cả biển số nhà của siêu thị Đại Phi bên cạnh rồi bắt đầu tải thông tin lên.
 
-Điền xong thông tin, thấy ông chủ vẫn chưa chiên xong đậu phụ, Hòa Ái Xích lại mở một ghi chú trống. Cô ghi lại những địa điểm mà ông chủ thường hay bán, cùng với thời gian cụ thể ở từng nơi, rồi chụp màn hình lại. Bức ảnh này được tải lên phần đánh giá cùng với những tấm ảnh khác của cửa hàng.
+Tên cửa hàng và hình ảnh thì rất đơn giản. Giờ hoạt động từ 17:00 đến 1:30. Phần địa chỉ phức tạp hơn một chút thì cô dùng thẳng chức năng định vị bản đồ của Cộng Đồng Đánh Giá Độc Đáo để khoanh vùng vị trí của quán trên đường. Cuối cùng, cô điền thêm hai số điện thoại của ông chủ.
 
-*Mình đúng là chu đáo quá đi.*
+Điền xong thông tin, thấy ông chủ vẫn chưa chiên xong đậu phụ, Hòa Ái Xích lại mở một tài liệu trống. Cô ghi lại những địa điểm mà ông chủ thường bán, kèm theo khung giờ cụ thể ở từng nơi rồi chụp màn hình lại. Sau đó, cô tải tấm ảnh này lên cùng với những bức ảnh của quán.
 
-Sau khi xác nhận mọi thông tin đã chính xác, Hòa Ái Xích nhấn nút xác nhận tải lên. Cùng lúc đó, Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng hiện lên một thông báo vui mừng.
+*Mình đúng là quá chu đáo.*
 
-[Nhiệm vụ tân thủ 2 đã hoàn thành. Bạn nhận được một lượt quay Vòng Quay May Mắn, 10 điểm kinh nghiệm. Do thông tin tải lên đầy đủ, bạn nhận được phần thưởng tiền mặt 500 tệ, đã được chuyển vào ví điện tử của bạn.]
+Sau khi xác nhận mọi mục đã điền đều chính xác, Hòa Ái Xích nhấn nút xác nhận tải lên.
 
-*Tuyệt vời!*
+Cùng lúc đó, Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng hiện lên một thông báo đầy phấn khởi.
 
-Xong xuôi mọi việc, một phần đậu phụ thối của Hòa Ái Xích cũng đã được chiên xong. Ông chủ Trần đang pha nước sốt cho cô. Ông ta cầm một chiếc nồi sữa nhỏ, trước tiên dùng chiếc muôi inox lớn thường thấy trong các nhà ăn múc một muôi nước dùng đã hầm sẵn vào nồi, sau đó cho thêm nửa muôi củ cải muối, nửa muôi dưa muối, một ít ớt, hành lá và rau mùi, rồi khuấy đều tất cả lại với nhau. Cuối cùng, ông ta dùng thìa ấn nhẹ lên trên những miếng đậu phụ giòn rụm để tạo ra những khe hở giúp chúng thấm nước dùng, sau đó mới rưới phần nước sốt đã pha vào bát.
+[Nhiệm vụ tân thủ 2 đã hoàn thành, nhận được một lượt quay Vòng Quay May Mắn, 10 điểm kinh nghiệm. Do thông tin tải lên đầy đủ, bạn nhận được phần thưởng tiền mặt 500 tệ, đã được chuyển vào ví điện tử của bạn.]
 
-Ông chủ Trần hỏi: "Phần của cô xong rồi, phần còn lại phải chờ một lát. Phần này cô ăn luôn chứ?"
+Tuyệt vời!
 
-"Tôi vừa ăn vừa đợi."
+Xử lý xong xuôi mọi việc, một phần đậu phụ thối của Hòa Ái Xích cũng đã được chiên xong. Ông chủ Trần đang pha chế nước sốt cho cô. Ông cầm một chiếc nồi nhỏ có tay cầm, trước tiên dùng chiếc muôi inox lớn hay dùng để múc canh trong nhà ăn múc một muôi đầy nước dùng đã hầm sẵn vào nồi, sau đó cho thêm hơn nửa muôi củ cải muối chua và nửa muôi dưa cải muối. Tiếp đến, ông cho thêm một ít ớt, hành lá, ngò rí rồi khuấy đều cho các loại rau và nước dùng hòa quyện vào nhau.
 
-Đậu phụ thối loại nhỏ phải ăn ngay sau khi chiên. Mang về nhà sẽ mất hết vị ngon vì nó mềm đi rất nhanh.
+Cuối cùng, ông dùng thìa ấn nhẹ hai cái lên đỉnh miếng đậu phụ giòn rụm, tạo ra những vết nứt để chúng thấm đẫm nước dùng, rồi mới rưới hỗn hợp nước sốt đã pha vào bát.
 
-Sự khác biệt giữa đậu phụ thối Trần Ký và những nơi khác nằm ở phần nước dùng được pha chế đặc biệt. Thông thường, nước dùng của món đậu phụ thối không quá nhiều, chỉ đủ để thấm vị, nhưng nước dùng của Trần Ký lại nhiều đến mức có thể nhấn chìm cả những miếng đậu phụ. Nước dùng của ông ta có vị thanh, không quá đậm, dù uống trực tiếp cũng không thấy mặn. Vì vậy, nếu kết hợp với loại đậu phụ đen cổ điển miếng to thông thường, hương vị sẽ không đủ đậm đà, thậm chí có phần nhạt nhẽo.
+Ông chủ Trần hỏi: "Phần này của cháu xong rồi, phần còn lại phải chờ một lát nữa. Cháu ăn ngay tại đây chứ?"
+
+"Cháu vừa ăn vừa đợi ạ."
+
+Đậu phụ thối loại nhỏ sau khi chiên xong phải ăn ngay lập tức, mang về nhà sẽ mất ngon vì nó mềm đi rất nhanh.
+
+Sự khác biệt của Đậu Phụ Thối Trần Ký so với các hàng khác chính là ở phần nước dùng đặc biệt của ông. Thông thường, nước dùng của đậu phụ thối không quá nhiều, chỉ đủ để thấm vị là được. Nhưng nước dùng của quán Trần Ký lại nhiều đến mức có thể nhấn chìm những miếng đậu phụ trong bát. Nước dùng của ông có vị thanh nhẹ, dù húp trực tiếp cũng không thấy quá mặn. Vì vậy, nếu kết hợp với loại đậu phụ đen cổ điển miếng to thông thường bán ở quán, hương vị sẽ có phần nhạt nhẽo, thiếu một chút đậm đà.

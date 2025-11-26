@@ -1,153 +1,177 @@
-# Chương 23
+### Chương 23
 
-Vì vậy, dù người quản lý cũng ăn bánh ú thịt, nhưng anh ta không nghĩ món này có thể ngon được.
+---
 
-Khi bánh ú thịt được bưng lên, anh ta không động đũa mà quyết định chờ hoành thánh. Anh ta phải đợi cả hai món được dọn ra đủ, sau đó dùng điện thoại chụp lại làm bằng chứng, chứng minh mình đã ăn thử. Nếu không ngon, anh ta sẽ mang theo ảnh, vào thẳng bài đăng của blogger "Tiểu Trì ăn không no" để chửi cô nhận tiền PR bẩn.
+Bởi vậy, vị quản lý tuy cũng ăn bánh ú mặn, nhưng chưa bao giờ cho rằng đây là một món ngon. Khi bánh được bưng lên, anh ta không ăn ngay mà quyết định chờ hoành thánh. Anh ta phải đợi đủ cả hai món rồi mới dùng điện thoại chụp ảnh lại làm bằng chứng, xác nhận mình đã thử qua. Nếu không ngon, anh ta sẽ mang bằng chứng hình ảnh này đến bài đăng của blogger "Tiểu Trì Chưa Ăn No" để bóc phốt cô ta nhận tiền quảng cáo bẩn.
 
-Hoành thánh được gói tại chỗ, không qua đông lạnh nên đương nhiên chín rất nhanh. Thêm vào đó, giờ này chưa phải cao điểm ăn uống, quán lại vắng khách nên người quản lý không phải đợi lâu.
+Hoành thánh tươi gói tại chỗ không qua đông lạnh, nên tự nhiên chín rất nhanh. Thêm nữa, đây không phải giờ cao điểm ăn uống, quán khá vắng khách, nên vị quản lý chẳng phải đợi lâu đã có ngay bát hoành thánh của mình.
 
-*“...” Hôm qua xem bài đăng, mình còn tưởng camera của cô blogger kia có vấn đề, ảnh chụp ra cứ xám xịt. Hóa ra không phải do camera, mà là quán này thực sự tối tăm.*
+"..."
 
-Ngay cả bát hoành thánh trông cũng nhàn nhạt, xét ở một góc độ nào đó, cô blogger kia đã chụp được đúng cái hồn của bát hoành thánh này. Người quản lý thầm đánh giá: một bát bánh bột nổi lềnh phềnh trong nước luộc.
+*Hôm qua đọc bài review, mình còn tưởng camera của "Tiểu Trì Chưa Ăn No" có vấn đề, chụp cái gì trông cũng xám xịt ảm đạm. Hóa ra không phải do camera của cô ta, mà là do quán này thực sự không sáng sủa chút nào.*
 
-Nước dùng hoành thánh trong bát trông khác hẳn với quán của họ, không trong mà lại khá đục. Anh ta dùng thìa inox khuấy vài vòng trong bát.
+Ngay cả bát hoành thánh này trông cũng nhàn nhạt vô vị. Xét ở một góc độ nào đó, blogger kia đúng là đã chụp được cái "thần" của bát hoành thánh này rồi.
 
-*Thế này thôi à?*
+Trong lòng vị quản lý thầm đánh giá: Một bát bánh viên nổi lềnh bềnh trong nước trụng mì.
 
-Anh ta múc một thìa nước dùng nhỏ, nếm thử.
+Nước dùng hoành thánh trong bát trông khác hẳn với của tiệm anh ta, không trong mà lại rất đục. Anh ta dùng thìa khuấy vài cái trong chiếc bát inox.
 
-*“...” Đúng là nước luộc thật à?*
+*Chỉ có thế này thôi sao?*
 
-Người quản lý không nhịn được, liếc mắt về phía gian bếp mở của quán. Là một người trong ngành ẩm thực, lại còn là quản lý của một quán hoành thánh, anh ta gần như hiểu ngay nước dùng của bát hoành thánh này là thứ gì.
+Anh ta múc một thìa nước dùng lên nếm thử.
 
-*Đây chẳng phải là nước luộc mì hay sao...*
+"..."
 
-Mấy quán mì, quán phở hay hoành thánh đều có một cái nồi lớn chuyên dùng để trụng mì, bún và hoành thánh. Dù là mì, hoành thánh hay bún, trước khi nấu, trên mình chúng ít nhiều đều dính một lớp bột. Khi cho vào nồi nước sôi, nước và bột hòa vào nhau, dù nồi có lớn đến đâu thì nước cũng sẽ dần trở nên đục ngầu.
+*Thật sự là nước trụng mì à?*
 
-Thông thường, nồi nước này sẽ không được dùng để uống. Nó thậm chí còn không đủ tư cách để được bưng lên bàn cho khách, chỉ có thể bốc hơi đi mà thôi. Nói một cách nghiêm túc thì nó cũng chẳng khác nước luộc là mấy.
+Vị quản lý không nhịn được, liếc mắt nhìn về phía bếp mở của quán. Là một người làm trong ngành ẩm thực, lại còn là quản lý của một tiệm hoành thánh, anh ta gần như hiểu ngay lập tức thứ nước dùng trong bát này là gì.
 
-Quán Mì Ngon lại dùng thứ này làm nước dùng. Thật quá đáng!
+"Đây chẳng phải là nước luộc mì hay sao..."
 
-Người quản lý nhìn bát hoành thánh trước mặt với vẻ ghét bỏ. Ngay cả ông chủ chẳng biết gì của họ cũng không bao giờ làm chuyện này!
+Những quán bán mì sợi, bún phở hay hoành thánh đều có một chiếc nồi lớn chuyên để trụng. Bất kể là mì, bún hay hoành thánh, bản thân chúng trước khi nấu chín đều dính ít nhiều bột khô. Khi cho vào nồi luộc, bột hòa vào nước sôi, dù nồi nước có lớn đến đâu cũng sẽ dần trở nên đục ngầu.
 
-Nén lại ý muốn lên mạng phàn nàn ngay lập tức, người quản lý vẫn miễn cưỡng dùng thìa múc một viên hoành thánh lên, thổi nguội rồi cắn thử.
+Thông thường, nồi nước này sẽ không được dùng để uống. Nó thậm chí còn không đủ tư cách để được bưng lên bàn cho khách, chỉ có thể chờ bốc hơi đi mà thôi. Nói một cách nghiêm túc thì nó cũng chẳng khác nước trụng lẩu là bao.
 
-*“...” Lạ thật.*
+Vậy mà Tiệm Mì Mỹ Vị lại dùng thứ này làm nước dùng.
 
-Anh ta cắn thêm miếng nữa.
+Thật hết nói nổi!
 
-*“...?” Hình như không tệ?*
+Vị quản lý chán ghét nhìn bát hoành thánh trước mặt. *Đến cả ông chủ chẳng biết gì của mình cũng không đời nào làm cái chuyện này!*
 
-Anh ta ăn thêm hai viên nữa. Thịt khá tươi, nhân lại đầy đặn. Thịt được nêm gia vị gì mà ăn vào lại có độ dai thế nhỉ? Anh ta phải nếm kỹ xem bên trong có gì mới được.
+Cố nén sự thôi thúc lên mạng phàn nàn ngay lập tức, vị quản lý vẫn miễn cưỡng dùng thìa vớt một viên hoành thánh lên, thổi nguội rồi cắn thử.
+
+"..."
+
+*Kỳ lạ, thử cắn thêm miếng nữa xem.*
+
+"...?"
+
+*Hình như... cũng không tệ?*
+
+Anh ta ăn thêm hai viên nữa.
+
+Thịt khá tươi, nhân lại rất đầy đặn. Trong thịt có cho gia vị gì mà ăn vào lại có độ dai giòn thế này? Anh ta phải nếm kỹ xem rốt cuộc bên trong có những gì mới được.
 
 Một viên, hai viên, ba viên...
 
-Sau khi ăn hết hơn nửa bát hoành thánh, người quản lý đột nhiên dừng lại. Vẫn còn một cái bánh ú chưa ăn. Đã gọi hai món khác nhau thì phải ăn xen kẽ để thay đổi khẩu vị mới đúng.
+Sau khi ăn hết hơn nửa bát hoành thánh, vị quản lý đột nhiên khựng lại.
 
-Vì hoành thánh ăn khá ngon nên kỳ vọng của người quản lý đối với chiếc bánh ú cũng tăng lên một chút. Anh ta bóc lá ra, dùng đũa gắp một miếng cơm nếp ở góc bánh.
+Vẫn còn một chiếc bánh ú chưa ăn.
 
-Đúng vậy, chỉ là một miếng cơm nếp.
+Đã gọi hai món khác nhau thì phải ăn xen kẽ để thay đổi khẩu vị mới đúng.
 
-Thịt trong bánh ú quả thực rất nhỏ, ăn từ rìa vào thì một đũa gắp lên chẳng thấy thịt đâu.
+Vì hoành thánh khá ngon, nên kỳ vọng của vị quản lý dành cho chiếc bánh ú cũng tăng lên đôi chút. Anh ta bóc lớp lá dong, dùng đũa gắp một miếng cơm nếp ở góc bánh.
 
-*“...Nhân ít quá. Bán 9 tệ một cái mà nhân thế này thì có hơi quá đáng không?”*
+Đúng vậy, là một miếng cơm nếp.
 
-Rốt cuộc, bánh ú của các thương hiệu lớn trông còn có vẻ nhiều nhân hơn, mà giá trung bình cũng chỉ 5-6 tệ một cái.
+Thịt trong bánh quả thực rất nhỏ, ăn từ ngoài rìa vào thì một đũa gắp xuống chẳng thể nào chạm tới thịt.
 
-Anh ta đưa miếng cơm nếp lên miệng nhai thử, có thể cảm nhận được vài hạt đậu đỏ lẫn bên trong. Gia vị nhạt hơn một chút so với bánh ú mua ở siêu thị, đậu đỏ có kết cấu mềm mịn. Nước tương và mỡ heo hòa quyện, qua nhiệt độ cao rồi được cơm nếp thấm đẫm, khiến cả chiếc bánh có vị đậm đà xen lẫn chút hương thơm của lá, chứ không phải cái vị nước tương nồng nặc của bánh ú công nghiệp.
+"...Nhân gì mà ít thế này, bán 9 tệ một cái mà nhân bé tí tẹo, có quá đáng không vậy?"
 
-Một miếng cơm nếp không thịt mà ăn vào lại có vị ngon đến lạ.
+Suy cho cùng, bánh của những thương hiệu lớn trông còn có vẻ nhiều nhân hơn một chút, mà tính ra trung bình cũng chỉ 5-6 tệ một cái.
 
-Khi gắp đũa thứ hai, người quản lý cố tình nhắm vào giữa chiếc bánh. Kệ thịt có nhỏ đến đâu, miếng này anh ta nhất định phải gắp trúng thịt.
+Đưa miếng nếp vào miệng nhai, anh ta có thể cảm nhận được vài hạt đậu đỏ lẫn bên trong. Gia vị nhạt hơn một chút so với bánh mua ở siêu thị, đậu đỏ thì có kết cấu bùi mịn. Nước tương và mỡ heo hòa quyện, được đun ở nhiệt độ cao rồi thấm đẫm vào từng hạt nếp, khiến cho cả chiếc bánh có vị đậm đà xen lẫn chút hương thơm của lá dong, chứ không phải cái vị nước tương nồng nặc của bánh công nghiệp.
 
-Lúc anh ta gắp xuống, đầu đũa vừa hay chạm đúng vào giữa miếng thịt. Khi chiếc bánh được tách ra, miếng thịt ba rọi hầm nhừ cũng bị chia làm đôi. Bằng mắt thường cũng có thể thấy, mỡ từ miếng thịt ba rọi từ từ ứa ra.
+Một miếng cơm nếp không có thịt mà ăn lại thấy ngon lạ thường.
 
-Những chiếc bánh ú mà người quản lý ăn các năm trước đều khô khốc. Rốt cuộc, bánh mua ở siêu thị đã qua thời gian dài đông lạnh, hút chân không, làm gì còn chút nước cốt nào.
+Lần gắp thứ hai, vị quản lý cố tình hướng đầu đũa vào sâu hơn về phía giữa chiếc bánh. *Kệ cho miếng thịt có nhỏ đến đâu, miếng này nhất định phải ăn được thịt mới thôi.*
 
-Đây là lần đầu tiên anh ta cảm thấy thịt trong bánh ú lại thơm ngon đến vậy. Thịt trong bánh ú của các thương hiệu lớn lúc nào cũng có cảm giác bị tẩm ướp quá nhiều nước tương và ngũ vị hương, thịt thì khô xơ, thỉnh thoảng còn dắt vào kẽ răng.
+Khi anh ta gắp xuống, đầu đũa vừa hay chạm đúng vào giữa miếng thịt. Chiếc bánh bị tách ra, đồng thời miếng ba chỉ đã được nấu mềm rục cũng chia làm đôi.
 
-Bánh ú của quán Mì Ngon thì khác. Miếng thịt tuy nhỏ nhưng tươi và mọng nước. Dù cũng được tẩm ướp nhưng hoàn toàn không có cảm giác gia vị quá nồng, ăn vào mềm ẩm mà không ngấy. Nhai cùng với cơm nếp và đậu đỏ, càng cảm nhận được nhiều tầng kết cấu.
+Bằng mắt thường cũng có thể thấy, nước thịt từ miếng ba chỉ đang từ từ ứa ra.
 
-Ăn nhiều cơm nếp vẫn hơi nghẹn, thế là anh ta lại dùng thìa múc vài viên hoành thánh có cả nước dùng, cứ thế ăn xen kẽ. Anh ta còn chưa kịp nhận ra thì đã ăn xong hết.
+Những chiếc bánh ú mà vị quản lý ăn các năm trước đều rất khô. Bánh mua ở siêu thị trải qua thời gian dài đông lạnh, hút chân không, làm gì còn chút nước thịt nào.
 
-Một chiếc bánh ú thịt nhỏ và một bát hoành thánh nhỏ, đối với anh ta quả thực không đủ no.
+Đây là lần đầu tiên anh ta cảm thấy thịt trong bánh ú lại có thể thơm ngon đến thế. Thịt trong bánh của các thương hiệu lớn lúc nào cũng có cảm giác bị tẩm ướp quá đà với nước tương và ngũ vị hương, thớ thịt thì khô xơ, thỉnh thoảng còn dắt vào kẽ răng.
 
-Hay gọi thêm món khác?
+Bánh ú của Tiệm Mì Mỹ Vị lại hoàn toàn khác.
 
-Ánh mắt người quản lý lướt qua lại trên thực đơn dán trên tường.
+Miếng thịt tuy nhỏ nhưng vẫn tươi ngon và mọng nước. Dù cũng đã được tẩm ướp, nhưng hoàn toàn không có cảm giác gia vị quá nồng, ăn vào mềm ẩm mà không hề ngấy. Nhai cùng với nếp và đậu đỏ, càng cảm nhận được nhiều tầng hương vị phong phú.
 
-*“Khoan đã.”*
+Ăn nhiều nếp vẫn hơi nghẹn, thế là anh ta lại dùng thìa húp vài miếng hoành thánh có cả nước dùng. Cứ ăn xen kẽ như vậy, chẳng mấy chốc, khi anh ta còn chưa kịp nhận ra, mọi thứ đã hết sạch.
 
-Anh ta hình như nhớ ra quán Mì Thịt Cừu Zunyi Huaji mà mình từng để ý cũng ở gần đây? Lấy điện thoại ra tra địa chỉ là biết ngay.
+Một chiếc bánh ú mặn nhỏ và một bát hoành thánh nhỏ, đối với anh ta quả thực là chưa đủ no.
 
-“Đường chim bay 500 mét, đi bộ 1 cây số, cũng không xa lắm.”
+Hay là gọi thêm món khác?
+
+Ánh mắt vị quản lý đảo qua lại trên thực đơn treo tường.
+
+"Khoan đã."
+
+Anh ta chợt nhớ ra quán Phở Bò Cừu Hoa Ký Tuân Nghĩa mà mình theo dõi dạo trước hình như ở gần đây? Lấy điện thoại ra tra địa chỉ là biết ngay.
+
+"Khoảng cách đường chim bay 500 mét, đi bộ 1 cây số, cũng không xa lắm."
 
 Hay là... đi thử?
 
 Tuy nhiên, trước đó anh ta còn một việc phải làm.
 
-“Ông chủ, gói cho tôi 30 tệ hoành thánh sống.”
+"Chủ quán, gói cho tôi 30 tệ hoành thánh sống mang về."
 
 ...
 
 Hai mươi phút sau.
 
-Tại quán Mì Thịt Cừu Zunyi Huaji.
+Tại quán Phở Bò Cừu Hoa Ký Tuân Nghĩa.
 
-Người quản lý không hề biết, cái cô blogger “Tiểu Trì ăn không no” mà hôm qua anh ta còn hùng hổ đòi cho một bài học, lại đang ngồi ngay bàn bên cạnh, vừa ăn mì vừa quay video.
+Vị quản lý không hề hay biết, blogger "Tiểu Trì Chưa Ăn No" mà hôm qua anh ta còn hùng hồn tuyên bố sẽ cho "biết tay" đang ngồi ngay bàn bên cạnh, vừa ăn phở vừa quay video.
 
-Bởi vì chính anh ta cũng đang cắm cúi ăn bát mì thịt cừu chan ớt cay thơm nức mũi.
+Bởi vì chính anh ta cũng đang cắm cúi húp sì sụp bát phở bò cừu chan đầy ớt cay thơm nức mũi.
 
-Cách ăn mì thịt cừu của người quản lý hoàn toàn khác với Hòa Ái Xích. Anh ta tính tình nóng nảy, thích ăn hết mì trước rồi mới uống nước dùng. Thịt cừu, lá tỏi, rau mùi và bún được đũa gắp chung một lượt đưa vào miệng. Lá tỏi và rau mùi sau khi nhai tỏa ra mùi thơm đặc trưng, cực kỳ hợp với thịt cừu. Sợi bún tươi làm từ bột gạo mỗi ngày vừa mềm vừa dai, không dễ nát, khi ăn vội còn phát ra tiếng sùm sụp.
+Cách ăn phở bò cừu của vị quản lý hoàn toàn khác với Hòa Ái Xích. Anh ta tính tình nóng vội, thích ăn hết phở trước rồi mới uống nước dùng. Thịt cừu, lá tỏi, rau mùi và bánh phở được gắp chung một đũa đưa vào miệng. Lá tỏi và rau mùi sau khi nhai tỏa ra mùi thơm đặc trưng, cực kỳ hợp với thịt cừu. Bánh phở tươi làm từ bột gạo mỗi ngày vừa mềm mượt lại không dễ nát, khi ăn húp một hơi dài còn tạo ra tiếng sùm sụp vui tai.
 
-Mì thịt cừu và hoành thánh bánh ú lúc nãy là hai hương vị hoàn toàn khác biệt. Hoành thánh và bánh ú có vị ôn hòa hơn, là kiểu mới ăn thấy bình thường, nhưng càng ăn càng ngon, một thời gian không ăn sẽ thấy nhớ.
+Phở bò cừu và món hoành thánh, bánh ú ban nãy thuộc hai trường phái hương vị hoàn toàn khác nhau. Hoành thánh và bánh ú ăn có phần nhẹ nhàng hơn, thuộc kiểu lúc đầu ăn thấy bình thường, càng ăn càng ngon, một thời gian không ăn sẽ thấy nhớ.
 
-Còn mì thịt cừu lại mang đến một cú sốc vị giác trực diện. Vị cay của ớt dầu, vị tê của tiêu Tứ Xuyên, cộng với mùi thơm của thịt cừu và đặc tính chống ngấy của lá tỏi, rau mùi khiến người ta khó có thể dừng lại để suy nghĩ nhiều.
+Còn phở bò cừu lại mang đến một sự tác động trực diện. Vị cay của ớt dầu, vị tê của bột hoa tiêu, cộng với mùi thơm của thịt cừu và đặc tính giải ngấy của lá tỏi, rau mùi, khiến người ta khó lòng dừng lại để suy nghĩ nhiều.
 
-Nhanh chóng xử lý xong bát mì, người quản lý nhìn phần nước dùng thịt cừu còn lại trong bát, lúc này mới cầm thìa lên bắt đầu húp. Lúc gọi món, anh ta đã dặn cô bán hàng cho mình thật nhiều lá tỏi và rau mùi, nên dù đã ăn hết mì, trong nước dùng vẫn còn nổi rất nhiều.
+Ăn hết bát phở trong nháy mắt, vị quản lý nhìn phần nước dùng thịt cừu còn lại trong bát, lúc này mới cầm thìa lên bắt đầu húp. Lúc gọi món, anh ta đã nhờ cô nhân viên cho thêm rất nhiều lá tỏi và rau mùi, nên dù đã ăn hết phở, trong nước dùng vẫn còn nổi rất nhiều.
 
-Anh ta múc một thìa lớn. Nước dùng lẫn với lá tỏi và rau mùi, bên trên nổi váng ớt dầu, bên dưới còn có thịt cừu vụn, uống vào còn đậm đà hơn cả lúc ăn mì. Rốt cuộc, đây mới là nền tảng của Huaji, là tinh hoa của cả bát mì.
+Anh ta múc một thìa lớn. Nước dùng hòa quyện với lá tỏi, rau mùi, bên trên nổi váng dầu ớt, bên dưới còn có thịt cừu vụn, uống vào cảm thấy hương vị còn đậm đà hơn cả lúc ăn phở.
 
-Nước dùng thịt cừu cứ thế được húp hết thìa này đến thìa khác, người quản lý uống đến mức không thể dừng lại, sảng khoái vô cùng.
+Suy cho cùng, đây mới là nền tảng của Hoa Ký, là tinh hoa của cả bát phở bò cừu.
 
-Đến khi bát canh cạn đáy, anh ta mới phát hiện cả người mình đã rịn ra một lớp mồ hôi mỏng, cực kỳ thoải mái.
+Nước dùng cứ thế nối tiếp nhau, vị quản lý uống đến mức không thể dừng lại, cảm giác vô cùng淋漓畅快.
+
+Đến khi bát nước dùng cạn đáy, anh ta mới phát hiện cả người mình đã rịn một lớp mồ hôi mỏng, cảm thấy khoan khoái vô cùng.
 
 Chỉ là hơi no.
 
-Ăn đồ ngon rất dễ bị như vậy, bụng đã no căng mà miệng vẫn còn muốn ăn, cũng không thể trách anh ta tham ăn được.
+Ăn đồ ngon đúng là dễ bị như vậy, bụng đã no mà miệng vẫn còn thòm thèm, cũng không thể trách anh ta tham ăn được.
 
-Mãi đến khi lau miệng, đứng dậy ra về, anh ta mới để ý bàn bên cạnh có người vừa ăn mì vừa quay video. Cô gái đó ăn rất chậm và kỹ, mỗi miếng mì đều đặt vào thìa, ăn cùng với nước dùng.
+Mãi đến khi lau miệng sạch sẽ, đứng dậy ra về, anh ta mới để ý có người ở bàn bên cạnh vừa ăn phở vừa quay video. Cô gái ấy ăn rất chậm và kỹ lưỡng, mỗi miếng phở đều đặt vào thìa, ăn cùng với nước dùng.
 
-Người quản lý ăn no căng nên đầu óc cũng không còn minh mẫn nữa. Anh ta không nghĩ nhiều, định đi bộ về nhà cho tiêu cơm. Vừa ra khỏi cửa được vài bước, anh ta đã nghe có người gọi từ phía sau.
+Cái đầu đang căng vì no của vị quản lý đã không còn hoạt động tốt nữa. Anh ta không nghĩ nhiều, chuẩn bị đi bộ về nhà để tiêu cơm.
 
-“Anh ơi, có phải anh để quên đồ không ạ?”
+Vừa bước ra khỏi cửa được vài bước, anh ta bỗng nghe có người gọi từ phía sau.
 
-Người gọi anh ta chính là cô gái trẻ đang quay video trong quán.
+"Anh ơi, đây có phải đồ anh để quên không ạ?"
 
-“Hả?”
+Người gọi anh ta là cô gái trẻ đang quay video trong quán.
 
-Người quản lý vô thức nhìn xuống tay mình, lúc này mới nhận ra mình đã bỏ quên túi hoành thánh sống vừa mua ở quán Mì Ngon.
+"Hả?"
 
-“À, của tôi, cảm ơn cô nhé!”
+Vị quản lý theo phản xạ nhìn xuống tay mình, lúc này mới nhận ra mình đã bỏ quên túi hoành thánh sống vừa mua ở Tiệm Mì Mỹ Vị.
 
-Vốn dĩ được ăn ngon ở hai quán khác nhau liên tiếp đã khiến tâm trạng người quản lý rất tốt. Sự tử tế gặp được trong cuộc sống thường ngày cùng cảm giác tìm lại được đồ đã mất khiến tâm trạng anh ta càng thêm vui vẻ.
+"Đúng là của tôi rồi, cảm ơn cô nhé!"
 
-*Trên đời vẫn còn nhiều người tốt mà.*
+Vốn dĩ được ăn ngon ở hai quán khác nhau đã khiến tâm trạng vị quản lý rất tốt. Sự thân thiện tình cờ gặp trong cuộc sống cùng cảm giác tìm lại được đồ đã mất khiến anh ta càng vui vẻ hơn. *Trên đời này vẫn còn nhiều người tốt quá.*
 
-*Cái gì? Chuyện cô blogger kia hôm qua viết bài chê quán mình ư?*
+*Gì cơ? Chuyện hôm qua blogger "Tiểu Trì Chưa Ăn No" viết bài chê bai quán của mình thì phải làm sao ư?*
 
-*Ôi dào, chuyện vặt vãnh, người lớn ai lại đi chấp nhặt. Cô ấy giới thiệu hoành thánh, bánh ú, mì thịt cừu ngon như vậy cơ mà.*
+*Ôi dào, có gì to tát đâu, người với nhau đừng nên tính toán chi li làm gì. Mấy món hoành thánh, bánh ú, phở bò cừu mà cô ấy giới thiệu ngon thế cơ mà.*
 
 ...
 
-Sau một buổi sáng bận rộn, Hòa Ái Xích ăn no nê trở về căn hộ thuê, bắt đầu chuyển dữ liệu từ máy ảnh vào máy tính.
+Sau một buổi sáng bận rộn, Hòa Ái Xích ăn no nê rồi trở về căn nhà trọ, bắt đầu chép dữ liệu từ máy ảnh vào máy tính.
 
-Lòng cô có chút thấp thỏm, dù sao cô cũng đã quay cả buổi sáng nhưng không biết chất lượng thước phim thế nào, chỉ biết máy ảnh ngốn pin rất nhanh. Nếu có tiền, tốt nhất nên mua thêm một cục pin dự phòng để thay thế.
+Trong lúc đó, cô cảm thấy rất lo lắng. Rốt cuộc, cô đã quay cả buổi sáng mà không biết chất lượng cảnh quay ra sao, chỉ biết là máy ảnh hết pin rất nhanh. *Nếu có tiền, tốt nhất nên mua thêm một cục pin dự phòng để thay thế.*
 
-*“Để xem video trước đã...”*
+*Để xem video trước đã...*
 
-Vì Hòa Ái Xích không mua tay cầm chống rung, chỉ có một cái giá đỡ nên những cảnh quay di chuyển đều phải dựa vào sự ổn định của đôi tay. Hình ảnh có chút rung lắc, nhưng may là không quá nghiêm trọng.
+Vì Hòa Ái Xích không mua gimbal mà chỉ mua một chiếc tripod, nên những cảnh quay di chuyển đều phải dựa vào sự ổn định của đôi tay, hình ảnh sẽ có chút rung lắc, nhưng may là không quá nghiêm trọng.
 
-Do bản thân máy ảnh có chất lượng tốt, nên dù Hòa Ái Xích không có nhiều kinh nghiệm quay phim, hình ảnh thu được vẫn rất xuất sắc. Tuy nhiên, cô không quay video 4K mà chỉ quay ở chế độ 1080P. Nguyên nhân chủ yếu là vì cô lo video 4K quá lớn, bộ nhớ sẽ không chịu nổi. Không phải thẻ nhớ 32GB không đủ, mà là bộ nhớ chiếc máy tính xách tay cũ kỹ của cô có hạn. Hơn nữa, màn hình laptop cũng chỉ là 1080, nên dù có quay 4K cũng không thấy được sự khác biệt.
+Do bản thân máy ảnh có chất lượng tốt, nên dù Hòa Ái Xích không có nhiều kinh nghiệm quay phim, cô vẫn có được những khung hình xuất sắc. Tuy nhiên, đó không phải là video 4K, mà là 1080P. Nguyên nhân chủ yếu là vì cô lo video 4K sẽ quá nặng, bộ nhớ không chịu nổi. Không phải là chiếc thẻ nhớ 32GB không chịu nổi, mà là bộ nhớ của chiếc máy tính xách tay đời Tống của cô e là không kham nổi.
 
-Suy nghĩ một lúc, Hòa Ái Xích quyết định không bắt tay vào dựng video ngay, mà làm vài cái ảnh động để dùng cho bài viết trên tài khoản công khai trước. Cô cần viết bài xong, sau đó mới dựng video.
+Thêm vào đó, màn hình laptop của cô cũng chỉ là 1080P, dù có quay video 4K thì cũng chẳng nhìn ra khác biệt.
+
+Suy nghĩ một lát, Hòa Ái Xích quyết định không bắt tay vào dựng video ngay, mà sẽ làm vài ảnh động trước để dùng cho bài viết trên tài khoản công chúng. Cô sẽ viết bài đăng trước, rồi mới dựng video sau.

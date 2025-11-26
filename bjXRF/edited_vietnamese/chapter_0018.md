@@ -1,117 +1,127 @@
-# Chương 18
-
-Một phần chỉ một tệ hoặc một tệ rưỡi là đã rất nhiều rồi, đựng vừa một hộp cơm, còn được cho thêm một đôi đũa dùng một lần. Dù những năm gần đây vật giá leo thang, giá món bánh cuốn hộp xốp này cũng tăng lên không ít, nhưng từ ba đến năm tệ vẫn có thể mua được một phần. Kể cả khi chỉ mua phần ba tệ, ông chủ cũng sẽ xúc đầy ắp một hộp xốp nhỏ cho bạn, rưới đẫm nước sốt, thêm dưa muối và củ cải khô vào, hộp cơm đầy đến mức không tài nào đậy nắp lại được.
-
-Bành Thành người đông, nhưng dân bản xứ lại chẳng có bao nhiêu. Nhiều người dân gốc sẽ nói rằng, ở thành phố này chẳng thể tìm được món nào mang hương vị địa phương đích thực, vì người ngoại tỉnh quá đông, còn dân bản xứ thì lại quá giàu. Dân gốc ở đây nhận tiền đền bù giải tỏa, trong tay có cả chục căn nhà cho thuê, chẳng cần phải cực khổ kinh doanh quán ăn làm gì. Vì vậy, dù bạn có ăn món Quảng Đông ở Bành Thành đi nữa thì khả năng cao quán đó vẫn do người ngoại tỉnh mở.
-
-Bánh cuốn là món chịu ảnh hưởng nặng nề nhất. Bởi lẽ làm bánh cuốn thực sự rất đơn giản mà vẫn kiếm được tiền. Kiếm bộn tiền thì không được, nhưng kiếm chút tiền lẻ đủ sống thì vẫn dư dả. Những năm đầu, khi Internet còn chưa phát triển, những người đến Bành Thành buôn bán nhỏ chẳng hề biết công thức làm bánh cuốn của dân địa phương. Không ai chỉ cho họ, mà trên mạng cũng chẳng tìm ra. Nước bột gạo và nước sốt đều do họ tự mày mò pha chế, thành phẩm làm ra và món bánh cuốn truyền thống của Quảng Đông về cơ bản là hai thứ hoàn toàn khác biệt.
-
-Nhưng may thay, người mua bánh cuốn cũng là dân ngoại tỉnh, họ đâu biết bánh cuốn Quảng Đông chuẩn vị phải như thế nào. Suy cho cùng, nơi nào có người tụ họp, có người nấu, có người ăn, thì nơi đó sẽ tự khắc hình thành nên hương vị riêng của mình.
-
-Giống như hộp bánh cuốn mà Hòa Ái Xích đang ăn lúc này.
-
-Cô không biết món bánh cuốn hộp xốp này đã biến đổi thành hương vị hiện tại từ bao nhiêu năm về trước. Bột gạo được pha rất ngon, ít nhất cũng là loại bột gạo nguyên chất xay mới mỗi ngày được dân địa phương công nhận. Củ cải khô thì cay, dưa muối cũng hơi cay, ngay cả trong nước sốt cũng có thêm dầu ớt được pha chế đặc biệt. Dù loại dầu ớt này chỉ thơm chứ không cay nồng, nhưng nó không phải là thứ mà người dân địa phương quen dùng.
-
-Trộn đều nước sốt, ớt, củ cải khô và dưa muối với bánh cuốn, món này không còn giống bánh cuốn nữa, mà giống một món miến chua cay phiên bản dùng bánh cuốn hơn.
-
-Nhưng nó rất ngon. Đó chính là hương vị của thành phố này.
+### Chương 18
 
 ---
 
-Ăn xong phần bánh cuốn, Hòa Ái Xích cảm thấy tràn trề năng lượng.
+Một phần bánh cuốn giá 1 tệ hoặc 1,5 tệ đã là rất nhiều, được đựng trong hộp cơm, thậm chí còn được cho thêm một đôi đũa dùng một lần. Dù những năm gần đây vật giá leo thang, giá của loại bánh cuốn hộp xốp này cũng tăng lên không ngừng, nhưng chỉ với 3 đến 5 tệ vẫn có thể mua được một phần. Kể cả khi chỉ mua phần 3 tệ, ông chủ vẫn sẽ đong đầy ắp vào chiếc hộp xốp dùng một lần loại nhỏ, rưới đẫm nước sốt, thêm cả dưa muối chua và củ cải khô, khiến hộp cơm không tài nào đậy khít lại được.
 
-Nhìn vào mấy nhiệm vụ mà ứng dụng đưa ra, có vẻ nó đang muốn cô trở thành một blogger ẩm thực và cung cấp bốn nền tảng để cô lựa chọn con đường phát triển. Bản thân Hòa Ái Xích hiện tại chưa có ý định làm blogger ẩm thực, nhưng đã nhận nhiệm vụ rồi thì phải làm cho tốt.
+Bằng Thành rất đông dân, nhưng người bản xứ lại không nhiều. Dân địa phương thường nói rằng, ở thành phố này chẳng thể tìm được món gì mang hương vị bản xứ đích thực, vì người ngoại tỉnh quá đông, còn người bản xứ thì lại quá giàu. Họ nhận tiền đền bù giải tỏa, trong tay có cả chục căn nhà cho thuê, chẳng cần phải dựa vào việc kinh doanh ăn uống để kiếm tiền. Vì vậy, dù bạn có ăn món Quảng Đông ở Bằng Thành, rất có thể quán đó cũng do người ngoại tỉnh mở.
 
-Cô quyết định bắt đầu bằng việc viết một bài ghi chú trên Sổ Tay Tím Nhỏ.
+Bánh cuốn lại càng là “vùng bị ảnh hưởng nặng nề nhất”. Bởi vì làm bánh cuốn thực sự rất đơn giản mà lại kiếm được tiền. Không phải là tiền lớn, nhưng cũng đủ trang trải cuộc sống.
 
-Lượng người dùng của Sổ Tay Tím Nhỏ đông hơn Cộng Đồng Đánh Giá Độc Đáo, độ gắn kết cũng cao, nhiều người còn dùng nó như một trình duyệt để tìm kiếm đủ thứ. Vì vậy, việc thu hút người hâm mộ trên Sổ Tay Tím Nhỏ sẽ dễ dàng hơn tương đối. Nếu một bài viết trở nên nổi tiếng, lượt xem, lượt thích, lượt lưu và bình luận có thể cao hơn hàng chục, thậm chí hàng trăm lần so với trên Cộng Đồng Đánh Giá Độc Đáo.
+Những năm đầu, khi mạng Internet chưa phát triển, những người đến Bằng Thành muốn buôn bán nhỏ lẻ, bán bánh cuốn hoàn toàn không biết công thức của người địa phương. Không ai chỉ cho họ, trên mạng cũng chẳng tìm thấy. Bột gạo và nước sốt đều do họ tự mày mò pha chế, thành phẩm làm ra và món bánh cuốn nguyên bản của Quảng Đông về cơ bản là hai thứ hoàn toàn khác nhau.
 
-Trước đây cô chưa từng đăng bài trên Sổ Tay Tím Nhỏ bao giờ, chỉ toàn đọc bài của người khác, nên giờ đành thử mày mò xem sao. Cô lấy những bức ảnh chụp bánh cuốn vừa rồi từ máy ảnh không gương lật ra, sau đó soạn một bài đăng hình kèm chữ vô cùng đơn giản.
+Nhưng may mắn là, người mua bánh cuốn cũng là người ngoại tỉnh, họ đâu biết bánh cuốn Quảng Đông nên có vị như thế nào. Chung quy lại, khi người ta tụ họp với nhau, có người làm, có người ăn, ắt sẽ tạo ra hương vị đặc trưng của riêng họ.
 
-«Chỉ 3 tệ một phần, món bánh cuốn hộp xốp chỉ bán buổi sáng!»
+Giống như bát bánh cuốn hộp xốp mà Hòa Ái Xích đang ăn lúc này.
 
-[Mình mới chuyển nhà, tám giờ sáng đi làm thì phát hiện dưới lầu có bán món bánh cuốn hộp xốp này! Người mua đông nghịt, vây kín lấy ông chủ như thể đang đi cướp. Ông chủ chỉ việc gắp bánh cuốn chưa nêm gia vị vào hộp rồi đưa cho khách, còn khách hàng thì tự chan nước sốt và lấy đồ ăn kèm, muốn lấy bao nhiêu cũng được. Cứ mỗi hộp được làm xong là có người lao tới giật lấy, không nhanh tay là không mua được. Thế là mình cũng phải tham gia vào cuộc chiến.
+Cô không biết món bánh cuốn này đã biến đổi thành hương vị hiện tại từ bao nhiêu năm về trước. Bột gạo được pha rất ổn, ít nhất cũng là loại bột gạo nguyên chất ngâm và xay mới mỗi ngày được người dân địa phương công nhận. Củ cải khô thì cay, dưa muối chua cũng hơi cay, ngay cả trong nước sốt cũng có thêm dầu ớt được pha chế đặc biệt. Dù loại dầu ớt này chỉ thơm chứ không cay, nhưng cũng không phải là thứ người bản xứ quen ăn.
 
-Món bánh cuốn này có một sức hút kỳ lạ, lần đầu ăn thì thấy cũng bình thường, nhưng ăn nhiều rồi thì cứ cách một thời gian không ăn là lại thấy nhớ! Tiếc là món này chỉ bán từ khoảng 7 đến 10 giờ sáng. Nếu bán nhanh, có khi chưa đến 9 giờ đã dọn hàng rồi.
+Trộn đều nước sốt, ớt, củ cải khô, dưa muối với bánh cuốn rồi thưởng thức, thay vì gọi là bánh cuốn,倒不如 nói đây là một bát miến chua cay lấy bánh cuốn làm nền.
 
-Bên dưới mình có đính kèm những địa chỉ bán bánh cuốn hộp xốp mà mình biết. Nếu mọi người biết địa chỉ nào khác thì có thể bình luận ở dưới nhé, mình sẽ tổng hợp lại và cập nhật vào đây.]
+Nhưng nó ngon.
 
-Cuối bài viết, cô đính kèm địa chỉ hai quán bánh cuốn gần trường đại học mà mình từng ăn, cùng với địa chỉ quán trong khu đô thị này. Cuối cùng, cô thêm một loạt từ khóa như "bánh cuốn", "bữa sáng", "địa chỉ" để mọi người dễ dàng tìm kiếm hơn.
+Đó là hương vị thuộc về thành phố này.
 
-Đăng bài.
+***
 
-Sau khi đăng xong, Hòa Ái Xích còn quay lại trang duyệt để ngắm nghía những bức ảnh mình vừa chụp. Đúng là máy ảnh không gương lật giá một vạn rưỡi có khác, ảnh chụp ra trông khác hẳn. Dù cô không rành về nhiếp ảnh, tấm ảnh này cơ bản là chụp hú họa, nhưng có thể thấy rõ ảnh trong veo, độ sáng cũng khác hẳn.
+Ăn xong phần bánh cuốn, Hòa Ái Xích cảm thấy tràn đầy năng lượng.
 
-Bức ảnh bánh cuốn được chụp trên chiếc bàn trà nhỏ sau khi cô mang về nhà trọ. Vì các tòa nhà trong khu này san sát nhau nên căn phòng của cô không có nhiều ánh sáng tự nhiên. Nếu chụp bằng điện thoại, kể cả khi đã bật đèn, ảnh vẫn sẽ hơi xám xịt. Nhưng dùng máy ảnh không gương lật thì khác, nó bắt được màu sắc chân thực của món ăn.
+Dựa trên vài nhiệm vụ mà ứng dụng đưa ra, có vẻ nó đang muốn cô trở thành một blogger ẩm thực và cung cấp bốn nền tảng để cô lựa chọn con đường phát triển. Bản thân Hòa Ái Xích hiện tại chưa có ý định trở thành blogger ẩm thực, nhưng đã nhận nhiệm vụ thì phải làm cho tốt.
 
-Ngắm ảnh xong, cô mới bắt đầu kiểm tra thông báo của ứng dụng hiện lên trên điện thoại.
+Cô quyết định sẽ viết một bài ghi chú trên Tiểu Tử Thư trước.
 
-[Chúc mừng bạn đã hoàn thành nhiệm vụ, nhận được 72 tiền mặt, 10 điểm kinh nghiệm và 100 phiếu tăng lưu lượng. Bắt đầu từ rạng sáng mai, các nhiệm vụ hàng ngày liên quan đến Sổ Tay Tím Nhỏ sẽ được cập nhật. Không hoàn thành cũng không bị phạt, không giới hạn thời gian.]
+Lượng người dùng của Tiểu Tử Thư đông hơn Cộng Đồng Đánh Giá Độc Đáo, độ gắn kết của người dùng cũng cao, hơn nữa không ít người còn dùng nó như một trình duyệt để tìm kiếm đủ thứ. Vì vậy, việc thu hút người hâm mộ trên Tiểu Tử Thư sẽ tương đối dễ dàng hơn. Nếu bài viết trở nên nổi tiếng, số lượt xem, lượt thích, lượt lưu và bình luận có thể gấp hàng chục, thậm chí hàng trăm lần so với trên Cộng Đồng Đánh Giá Độc Đáo.
 
-100 phiếu tăng lưu lượng nhận được từ nhiệm vụ, cô dùng ngay cho bài viết vừa rồi. Ứng dụng khá thông minh, có thể chọn đẩy bài đến những người dùng trong cùng khu vực.
+Trước đây Hòa Ái Xích chưa từng đăng bài trên Tiểu Tử Thư, chỉ xem nội dung người khác viết, nên đành phải vừa làm vừa mò mẫm.
 
-Một trong bốn nhiệm vụ đã hoàn thành. Hòa Ái Xích không vội làm cái thứ hai, thay vào đó, cô tháo pin máy ảnh ra sạc, rồi lên mạng xem các video hướng dẫn cách quay và dựng phim bằng máy ảnh không gương lật.
+Cô lấy những bức ảnh bánh cuốn vừa chụp thử từ chiếc máy ảnh không gương lật ra, sau đó viết một bài ghi chú hình ảnh cực kỳ đơn giản trên Tiểu Tử Thư.
 
-Lúc này cô mới nhận ra mình có lẽ phải mua một thẻ nhớ dung lượng lớn hơn. Máy ảnh có tặng kèm một thẻ 32GB, chụp ảnh thì đủ, nhưng để lưu vài video thì chưa chắc.
+«3 tệ một phần, món bánh cuốn hộp xốp chỉ có thể ăn được vào buổi sáng!»
 
-Nhưng chuyện đó không gấp. Cô có thể mua trước một cái gimbal hoặc chân máy, micro cũng cần phải có. Trong tay không có nhiều tiền, nên cô đành mua loại rẻ dùng tạm.
+[Mình mới chuyển nhà, lúc 8 giờ sáng đi làm thì phát hiện dưới lầu có bán loại bánh cuốn hộp xốp này! Người mua đông khủng khiếp, ông chủ bị khách vây kín, trông như đang bị trấn lột vậy. Ông ấy chỉ chuyên tâm gắp bánh cuốn không gia vị vào hộp rồi đưa cho khách, khách tự chan nước sốt và lấy đồ ăn kèm, muốn cho bao nhiêu cũng được. Cứ mỗi hộp bánh cuốn được gắp xong là có người lao lên giật lấy, không tranh thì không thể nào mua được. Thế là mình đành phải nhập hội.
 
-Hòa Ái Xích cả ngày ru rú trong nhà nghiên cứu cách dựng video, bữa trưa cũng chẳng buồn xuống lầu mua, ăn tạm mì gói cho qua bữa. Chuyện dựng video vẫn còn mù mờ, nhưng cô đã nghiến răng chi 22 tệ mua một cái giá đỡ máy ảnh để bàn có đèn, và 80 tệ nữa cho một chiếc micro cài áo.
+Loại bánh cuốn này có một sức hút kỳ lạ, lần đầu ăn thấy cũng bình thường, nhưng ăn nhiều rồi thì chỉ cần một thời gian không ăn là lại nhớ da diết! Tiếc là món này chỉ bán từ khoảng 7-10 giờ sáng, nếu bán nhanh thì chưa đến 9 giờ đã dọn hàng rồi.
 
-Học hành đúng là tốn tiền.
+Bên dưới mình có đính kèm địa chỉ những quán bánh cuốn hộp xốp mình biết, nếu mọi người biết địa chỉ nào khác thì có thể cung cấp ở phần bình luận, mình sẽ tổng hợp lại và cập nhật vào đây nhé.]
 
-Học cả một ngày nhưng cô không thấy mệt lắm, vì cô toàn nằm trên giường dùng điện thoại để học, giữa chừng còn ngủ quên mất một lúc.
+Cuối bài viết, cô đính kèm địa chỉ hai quán bánh cuốn gần trường đại học mà cô từng ăn, cùng với địa chỉ của quán trong khu ổ chuột này. Cuối cùng là một chuỗi từ khóa dài như bánh cuốn, bữa sáng, địa chỉ... để mọi người dễ dàng tìm kiếm hơn.
 
-Để tự thưởng cho sự chăm chỉ của mình, Hòa Ái Xích quyết định tối nay phải ăn một bữa thật ngon. Cô sẽ đi ăn mì lòng bò kho!
+Đăng.
 
-*He he.*
+Đăng bài xong, Hòa Ái Xích còn đặc biệt quay lại trang chủ để ngắm nghía những bức ảnh mình vừa chụp. Quả không hổ danh là chiếc máy ảnh không gương lật trị giá mười lăm nghìn tệ, ảnh chụp ra trông khác hẳn. Dù cô không rành về nhiếp ảnh, tấm ảnh này về cơ bản là chụp hú họa. Nhưng có thể thấy, ảnh nét hơn rất nhiều và độ sáng cũng khác biệt.
 
-Nghĩ đến bát mì lòng bò om cay nóng hổi, Hòa Ái Xích đeo vội chiếc áo khoác rồi tất tả chạy xuống lầu.
+Bức ảnh bánh cuốn hộp xốp được chụp trên chiếc bàn trà nhỏ sau khi cô mang về phòng trọ. Do các tòa nhà trong khu ổ chuột san sát nhau nên căn phòng của Hòa Ái Xích không có nhiều ánh sáng tự nhiên. Nếu dùng điện thoại chụp, dù có bật đèn thì ảnh cũng sẽ hơi xám xịt. Nhưng dùng máy ảnh không gương lật thì khác, nó còn có thể bắt được màu sắc vốn có của món ăn.
 
-Ra khỏi khu nhà, băng qua đường lớn, cô chui vào một quán ăn tên là Mì Trùng Khánh Môi Thơm.
+Ngắm ảnh xong, Hòa Ái Xích mới bắt đầu kiểm tra thông báo ứng dụng hiện lên trên điện thoại.
 
-À, cô không chui vào được, vì bên ngoài đang có một hàng người xếp hàng.
+[Chúc mừng bạn đã hoàn thành nhiệm vụ, nhận được 72 tiền mặt, 10 điểm kinh nghiệm, 100 phiếu tăng lưu lượng. Bắt đầu từ rạng sáng mai, các nhiệm vụ hàng ngày liên quan đến Khoai Tím Nhỏ sẽ được cập nhật, không hoàn thành không bị phạt, không giới hạn thời gian.]
 
-Xếp hàng mua mì.
+100 phiếu tăng lưu lượng nhận được từ nhiệm vụ được Hòa Ái Xích dùng ngay cho bài viết này. Ứng dụng cũng khá thông minh, còn cho phép chọn đẩy bài đến người dùng địa phương tại các điểm cố định.
 
-Quán mì này rất nhỏ, và gian bếp cũng khác với những quán khác, được đặt ngay gần cửa ra vào. Có thể thấy bên trong có hai chiếc nồi lớn, một nồi để trụng mì hoặc bún, nồi còn lại là nước dùng ninh xương. Bên cạnh nồi là quầy ra món, trên đó bày những chậu inox lớn đựng đủ các loại topping ngâm trong dầu đỏ trông vô cùng hấp dẫn như lòng non, lòng bò thái sợi, thịt bò, gân bò, gà cay, thịt băm, sườn, mề gà chua cay...
+Một trong bốn nhiệm vụ đã hoàn thành, nhưng Hòa Ái Xích không vội làm nhiệm vụ thứ hai. Thay vào đó, cô tháo pin máy ảnh ra sạc và bắt đầu lên mạng xem các video hướng dẫn quay và dựng phim bằng máy ảnh không gương lật.
 
-Bên cạnh topping là những hũ gia vị như hành lá, ngò rí, đậu nành chiên, dầu ớt đỏ au lấm tấm hạt mè, bột tiêu Tứ Xuyên, tỏi băm.
+Rồi cô nhận ra mình có lẽ phải mua thêm một chiếc thẻ nhớ dung lượng lớn. Chiếc máy ảnh này có đi kèm một thẻ nhớ 32GB, chụp ảnh thì đủ dùng, nhưng để lưu thêm vài video thì chưa chắc.
 
-Khách muốn ăn ở quán này phải trực tiếp đến quầy gọi món, thanh toán, đợi dì trong bếp làm xong rồi tự bưng bát về chỗ ngồi. Có lẽ vì bếp đặt ngay mặt đường nên cứ đến giờ ăn là quán lại tỏa ra một mùi thơm nồng nàn tựa như lẩu cay. Chưa cần biết ăn có ngon không, nhưng ngửi thôi đã thấy thèm rồi.
+Nhưng chuyện này không gấp.
 
-Bình thường, những quán đông người phải xếp hàng thế này, Hòa Ái Xích chẳng bao giờ ghé vào. Bụng thì đói meo, mà xếp hàng thế này biết đến bao giờ mới tới lượt.
+Có thể mua trước một cái tay cầm chống rung, hoặc giá đỡ, micrô cũng phải mua. Trong tay không có nhiều tiền, cô có thể mua đồ rẻ dùng tạm.
 
-Nhưng cách bố trí của quán này lại rất thông minh.
+Hòa Ái Xích ở trong phòng cả ngày để nghiên cứu cách dựng video, bữa trưa cũng không xuống lầu mua mà ăn mì gói cho qua bữa. Chuyện dựng video vẫn còn mơ hồ, nhưng cô đã cắn răng chi 22 tệ mua một chiếc giá đỡ để bàn có đèn, và thêm 80 tệ cho một chiếc micrô cài áo.
 
-Trong quán chỉ có vỏn vẹn bốn chiếc bàn, nếu đi đông hơn bốn người thì phải ngồi ghép, tổng cộng chỉ có 16 chỗ ngồi. Không gian khá chật chội, lúc ngồi kín người thì xoay người cũng phải cẩn thận, chẳng thoải mái chút nào. Tất cả thực khách trong quán chỉ biết cắm cúi ăn thật nhanh rồi rời đi ngay sau khi ăn xong.
+Học tập đúng là tốn tiền.
 
-Trùng hợp là, vì bếp chỉ nhận từng đơn một rồi mới làm, nên tốc độ cũng không nhanh lắm. Cứ hễ bạn xếp hàng mua được đồ ăn thì trong quán cũng vừa hay có một hai chỗ trống.
+Học cả một ngày nhưng Hòa Ái Xích không thấy mệt lắm, vì cô nằm trên giường dùng điện thoại để học, giữa chừng còn ngủ quên mất một lúc.
 
-Cách sắp xếp dòng người này quả là có tính toán.
+Để tự thưởng cho bản thân đã chăm chỉ học hành, Hòa Ái Xích quyết định tối nay sẽ ăn một bữa thật ngon.
 
-Dù hàng người trông có vẻ đáng sợ, nhưng thực ra cô cũng không phải đợi quá lâu. Khi đến lượt, cô chỉ vào thực đơn: "Cho cháu một phần nhỏ mì lòng bò kho và một quả trứng kho ạ."
+Cô sẽ đi ăn mì sách bò hầm! Hì hì.
 
-"21 tệ, quét mã đi."
+Nghĩ đến món sách bò hầm cay nồng nóng hổi, Hòa Ái Xích khoác vội chiếc áo lên người rồi lon ton chạy xuống lầu. Cô rời khỏi khu ổ chuột, băng qua con đường lớn, rồi chui vào một quán ăn tên là “Tiệm Mì Trùng Khánh Môi Thơm”.
 
-Cô thấy người dì nhanh nhẹn cho mì vào vợt để trụng, rồi quay người cho gia vị vào chiếc tô inox lớn, đoạn hỏi: "Ăn cay cỡ nào?"
+À, cô đã không thể chui vào được, vì bên ngoài đang có một hàng người xếp hàng.
 
-"Hơi tê, cay vừa ạ."
+Xếp hàng để mua mì.
 
-Quán này cô đã đến vài lần, quán mì Trùng Khánh rất mạnh tay cho tiêu Tứ Xuyên, nên hơi tê cay vừa là chuẩn nhất.
+Quán mì này rất nhỏ, và gian bếp nấu mì cũng khác với các quán ăn khác, nó được đặt ngay gần cửa ra vào. Có thể thấy bên trong đặt hai chiếc nồi lớn, một nồi để trụng mì hoặc bún, nồi còn lại là nước dùng hầm. Bên cạnh nồi là quầy ra món, trên đó bày những chiếc chậu inox lớn đựng đầy các loại topping ngâm trong dầu ớt như lòng non, sách bò thái sợi, thịt bò, gầu bò, gà cay, thịt băm, sườn, lòng gà xào chua cay... Bên cạnh các loại topping là những hũ gia vị như hành lá, ngò rí, đậu nành chiên giòn, dầu ớt đỏ au lấm tấm vừng, bột tiêu Tứ Xuyên, tỏi băm...
 
-Một lát sau, dì ấy đổ phần mì nóng hổi vào chiếc tô đã có sẵn gia vị, rồi bắt đầu gắp topping lên trên.
+Khách muốn ăn tại quán phải gọi món và thanh toán trực tiếp tại quầy, đợi người dì trong bếp làm xong món rồi tự bưng bát về chỗ ngồi.
 
-Hòa Ái Xích dán chặt mắt vào đôi đũa trong tay dì ấy, xem dì sẽ gắp cho mình bao nhiêu lòng bò kho.
+Có lẽ vì gian bếp nằm sát mặt đường nên cứ đến giờ ăn là quán lại tỏa ra một mùi thơm tương tự như lẩu cay. Chưa bàn đến hương vị, chỉ ngửi thôi đã thấy thơm nức mũi rồi.
 
-Đầu tiên, dì ấy gắp một đũa lòng bò, trông không nhiều lắm, lại còn lắc lắc cho rớt bớt rồi mới cho vào bát.
+Thông thường, Hòa Ái Xích không thích đến những quán đông người, phải xếp hàng như thế này. Bụng thì đói meo, mà xếp hàng thế này cũng chẳng biết đến bao giờ mới tới lượt.
 
-Hòa Ái Xích còn chưa kịp thất vọng, dì ấy đã gắp thêm một đũa nữa, cũng lắc lắc, rồi bỏ vào, sau đó lại nhanh tay gắp thêm hai miếng nữa cho vào bát.
+Nhưng cách bố trí của quán này rất khéo léo.
 
-Nhìn cảnh này, Hòa Ái Xích mới thấy hài lòng.
+Trong quán chỉ có vỏn vẹn bốn chiếc bàn, nếu có hơn bốn người thì phải ngồi ghép, tổng cộng chỉ có 16 chỗ. Không gian lại vô cùng chật chội, lúc ngồi kín chỗ thì ngay cả việc xoay người cũng phải cẩn thận, chẳng có chút thoải mái nào. Tất cả thực khách trong quán chỉ biết cắm cúi ăn với tốc độ nhanh nhất, ăn xong là rời đi ngay.
 
-Người dì lại hỏi: "Có lấy hành ngò không con?"
+Trùng hợp là, vì bếp cứ nhận một đơn là làm một phần, tốc độ cũng không nhanh. Chỉ cần bạn xếp hàng mua được đồ ăn thì trong quán sẽ vừa hay trống ra một hai chỗ.
+
+Cách điều phối luồng khách này quả là có tài.
+
+Hàng người trông có vẻ đáng sợ, nhưng thực ra Hòa Ái Xích cũng không phải đợi quá lâu. Khi đến lượt, cô chỉ vào thực đơn:
+
+"Cho cháu một phần nhỏ mì sách bò hầm và một quả trứng kho."
+
+"21 tệ, quét mã."
+
+Cô thấy dì bán hàng thoăn thoắt cho mì vào vợt để trụng, rồi quay người cho trước gia vị vào chiếc tô inox, hỏi: "Ăn cay cỡ nào?"
+
+"Hơi tê cay vừa ạ."
+
+Cô đã đến quán này vài lần trước đây. Các quán mì Trùng Khánh thường cho nhiều bột tiêu, nên mức hơi tê cay vừa là hoàn hảo nhất.
+
+Chẳng mấy chốc, người dì ấy đã đổ phần mì vừa trụng xong vào chiếc tô inox đã có sẵn gia vị, rồi bắt đầu cho topping lên trên.
+
+Hòa Ái Xích dán mắt vào đôi đũa trong tay người dì ấy, xem bà sẽ gắp cho mình bao nhiêu sách bò hầm.
+
+Đầu tiên, bà gắp lên một đũa sách bò, trông không nhiều lắm, lại còn lắc lắc vài cái rồi mới cho vào bát.
+
+Chưa kịp để Hòa Ái Xích thất vọng, bà lại gắp thêm một đũa nữa, vẫn lắc lắc rồi cho vào, sau đó nhanh tay gắp thêm hai miếng nữa vào bát.
+
+Nhìn thế này, Hòa Ái Xích mới thấy hài lòng.
+
+Người dì phục vụ lại hỏi: "Có lấy hành lá ngò rí không?"
 
 "Dạ có ạ."
 
-Thấy Hòa Ái Xích vẫn cứ nhìn mình chăm chú, dì ấy nói thêm: "Để dì cho thêm ít dưa muối với củ cải ngâm nhé."
+Thấy Hòa Ái Xích cứ nhìn mình chằm chằm lúc gắp đồ ăn kèm, người dì ấy lại nói thêm: "Dì cho thêm ít dưa cải với củ cải muối nhé."

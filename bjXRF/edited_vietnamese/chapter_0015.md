@@ -1,113 +1,93 @@
-# Chương 15
+### **Chương 15**
 
-Nhiều người khi ăn phải phần mỡ cá béo ngậy cũng chỉ nghĩ rằng miếng cá này mềm hơn những miếng khác, thậm chí họ còn không biết lớp thịt mình đang ăn thực chất được bao phủ bởi một lớp mỡ. Hòa Ái Xích thích ăn vi cá, còn Lâm Phi Hành thì mê đầu cá. Đầu cá chẽm không lớn, chẳng có lớp gelatin như đầu cá mè, nhưng được chiên giòn rụm, khi ngấm đẫm nước súp rồi nhai lại mang một hương vị rất riêng.
+Nhiều người khi ăn phải phần mỡ cá cũng chỉ cảm thấy miếng thịt này mềm hơn những chỗ khác, thậm chí còn chẳng biết mình vừa ăn phải lớp mỡ. Hòa Ái Xích thích ăn vi cá, còn Lâm Phỉ Hạnh thì mê đầu cá. Đầu cá vược không lớn, không có phần thịt dai béo như trên đầu các loại cá đầu to khác, nhưng được chiên rất giòn, ngấm đẫm nước dùng rồi nhai lại có một hương vị riêng.
 
-Hai cô gái xử lý xong phần mình thích nhất rồi mới bắt đầu giải quyết nửa con cá còn lại. Thịt cá ngâm trong súp đã chín mềm, lớp vỏ ngoài không còn giòn nữa, nhưng vị ngọt tươi của cá đã hòa quyện hoàn toàn vào nước dùng. Hòa Ái Xích gắp một miếng cá vào bát, chan thêm hai muỗng súp, dầm nát ra rồi xúc ăn. Một thìa súp chua cay quyện với thịt cá vào bụng, hơi ấm lan tỏa đến tận đáy lòng.
+Hai cô gái xử lý sạch sẽ phần mình thích nhất rồi mới bắt đầu giải quyết nửa con cá còn lại. Thịt cá ngâm trong canh từ lâu đã chín nhừ, mất đi lớp vỏ giòn rụm bên ngoài, nhưng vị tươi ngọt của cá sau khi nấu đã hoàn toàn tan vào nước dùng. Cô gắp một miếng cá vào bát, múc thêm hai muỗng canh chan vào, dằm nát rồi dùng thìa xúc ăn. Một thìa canh chua cay lẫn với thịt cá vào bụng, ấm nóng lan đến tận đáy lòng.
 
-Súp Tom Yum Goong quả không hổ danh là món tủ của quán.
+Canh Tom Yum Goong quả không hổ danh là món tủ của quán này. Linh hồn của món Tom Yum Goong chính là phần sốt cùng tên. Sốt Tom Yum Goong không khó mua, thời buổi giao vận phát triển như hiện nay, chỉ cần mở ứng dụng mua sắm, gõ tìm kiếm là có thể mua được ngay, có cả loại gói nhỏ cho gia đình và loại thùng lớn cho nhà hàng. Quán đã lấy tên là Tom Yum Goong thì dĩ nhiên phần sốt không phải là hàng sản xuất đại trà mua bừa từ nhà phân phối nào đó, mà là loại sốt độc quyền do chính chủ quán tự tay xào từ mắm tôm, sả, riềng, ớt, hẹ tây, nước me và các nguyên liệu khác. Nước dùng được nấu từ sốt Tom Yum, kết hợp với các loại gia vị tươi như lá chanh, sả, ớt, cùng các nguyên liệu khác như hải sản, nấm. Vị chua trong canh đến từ chanh tươi, là vị chua của hoa quả. Vị chua này khác với vị chua gắt từ giấm lên men, nó thanh và tươi mát hơn.
 
-Nấu Tom Yum Goong thì không thể thiếu sốt cùng tên. Sốt Tom Yum Goong không khó mua, thời buổi này giao vận phát triển, chỉ cần mở ứng dụng mua sắm, gõ vài chữ là có thể tìm thấy ngay. Có loại gói nhỏ cho gia đình, cũng có loại đóng thùng lớn cho nhà hàng. Nhưng quán đã lấy tên là Tom Yum Goong thì dĩ nhiên không dùng loại sốt công nghiệp bán đầy ngoài chợ. Thay vào đó, quán tự tay làm loại sốt độc quyền từ mắm tôm, xào thơm với sả, riềng, ớt, hành tím, nước me và các nguyên liệu khác. Nước súp được nấu từ loại sốt này, kết hợp với lá chanh tươi, sả, ớt cùng các loại gia vị, thêm hải sản, nấm và những nguyên liệu khác. Vị chua trong súp đến từ chanh tươi, là vị chua của trái cây. Vị chua này khác hẳn với vị chua gắt từ giấm gạo lên men, nó thanh và tươi mát hơn nhiều.
+Vốn dĩ sau khi ăn cá, nửa đĩa thịt heo, ba con tôm lớn và hơn nửa bát cơm, Hòa Ái Xích đã không còn đói nữa. Vậy mà chỉ cần húp một ngụm canh hải sản chua cay, cô liền cảm thấy mình có thể chiến thêm ba trăm hiệp nữa. Cô gắp một ít cơm vào bát, chan nước canh và cá lên trên, trộn đều rồi ăn.
 
-Vốn dĩ, sau khi đã ăn thịt cá, nửa đĩa cổ heo nướng, ba con tôm to và hơn nửa bát cơm, Hòa Ái Xích đã không còn đói nữa. Nhưng khi nếm thử muỗng súp hải sản chua cay, cô lập tức cảm thấy mình có thể chiến đấu thêm ba trăm hiệp nữa. Cô xới một ít cơm vào bát, chan súp và cá lên trên, trộn đều rồi thưởng thức.
+Chủ quán này vốn là người Thái, nên hương vị canh Tom Yum Goong khá gần với khẩu vị bản địa, thiên về vị chua, thậm chí hơi chua gắt so với người trong nước. Nhưng sau khi nấu cùng với cá vược đã được ướp muối rồi chiên giòn, vị chua trong canh trở nên dịu hơn, lại càng hợp khẩu vị của Hòa Ái Xích, đặc biệt là khi dùng để trộn cơm.
 
-Chủ quán này là người Thái, nên hương vị Tom Yum Goong khá gần với khẩu vị bản địa, vốn thiên về vị chua, thậm chí có thể hơi gắt đối với người Trung Quốc. Nhưng sau khi nấu cùng cá chẽm đã ướp muối và chiên giòn, vị chua trong súp trở nên dịu hơn, lại hợp khẩu vị của Hòa Ái Xích đến lạ, đặc biệt là khi ăn với cơm.
+Ăn xong phần cơm trộn Tom Yum, cô lại gắp chừng hai miếng cơm vào bát, rưới nước sốt cà ri lên trộn ăn. Sốt cà ri có thành phần chính là nghệ, được xào với hạt ngò, quế, ớt và các loại hương liệu khác, sau đó nấu cùng nước cốt dừa. Vị mặn cay hòa quyện với vị béo ngậy và ngọt dịu đặc trưng của nước cốt dừa, quả thực rất hợp để trộn cơm, nhưng ăn nhiều sẽ hơi ngấy. Cơm trộn Tom Yum thì lại chua cay đậm đà vị tươi ngon, ăn rất bắt vị.
 
-Ăn xong phần cơm trộn Tom Yum, cô lại xới thêm khoảng hai miếng cơm nữa ra bát, rưới sốt cà ri lên trộn đều. Sốt cà ri lấy nghệ làm chủ đạo, xào với hạt ngò, quế, ớt và các loại hương liệu khác, sau đó nấu cùng nước cốt dừa. Vị mặn cay hòa quyện với vị ngọt béo đặc trưng của nước cốt dừa, quả thực rất hợp để trộn cơm, nhưng ăn nhiều sẽ hơi ngấy.
+Cô thậm chí còn nảy ra một ý tưởng táo bạo: trộn cả canh Tom Yum và sốt cà ri vào cơm. Khi muốn ăn chua hơn thì chan nhiều canh, lúc muốn đậm vị hơn thì cho thêm sốt cà ri. Hai loại nước dùng hòa vào nhau, vị chua của Tom Yum làm dịu đi cái ngấy của cà ri, còn cà ri lại khiến canh Tom Yum trở nên sánh đặc hơn, không ngờ lại hợp nhau đến lạ. Cứ thế, cô ăn xen kẽ hai loại cơm trộn, càng ăn càng thấy ngon. Nửa bát cơm còn lại cứ thế mà hết veo.
 
-Cơm trộn Tom Yum thì chua cay xen lẫn hương thơm tươi mát, cực kỳ kích thích vị giác. Thậm chí, cô còn nảy ra một ý tưởng táo bạo: trộn cả súp Tom Yum và sốt cà ri vào cơm. Nếu muốn ăn chua hơn thì thêm nhiều súp, muốn đậm vị hơn thì thêm nhiều sốt cà ri. Hai loại nước dùng hòa vào nhau, vị chua của Tom Yum làm dịu đi cái béo ngậy của sốt cà ri, trong khi sốt cà ri lại khiến súp Tom Yum trở nên sánh đặc, đậm đà hơn. Đó là một sự kết hợp bất ngờ.
+Thấy Hòa Ái Xích ăn ngon lành như vậy, Lâm Phỉ Hạnh cũng thấy hay hay, cô ấy bèn bắt chước chan nước dùng vào cơm, thậm chí còn ăn nhanh hơn cả cô.
 
-Cứ thế, cô ăn xen kẽ hai loại cơm trộn, càng ăn càng thấy ngon. Nửa bát cơm còn lại thoáng cái đã hết sạch.
+Ba món ăn đã được xử lý sạch sẽ, chỉ còn lại nước dùng. Hai người vốn đã ăn lót dạ buổi sáng trước khi đến, thực ra đã no đến tám phần, nhưng vẫn còn thòm thèm nhìn nhau.
 
-Lâm Phi Hành thấy cách ăn của Hòa Ái Xích có vẻ thú vị nên cũng bắt chước trộn súp vào cơm, tốc độ ăn còn nhanh hơn cả bạn mình.
+Lâm Phỉ Hạnh thăm dò: "Hay gọi thêm bát cơm nữa hai đứa mình ăn chung nhé?"
 
-Cả ba món gọi ra đều đã được dọn sạch, chỉ còn lại chút nước dùng. Hai người họ đã ăn sáng trước khi đến đây, thực ra đã no đến tám phần, vậy mà vẫn nhìn nhau với ánh mắt đầy tiếc nuối.
+Hòa Ái Xích gọi luôn: "Chị ơi, cho thêm một bát cơm nữa!"
 
-Lâm Phi Hành ngập ngừng hỏi:
+Cơm ba tệ một bát. Ăn uống no nê, thanh toán hết 203 tệ.
 
-"Hay là gọi thêm một bát cơm nữa, hai đứa mình chia nhau nhé?"
+Lâm Phỉ Hạnh xoa bụng bảo đã no căng, vậy mà vừa ra khỏi cửa quán đã hỏi Hòa Ái Xích có muốn uống trà sữa không. Thế là trên tay cô lại có thêm một ly trà sữa.
 
-Hòa Ái Xích gọi lớn:
-
-"Phục vụ, cho thêm một bát cơm!"
-
-Một bát cơm giá ba tệ. Ăn no nê xong, thanh toán hết 203 tệ. Lâm Phi Hành xoa bụng, quả quyết rằng mình đã no căng. Vậy mà vừa ra khỏi quán, cô ấy đã quay sang hỏi Hòa Ái Xích có muốn uống trà sữa không.
-
-Và thế là trên tay Hòa Ái Xích có thêm một ly trà sữa.
-
-Trà sữa mới uống được hai ngụm, cô ấy lại bảo tối muốn ăn lẩu, và bữa lẩu đó cô ấy sẽ mời.
+Trà sữa mới uống được hai ngụm, cô ấy lại bảo tối nay muốn ăn lẩu, và lẩu cô ấy mời.
 
 Trời ạ.
 
-Trước khi đến giờ ăn lẩu, Lâm Phi Hành kéo Hòa Ái Xích đi dạo quanh trung tâm thương mại. Chỉ đi dạo thôi, không mua sắm. Đồ trong trung tâm thương mại thật sự rất đắt, một bộ quần áo có thể dễ dàng lên tới ba bốn nghìn tệ, dĩ nhiên cũng có những thương hiệu thời trang nhanh giá rẻ hơn. Nhưng họ chỉ đi dạo chứ không mua, chủ yếu là để không tốn tiền. Lâm Phi Hành bảo làm vậy vừa giúp giảm cân tiêu thực, vừa có thời gian trò chuyện để gắn kết tình cảm.
+Trước bữa lẩu không có việc gì làm, Lâm Phỉ Hạnh kéo Hòa Ái Xích đi lượn lờ trung tâm thương mại. Đúng nghĩa chỉ đi lượn chứ không mua. Đồ trong trung tâm thương mại thực sự rất đắt, một chiếc áo sơ sài cũng đã ba bốn ngàn tệ, tất nhiên cũng có những thương hiệu thời trang nhanh rẻ hơn. Nhưng hai người chỉ đi ngắm chứ không mua, tiêu chí hàng đầu là không tốn một xu. Lâm Phỉ Hạnh nói làm vậy vừa giúp giảm cân tiêu thực, vừa đi vừa trò chuyện còn có thể bồi đắp tình cảm.
 
-Nói rồi, cô ấy lại kéo Hòa Ái Xích xuống khu ẩm thực ở tầng hầm, mua hai xiên kẹo hồ lô. Một xiên vị dâu, một xiên vị sơn tra, hai người đổi cho nhau ăn.
+Nói rồi cô ấy liền kéo Hòa Ái Xích xuống tầng hầm một của trung tâm thương mại, nơi có khu ẩm thực, và mua hai xiên kẹo hồ lô. Một xiên vị dâu, một xiên vị sơn tra, hai người đổi cho nhau ăn.
 
-Lâm Phi Hành vừa nhai lớp đường giòn tan trong miệng vừa nói:
+Lâm Phỉ Hạnh vừa nhai lớp đường vừa nói: "Dạo này Cáp Nhĩ Tân hot quá mà tớ lại không đi được, ngày nào cũng lướt video toàn thấy người ta giới thiệu kẹo hồ lô Đông Bắc, làm tớ thèm chết đi được... Ui ngọt quá, đường dính tay rồi, ăn xong đi rửa tay rồi mình mua ly trà nguyên chất uống cho đỡ ngọt đi."
 
-"Dạo này Cáp Nhĩ Tân nổi tiếng quá mà mình không đi được. Ngày nào lướt video cũng thấy người ta quảng cáo kẹo hồ lô Đông Bắc, thèm chết đi được..."
+Hai người cứ thế đi lang thang, lượn lờ đến tận bảy giờ tối mới đi ăn lẩu.
 
-"Ui, ngọt quá, đường dính cả vào tay rồi. Ăn xong mình đi rửa tay, rồi mua một ly trà nguyên chất cho đỡ ngọt nhé."
-
-Hai cô gái cứ thế đi lang thang, vậy mà cũng đến được bảy giờ tối để đi ăn lẩu.
-
-Ăn xong bữa lẩu, Hòa Ái Xích mới nhận ra có gì đó không ổn.
+Ăn lẩu xong, Hòa Ái Xích mới nhận ra có gì đó không ổn.
 
 "Sao cậu lại chơi đến giờ này?"
 
-Mấy hôm trước lúc hẹn ăn, Lâm Phi Hành còn nói cuối tuần bận nhiều việc, ăn trưa xong là phải về ngay. Sao bây giờ vẫn còn ở đây?
+Mấy hôm trước lúc hẹn ăn, Lâm Phỉ Hạnh còn bảo cuối tuần nhiều việc, ăn trưa xong là phải về ngay. Sao bây giờ vẫn còn ở đây?
 
-*Một khả năng lóe lên trong đầu Hòa Ái Xích, cô trố mắt nhìn bạn.*
+Một khả năng lóe lên trong đầu Hòa Ái Xích, cô trố mắt: "Cậu không phải là định đi ăn đậu phụ thối đấy chứ?!"
 
-"Chẳng lẽ bây giờ cậu định đi ăn đậu phụ thối đấy à?!"
-
-Lâm Phi Hành cười một cách bí ẩn.
+Lâm Phỉ Hạnh cười bí hiểm.
 
 "Hì hì."
 
 Hòa Ái Xích: "..."
 
-"Thảo nào lúc nãy ăn lẩu cậu lại chừa bụng!"
+"Bảo sao lúc nãy ăn lẩu cậu cứ giữ bụng!"
 
-Thế là, Hòa Ái Xích, người vừa ăn lẩu xong, lại dắt Lâm Phi Hành đi tìm ông chủ Trần bán đậu phụ thối.
+Thế là, vừa ăn lẩu xong, Hòa Ái Xích lại dẫn Lâm Phỉ Hạnh đi tìm ông chủ Trần bán đậu phụ thối. Ăn xong đậu phụ thối, Lâm Phỉ Hạnh mới chịu hài lòng ra về.
 
-Ăn xong đậu phụ thối, Lâm Phi Hành mới hài lòng ra về. Hòa Ái Xích cũng rất hài lòng, vì lúc đi tìm ông chủ Trần, họ đã phát hiện ra một địa điểm bán hàng rong mới – ngay cạnh thành phố quần áo.
+Hòa Ái Xích cũng rất hài lòng, vì lúc đi tìm ông chủ Trần, họ lại phát hiện ra một địa điểm bán hàng rong mới – ngay cạnh Chợ Quần Áo.
 
-Thành phố quần áo thực chất là một khu chợ bán sỉ quần áo. Hầu hết các cửa hàng ở đây đều kinh doanh sỉ, có cả những xưởng phát sóng trực tiếp bán quần áo. Công nhân ở đây tan làm khá muộn, từ tám đến mười giờ tối mới là lúc họ lục tục ra về. Lượng người qua lại rất đông, và các quầy hàng ăn uống cũng mọc lên san sát.
+Chợ Quần Áo thực chất là một khu chợ bán sỉ quần áo, phần lớn là các xưởng vừa kinh doanh sỉ vừa phát sóng trực tiếp bán hàng. Công nhân ở đó tan làm khá muộn, khoảng từ tám giờ đến mười giờ tối mới là lúc họ lục tục ra về. Người đông, các quán ăn vặt cũng nhiều.
 
-Trong lúc Lâm Phi Hành xếp hàng mua đậu phụ thối, Hòa Ái Xích tranh thủ chạy đến một quầy rau củ kho gần đó mua 20 tệ đồ ăn, định bụng lát nữa về nhà vừa xem phim vừa nhâm nhi. Tiện thể, cô hỏi luôn số điện thoại và giờ mở cửa của chủ quán rồi nhập thông tin vào **Cộng Đồng Đánh Giá Độc Đáo**.
+Nhân lúc Lâm Phỉ Hạnh xếp hàng mua đậu phụ thối, Hòa Ái Xích chạy sang quầy bên cạnh mua 20 tệ đồ nguội, định bụng lát nữa về nhà vừa xem phim vừa nhâm nhi. Tiện thể, cô xin luôn số điện thoại và giờ mở cửa của ông chủ quán, rồi nhập thông tin vào Cộng Đồng Đánh Giá Độc Đáo.
 
-Quầy rau kho này không giống như Đậu phụ thối Trần Ký, chỉ có một gánh hàng, không có nhóm chat hay tên cửa hàng. Vì vậy, cô đành đặt bừa một cái tên: "Quầy rau kho cạnh Thành phố Quần áo".
+Quán đồ nguội này khác với Đậu phụ thối Trần Ký, chỉ có một chiếc xe đẩy, không có nhóm chat hay tên quán. Vì vậy, cô đành tự bịa ra một cái tên: Quán đồ nguội cạnh Chợ Quần Áo.
 
-Không biết có phải vì cái tên do cô tự nghĩ ra và thông tin còn sơ sài hay không, mà sau khi thông tin về quán được duyệt, **Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng** chỉ thưởng cho cô 200 tệ, kém xa con số 500 tệ của quán Trần Ký.
+Không biết có phải vì tên do cô tự đặt và thông tin còn sơ sài hay không mà sau khi dữ liệu về quán được duyệt, Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng chỉ thưởng cho cô 200 tệ, kém xa so với 500 tệ của quán Trần Ký.
 
-Nhưng 200 tệ cũng là nhiều rồi. Hòa Ái Xích nhìn số dư tăng lên trong tài khoản của mình mà lòng vui phơi phới. *Con người nên biết đủ thì mới vui vẻ được.*
+Nhưng 200 tệ cũng là nhiều rồi. Nhìn số tiền tăng lên trong tài khoản, Hòa Ái Xích vẫn thấy khá vui. *Người ta phải biết đủ thì mới vui vẻ được chứ.*
 
-Để hoàn thành nhiệm vụ đánh giá hàng ngày, cô nếm thử một chút đồ kho vừa mua. Ừm, không ngoài dự đoán, chẳng có gì đặc sắc. Ăn được, thế thôi. Không gian cũng không được tốt cho lắm. Tổng thể chấm khoảng ba sao là vừa.
+Để hoàn thành nhiệm vụ đánh giá hàng ngày, Hòa Ái Xích nếm thử một chút đồ nguội vừa mua. Ừm, không ngoài dự đoán, chẳng có gì đặc sắc, ăn cũng được, vậy thôi. Về phần không gian cũng chẳng có gì đặc sắc, tổng điểm cho ba sao là vừa.
 
-Từng là sinh viên đại học ở Bành Thành và đã sống ở thành phố hạng nhất này vài năm, cô đã nếm trải không ít lần bị các hàng quán vỉa hè ở đây cho ăn "cú lừa" đau đớn. Một gánh hàng ngon như Đậu phụ thối Trần Ký thực sự là của hiếm có một không hai. Trong số chín mươi chín hàng còn lại, phải đến năm mươi lăm phần trăm là tàm tạm, năm phần trăm ăn được, ba mươi phần trăm là dở tệ, và chín phần trăm còn lại thì khó nuốt đến mức kinh hoàng.
+Là người từng học đại học ở Bằng Thành và đã sống ở thành phố hạng nhất này nhiều năm, Hòa Ái Xích đã bị các gánh hàng rong ở đây "hành" cho tơi tả không biết bao nhiêu lần. Một quán nhỏ ngon như Đậu phụ thối Trần Ký đúng là của hiếm có một không hai. Trong chín mươi chín quán còn lại, 55% ở mức trung bình, 5% khá ổn, 30% là dở, và 9% là cực kỳ dở.
 
-Ồ, bạn hỏi tại sao không có loại "ngon" ư? Chẳng phải đã bị cái của hiếm có một không hai kia chiếm mất rồi sao?
+À, bạn hỏi tại sao không có quán nào ngon à? Thì chẳng phải đã bị loại ra thành "của hiếm có một không hai" rồi sao.
 
-Tỷ lệ dở tệ đáng sợ như vậy là điều không thể tưởng tượng nổi ở quê của Hòa Ái Xích. Ở một thành phố có dân số địa phương ít và lượng khách vãng lai không nhiều, kinh doanh ăn uống quan trọng nhất là hương vị và uy tín. Giữ chân khách quen là điều cốt yếu. Nếu đồ ăn không ngon, khách chỉ đến một lần rồi không quay lại, quán sẽ sớm phải dẹp tiệm. Vì vậy, những ai có thể mở nhà hàng hay gánh hàng rong đều phải có tay nghề nhất định mới trụ lại được.
+Cái tỷ lệ dở tệ đến đáng sợ này là điều không thể tưởng tượng nổi ở quê của Hòa Ái Xích. Ở một thành phố có dân số địa phương ít, dân di cư cũng không nhiều, kinh doanh ăn uống quan trọng nhất là hương vị và uy tín. Giữ chân được khách quen là điều cốt yếu. Nếu đồ ăn không ngon, khách đến một lần rồi không quay lại, quán sẽ sớm dẹp tiệm. Vì vậy, những ai mở quán ăn hay bán hàng rong đều phải có tay nghề mới trụ lại được.
 
-Nhưng ở Bành Thành thì khác. Bán đồ ăn vặt vỉa hè là một ngành kinh doanh siêu lợi nhuận. Chi phí không cao, lượng người qua lại cực lớn, chỉ cần món ăn có hương vị tàm tạm và giá rẻ hơn trong quán là có thể kiếm được tiền. Ngay cả khi đồ ăn dở tệ, giá lại cao, chỉ cần cắm chốt ở những nơi đông người để chờ "gà" sa bẫy thì vẫn kiếm được kha khá. Không có tay nghề cũng có thể mở hàng.
+Ở Bằng Thành thì khác. Bán đồ ăn vặt ở vỉa hè là một vốn bốn lời, chi phí không cao mà lưu lượng người qua lại cực lớn. Chỉ cần hương vị tạm ổn, giá rẻ hơn trong quán một chút là có thể kiếm được tiền. Thậm chí dù đồ ăn không ngon, giá lại cao hơn, chỉ cần chọn những nơi đông người để chờ "gà" sa bẫy thì cũng kiếm được kha khá. Không có tay nghề vẫn có thể mở quán.
 
-Cái gọi là "không có tay nghề" ở đây không phải là thiếu kỹ năng độc đáo gì, mà chỉ đơn giản là trình độ nấu nướng cơ bản. Cô thật sự không tài nào hiểu nổi, tại sao có những gánh hàng rong lại có thể biến một món đơn giản như khoai tây răng sói trở nên khó ăn đến thế.
+"Không có tay nghề" ở đây không phải là thiếu bí quyết gia truyền gì cả, mà chỉ đơn giản là những kỹ năng nấu nướng cơ bản nhất. Thật khó hiểu tại sao có những quán hàng rong lại có thể làm một món đơn giản như khoai tây răng cưa dở đến vậy.
 
-Hồi còn học đại học, cô từng mua một bát khoai tây răng sói giá 10 tệ dưới chân một cây cầu vượt. Cô đứng nhìn bà chủ xào khoai tây trên một tấm sắt, xào rất lâu, trông có vẻ bận rộn nhưng chẳng ra đâu vào đâu. Món ăn có vị rất kỳ diệu: dù được đảo qua đảo lại rất lâu, nhưng lớp vỏ ngoài không hề giòn mà lại khô khốc, còn bên trong thì có cảm giác như vừa chín tới. Đã thế, vị mặn, cay, chua đều nhàn nhạt, lại còn keo kiệt không cho nổi vài hạt vừng. Hành lá thì không biết đã được cắt từ bao giờ, nhìn đã khô quắt lại.
+Hồi đại học, Hòa Ái Xích từng mua một bát khoai tây răng cưa giá mười tệ dưới chân một cây cầu vượt. Cô đứng nhìn người phụ nữ bán hàng xào khoai trên một tấm sắt, xào rất lâu, trông có vẻ bận rộn nhưng thực ra chẳng làm gì nhiều. Ăn vào thấy thật kỳ diệu, rõ ràng đã được xào rất lâu nhưng lớp vỏ ngoài không giòn mà lại khô khốc, bên trong thì có cảm giác như vừa chín tới. Gia vị thì mặn không ra mặn, cay không ra cay, chua cũng chẳng tới, đã thế còn keo kiệt không cho nổi vài hạt vừng. Hành lá thì không biết đã được cắt từ bao giờ, nhìn đã khô quắt lại.
 
-Đáng sợ nhất là, cô ăn khoai mà lại nếm ra vị gừng, nhưng khi lật tung cả bát khoai lên thì không thấy một mẩu gừng nào. Đây có thể được xem là cảnh giới cao nhất của việc ăn gừng: nếm thấy gừng mà không thấy gừng!
+Điều kinh khủng nhất là cô còn nếm thấy vị gừng trong món khoai tây, nhưng lục tung cả bát lên cũng không tìm thấy một mẩu gừng nào. Đúng là cảnh giới cao nhất của việc ăn gừng: ăn gừng mà chẳng thấy gừng đâu! Ăn xong mà chỉ muốn bắt đầu bếp phải xin lỗi củ khoai tây.
 
-Món ăn dở đến mức khiến người ta chỉ muốn bắt đầu bếp phải xin lỗi củ khoai tây.
-
-Viết xong bài đánh giá, Hòa Ái Xích vừa xem phim truyền hình vừa gặm đồ kho. Cuối cùng, cô cũng xử lý xong đống đồ ăn trước 12 giờ đêm và nhận được khoản hoàn tiền 20 tệ từ ứng dụng.
-
-Đồ kho bây giờ đúng là đắt thật, 20 tệ chỉ mua được vài miếng chân gà ngâm chanh, hai cái cánh vịt và một bộ xương vịt.
+Viết xong bài đánh giá, Hòa Ái Xích vừa xem phim vừa gặm đồ nguội. Cuối cùng, cô cũng xử lý xong đĩa đồ nguội trước 12 giờ đêm và nhận được 20 tệ tiền hoàn lại từ ứng dụng. Đồ nguội bây giờ đúng là đắt thật, 20 tệ chỉ mua được vài cái chân gà ngâm chanh, hai cái cánh vịt và một bộ xương vịt.
 
 ...
 
-Quản lý của quán hoành thánh Lão Hải vừa tan làm. Anh nghĩ đến món đậu phụ thối Trần Ký đã ăn tối qua mà không tài nào kìm được, vừa tan ca là đôi chân lại tự động rảo bước về phía khu làng trong thành phố.
+Quản lý của quán Hoành Thánh Lão Hải vừa tan làm. Nhớ lại món đậu phụ thối Trần Ký ăn tối qua, anh ta không thể kìm lòng được, đôi chân tự động rảo bước về phía khu làng trong thành phố đối diện. Món này ăn vào đúng là gây nghiện thật mà, nhất là hôm qua ăn chưa đã thèm, nên hôm nay lại càng nhớ.
 
-Món này ăn vào đúng là gây nghiện thật, đặc biệt là hôm qua ăn chưa đã thèm, nên hôm nay lại càng nhớ nhung hơn. Anh nghĩ, đậu phụ thối phải ăn kèm ớt mới ngon, nhưng ăn nhiều ớt dễ bị sặc nên vẫn cần có gì đó để uống cùng. Người quản lý liền ghé vào cửa hàng tiện lợi mua một chai bia lạnh.
-
-Anh định lát nữa sẽ nhâm nhi cùng với đậu phụ thối.
+Nghĩ rằng đậu phụ thối phải ăn với ớt mới đã, nhưng ăn nhiều ớt dễ bị sặc, nên phải có đồ uống đi kèm, người quản lý liền ghé vào cửa hàng tiện lợi mua một chai bia lạnh, chuẩn bị lát nữa thưởng thức cùng đậu phụ thối.

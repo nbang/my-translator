@@ -1,115 +1,143 @@
-# Chương 36: Ý Tưởng Bất Chợt
+### **Chương 36**
 
-Món thịt bò băm thảo mộc kiểu Thái này không chỉ ít dầu mỡ mà còn mang đậm hương vị của chảo gang, thoang thoảng mùi cháy xém đặc trưng, chắc chắn phải được xào trên lửa lớn mới có được hiệu quả như vậy. Thịt bò băm khô thơm, cay nhẹ, quyện với cơm trắng đã trung hòa hoàn hảo vị mặn hơi gắt. Thỉnh thoảng điểm thêm chút xà lách tươi giòn để chống ngán, cứ thế mà cả bát cơm vèo một cái đã hết, chỉ muốn gọi thêm bát nữa.
+---
 
-Hòa Ái Xích đang nhai rau diếp, ăn đến độ hăng say, cô định gọi phục vụ cho thêm một bát cơm nữa thì lý trí kịp kéo lại. Cô biết rõ mình không thể nào ăn thêm một bát nữa. Hơn nữa, còn một vấn đề khác. Phần thịt bò băm thảo mộc kiểu Thái giá 45 tệ này khá nhiều, rõ ràng không phải suất ăn cho một người, và cô có vẻ không thể ăn hết được...
+Đĩa thịt bò băm lá húng quế kiểu Thái này ăn không hề ngấy dầu, lại còn dậy lên mùi thơm đặc trưng của chảo gang, một hương thơm khô hanh xen lẫn chút cháy cạnh, rõ ràng không phải được xào bằng lửa nhỏ. Hẳn là phải xóc chảo trên lửa lớn mới ra được hiệu quả thế này. Thịt bò băm thơm khô, hơi cay cay, ăn cùng cơm trắng là sự kết hợp hoàn hảo để trung hòa vị mặn có phần hơi đậm. Thỉnh thoảng lại cuốn cùng một lá xà lách tươi để giải ngấy, một bát cơm cứ thế bay vèo vào bụng, khiến người ta chỉ muốn gọi thêm bát nữa.
 
-Rau diếp ăn kèm chỉ còn lại hai lá. Một bát cơm, nửa cây xà lách cuộn thịt băm đã khiến cô no đến tám phần, nhưng đĩa thịt bò băm vẫn còn lại một nửa.
+Hòa Ái Xích vừa nhai miếng xà lách, đang ăn đến độ hăng say thì định bụng gọi nhân viên cho thêm bát cơm nữa, nhưng lý trí đã kịp kéo cô lại. Cô biết thừa mình không thể ăn thêm một bát cơm nào nữa.
 
-Vị của thịt bò băm khá đậm, nếu ăn không sẽ rất nhanh ngán. Nhưng nếu ăn với cơm thì suất ăn lại trở nên quá lớn, cô cũng không thể ăn hết. Mà ăn không hết thì không được thanh toán chi phí. Phải làm sao đây, mang về chăng?
+Và giờ có một vấn đề nảy sinh.
 
-*Xách nửa phần thịt bò băm thảo mộc kiểu Thái về nhà, Hòa Ái Xích có chút phiền lòng.*
+Suất thịt bò băm giá 45 tệ mà cô gọi khá đầy đặn, rõ ràng không phải suất ăn cho một người, xem ra cô không thể ăn hết được… Mấy lá xà lách ăn kèm thịt băm vẫn còn lại hai lá, một bát cơm với nửa cây xà lách cuộn thịt đã khiến cô no đến tám phần, vậy mà đĩa thịt bò vẫn còn lại một nửa.
 
-Cô không ngại ăn đồ thừa, vấn đề là trong căn phòng trọ của cô dường như chẳng có thứ gì để hâm nóng lại chúng. Nếu có nồi cơm điện, cô có thể nấu một ít cơm rồi cho thịt băm vào trộn đều, hâm nóng là thành món cơm bò băm kiểu Thái. Nếu có lò vi sóng, cô có thể mua một hộp cơm trong làng đô thị, hoặc một cây xà lách ngoài siêu thị, hâm nóng thịt băm rồi ăn cùng. Thậm chí, nếu có bếp và nồi, cô chỉ cần cho thịt vào xào nóng lại là xong.
+Thịt bò băm mà ăn không thì vị quá gắt, chỉ ăn hai thìa là bắt đầu thấy ngán, nên không thể ăn trực tiếp được. Nhưng nếu ăn cùng cơm thì suất ăn sẽ càng lớn hơn, cô cũng chẳng thể nào xử lý hết.
 
-Tiếc là cô chỉ có một chiếc nồi điện màu trắng xinh xắn, loại nổi tiếng trên mạng. Cái nồi này có chế độ bảo vệ quá nhiệt, chỉ cần nhiệt độ nồi vượt quá một mức nhất định là sẽ tự động ngắt điện. Trứng còn chẳng rán chín nổi, nói gì đến xào nấu. Thịt bò băm mà cho vào đảo được hai lượt, chắc chắn đã ngắt điện trước khi kịp nóng hẳn.
+Ăn không hết thì sẽ không được thanh toán.
 
-Thịt bò, trừ khi là loại được chế biến đặc biệt để ăn nguội, nếu không thì dù có xào với loại thảo mộc nào đi nữa, khi nguội đi bề mặt cũng sẽ đọng lại một lớp mỡ bò đông đặc, ăn vào rất khó chịu.
+*Làm sao bây giờ, gói mang về chăng?*
 
-"Không lẽ cho nước vào đun sôi để hâm nóng..."
+Mang nửa suất thịt bò băm lá húng quế kiểu Thái về nhà, Hòa Ái Xích có hơi phiền muộn. Cô không ngại ăn đồ thừa, vấn đề là căn phòng trọ của cô dường như chẳng có gì để hâm nóng thức ăn cả.
 
-*Hình như cũng không phải là không được?*
+Nếu có nồi cơm điện, cô có thể nấu một ít cơm, sau đó cho thịt bò băm vào trộn đều, hâm nóng một lát là có ngay một bát cơm bò băm kiểu Thái.
 
-Hòa Ái Xích chợt lóe lên một ý nghĩ, cô lập tức chạy xuống lầu, vào khu chợ nhỏ trong làng đô thị mua hai tệ phở tươi.
+Nếu có lò vi sóng, cô có thể mua một hộp cơm ở khu trọ, hoặc mua một cây xà lách trong siêu thị, cho thịt bò băm vào lò vi sóng hâm nóng rồi ăn kèm.
 
-Phở là loại bánh sợi có hình dẹt và rộng, ở một số nơi còn được gọi là mì gạo, bánh đa hay bánh cuốn thái sợi. Gạo được xay thành bột, hoặc ngâm nước rồi xay thành tương, sau đó tráng mỏng trên nồi hấp, khi chín thì cắt thành sợi. Lúc ăn chỉ cần chần qua nước sôi là được.
+Thậm chí nếu có bếp và chảo, cô có thể trực tiếp cho thịt bò vào xào nóng lại, rồi ăn cùng những thứ khác.
 
-Phở làm từ tương gạo nguyên chất rất ngon. Dù đã được xay và hấp thành dạng bánh, nó vẫn giữ được đặc tính thấm hút hương vị của gạo. Kể cả khi tráng hơi dày một chút, khi cho vào nước dùng, nó vẫn cực kỳ dễ ngấm gia vị.
+Tiếc là cô chỉ có một chiếc nồi điện màu trắng xinh xắn, loại đang thịnh hành trên mạng. Cái nồi này có chế độ bảo vệ quá nhiệt, chỉ cần nhiệt độ trong nồi vượt quá mức quy định là sẽ tự động ngắt điện, đến trứng còn chẳng chiên chín nổi, nói gì đến xào nấu. Thịt bò băm mà cho vào đảo hai lượt, đảm bảo chưa kịp nóng đều đã ngắt điện. Thịt bò, trừ khi là loại được chế biến đặc biệt để ăn nguội, còn không thì dù xào với loại lá thơm nào đi nữa, một khi nguội đi bề mặt sẽ đọng lại một lớp mỡ bò đông lại, ăn vào rất khó chịu.
 
-Tiếc thay, bây giờ rất khó mua được loại phở như vậy. Ở Bành Thành, hầu hết phở bán ngoài chợ đều được pha thêm bột năng hoặc thậm chí là bột mì để giữ được độ tươi hoặc để bánh không bị nát khi nấu. Điều này khiến sợi phở trông trong suốt, dẻo dai, không dễ nát nhưng lại khó ngấm vị, biến một món ăn tinh túy thành một sản phẩm của "công nghệ phụ gia". Tại Bành Thành, một thành phố mà hầu hết mọi người đều tập trung vào việc kiếm tiền, ngay cả những xưởng chuyên sản xuất phở tươi hàng ngày cũng không hiểu được ý nghĩa của hạt gạo đối với sợi phở.
+“Chẳng lẽ lại cho nước vào đun sôi lên à…”
 
-May mắn là ở chợ truyền thống thỉnh thoảng vẫn có thể mua được loại phở có hàm lượng gạo cao hơn. Tuy không ngon bằng phở ở quê nhà Hòa Ái Xích, nhưng vẫn tốt hơn nhiều so với loại "phở" đóng gói kỳ lạ trong siêu thị.
+“Hình như… cũng không phải là không được?”
 
-Để phở và thịt bò băm vừa mua ngoài ban công mát mẻ cho tươi, Hòa Ái Xích ngồi trên ghế đẩu bắt đầu biên tập cảnh quay, đồng thời suy nghĩ kịch bản cho lời thoại. Vừa dựng phim, cô vừa liên tục liếc nhìn điện thoại, không phải vì lười biếng, mà vì chiếc máy tính bảng cô trúng thưởng hôm nay sẽ được giao đến!
+Hòa Ái Xích nảy ra một ý, cô lập tức lao xuống lầu, chạy vào khu chợ nhỏ trong xóm trọ, mua 2 tệ bánh phở tươi.
 
-Cô thỉnh thoảng lại làm mới thông tin vận chuyển trên điện thoại, miệng lẩm bẩm: "Chẳng phải đã bắt đầu giao từ sáng rồi sao? Sao giờ vẫn chưa tới nhỉ?"
+Bánh phở là loại sợi dẹt và rộng. Ở một vài nơi, loại sợi tương tự sẽ được gọi là mì gạo, bánh đa hay hủ tiếu. Gạo được xay thành bột, hoặc ngâm nước rồi xay cùng nước thành bột浆, sau đó tráng trên nồi hấp, hấp chín rồi cắt thành sợi, khi ăn chỉ cần trụng sơ qua nước sôi.
 
-Vì không tập trung nên tiến độ dựng video của cô rất rời rạc. Mãi cho đến khi người giao hàng gọi điện, cô vẫn chưa xử lý xong một chút cảnh quay nào.
+Bánh phở làm từ bột gạo nguyên chất ngon vô cùng, dù đã được xay mịn và tráng thành lớp bánh mỏng, nó vẫn giữ được đặc tính thấm hút hương vị của hạt gạo. Kể cả khi tráng hơi dày một chút, chỉ cần cho vào nước dùng là rất dễ ngấm vị.
 
-"Chị ký xác nhận vào đây nhé."
+Tiếc thay, bây giờ rất khó mua được loại bánh phở này. Ở thành phố Bằng, bánh phở bán trên thị trường đa phần đều được thêm các nguyên liệu như bột năng hay thậm chí là bột mì để bảo quản được lâu hoặc để khi nấu không bị nát. Điều này làm cho sợi phở trông trong suốt, dai giòn và khó nát, nhưng đồng thời cũng khó ngấm gia vị, biến một món ngon thần kỳ thành một sản phẩm của công nghệ và phụ gia.
 
-Anh chàng giao hàng cẩn thận đưa kiện hàng cho Hòa Ái Xích.
+Tại thành phố Bằng, nơi mà hầu hết mọi người chỉ tập trung vào việc kiếm tiền, ngay cả những nhà máy chuyên sản xuất bánh phở tươi hàng ngày cũng không hiểu được ý nghĩa của hạt gạo đối với sợi phở.
 
-"Tôi mở ra kiểm tra trước rồi ký được không?"
+May mắn là ở chợ đôi khi vẫn có thể mua được loại bánh phở có hàm lượng gạo cao hơn một chút. Tuy không ngon bằng ở quê nhà của Hòa Ái Xích, nhưng vẫn tốt hơn loại "bánh phở" kỳ lạ trong siêu thị mà chỉ cần nhìn qua bao bì đã thấy có vấn đề.
 
-Nói rồi, cô bắt đầu mở gói hàng ngay trước mặt anh chàng giao hàng. Bình thường cô không cẩn thận đến thế, nhưng trong hộp là một chiếc máy tính bảng. Dù không biết là thương hiệu hay mẫu mã gì, nó vẫn là một món đồ có giá trị.
+Cất bánh phở và thịt bò băm vừa mua ra ban công mát mẻ để giữ tươi, Hòa Ái Xích ngồi trên ghế đẩu dựng lại đoạn phim vừa quay, đồng thời suy nghĩ xem nên viết lời bình thế nào. Vừa dựng phim, cô vừa không ngừng liếc nhìn điện thoại.
 
-Anh chàng giao hàng cũng tò mò ghé mắt nhìn, còn hỏi cô có cần dao rọc giấy không. Không biết có phải vì là hàng giá trị cao không mà hộp hàng được đóng gói cực kỳ chắc chắn. Hòa Ái Xích phải gỡ mấy lớp mới lấy được chiếc máy tính bảng ra.
+Không phải là cô đang lười biếng.
 
-Ngay khi logo hiện ra, cô biết phen này ổn rồi, không phải hàng rẻ tiền.
+Mà là chiếc máy tính bảng cô trúng thưởng hôm nay sẽ được giao đến!
 
-Sau khi xác nhận máy có thể khởi động, Hòa Ái Xích ký nhận rồi quay vào nhà nghiên cứu chiếc máy tính bảng.
+Cô thỉnh thoảng lại dùng điện thoại làm mới thông tin vận chuyển, miệng lẩm bẩm: “Sáng nay đã bắt đầu giao hàng rồi mà, sao giờ vẫn chưa tới nhỉ.”
 
-"Mẫu gì đây nhỉ? Còn có cả bút nữa."
+Vì mất tập trung, tiến độ dựng video của cô rời rạc vô cùng, mãi cho đến khi nhân viên giao hàng gọi điện đến cửa, cô vẫn chưa xử lý xong chút tư liệu đó.
 
-*Mẫu flagship mới nhất, có vẻ đắt lắm đây. Bộ nhớ bao nhiêu nhỉ?*
+“Xác nhận nhận hàng thì ký tên vào đây ạ.” Anh chàng giao hàng cẩn thận đưa kiện hàng cho Hòa Ái Xích.
 
-"???"
+“Tôi mở ra kiểm tra trước rồi ký được không?”
 
-"2TB?"
+Nói rồi, Hòa Ái Xích bắt đầu mở gói hàng ngay trước mặt anh chàng giao hàng. Bình thường cô không cẩn thận đến thế, nhưng trong hộp là một chiếc máy tính bảng, tuy không biết là hiệu gì, mẫu mã ra sao, nhưng máy tính bảng thì vẫn đáng tiền.
 
-*Khoan đã, đây là đơn vị gì vậy? Đây là dung lượng bộ nhớ có thể xuất hiện trên máy tính bảng sao?*
+Anh chàng giao hàng cũng ngó theo xem cô mở hàng, còn hỏi cô có cần dao rọc giấy không.
 
-Hòa Ái Xích, người chưa từng thấy chuyện đời, đứng ngây ra tại chỗ, sau đó mở ứng dụng mua sắm và bắt đầu tìm kiếm giá của chiếc máy tính bảng này.
+Chẳng biết có phải vì mua đồ giá trị hay không mà hộp hàng được đóng gói cực kỳ chắc chắn. Hòa Ái Xích phải gỡ mấy lớp mới lôi được chiếc máy tính bảng ra.
 
-"..."
+Logo vừa hiện ra, cô đã biết phen này ngon rồi, không phải hàng rẻ tiền.
 
-"Phiên bản cao cấp nhất... 19.799 tệ???"
+Xác nhận máy có thể khởi động, Hòa Ái Xích ký tên cho anh chàng giao hàng rồi quay vào nhà nghiên cứu chiếc máy tính bảng.
 
-... Xin cảm ơn.
+“Mẫu gì đây, còn có cả bút nữa.”
 
-Hòa Ái Xích cảm thấy mình quá hạnh phúc, hạnh phúc đến mức cô thấy mình phải nỗ lực làm việc mới xứng đáng với niềm vui này. Thế là cô ôm chiếc máy tính bảng mới, tựa vào giường, mở phần mềm video và bắt đầu học tập một cách nghiêm túc.
+“旗舰新款… Mẫu flagship mới nhất, hình như đắt lắm. Bộ nhớ bao nhiêu nhỉ?”
 
-Cô vừa xem các video ẩm thực đủ loại trên máy tính bảng, vừa nuốt nước bọt.
+“???”
 
-*Ra là vậy, ừm, video còn có thể cắt ghép thế này.*
+“2TB?”
 
-*Để xem các UP chủ nổi tiếng khác chọn quán như thế nào nhỉ? Họ có xem phần bình luận không...*
+*Khoan đã, đây là đơn vị gì vậy, là đơn vị bộ nhớ nên xuất hiện trên máy tính bảng sao?*
 
-*Trời, món lòng non này trông ngon quá.*
+Hòa Ái Xích, người chưa từng trải sự đời, đứng hình tại chỗ, sau đó mở ứng dụng mua sắm lên tìm kiếm giá của chiếc máy tính bảng này.
 
-... Sau một buổi chiều học tập chăm chỉ, cuối cùng Hòa Ái Xích cũng đói.
+?
 
-Nghĩ đến chỗ thịt bò băm và phở còn lại từ trưa, cô vội vàng bò dậy khỏi giường, vào bếp lấy chiếc nồi điện ra cọ rửa rồi đổ đầy nước vào. Vừa định cắm điện, cô chợt nhớ đến chuyên mục ghi chú ẩm thực đã mấy ngày chưa viết.
+“…”
 
-*Hay là quay một video ngắn về quá trình nấu phở này nhỉ?*
+“Bản cao cấp nhất… 19.799 tệ???”
 
-Người bình thường có lẽ sẽ không làm vậy. Rốt cuộc, ai lại muốn xem một video nhàm chán về đồ thừa và phở cơ chứ, làm nội dung cũng không thể qua loa đến thế.
+… Xin cảm ơn.
 
-Nhưng Hòa Ái Xích thì khác. Cô có nhiệm vụ. Dù video có tệ đến đâu, cô vẫn nhận được 3 điểm kinh nghiệm và 300 phiếu tăng lưu lượng từ chuyên mục. Hơn nữa, cô không hề thấy đây là qua loa. Dù sao cô cũng chưa từng thử quay video nấu nướng tại nhà, đây chính là một cơ hội tốt.
+Hòa Ái Xích cảm thấy mình quá đỗi hạnh phúc, hạnh phúc đến mức cô thấy mình phải nỗ lực làm việc mới xứng đáng với niềm hạnh phúc này.
+
+Thế là, cô ôm chiếc máy tính bảng mới tinh, tựa lưng vào giường, mở ứng dụng video và bắt đầu học tập một cách nghiêm túc. Cô vừa xem đủ các loại video ẩm thực trên máy tính bảng, vừa nuốt nước bọt.
+
+“Ra là vậy, ừm ừm, video còn có thể dựng theo cách này.”
+
+“Để xem các chủ kênh nổi tiếng khác chọn quán để khám phá như thế nào nhỉ? Có phải là xem khu bình luận không…”
+
+“Ưm, món sách bò này trông ngon quá.”
+
+…
+
+Sau một buổi chiều học tập chăm chỉ, Hòa Ái Xích đã đói meo.
+
+Nhớ đến phần thịt bò băm và bánh phở còn lại từ trưa, cô vội vàng bò dậy khỏi giường, vào bếp lôi chiếc nồi điện ra cọ rửa rồi đổ nước vào.
+
+Đang định cắm điện, cô chợt nhớ đến cuốn sổ tay ẩm thực đã mấy ngày chưa viết của mình.
+
+*Hay là thử quay quá trình nấu phở thành một video ngắn xem sao?*
+
+Người bình thường có lẽ sẽ không làm vậy, rốt cuộc thì ai lại muốn xem một video nhàm chán về món phở nấu từ đồ ăn thừa chứ, làm nội dung cũng không thể qua loa đến thế được.
+
+Nhưng Hòa Ái Xích thì khác, cô có nhiệm vụ. Dù video có quay tệ đến đâu, cô vẫn nhận được 3 điểm kinh nghiệm và 300 phiếu lưu lượng từ sổ tay. Hơn nữa, cô không hề cho rằng đây là qua loa, dù sao cô cũng chưa từng thử quay video nấu nướng tại nhà, đây chẳng phải là một cơ hội tốt sao.
 
 Nói là làm.
 
-Việc đầu tiên là dọn dẹp hiện trường. Mặc dù cô thường nấu ăn ở ban công, nhưng ban công trong làng đô thị thực sự rất xấu xí. Hơn nữa, bây giờ đã là buổi tối, không có ánh sáng tự nhiên, ánh sáng yếu ớt từ chiếc đèn ban công không đủ để quay phim. Chẳng thà quay trong nhà còn hơn.
+Việc đầu tiên là dọn dẹp hiện trường quay phim. Dù bình thường cô vẫn nấu ăn ở ban công, nhưng ban công của khu trọ thực sự rất xấu, hơn nữa bây giờ lại là buổi tối, không có ánh sáng tự nhiên, ánh đèn yếu ớt trên ban công không đủ để hoàn thành việc ghi hình.
 
-Hòa Ái Xích quay vào nhà, lau sạch chiếc bàn trà nhỏ màu trắng duy nhất, sau đó bày nguyên liệu lên bàn và chụp ảnh từng thứ một. Tiếp theo, cô dựng máy ảnh lên giá ba chân, điều chỉnh thành góc quay từ trên xuống, rồi lắp thêm đèn trợ sáng đi kèm khi mua giá đỡ.
+Thà quay trong nhà còn hơn.
 
-Sau khi xác nhận góc quay ổn thỏa, cô mang chiếc nồi điện đã đổ đầy nước vào nhà, cắm điện và bắt đầu quay.
+Hòa Ái Xích quay vào phòng, lau sạch chiếc bàn trà nhỏ màu trắng duy nhất, rồi bày nguyên liệu lên bàn và chụp ảnh riêng từng thứ. Sau đó, cô dựng máy ảnh lên chân máy, chỉnh sang chế độ quay từ trên xuống, rồi lắp thêm chiếc đèn trợ sáng được tặng kèm khi mua chân máy.
 
-Quá trình nấu phở thực ra không có gì đặc biệt. Cô đun sôi nước, cho thịt bò băm thảo mộc kiểu Thái vào trước, sau khi nước sôi lại thì cho phở vào, tắt điện, dùng đũa khuấy cho sợi phở tơi ra, cuối cùng nêm chút muối.
+Sau khi xác nhận góc quay không có vấn đề gì, cô mang chiếc nồi điện đã đổ đầy nước vào phòng, cắm điện và bắt đầu quay.
 
-Phở tươi ăn khác với những loại phở dai khác. Vì phở được hấp trực tiếp từ tương gạo nên nếu đun trong nước quá lâu, sợi phở sẽ bị nát, thậm chí tan ra thành nước. Nếu nấu ở hàng quán, người ta thường cho phở vào vợt, chần nhanh qua nước sôi rồi vớt ra cho vào bát nước dùng. Nấu ở nhà càng phải cẩn thận hơn về thời gian, vì phở vốn đã chín, chỉ cần dùng nước nóng chần cho mềm là được, không cần đun sôi.
+Quá trình nấu phở thực ra không có gì đặc biệt, chỉ là đun sôi nước, cho thịt bò băm lá húng quế kiểu Thái vào nấu trước, khi nước sôi lại thì cho bánh phở vào, tắt điện, dùng đũa khuấy cho sợi phở tơi ra, cuối cùng nêm thêm muối.
 
-Khi phở bò băm kiểu Thái đã nấu xong, Hòa Ái Xích nhanh chóng dùng đũa và thìa vun phần thịt băm lên trên để bát phở trông đầy đặn và hấp dẫn hơn, rồi chụp lại một tấm ảnh.
+Cách ăn bánh phở tươi có phần khác với một số loại bún phở dai khác. Do bánh phở được tráng trực tiếp từ bột gạo, nên nếu đun trong nước quá lâu, nó sẽ bị nát ra, thậm chí tan thành nước bột gạo. Nếu nấu ở hàng quán, người ta thường cho phở vào vợt, trụng sơ qua rồi vớt ra cho vào bát canh. Nấu ở nhà lại càng phải cẩn thận chú ý thời gian, vì bánh phở vốn đã chín, chỉ cần dùng nước nóng chần cho mềm ra là được, không cần đun sôi.
 
-Sau khi chắc chắn ảnh không bị mờ, cô quẳng hết đạo cụ quay phim lên giường, ngồi xuống và bắt đầu thưởng thức.
+Khi phở bò băm kiểu Thái đã nấu xong, Hòa Ái Xích vội dùng đũa và thìa vớt thịt bò băm lên trên mặt bát phở để trông đầy đặn và hấp dẫn hơn, rồi chụp lại một tấm ảnh.
 
-Hương vị có chút đặc biệt, nhưng không phải là một món ăn tệ.
+Xác nhận ảnh không bị mờ, Hòa Ái Xích quẳng hết đạo cụ quay phim lên giường, yên tâm ngồi xuống ăn.
 
-Hòa Ái Xích không biết Thái Lan có món bún bò không, nhưng cô biết Việt Nam thì có. Và một trong những loại phở của Việt Nam chính là ăn kèm với thịt bò. Các quốc gia Đông Nam Á có khí hậu tương đồng, các loại gia vị sử dụng cũng na ná nhau, như hành tây, húng quế... Đôi khi ẩm thực Thái Lan và Việt Nam có những điểm giao thoa. Chỉ có điều, tinh túy của phở bò Việt Nam là nước dùng hầm từ xương bò, còn nước dùng của cô chỉ là nước đun sôi bình thường, không thể nào tinh tế bằng.
+Hương vị có chút đặc biệt, nhưng không phải là một món ăn thảm họa.
 
-Thịt bò băm tẩm gia vị kiểu Thái được cho vào nước dùng phở đun sôi, hương thơm của bơ và thảo mộc hòa quyện vào nước dùng thoảng vị gạo, khiến bát phở nước trong này trở nên đậm đà hơn hẳn. Nửa phần thịt bò băm quả thực rất nhiều, đủ để mỗi gắp phở đều có thịt băm đi kèm. Hòa Ái Xích vừa ăn vừa dùng thìa xúc cả thịt băm lẫn phở, sợ ăn hết phở mà còn thừa lại thịt dưới đáy nồi.
+Hòa Ái Xích không biết ở Thái Lan có món phở bò nào không, nhưng cô biết Việt Nam có phở. Và một trong những loại phở Việt Nam chính là ăn kèm với thịt bò. Khí hậu của một vài quốc gia Đông Nam Á khá tương đồng, các loại gia vị được sử dụng cũng na ná nhau, ví dụ như hành tây, húng quế… nên ẩm thực Thái Lan đôi khi cũng có nét tương đồng với ẩm thực Việt Nam.
 
-Thịt bò băm vốn hơi mặn sau khi được nấu trong nước dùng thì vị trở nên vừa phải. Sự kết hợp giữa hương vị Thái và sợi phở Quảng Đông bản địa không hề xung đột. Vị cay thơm của hành tỏi trong thịt bò băm kết hợp với phở đã làm dịu đi sự nồng gắt ban đầu. Sợi phở thấm đẫm vị súp cay dịu, ấm nóng trôi tuột vào dạ dày, mang lại cảm giác ấm áp giữa ngày đông.
+Chỉ có điều, tinh túy của phở bò Việt Nam là nước dùng xương bò, còn nước phở của cô chỉ là nước lọc đun sôi, không thể nào tinh tế bằng của người ta.
 
-Ăn xong, Hòa Ái Xích dọn dẹp đồ đạc rồi bắt đầu kiểm tra lại những thước phim vừa quay.
+Thịt bò băm gia vị kiểu Thái được đổ vào nước dùng phở đun sôi, mỡ bò và hương thơm của các loại thảo mộc hòa quyện vào nước dùng thoảng mùi gạo, khiến cho bát phở nước lọc này thêm phần đậm đà. Thêm vào đó, nửa suất thịt bò băm quả thực rất nhiều, đủ để mỗi sợi phở khi ăn đều quyện đầy thịt băm.
+
+Lúc ăn phở, Hòa Ái Xích còn sợ mình ăn hết phở trước, để lại thịt băm dưới đáy nồi, nên cô phải dùng thìa múc cả thịt lẫn phở để ăn cùng.
+
+Thịt bò băm vốn hơi mặn, sau khi nấu trong nước dùng thì vị trở nên vừa phải, sự kết hợp giữa hương vị Thái và bánh phở bản địa của Quảng Đông cũng không hề lạc quẻ. Thịt bò băm cay nồng hương hành tỏi quyện với bánh phở, khiến hương vị vốn khá mạnh mẽ trở nên dịu dàng hơn. Nước dùng ấm nóng cay nhẹ trôi xuống dạ dày, mang đến một cảm giác ấm áp giữa ngày đông.
+
+Ăn xong bát phở, Hòa Ái Xích thu dọn đồ đạc, bắt đầu kiểm tra lại những thước phim vừa quay.

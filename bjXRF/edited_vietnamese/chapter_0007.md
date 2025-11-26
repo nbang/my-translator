@@ -1,134 +1,137 @@
-# Chương 7
+Chương 7
 
-Hai mươi tệ là động lực to lớn. Sau khi đi dạo một vòng cho xuôi cơm, cô ngồi xuống chiếc ghế đẩu, lấy điện thoại ra, mở ứng dụng Cộng Đồng Đánh Giá Độc Đáo, vào trang của Quán hoành thánh Lão Hải rồi trút hết nỗi lòng mình thành con chữ.
+Niềm tin mãnh liệt trị giá tròn 20 tệ.
 
-[Hôm nay trời lạnh, lòng lạnh, dạ cũng lạnh. Khi nếm miếng hoành thánh đầu tiên, tôi cảm thấy nó đã chết một cách oan uổng.
+Dạo một vòng đã đời, Hòa Ái Xích ngồi xuống chiếc ghế đẩu, lấy điện thoại ra mở ứng dụng Cộng Đồng Đánh Giá Độc Đáo, truy cập vào trang đánh giá của tiệm hoành thánh Lão Hải rồi gõ những dòng suy nghĩ của mình thành chữ.
 
-Trước khi trở thành hoành thánh, chúng là bột mì thơm hương lúa mới, là thịt heo tươi roi rói, là những cọng cải non mơn mởn. Chúng chẳng làm gì sai, đều là những nguyên liệu tốt đẹp.
+*Hôm nay trời lạnh, lòng lạnh, dạ cũng lạnh. Ngay từ miếng đầu tiên, tôi đã thấy bát hoành thánh này chết thật oan uổng.*
 
-Bột mì trộn với nước có thể làm thành vô vàn món ngon, nó vốn có thể chết một cách đầy giá trị, để hóa thân thành những chiếc quẩy nóng giòn, những chiếc bánh bao, những sợi mì thơm ngon, hay thậm chí là đế pizza, bánh mì...
+*Trước khi trở thành hoành thánh, chúng từng là bột mì thơm hương lúa, là thịt heo tươi rói, là cải xanh mơn mởn. Chúng chẳng làm gì sai, đều là những nguyên liệu tốt cả.*
 
-Thịt heo sau khi xay nhuyễn cũng có thể làm thành thịt băm viên, thịt viên đầu sư tử, nhân bánh bao, nhân sủi cảo và bao món ngon khác.
+*Bột mì trộn với nước có thể làm ra biết bao món ngon, nó vốn có thể chết một cách đầy giá trị để hóa thành những chiếc quẩy nóng giòn, những chiếc bánh chẻo, sợi mì, hay thậm chí là đế bánh pizza, bánh mì... Còn thịt heo sau khi xay nhuyễn cũng có thể làm thành thịt băm viên, đầu sư tử, nhân bánh chẻo, nhân bánh bao và vô vàn món ngon khác.*
 
-Bột được cán thành vỏ, thịt heo trộn với cải làm thành nhân, gói lại rồi luộc chín, chúng trở thành một bát hoành thánh.
+*Bột mì được cán thành vỏ hoành thánh, thịt heo trộn với cải xanh làm thành nhân, sau khi được gói lại và luộc chín, chúng đã trở thành một bát hoành thánh. Vốn dĩ, hoành thánh cũng nên là một món ăn ngon, nhưng tiếc thay, vỏ của bát hoành thánh này lại dày hơn cả vỏ bánh chẻo, ăn vào có cảm giác bở bở như bột chưa chín kỹ. Nhân thì nát, có mùi không được tươi cho lắm, lại còn ngọt lờ lợ. Hệt như hoành thánh đông lạnh bị nấu nát.*
 
-Hoành thánh vốn dĩ cũng nên là một món ngon, nhưng tiếc thay, vỏ hoành thánh trong bát này còn dày hơn cả vỏ bánh bao, ăn vào bở rệt. Nhân thì lỏng bỏng, không tươi, lại còn ngọt một cách kỳ cục. Cảm giác y hệt như ăn hoành thánh đông lạnh bị nấu quá lửa. À, tôi còn ăn phải một miếng mỡ heo chưa xay hết trong nhân, tệ thật sự.
+*À, tôi còn ăn phải một miếng mỡ heo chưa xay hết trong nhân, cảm giác tệ thật sự.*
 
-Tôi thấy tiếc cho lúa mì, cho heo, cho cả rau cải.
+*Tôi thấy tiếc cho lúa mì, cho con heo, và cho cả cây cải xanh.*
 
-Hoành thánh cũng có số phận của nó, có thể nặng tựa Thái Sơn, cũng có thể nhẹ tựa hồng mao, tùy thuộc vào cách người ta đối xử với nó. Chú thích: Bát hoành thánh này chết oan quá. ]
+*Hoành thánh vốn có một cái chết, hoặc nặng tựa Thái Sơn, hoặc nhẹ tựa lông hồng, là do cách dùng mà khác biệt. (Chú thích 1) Bát hoành thánh này chết oan quá.*
 
-Hương vị: 2 sao (Kém)
+Khẩu vị: 2 sao (Kém)
 Không gian: 4 sao (Ổn)
-Phục vụ: 3,5 sao (Ổn)
-Đánh giá chung: 2,5 sao (Tầm thường)
+Phục vụ: 3.5 sao (Ổn)
+Tổng điểm: 2.5 sao (Tạm được)
 
-Cuối cùng, cô đính kèm sáu bức ảnh: 1 ảnh cổng và biển hiệu, 2 ảnh bảng giá, 1 ảnh cơ sở vật chất trong quán, 1 ảnh bát hoành thánh, và 1 ảnh miếng mỡ đã nhè ra.
+Cuối cùng, cô đính kèm sáu tấm ảnh:
+1 ảnh cổng và biển hiệu
+2 ảnh bảng giá
+1 ảnh cơ sở vật chất trong tiệm
+1 ảnh bát hoành thánh
+1 ảnh miếng mỡ đã nhè ra
 
-Mẹ cô nói không sai, cái tật kén ăn của cô đúng là hết thuốc chữa. Mỗi lần ăn phải món dở tệ, sức ăn của cô lại giảm hẳn. Mà đã ăn ít đi rồi lại còn phải cố ăn cho hết, khiến tâm trạng cô càng thêm tồi tệ.
+Mẹ Hòa Ái Xích nói không sai, tật kén ăn của cô đúng là nghiêm trọng thật. Mỗi lần ăn phải món không ngon, sức ăn của cô lại giảm hẳn. Mà trong tình trạng chán ăn như vậy, việc phải cố ăn cho hết càng khiến tâm trạng cô tồi tệ hơn.
 
-Vốn dĩ sau khi ăn xong, cô chỉ cần viết bừa một bài đánh giá khoảng 100 chữ là hoàn thành nhiệm vụ và nhận được 20 tệ tiền ăn. Vậy mà cô lại hăng say gõ phím, viết một lèo 367 chữ. Ban đầu cô định chụp chín tấm ảnh cho đủ bộ, nhưng vì hoành thánh quá dở nên chỉ chụp được sáu tấm. Ngoại trừ tấm ảnh cuối cùng chụp miếng mỡ đã nhè ra, tất cả đều được chụp trước khi cô bắt đầu ăn.
+Vốn dĩ sau khi ăn xong, cô chỉ cần viết bừa một bài đánh giá khoảng 100 chữ là có thể hoàn thành nhiệm vụ hằng ngày để nhận 20 tệ tiền ăn. Thế mà cô cứ thế viết một lèo, được cả thảy 367 chữ. Ban đầu cô định chụp chín tấm ảnh cho đủ bộ, nhưng vì hoành thánh quá dở nên chỉ chụp có sáu tấm. Trừ tấm ảnh cuối cùng chụp miếng mỡ đã nhè ra, tất cả đều được chụp trước khi cô bắt đầu ăn.
 
-Cô kiểm tra lại bài đánh giá một lần nữa, nhấn nút xác nhận và tải lên.
+Cô kiểm tra lại bài đánh giá của mình một lần nữa, nhấn xác nhận và đăng tải.
 
-Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng lập tức hiện thông báo:
+Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng lập tức hiện lên thông báo:
 
-[Nhiệm vụ hàng ngày đã hoàn thành. Chi phí bữa ăn đã được hoàn trả, kinh nghiệm người dùng và các phần thưởng khác đã được gửi đi.]
+[Nhiệm vụ hằng ngày đã hoàn thành, chi phí bữa ăn, kinh nghiệm người dùng và các phần thưởng khác đã được gửi.]
+[Phí bữa ăn 20 tệ đã được chuyển vào ví điện tử của bạn, vui lòng kiểm tra.]
 
-[20 tệ chi phí bữa ăn đã được chuyển vào ví điện tử của bạn, vui lòng kiểm tra.]
+"Woa, tiền về rồi."
 
-"Ồ, tiền về rồi!"
+Mắt sáng rỡ vì tiền, Hòa Ái Xích vội bấm vào thông báo, kiểm tra lại một lần nữa xem 20 tệ đã vào ví điện tử hay chưa. Có tiền trong người vẫn thấy yên tâm hơn.
 
-Với bản tính mê tiền, cô bấm vào thông báo nhận tiền, xác nhận lại con số 20 tệ đã nằm gọn trong ví điện tử. Có tiền trong tay, lòng cô thấy vững vàng hẳn. Tuy hoành thánh không ngon, nhưng ít nhất cũng no bụng mà lại không tốn tiền. Nghĩ vậy, tâm trạng cô từ u ám chuyển sang quang đãng, rồi cô bắt đầu thấy bất bình thay cho món quẩy đã ăn trưa nay.
+Dù hoành thánh không ngon, nhưng ít nhất cũng đủ no mà lại còn miễn phí. Nghĩ vậy, tâm trạng của cô lại quang đãng trở lại, rồi bắt đầu thấy bất bình thay cho mấy chiếc quẩy ăn hồi trưa. Rõ ràng bát hoành thánh dở tệ còn được cô ưu ái cho một bài đánh giá hơn ba trăm chữ kèm ảnh, cớ sao món quẩy ngon như vậy lại không được gì cả?
 
-Đến món hoành thánh dở tệ còn được cô ưu ái viết bài đánh giá hơn ba trăm chữ kèm ảnh, cớ sao món quẩy ngon như vậy lại không được gì?
-
-Dù sao cũng đang rảnh rỗi, lần đầu tiên cô nảy ra ý định chia sẻ quán ăn ngon với những cư dân mạng xa lạ, dù cho ứng dụng không hề giao nhiệm vụ.
+Dù sao cũng đang rảnh, lần đầu tiên cô nảy ra ý định chia sẻ những quán ăn ngon cho cộng đồng mạng mà cô chưa từng gặp mặt, ngay cả khi không có nhiệm vụ nào từ ứng dụng.
 
 Nói là làm.
 
-Hòa Ái Xích mở trang đánh giá của quán Quẩy Đại Hồng trên ứng dụng Cộng Đồng Đánh Giá Độc Đáo, viết vài dòng rồi lại xóa, cảm thấy vẫn chưa ưng ý. Cô không chỉ muốn giới thiệu quán Quẩy Đại Hồng mà còn muốn chỉ đường cho mọi người đến quán tạp hóa bán tào phớ. Viết chung nội dung về tào phớ vào bài đánh giá quán quẩy cũng được, nhưng có vẻ không hợp lý lắm.
+Hòa Ái Xích mở trang đánh giá của tiệm quẩy Đại Hồng trên ứng dụng Cộng Đồng Đánh Giá Độc Đáo, viết vài dòng rồi lại xóa, cảm thấy vẫn chưa ưng ý. Cô không chỉ muốn giới thiệu tiệm quẩy Đại Hồng mà còn muốn chỉ đường cho mọi người đến cửa hàng tạp hóa bán tào phớ. Viết cả nội dung về tào phớ vào bài đánh giá của tiệm quẩy cũng được, nhưng có vẻ không hợp lý lắm.
 
-Suy nghĩ một lát, cô nhớ ra ứng dụng Cộng Đồng Đánh Giá Độc Đáo có chức năng ghi chú. Chức năng này tương tự như của ứng dụng Tiểu Tử Thư, có thể dùng để ghi lại cuộc sống thường nhật, ăn uống, vui chơi, đồng thời có thể liên kết với các cửa hàng trong ghi chú. Ghi chú sau khi đăng sẽ được đẩy ngẫu nhiên đến những người dùng khác, hoặc có thể được tìm thấy thông qua từ khóa. Gần đây, ứng dụng còn đang tuyển dụng chuyên gia viết ghi chú. Khi lượng người hâm mộ đạt đến một con số nhất định, các ghi chú có thể hợp tác với người bán để kiếm tiền từ lưu lượng truy cập. Tuy thưởng không nhiều, nhưng có còn hơn không.
+Suy nghĩ một lát, cô chợt nhớ ra ứng dụng Cộng Đồng Đánh Giá Độc Đáo có chức năng ghi chú. Chức năng này tương tự như của Tiểu Tử Thư, có thể dùng để ghi lại cuộc sống thường ngày, ăn uống, vui chơi, và còn có thể đính kèm liên kết của các cửa hàng vào ghi chú. Ghi chú sau khi hoàn thành sẽ được đề xuất ngẫu nhiên cho những người dùng khác, và người ta cũng có thể tìm thấy nó bằng cách tìm kiếm từ khóa.
 
-Sau khi sắp xếp lại nội dung muốn chia sẻ trong đầu, Hòa Ái Xích bật chức năng ghi chú và gõ tiêu đề:
+Gần đây, ứng dụng còn đang tuyển dụng các chuyên gia viết ghi chú. Sau khi lượng người hâm mộ đạt đến một con số nhất định, các ghi chú còn có thể hợp tác với doanh nghiệp để kiếm tiền từ lưu lượng truy cập. Tuy không nhiều nhưng tích tiểu thành đại.
 
-**Không cần dậy sớm vẫn có quẩy nóng mới ra lò, quán này bán tới 6 rưỡi tối!**
+Sắp xếp lại nội dung cần chia sẻ trong đầu, Hòa Ái Xích bật chức năng ghi chú, viết tiêu đề: "Không cần dậy sớm vẫn được ăn quẩy nóng mới chiên, tiệm quẩy mở cửa đến 18:30!"
 
-Cô dồn hết tâm huyết, mất nửa tiếng đồng hồ để chỉnh sửa và viết lại trải nghiệm ăn quẩy và bánh khoai tây hôm nay của mình thành một bài dài hơn 500 chữ. Đúng là dài bằng cả một bài văn của học sinh tiểu học! Cô còn cẩn thận chỉnh sửa lại 6 bức ảnh đã chụp, thêm chữ vào để làm nổi bật những điểm chính.
+Cô bắt đầu gõ lại trải nghiệm ăn quẩy và bánh khoai tây hộp của mình hôm nay vào ô nhập liệu. Loay hoay chỉnh sửa mất nửa tiếng đồng hồ, cô viết được hơn 500 chữ. Độ dài này đủ cho một bài văn của học sinh tiểu học rồi! Cô còn chỉnh sửa lại 6 tấm ảnh đã chụp, chèn thêm chữ vào để làm nổi bật những điểm chính.
 
-Để ghi chú dễ được tìm thấy hơn, cô đã nhiều lần nhắc đến tên quận, tên đường và khu dân cư nơi có quán quẩy. Chỉ cần có người tìm kiếm các từ khóa như "quận XX" hoặc "làng XX + quẩy", bài ghi chú này sẽ hiện lên ở hàng đầu nhờ khớp từ khóa chính xác.
+Để ghi chú có thể được tìm thấy chính xác hơn, trong nội dung, cô đã nhiều lần ghi rõ tên khu vực, đường phố, và làng trong thành phố nơi có tiệm quẩy. Chỉ cần có người tìm kiếm các từ khóa như "quận XX" hoặc "làng XX + quẩy", bài ghi chú này sẽ xuất hiện ở những vị trí đầu tiên nhờ sự trùng khớp chính xác của từ khóa.
 
-Cuối cùng, cô đính kèm liên kết đến quán Quẩy Đại Hồng và quán tạp hóa bán tào phớ để hoàn thành ghi chú.
+Cuối cùng, cô đính kèm liên kết của tiệm quẩy Đại Hồng và cửa hàng tạp hóa bán tào phớ để hoàn thành ghi chú.
 
-"Xong!"
+"Đại công cáo thành!"
 
-Hòa Ái Xích cảm thấy như mình vừa làm được một việc lớn. Cô thở phào nhẹ nhõm, quyết định đi tắm nước nóng rồi chui vào chăn ấm chơi điện thoại.
+Hòa Ái Xích cảm thấy như mình vừa làm được một việc gì đó lớn lao. Cô thả lỏng người, quyết định đi tắm nước nóng, sau đó chui vào chăn ấm áp nghịch điện thoại.
 
-Cô vừa vào phòng tắm không lâu, chấm đỏ báo tin nhắn trên ứng dụng Cộng Đồng Đánh Giá Độc Đáo lặng lẽ sáng lên.
+Cô vừa vào phòng tắm chưa được bao lâu, dấu chấm đỏ báo tin nhắn trên ứng dụng Cộng Đồng Đánh Giá Độc Đáo đã lặng lẽ sáng lên.
 
 ***
 
-Người quản lý của Quán hoành thánh Lão Hải đang có chút đau đầu.
+Quản lý của tiệm hoành thánh Lão Hải đang hơi phiền lòng.
 
-Quán của anh ta mới mở chưa được bao lâu thì đã nhận một bài đánh giá tiêu cực trên ứng dụng Cộng Đồng Đánh Giá Độc Đáo.
+Cửa hàng do anh ta quản lý mới mở chưa được bao lâu đã xuất hiện một bài đánh giá tiêu cực trên ứng dụng Cộng Đồng Đánh Giá Độc Đáo. Thực ra cũng không phải chuyện gì to tát, vì mô hình kinh doanh chính của những cửa hàng như của họ là dạng đồ ăn nhanh. Khách đến ăn hoành thánh hay đồ ăn nhanh hầu hết đều là khách vãng lai ở gần đó. Vị trí của tiệm lại ngay gần một làng trong thành phố, lượng người qua lại đủ lớn. Chỉ cần đồ ăn trong tiệm thực sự ngon và có thể biến khách vãng lai thành khách quen thì không cần phải xây dựng hình ảnh tốt đẹp trên mạng làm gì.
 
-Thực ra cũng không phải chuyện gì to tát, vì mô hình kinh doanh của quán chủ yếu là đồ ăn nhanh bình dân. Khách đến ăn hoành thánh hay cơm suất hầu hết đều là khách vãng lai ở khu vực lân cận. Quán lại nằm gần một khu dân cư đông đúc, lượng người qua lại đủ lớn. Chỉ cần đồ ăn thật sự ngon, có thể biến khách vãng lai thành khách quen thì không cần phải xây dựng hình ảnh lung linh trên mạng.
-
-Hơn nữa, người đánh giá có tài khoản "Tiểu Chi chưa ăn no" cũng chỉ ở cấp 2, cấp độ người dùng không cao, nên tầm ảnh hưởng không lớn.
+Hơn nữa, cấp độ người dùng của người đánh giá có tên "Tiểu Si Chưa No" này cũng không cao, mới chỉ Lv2, nên ảnh hưởng không lớn.
 
 Vốn dĩ là vậy.
 
-Nhưng không hiểu sao, bài đánh giá tiêu cực này vừa đăng lên chưa bao lâu mà lượt xem cứ tăng liên tục, lại còn tăng khá nhanh. Bên dưới còn có người trả lời.
+Nhưng chẳng hiểu sao, bài đánh giá tiêu cực vừa mới đăng này lại có lượt xem không ngừng tăng lên, mà còn tăng khá nhanh. Có người còn trả lời bên dưới.
 
-[momo: Dở đến mức đó thật à? Làm tôi tò mò ghê]
+[momo: Dở thật sự luôn hả? Làm tôi tò mò quá đi]
 
-[Anh trai của Pikachu: ...Thảo nào hôm qua tôi ăn thấy vị quen quen. Hóa ra giống hoành thánh đông lạnh, nhưng bát của tôi không bị nấu nát nên cũng không đến nỗi khó ăn.]
+[Anh trai của Pikachu: ... Bảo sao hôm qua ăn tôi cứ thấy vị này quen quen, hóa ra là giống hoành thánh đông lạnh. Nhưng bát của tôi không bị nấu nát nên cũng không đến nỗi khó ăn.]
 
-Ngoài hai bình luận có nội dung này, những bình luận còn lại toàn là "hahahaha". Và có vẻ như xu hướng này ngày càng tăng.
+Ngoài hai bình luận có nội dung này ra, những bình luận còn lại đều là một tràng "ha ha ha ha ha". Và xu hướng này vẫn đang tiếp diễn.
 
-Phải làm gì đây?
+Phải làm sao đây?
 
-Là một người quản lý cửa hàng, anh ta đã có kinh nghiệm xử lý các đánh giá tiêu cực. Cách tốt nhất là phản công trực diện, chỉ ra lỗi của khách hàng, ví dụ như tố thẳng đối phương là người chuyên đi đánh giá tiêu cực do đối thủ cài vào. Nhưng những người chuyên nghiệp thường không viết kiểu đánh giá này. Thay vì viết một bài dài có hình ảnh minh họa, việc lập nhiều tài khoản để viết những bình luận ngắn sẽ hiệu quả hơn trong việc hạ điểm của quán.
+Là một quản lý, anh ta cũng đã có kinh nghiệm đối phó với những đánh giá tiêu cực. Cách tốt nhất là phản công trực diện, tìm ra lỗi của khách hàng, ví dụ như nói thẳng đối phương là chuyên gia đánh giá tiêu cực được đối thủ cài vào. Nhưng thường thì những người làm nghề này sẽ không viết kiểu đánh giá như vậy. Thay vì viết một bài dài có cả hình ảnh và văn bản, việc dùng nhiều tài khoản để viết những bình luận ngắn sẽ hiệu quả hơn trong việc kéo điểm của cửa hàng xuống.
 
-Một cách khác là khiếu nại trực tiếp với nền tảng, tố cáo khách hàng cố tình đánh giá tiêu cực. Người quản lý thừa biết rằng khiếu nại kiểu này rất khó thành công. Bởi lẽ, người xét duyệt là những khách hàng khác, và dù bài đánh giá này khá dài, nội dung tổng thể không có lời lẽ quá khích, không đủ điều kiện để bị coi là đánh giá ác ý. Hơn nữa, dù khiếu nại thành công, vị khách bị chọc tức có thể sẽ quay lại viết một bài đánh giá khác, lúc đó còn thiệt hại hơn.
+Một cách khác là khiếu nại trực tiếp lên nền tảng, tố cáo khách hàng cố tình đánh giá tiêu cực. Nhưng anh ta thừa biết, việc khiếu nại thành công rất khó. Giám định viên là những khách hàng khác, và bài đánh giá này tuy dài nhưng nội dung tổng thể không có lời lẽ quá khích, không đủ điều kiện để bị coi là đánh giá ác ý.
 
-Đương nhiên, cứng không được thì phải dùng biện pháp mềm mỏng hơn, ví dụ như liên hệ trực tiếp với người đánh giá, nhờ họ tự xóa bài viết của mình.
+Lùi một vạn bước mà nói, dù có khiếu nại thành công thật, khách hàng bị chọc tức có thể sẽ quay lại viết thêm một bài đánh giá tiêu cực nữa, như vậy thì lợi bất cập hại.
 
-Người quản lý nhấn vào trang thông tin cá nhân của người dùng "Tiểu Chi chưa ăn no" và chọn gửi tin nhắn.
+Dĩ nhiên, cứng không được thì có thể thử mềm, ví dụ như liên hệ trực tiếp với người đánh giá, yêu cầu cô ấy tự xóa bài viết của mình.
 
-"Xin chào, tôi là quản lý của Quán hoành thánh Lão Hải. Bạn có tiện thêm VX để trao đổi không? Số của tôi là 138*****"
+Người quản lý bấm vào trang thông tin cá nhân của người dùng "Tiểu Si Chưa No", chọn gửi tin nhắn cho cô ấy.
 
-***
+"Chào bạn, tôi là quản lý tiệm hoành thánh Lão Hải, không biết có tiện kết bạn VX để trao đổi không? Số của tôi là 138*****"
 
-*Lại muốn lừa mình mở ứng dụng đây mà.*
+*
 
-Trước đây cô từng nhận được những thông báo đẩy giả mạo từ các ứng dụng bản đồ, giao đồ ăn, mua sắm, nghe nhạc. Cứ hiện lên thông báo kiểu "Có người vừa gửi tin nhắn cho bạn" hay "Chúc mừng bạn đã trúng thưởng". Không ngờ ứng dụng Cộng Đồng Đánh Giá Độc Đáo này cũng bắt đầu giở trò.
+"Thông báo gì vậy?"
 
-Để có thể dùng cả hai tay chơi điện thoại, cô trải khăn tắm ra, cuộn lại rồi quấn mái tóc dài lên đỉnh đầu.
+Hòa Ái Xích vừa từ phòng tắm bước ra, đang dùng khăn lau mái tóc ướt sũng của mình.
 
-Việc đầu tiên Hòa Ái Xích làm sau khi cầm điện thoại là mở cài đặt, vào mục quản lý ứng dụng và tắt thông báo đẩy của ứng dụng Cộng Đồng Đánh Giá Độc Đáo.
+"‘Có người gửi tin nhắn cho bạn...’, lại muốn lừa mình mở APP đây mà."
 
-Giờ thì yên tĩnh hơn nhiều. Đi sấy tóc thôi.
+Trước đây cô từng nhận được những thông báo giả mạo từ các ứng dụng như bản đồ, giao đồ ăn, đồ cũ, nhạc... với những nội dung như "Có người gửi tin nhắn cho bạn", "Chúc mừng bạn đã trúng thưởng". Không ngờ, Cộng Đồng Đánh Giá Độc Đáo cũng bắt đầu giở trò này.
 
-Sau khi sấy khô tóc và chui vào chăn, cô chẳng còn nhớ gì đến ứng dụng kia nữa. Dù sao đây cũng không phải là ứng dụng thường dùng, nếu không phải để làm nhiệm vụ thì cô chẳng bao giờ mở nó ra.
+Để có thể dùng cả hai tay nghịch điện thoại, cô trải khăn tắm ra, cuộn lại, vấn mái tóc dài lên đỉnh đầu. Việc đầu tiên Hòa Ái Xích làm sau khi cầm điện thoại lên là vào cài đặt, chọn quản lý ứng dụng và tắt thông báo của ứng dụng Cộng Đồng Đánh Giá Độc Đáo.
 
-Cho đến khi đồng hồ điểm qua 12 giờ đêm, Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng lại gửi đến một thông báo mới.
+Giờ thì yên tĩnh hơn nhiều rồi. Sấy tóc thôi.
 
-[Trong ngày hôm qua, bài đánh giá và ghi chú ẩm thực của bạn trên Cộng Đồng Đánh Giá Độc Đáo đã có 761 lượt xem, 43 lượt thích, 6 lượt yêu thích và 8 bình luận.]
+Sau khi Hòa Ái Xích sấy khô tóc và chui vào chăn, cô chẳng còn nhớ gì đến ứng dụng kia nữa. Dù sao đây cũng không phải là ứng dụng thường dùng, nếu không phải vì cần hoàn thành nhiệm vụ thì bình thường cô cũng chẳng bao giờ mở nó ra.
 
-[Tài khoản của bạn trên Cộng Đồng Đánh Giá Độc Đáo: "Tiểu Chi chưa ăn no" đã có thêm 5 người hâm mộ mới và tăng 5 điểm danh tiếng.]
+Cho đến khi đồng hồ điểm 12 giờ đêm, Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng lại gửi đến một thông báo mới.
 
-[1 người đã đến quán sau khi tham khảo bài đánh giá của bạn, và 5 người quyết định không đến quán sau khi tham khảo bài đánh giá của bạn.]
+[Bài đánh giá và ghi chú ẩm thực của bạn trên Cộng Đồng Đánh Giá Độc Đáo đã có 761 lượt xem, 43 lượt thích, 6 lượt lưu và 8 bình luận trong ngày hôm qua.]
+[Tài khoản của bạn trên Cộng Đồng Đánh Giá Độc Đáo: Tiểu Si Chưa No đã có thêm 5 người hâm mộ và tăng 5 điểm danh vọng trong ngày hôm qua.]
+[1 người đã đến cửa hàng tiêu dùng sau khi tham khảo bài đánh giá của bạn, 5 người quyết định không đến cửa hàng sau khi tham khảo bài đánh giá của bạn.]
+[Hôm nay tăng 32 điểm Ảnh hưởng, Thu nhập Ảnh hưởng hôm nay là 0.36 tệ, hãy tiếp tục cố gắng.]
+[Thu nhập Ảnh hưởng 0.36 tệ đã được chuyển vào ví điện tử của bạn, vui lòng kiểm tra.]
+[Nhiệm vụ điểm danh hằng ngày đã được cập nhật, vui lòng vào ứng dụng để xem chi tiết.]
 
-[Hôm nay bạn đã tăng 32 điểm ảnh hưởng, thu nhập từ ảnh hưởng là 0,36 tệ. Hãy tiếp tục cố gắng.]
+"Hả?"
 
-[0,36 tệ thu nhập từ ảnh hưởng đã được chuyển vào ví điện tử của bạn, vui lòng kiểm tra.]
+Hòa Ái Xích vốn đã hơi buồn ngủ liền tỉnh táo trở lại, vội vàng mở ứng dụng để kiểm tra kỹ lưỡng các số liệu.
 
-[Nhiệm vụ điểm danh hàng ngày đã được cập nhật, vui lòng vào ứng dụng để xem chi tiết.]
+Sau một ngày, Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng đã được cập nhật với nội dung phong phú hơn so với ban đầu, có thêm mục thống kê thu nhập và thống kê dữ liệu đánh giá.
 
-"Hả?" Vốn đã hơi buồn ngủ, Hòa Ái Xích lập tức tỉnh táo hẳn, vội vàng mở ứng dụng ra xem xét kỹ lưỡng các số liệu.
-
-Sau một ngày, Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng đã được cập nhật với nội dung phong phú hơn, có thêm mục thống kê thu nhập và thống kê dữ liệu bình luận.
-
-Mở mục thống kê thu nhập ra, cô thấy 0,36 tệ kia đến từ quán Mì Bò Cay Hoa Ký Tuân Nghĩa. Có người đã đến quán và chi tiêu 18 tệ, và thu nhập ảnh hưởng của cô bằng 2% số tiền tiêu dùng đó.
+Mở mục thống kê thu nhập ra, có thể thấy 0.36 tệ Thu nhập Ảnh hưởng đến từ quán bún bò cừu Hoa Ký Tuân Nghĩa, có người đã đến quán và tiêu thụ 18 tệ, Thu nhập Ảnh hưởng bằng 2% số tiền tiêu thụ.

@@ -1,127 +1,115 @@
-# Chương 24
+### Chương 24
 
-Lý do rất đơn giản: vì cô cần lồng tiếng cho video.
+---
 
-Đây là lần đầu tiên quay video trải nghiệm quán ăn nên cô rất lo lắng. Thay vì vừa quay vừa nói trước ống kính như các blogger khác, cô chỉ thu lại một vài âm thanh của không gian xung quanh và tiếng ăn uống. Nếu nội dung quá trống trải sẽ không ai xem, vì vậy công đoạn lồng tiếng là bắt buộc. Để khớp lời thoại dễ dàng hơn, tránh bị vấp và khó chỉnh sửa, cô phải soạn trước kịch bản. Cô quyết định trích một phần câu chuyện nền của quán từ bài viết trên tài khoản công khai để làm bản thảo lồng tiếng.
+Lý do rất đơn giản: cô cần lồng tiếng hậu kỳ cho video.
+
+Vì là lần đầu quay video review quán nên Hòa Ái Xích rất căng thẳng, cô đã không quay theo kiểu thông thường của các blogger là vừa quay vừa nói trước ống kính, mà chỉ thu lại một ít âm thanh của không gian và tiếng ăn uống. Nội dung mà quá trống trải thì sẽ không ai xem, bắt buộc phải có phần lồng tiếng. Mà muốn lồng tiếng cho hay thì phải viết kịch bản từ trước, nếu không sẽ rất dễ vấp váp, khó biên tập. Cô quyết định trích một phần câu chuyện về bối cảnh của quán ăn này từ bài viết trên tài khoản công chúng để làm kịch bản lồng tiếng.
 
 Đúng vậy, đằng sau quán ăn này thực sự có một câu chuyện nhỏ.
 
-Sau khi làm xong ảnh động và chọn ra những tấm hình phù hợp, Hòa Ái Xích mở tài liệu ra, bắt đầu suy ngẫm về nội dung bài viết.
+Sau khi tạo xong ảnh động và chọn ra những tấm hình phù hợp, Hòa Ái Xích mở một tệp văn bản và bắt đầu lên ý tưởng cho bài viết.
 
-Quán mì thịt cừu Huaji Tuân Nghĩa đã mở ở Bành Thành được vài năm rồi. Bây giờ nhìn lại, nó có vẻ chỉ là một quán mì bình thường với thu nhập ổn định và lượng khách khá đông. Nhưng vào năm khai trương, quán từng nổi đình nổi đám khắp Bành Thành, khách đông đến nỗi phải xếp hàng dài sang tận nhà bên cạnh, trong quán không đủ chỗ ngồi nên đành phải kê thêm bàn tạm ra ngoài.
+Quán Mì Dê Hoa Ký Tuân Nghĩa đã mở ở Bành Thành được vài năm, bây giờ trông có vẻ chỉ là một quán mì bình thường với thu nhập ổn định và lượng khách tương đối đông. Thế nhưng vào năm khai trương, quán này từng nổi đình nổi đám khắp Bành Thành, khách đông đến nỗi xếp hàng dài sang tận quán bên cạnh, trong quán không đủ chỗ ngồi nên đành phải kê thêm bàn tạm ra ngoài. Thời điểm khoa trương nhất, có người còn lái xe vượt hai quận chỉ để đến ăn một tô mì dê. Con phố trước cửa quán đậu kín những chiếc xe sang của đủ mọi thương hiệu. Tất cả đều đến để ăn mì.
 
-Thời điểm khoa trương nhất là khi có người lái xe vượt hai quận chỉ để đến ăn một tô mì thịt cừu này. Con đường trước cửa quán đậu kín những chiếc xe sang của đủ mọi thương hiệu. Tất cả đều đến đây để ăn mì.
+Cũng trong năm đó, Hoa Ký đã khởi xướng một trào lưu ẩm thực ở Bành Thành, các quán mì dê Quý Châu mọc lên như nấm. Mãi đến lúc đó Hòa Ái Xích mới biết, hóa ra mì dê Quý Châu cũng có nhiều hương vị khác nhau. Ngoài việc cho thêm ngò và lá tỏi, có nơi còn cho cả lá bạc hà, có nơi lại hầm thịt dê thành vị tương đậm đà, đủ loại biến tấu.
 
-Cũng trong năm đó, Huaji đã tạo nên một trào lưu ẩm thực ở Bành Thành, các quán mì thịt cừu Quý Châu mọc lên như nấm. Cũng từ đó, cô mới biết mì thịt cừu Quý Châu có rất nhiều hương vị khác nhau. Ngoài loại cho rau mùi và lá tỏi, còn có loại cho thêm lá bạc hà, có loại lại hầm thịt cừu thành một thứ nước sốt đậm đà.
+Bành Thành là một thành phố có rất nhiều dân nhập cư, vì vậy khẩu vị của mọi người không cố định, những món ăn nổi tiếng cũng chỉ theo từng đợt. Có năm món cua xào cay bỗng dưng nổi lên, thế là các nhà hàng cua xào cay xuất hiện khắp thành phố. Nhưng sang năm sau, món cua xào cay hết thời, nhường chỗ cho lẩu gà dừa, và những nhà hàng kia lại đồng loạt chuyển sang bán lẩu gà dừa.
 
-Bởi vì Bành Thành là một thành phố có lượng dân nhập cư lớn, khẩu vị của mọi người không cố định, những món ăn nổi tiếng chỉ rộ lên theo từng đợt. Có năm cua cay đột nhiên nổi lên, khắp thành phố liền xuất hiện vô số nhà hàng cua cay. Thế nhưng năm sau cua cay hết thời, đến lượt lẩu gà dừa lên ngôi, những nhà hàng cua cay đó lại biến thành quán lẩu gà dừa.
+Món mì dê cũng không ngoại lệ. Vào thời kỳ đỉnh điểm, trên con phố của quán Mì Dê Hoa Ký Tuân Nghĩa, cứ mỗi trăm mét lại có một quán mì dê. Thậm chí có quán còn cố tình mở đối diện Hoa Ký để cạnh tranh trực tiếp, hòng vớt vát lượng khách tràn ra từ quán đó. Một số thương hiệu nhanh nhạy còn mở cả chuỗi cửa hàng.
 
-Mì thịt cừu cũng không ngoại lệ.
+Nhiều năm trôi qua, những quán ăn đó gần như đã đóng cửa hết. Một số mặt bằng đã đổi chủ mấy lần, chẳng còn ai nhớ đến chúng nữa. Nhưng Hoa Ký vẫn ở đó, giá cả không đổi, hương vị cũng vẹn nguyên.
 
-Phóng đại nhất phải kể đến con phố nơi quán mì thịt cừu Huaji Tuân Nghĩa tọa lạc, cứ mỗi trăm mét lại thấy một quán mì thịt cừu. Thậm chí có những quán còn cố tình mở đối diện Huaji để cạnh tranh, hòng vớt vát lượng khách tràn ra từ bên đó. Vài thương hiệu đánh hơi được thời cơ, thậm chí còn mở cả chuỗi cửa hàng.
-
-Bao nhiêu năm trôi qua, những cửa hàng đó gần như đã đóng cửa hết. Một số mặt bằng đã đổi chủ mấy lần, chẳng còn ai nhớ đến. Nhưng Huaji vẫn ở đó, giá không đổi, vị cũng không đổi.
-
-Lý do là gì? Hòa Ái Xích có lẽ biết đôi chút.
+Lý do là gì? Hòa Ái Xích cũng biết sơ sơ.
 
 ***
 
-Quán mì cừu Huaji Tuân Nghĩa khai trương đúng vào mùa đông ở Bành Thành.
+Quán Mì Dê Hoa Ký Tuân Nghĩa khai trương vào mùa đông ở Bành Thành.
 
-Mùa đông năm đó lạnh vô cùng. Bành Thành, thành phố gần như nằm ở cực nam của đất nước chỉ sau Hải Nam, hiếm khi nào lại rét buốt như vậy. Cô vẫn nhớ năm đó mình vừa đến Bành Thành nhập học, chăn trong ký túc xá không đủ dày, nhiệt độ lại đột ngột giảm mạnh. Cô lạnh đến mức phải mặc mấy lớp áo mỏng, quấn mình như cái bánh chưng để giữ ấm. Bạn cùng phòng cũng không có sự chuẩn bị, ai nấy đều lạnh đến khóc cha gọi mẹ.
+Mùa đông năm đó lạnh lạ thường. Bành Thành, thành phố gần như ở cực Nam của đất nước chỉ sau Hải Nam, hiếm khi nào lại rét buốt đến thế. Còn nhớ năm ấy, khi cô mới đến Bành Thành nhập học, chăn trong ký túc xá không đủ dày, thời tiết lại đột ngột trở lạnh, khiến cô phải mặc hết lớp áo mỏng này đến lớp áo mỏng khác, quấn mình như cái bánh chưng để giữ ấm. Bạn cùng phòng của cô cũng không chuẩn bị kịp, ai nấy đều lạnh đến khóc cha gọi mẹ.
 
-Vì vậy, có thể nói thời điểm Huaji khai trương chính là thiên thời, địa lợi, nhân hòa.
+Vì vậy, có thể nói thời điểm Hoa Ký khai trương chính là thiên thời, địa lợi, nhân hòa. Giữa mùa đông giá rét, ai lại không muốn thưởng thức một tô mì dê nóng hổi chứ? Thịt dê vốn có tính ấm, thêm chút ớt và bột tiêu, ăn một tô là đủ để xua tan cái lạnh, làm ấm cơ thể, thậm chí còn có thể thông cả mũi cho người bị cảm.
 
-Giữa mùa đông giá rét, ai lại không muốn có một tô mì thịt cừu nóng hổi chứ? Thịt cừu vốn tính ấm, có tác dụng bồi bổ, thêm chút bột ớt và tiêu Tứ Xuyên, một tô mì ăn vào vừa trừ hàn giữ ấm, vừa có thể làm thông cả mũi của người đang bị cảm.
+Nhưng những quán mì dê mở theo sau Hoa Ký thì lại khác. Khi Hoa Ký nổi tiếng khắp Bành Thành thì đã là cuối đông, gần đến Tết Nguyên đán. Lúc này, các quán kia mới bắt đầu tìm địa điểm, thuê mặt bằng, sửa sang. Đợi đến khi họ khai trương thì đã là mùa xuân năm sau.
 
-Nhưng những quán mì thịt cừu mở sau Huaji thì lại khác. Khi Huaji nổi tiếng khắp Bành Thành thì đã vào cuối đông, sắp đến Tết Nguyên Đán. Những cửa hàng này mới bắt đầu chọn địa điểm, thuê mặt bằng, trang trí. Đợi đến lúc trang trí xong và khai trương thì đã là đầu xuân năm sau.
+Thực ra, ban đầu việc kinh doanh của Hoa Ký cũng bị ảnh hưởng bởi những quán mì dê mọc lên như nấm này. Mì dê ở Quý Châu vốn không phải là một món nghề độc quyền, có rất nhiều nơi làm, và cũng không phải không có quán nào khác làm ngon. Cạnh tranh từ các sản phẩm tương tự tất yếu sẽ làm phân tán lượng khách. Thêm vào đó, quán Hoa Ký rất nhỏ, khi đông người thì ăn uống rất chật chội, trải nghiệm không được tốt cho lắm. Trong khi đó, những quán mở theo trào lưu lại được trang trí đẹp hơn Hoa Ký rất nhiều, không gian rộng rãi, sáng sủa, có đủ bàn ghế, bộ đồ ăn trông cũng sạch sẽ và bắt mắt. Không ít khách hàng bị thu hút bởi sự thoải mái và chuyển sang ăn ở những quán khác.
 
-Thực ra ban đầu, việc kinh doanh của Huaji cũng bị ảnh hưởng bởi những quán mì thịt cừu mọc lên khắp nơi. Mì thịt cừu ở Quý Châu vốn không phải là một món nghề độc nhất, có rất nhiều nơi làm ngon, nên khi có sự cạnh tranh từ các sản phẩm tương tự, khách hàng tự nhiên sẽ bị phân tán.
+Chỉ là, câu chuyện nhanh chóng đảo chiều.
 
-Thêm vào đó, quán Huaji rất nhỏ, khi đông khách sẽ trở nên chật chội, trải nghiệm ăn uống cũng kém đi. Các cửa hàng mới mở theo trào lưu được trang trí đẹp hơn Huaji rất nhiều, không gian rộng rãi sáng sủa, bàn ghế đủ đầy, bộ đồ ăn trông cũng sạch sẽ và bắt mắt. Không ít khách hàng vì sự thoải mái mà chuyển sang các quán khác.
+Bành Thành có mùa đông ngắn, mùa hè dài. Tháng Hai, tháng Ba trời vẫn còn hơi se lạnh, nhưng đến tháng Tư, thời tiết không còn thích hợp để ăn mì dê nữa. Thực ra, thời tiết tháng Tư ở Bành Thành không hẳn là nóng, phải nói là dễ chịu, nhiệt độ trung bình khoảng 26°C, thỉnh thoảng lên tới 30°C. Với thời tiết dễ chịu như vậy, đây chính là lúc để tiết kiệm tiền điện, không cần bật máy sưởi cũng chẳng cần bật điều hòa. Hầu hết các quán ăn ở Bành Thành đều làm vậy, và những quán mì dê mở theo trào lưu cũng không ngoại lệ. Tiền điện nước kinh doanh đắt đỏ, tiết kiệm được đồng nào hay đồng đó, trời 26°C thì bật điều hòa làm gì? Cứ mở cửa cho gió lùa vào là được rồi.
 
-Nhưng chẳng bao lâu sau, câu chuyện đã đảo chiều.
+Thế nhưng, chính suy nghĩ này đã kết liễu họ.
 
-Bành Thành có mùa đông ngắn và mùa hè dài. Tháng hai, tháng ba trời vẫn còn chút se lạnh, nhưng đến tháng tư, nhiệt độ đã không còn thích hợp để ăn mì thịt cừu nữa. Thời tiết tháng tư ở Bành Thành thực ra không quá nóng, phải nói là dễ chịu, nhiệt độ trung bình khoảng 26°C, thỉnh thoảng lên tới 30°C.
+Mở quán trà sữa, quán nước đá hay thậm chí là quán ăn nhanh, trong thời tiết này chỉ bật quạt mà không bật điều hòa cũng chẳng sao, nhưng với quán mì dê thì không.
 
-Thời tiết dễ chịu như vậy chính là lúc để tiết kiệm tiền điện, không cần bật máy sưởi cũng chẳng cần máy lạnh. Hầu hết các nhà hàng ở Bành Thành đều làm thế, và phần lớn các quán mì thịt cừu theo trào lưu cũng nghĩ vậy. Điện nước thương mại đắt đỏ, tiết kiệm được đồng nào hay đồng nấy, thời tiết 26°C thì bật điều hòa làm gì? Cứ mở cửa cho thông gió là được.
+Bạn thử nghĩ mà xem. Giữa mùa đông rét căm căm, khi ngoài trời chỉ vài độ, ăn một tô mì dê thôi cũng đủ nóng toát mồ hôi. Vậy cảm giác sẽ thế nào khi ăn mì dê trong một quán không bật điều hòa giữa tiết trời 26°C?
 
-Nhưng chính suy nghĩ này đã giết chết họ.
+Hòa Ái Xích đã thử rồi, cảm giác như đang xông hơi mà vẫn mặc nguyên quần áo vậy. Ăn xong một tô mì, cả người ướt sũng.
 
-Với thời tiết này, mở quán trà sữa, quán nước đá hay thậm chí là quán ăn nhanh mà chỉ bật quạt không bật điều hòa thì chẳng sao, nhưng với quán mì thịt cừu thì không được.
+Vì thế, khách trong các quán mì dê ngày càng thưa thớt. Mà khách đã ít thì chủ quán lại càng không muốn bật điều hòa. Có một hai vị khách thì bật điều hòa làm gì? Tiền điện tốn kém biết bao, một tô mì dê lời lãi được bao nhiêu, trừ đi tiền thuê mặt bằng và chi phí nhân công, có khi còn lỗ vốn.
 
-Thử nghĩ mà xem. Giữa mùa đông, khi bên ngoài chỉ có vài độ, ăn một tô mì thịt cừu đã đủ ấm đến toát mồ hôi. Vậy trong tiết trời 26°C, ngồi ăn một tô mì thịt cừu trong một cửa hàng không có điều hòa thì sẽ có cảm giác gì?
+Nhưng Hoa Ký thì khác, bà chủ ở đây rất chiều khách. Quán vốn đã không lớn, trần nhà lại thấp, vậy mà còn lắp cả điều hòa trung tâm. Trời chỉ hơi nóng lên một chút là điều hòa được bật, gió lạnh thổi mạnh đến mức đi ngang qua cửa cũng cảm nhận được, trải nghiệm ăn mì hoàn toàn khác biệt so với những nơi khác.
 
-Hòa Ái Xích đã thử rồi. Cảm giác đó chẳng khác gì xông hơi mà vẫn mặc nguyên quần áo. Ăn xong một tô mì, cả người ướt sũng.
+Kết quả là, những quán không chịu bật điều hòa ngày càng vắng khách, trong khi lượng khách của Hoa Ký luôn ổn định ở một con số nhất định. Giá thuê mặt bằng vốn đã đắt, lại thêm việc mở cửa muộn, không kịp đón đợt lạnh nhất của Bành Thành, chẳng bao lâu sau, các quán bắt đầu không trụ nổi và lần lượt đóng cửa.
 
-Vì vậy, khách đến các quán mì thịt cừu ngày càng ít đi. Mà khách càng ít, chủ quán lại càng không muốn bật điều hòa. Chỉ có một hai vị khách thì bật làm gì? Tiền điện tốn kém như vậy, một tô mì thịt cừu lời lãi được bao nhiêu, trừ đi tiền thuê nhà và nhân công, có khi còn lỗ vốn.
+Ngược lại, Hoa Ký đã sớm đi vào quỹ đạo, kiếm được một khoản lớn trong mùa đông. Cùng với lượng khách ổn định, thu chi cân bằng, ngay cả trong những ngày nóng nhất, quán vẫn có thể duy trì ở mức lãi nhẹ. Đến mùa đông năm sau, khi trời trở lạnh, các quán mì dê khác đã dẹp tiệm gần hết, Hoa Ký lại thắng lớn.
 
-Huaji thì khác. Bà chủ rất thích chiều chuộng khách hàng của mình. Quán vốn đã nhỏ, trần nhà lại thấp, còn lắp cả điều hòa trung tâm. Trời chỉ hơi nóng một chút là điều hòa đã được bật, gió lạnh mạnh đến mức đi ngang qua cửa cũng cảm nhận được. Trải nghiệm ăn mì hoàn toàn khác biệt so với những nơi khác.
+Nếu để Hòa Ái Xích nói, thì chủ của một số quán kia đơn giản là chưa nghĩ thông suốt: đối thủ cạnh tranh của một quán mì dê chưa bao giờ là những quán mì dê khác, mà là tất cả các hàng quán ẩm thực trên mọi nẻo đường góc phố của Bành Thành. Trong tiết trời 26°C, người ta có thể chọn đến những quán gỏi, quán bún trộn không có điều hòa, hay thậm chí là những cửa hàng đồ ăn nhanh phương Tây mở điều hòa 24/7 ở khắp nơi. Tại sao họ phải chấp nhận rủi ro ướt đẫm mồ hôi để ăn một tô mì dê chứ?
 
-Thế là, những quán không chịu bật điều hòa ngày càng vắng khách, trong khi lượng khách ở Huaji vẫn ổn định. Tiền thuê mặt bằng vốn đã đắt, lại mở cửa muộn, không kịp đón đợt lạnh nhất ở Bành Thành. Chẳng bao lâu sau, các quán bắt đầu lần lượt đóng cửa vì không thể cầm cự nổi.
+Sau khi sắp xếp lại dòng suy nghĩ, Hòa Ái Xích bắt đầu gõ từng chữ vào tệp văn bản trên máy tính.
 
-Ngược lại, Huaji đã đi vào quỹ đạo từ lâu và kiếm được một khoản lớn vào mùa đông. Cùng với lượng khách hàng ổn định, thu chi cân bằng, ngay cả trong những ngày nóng nhất, quán vẫn có thể duy trì một khoản lợi nhuận nhỏ. Đến mùa đông năm sau, khi nhiệt độ giảm xuống, các quán mì thịt cừu khác đã dẹp tiệm gần hết, Huaji lại tiếp tục hốt bạc.
+...
 
-Theo cô thấy, một số chủ quán đơn giản là không hiểu rằng đối thủ cạnh tranh của các quán mì thịt cừu chưa bao giờ là những quán mì thịt cừu khác, mà là tất cả các quán ăn ngon trên khắp các con phố, ngõ hẻm của Bành Thành. Trong thời tiết 26°C, người ta sẽ chọn những quán gỏi, quán mì trộn không có điều hòa, hay thậm chí là các quán ăn nhanh kiểu Tây mở 24/7 có điều hòa mát rượi. Tại sao họ phải chấp nhận nguy cơ ướt sũng cả người để ăn mì thịt cừu chứ?
+Viết xong bài, cô còn phải xử lý phông chữ, dàn trang, chỉnh sửa ảnh. Khi hoàn thành tất cả những công việc trên, trời cũng đã tối mịt. Hòa Ái Xích quyết định ăn tạm thứ gì đó ở nhà rồi kết thúc công việc của ngày hôm nay, không ra ngoài để hoàn thành các nhiệm vụ hàng ngày khác nữa. Dù sao thì một tuần cũng đã trôi qua, cô có thể viết lại đánh giá cho quán Mì Dê Hoa Ký Tuân Nghĩa để được hoàn lại 18 tệ tiền ăn. Mặc dù nhiệm vụ hàng ngày là đăng ký thông tin cửa hàng cho Cộng Đồng Đánh Giá Độc Đáo vẫn chưa làm, nhưng số lượng gánh hàng rong cũng chỉ có hạn, đăng ký xong là hết, để nhiệm vụ muộn một ngày cũng không sao.
 
-Sau khi sắp xếp lại dòng suy nghĩ, Hòa Ái Xích bắt đầu gõ từng chữ vào tài liệu trên máy tính.
+...
 
-…
-
-Viết xong bài, cô còn phải xử lý phông chữ, sắp xếp bố cục hình ảnh và văn bản, rồi chỉnh sửa ảnh. Hoàn tất tất cả công đoạn trên, trời cũng đã sẩm tối.
-
-Hòa Ái Xích quyết định ở nhà ăn tạm thứ gì đó, rồi kết thúc công việc trong ngày, không ra ngoài để hoàn thành các nhiệm vụ hàng ngày khác. Dù sao thì một tuần đã trôi qua, cô có thể viết một bài đánh giá mới cho quán mì thịt cừu Huaji Tuân Nghĩa và nhận được 18 tệ tiền hoàn lại bữa ăn. Mặc dù nhiệm vụ hàng ngày là đăng ký thông tin cửa hàng cho Cộng Đồng Đánh Giá Độc Đáo vẫn chưa hoàn thành, nhưng số lượng gánh hàng rong cũng chỉ có hạn, đăng ký xong là hết. Nhiệm vụ có làm muộn một ngày cũng chẳng sao.
-
-***
-
-9 giờ 30 tối.
+Chín rưỡi tối.
 
 Bên trong quán hoành thánh Lão Hải.
 
-Giờ ăn tối đã qua, trong quán chỉ còn lại một vị khách, không gian vô cùng yên tĩnh. Một bóng người xách theo túi ni lông sải bước vào cửa.
+Giờ ăn đã qua, trong quán chỉ còn lại một vị khách, không khí vô cùng yên tĩnh.
 
-Cậu nhân viên trong quán đang ngồi trên ghế lướt điện thoại di động. Thấy có người đến, cậu ta vội vàng cất điện thoại đi:
+Một bóng người xách túi ni lông sải bước vào cửa. Nhân viên trong quán đang ngồi trên ghế lướt điện thoại, thấy có người đến liền vội vàng cất máy đi:
 
-"Quản lý?"
+"Anh quản lý?"
 
-"Hôm nay anh không nghỉ sao? Giờ này còn đến đây làm gì?"
+"Hôm nay không phải ca nghỉ của anh sao? Giờ này còn đến đây làm gì?"
 
-Người quản lý giơ chiếc túi ni lông trong tay lên ra hiệu: "Đến mời cậu ăn khuya."
+Người quản lý giơ chiếc túi ni lông trong tay lên ra hiệu: "Đến mời cậu ăn khuya đây."
 
-Cậu nhân viên nghe vậy thì vui vẻ, ghé đầu vào chiếc túi ni lông nhìn vào trong: "Gì đây ạ?"
+Cậu nhân viên nghe vậy thì vui vẻ hẳn lên, ghé đầu vào chiếc túi ni lông để nhìn vào trong: "Gì đây ạ?"
 
 "Hoành thánh."
 
-Cậu nhân viên thất vọng lùi lại hai bước: "...Hoành thánh của quán mình anh còn không ăn, anh lấy hoành thánh ở đâu ra vậy?"
+Cậu nhân viên thất vọng lùi lại hai bước: "...Hoành thánh của quán mình anh còn chẳng thèm ăn, lại còn đi mua hoành thánh ở đâu về vậy."
 
-"Lát nữa nếm thử là biết."
+"Lát nữa nếm thử là biết ngay."
 
-Người quản lý mang hoành thánh sống vào bếp, cho vào nồi dùng để nấu hoành thánh của quán rồi luộc chín. Sau đó, anh ta múc một muỗng súp hoành thánh rong biển của quán vào tô, rắc thêm chút hành lá thái nhỏ.
+Người quản lý mang hoành thánh sống vào bếp sau, cho vào nồi của quán để luộc chín rồi vớt ra. Sau đó, anh ta múc một muỗng nước dùng rong biển của quán chan vào bát, rắc thêm chút hành lá.
 
-"Nào, thử xem."
+"Nào, thử đi."
 
-Sáng nay lúc ăn hoành thánh ở quán Mì Ngon, anh ta đã muốn làm thế này rồi. *Hoành thánh nấu bằng nước luộc suông mà đã ngon như vậy, nếu đổi sang loại nước dùng ngon hơn thì sao nhỉ? Liệu có ngon hơn không?*
+*Sáng nay lúc ăn hoành thánh ở quán Mì Ngon, anh ta đã nảy ra ý này rồi. Hoành thánh nấu bằng nước luộc mì mà còn ngon đến thế, nếu đổi sang nước dùng ngon hơn thì sao? Liệu có ngon hơn không?*
 
-Tuy hoành thánh của quán họ ăn không ngon, nhưng nước dùng vẫn được pha chế theo công thức nhượng quyền, vị cũng khá ổn.
+Tuy hoành thánh của quán họ ăn không ra gì, nhưng nước dùng vẫn được nêm nếm theo công thức nhượng quyền, vị cũng khá ổn.
 
 Người đẹp vì lụa, cơm ngon vì bát. Những viên hoành thánh xấu xí của quán Mì Ngon được đặt trong chiếc bát sứ của quán hoành thánh Lão Hải, kết hợp với nước dùng rong biển trong veo, trông thuận mắt hơn hẳn.
 
-Nhưng đó là suy nghĩ của người quản lý.
+Nhưng đó là suy nghĩ của người quản lý. Cậu nhân viên ngày nào cũng đối mặt với hoành thánh của quán Lão Hải, sớm đã chai sạn với kiểu bày trí này. Hơn nữa, cậu ta chưa từng thấy hoành thánh ở quán Mì Ngon trông như thế nào, không có so sánh thì làm sao phân biệt được đẹp xấu, cao thấp.
 
-Cậu nhân viên ngày nào cũng phải đối mặt với hoành thánh của quán Lão Hải, đã sớm chán ngấy với sự kết hợp này. Vả lại, cậu ta chưa từng thấy hoành thánh của quán Mì Ngon trông thế nào, không có so sánh thì làm sao biết đẹp xấu. Mà thật tình thì cậu ta cũng chẳng muốn ăn hoành thánh chút nào…
+Và cậu ta thật sự không muốn ăn hoành thánh...
 
-Thấy cậu ta do dự, người quản lý nói: "Ăn một viên đi, khác với loại cậu hay ăn đấy."
+Thấy cậu nhân viên do dự, người quản lý nói: "Ăn thử một viên đi, khác với loại mình ăn hằng ngày đấy."
 
-Nói xong, chính anh ta cũng dùng thìa múc một viên hoành thánh cho vào miệng.
+Nói rồi, chính anh ta cũng dùng thìa múc một viên hoành thánh cho vào miệng. Thấy vậy, cậu nhân viên đành phải ăn theo.
 
-Cậu nhân viên thấy vậy đành làm theo.
+"Đúng là khác thật, ngon phết anh ạ."
 
-"Đúng là khác thật, ngon phết." Vài viên hoành thánh nhỏ vào bụng, cậu ta cảm thấy味道不错，越吃越起劲。
+Vài viên hoành thánh nhỏ trôi xuống bụng, cảm thấy hương vị không tồi, cậu ta càng ăn càng thấy thích thú.
 
-Tuy nhiên, sau khi người quản lý nếm thử vài viên hoành thánh, anh ta lại cau mày.
+Thế nhưng, sau khi nếm thử vài viên, người quản lý lại cau mày.
 
-*Không giống.*
+"Khác quá."
 
-*Tại sao lại không ngon bằng lúc ăn ở quán Mì Ngon nhỉ?*
-
-*Rốt cuộc là sai ở đâu?* Rõ ràng đã đổi sang bộ đồ ăn tốt hơn, nước dùng cũng ngon hơn, nhưng hoành thánh ăn vào lại không có vị tươi ngon như khi ăn tại quán.
+*Sao lại không ngon bằng lúc ăn ở quán Mì Ngon nhỉ? Rốt cuộc là sai ở đâu? Rõ ràng đã đổi sang bộ đồ ăn đẹp hơn, nước dùng cũng ngon hơn, nhưng hoành thánh ăn vào lại không có vị tươi ngon như khi ăn tại quán.*

@@ -1,139 +1,153 @@
-# Chương 43: Bánh Xoắn Sữa Chua
+### Chương 43
 
-Từ khi còn bé, Hòa Ái Xích đã luôn ao ước nếu có một căn nhà của riêng mình, phòng bếp nhất định phải có những bộ đồ ăn và dụng cụ thật đẹp, dù có dùng đến hay không. Chỉ cần nhìn thôi cũng thấy dễ chịu.
+---
 
-Cô cân nhắc, thương hiệu MeiD vốn đã có tiếng, chiếc nồi cơm điện với chức năng tương tự cũng được đánh giá tốt, vậy nên không cần phải tiêu tốn 5.000 điểm Ảnh hưởng để nhờ Ứng dụng đánh giá hộ.
+Từ khi lớn lên, cô vẫn luôn ao ước nếu có một căn nhà của riêng mình, thì dù căn bếp có được dùng đến hay không, bộ đồ ăn, dụng cụ bếp núc bên trong đều phải xinh xắn mỹ miều. Nhìn thôi cũng thấy dễ chịu rồi.
 
-Cô nhận nhiệm vụ này!
+Xét thấy thương hiệu M.D vốn là một nhãn hàng lớn, các mẫu nồi cơm điện cùng chức năng cũng nhận được đánh giá tốt, nên cô không cần lãng phí 5000 điểm Ảnh hưởng để ứng dụng viết bài đánh giá thương hiệu giúp mình. Nhiệm vụ này, cô nhận!
 
-Liếc nhìn đồng hồ. *“Chà, hơn mười hai giờ rồi.”*
+Cô liếc nhìn đồng hồ.
 
-Lại một lần nữa thất bại với quyết tâm ngủ sớm dậy sớm. Ngủ sớm khó thật đấy. Hôm nay, à không, hôm qua chỉ đến trước cửa tiệm Mì Bò Zunyi Huaji một chuyến, thấy nhiều người xếp hàng như vậy, cô đã không kìm được mà thức đến tận mười hai giờ để xem kết quả tổng kết dữ liệu.
+"Chết thật, hơn mười hai giờ rồi."
 
-*Phải ngủ sớm dậy sớm mới được. Muốn ngủ sớm thì phải buồn ngủ sớm, vậy thì bắt đầu bằng việc hẹn báo thức sớm thôi!*
+Định bụng ngủ sớm dậy sớm, lại thất bại nữa rồi.
 
-Cô đặt báo thức trên điện thoại lúc 8 giờ 30 sáng, tắt màn hình rồi chìm vào giấc ngủ.
+*Ngủ sớm khó thật đấy.*
 
-***
+Hôm nay, à không, hôm qua ghé qua tiệm phở dê Hoa Ký ở Tuân Nghĩa, thấy người ta xếp hàng đông quá, cô lại không kìm được mà thức đến mười hai giờ khuya để xem số liệu quyết toán.
 
-Sáng hôm sau, Hòa Ái Xích bị chuông báo thức đánh thức.
+Phải ngủ sớm dậy sớm mới được. Muốn ngủ sớm thì phải buồn ngủ sớm, vậy thì cứ bắt đầu bằng việc đặt báo thức sớm thôi!
 
-Cô vừa dụi mắt, còn chưa kịp rửa mặt đã vội cầm lấy điện thoại, chuẩn bị lướt xem các bài đăng mới.
+Cô chỉnh báo thức trên điện thoại sang tám giờ rưỡi sáng, rồi tắt màn hình đi ngủ.
 
-[Bạn có một ghi chú vẫn đang được chỉnh sửa. Bạn có cần vào hộp thư nháp để tiếp tục không?]
+*
 
-Đúng rồi, bài viết về bánh xoắn sữa chua của cô vẫn chưa đăng. Phải nhanh chóng đăng lên các nền tảng khác mới được.
+Hôm sau, Hòa Ái Xích bị chuông báo thức đánh thức. Vừa dụi mắt xong, còn chưa kịp vệ sinh cá nhân, cô đã cầm điện thoại lên, chuẩn bị lướt Tiểu Tử Thư.
+
+[Bạn có một bài viết đang chỉnh sửa, có cần vào hộp thư nháp để tiếp tục không?]
+
+À phải rồi, bài viết về món quẩy sữa chua của cô vẫn chưa đăng, phải nhanh chóng đăng bài lên các nền tảng mới được.
 
 Cô nhấn nút gửi.
 
-[Nhiệm vụ của bạn đã hoàn thành. Bạn nhận được 3 điểm kinh nghiệm, 3 phiếu giảm giá 100 lượt truy cập. Điểm ghi chú video là 79, nhận được phần thưởng tiền mặt là 79 tệ.]
+[Nhiệm vụ của bạn đã hoàn thành, nhận được 3 điểm kinh nghiệm, 3 phiếu tăng 100 lượt xem, bài viết video được 79 điểm, nhận thưởng 79 tệ tiền mặt.]
 
-Hòa Ái Xích kéo thanh thông báo xuống. “Ồ, điểm cũng cao ghê?”
+Hòa Ái Xích kéo thanh thông báo xuống: "Điểm cũng cao ghê nhỉ?"
 
-Bài viết này hoàn toàn là ngẫu hứng, cộng cả thời gian sắp xếp hình ảnh cũng chỉ mất chưa đầy mười lăm phút, đơn giản hơn nhiều so với video ngắn về Mì Bò Zunyi Huaji mà cô đã làm trước đây. Video ngắn đó cô đã phải cắt ghép rất lâu mà chỉ được 52 điểm, ngoài phần thưởng cơ bản của nhiệm vụ ra thì chẳng kiếm được thêm đồng nào. Xem ra kỹ năng dựng video của cô vẫn còn cần cải thiện nhiều.
+Bài viết này hoàn toàn là do cô ngẫu hứng viết bừa, tính cả thời gian sắp xếp hình ảnh cũng chưa tới mười lăm phút, đỡ tốn công hơn hẳn video ngắn về phở dê Hoa Ký ở Tuân Nghĩa lần trước. Cái video ngắn đó cô đã mất rất nhiều thời gian để dựng mà chỉ được 52 điểm, ngoài phần thưởng cơ bản của nhiệm vụ ra thì chẳng được thêm một đồng nào.
 
-Cô lại cuộn mình trong chăn chơi điện thoại một lúc, tiện tay thu thập các địa chỉ mới do cư dân mạng cung cấp dưới bài viết về quẩy và bánh cuốn, chỉnh sửa lại vào ghi chú của mình rồi mới chịu rời giường.
+Xem ra kỹ năng dựng video của mình còn phải cải thiện nhiều.
+
+Cô lại rúc trong chăn nghịch điện thoại thêm một lúc, tiện tay thu thập các địa chỉ mới do cộng đồng mạng cung cấp bên dưới bài viết về quẩy chiên và bánh cuốn, cập nhật lại vào bài rồi mới chịu dậy.
 
 ...
 
-Chu Minh Thanh, một người hâm mộ của tài khoản “Tiểu Chi Dạo Ăn”, cũng vừa tỉnh giấc.
+Châu Minh Tình, một người hâm mộ tài khoản công cộng "Tiểu Trì Măm Măm", cũng vừa tỉnh giấc. Cô ấy cũng đang nằm ườn trên giường lướt điện thoại, cụ thể là lướt Tiểu Tử Thư.
 
-Cô ấy cũng đang nằm ườn trên giường lướt điện thoại. Đang xem các bài đăng, cô ấy bỗng thấy một ghi chú về bánh xoắn sữa chua với tiêu đề “Kỳ nghỉ vui vẻ với bánh xoắn sữa chua网红 và trà chanh!”, cô ấy không nhịn được mà bấm vào, định bụng sẽ để lại bình luận chê món này dở tệ.
+Đang lướt, cô ấy bắt gặp một bài viết về món quẩy sữa chua có tiêu đề 《Quẩy sữa chua hot rần rần ngày lễ, ăn cùng nước chanh, vui hết sảy!》, cô ấy không nhịn được mà bấm vào, định bụng sẽ để lại bình luận chê món này dở tệ.
 
-Nhắc đến món bánh xoắn sữa chua này là cô ấy lại tức anh ách.
+Nhắc tới món quẩy sữa chua này là cô ấy lại tức anh ách.
 
-Hôm qua là thứ Bảy, cô ấy cùng bạn bè đến một con phố ẩm thực nổi tiếng ở quận Đông Thành để xếp hàng ăn mì cừu. Ăn xong, tình cờ thấy một tiệm bánh xoắn sữa chua网红 ngay bên cạnh, hai người bàn nhau rồi mua ba cái.
+Thứ bảy hôm qua được nghỉ, cô ấy và bạn bè cùng nhau đến con phố ẩm thực nổi tiếng ở khu Đông Thành để xếp hàng ăn phở dê. Ăn xong, họ tình cờ thấy ngay bên cạnh có một tiệm bán món quẩy sữa chua đang nổi trên mạng, bèn bàn nhau mua ba cái.
 
-Lúc đó, trên con phố có hai tiệm bán món này, một tiệm xếp hàng dài dằng dặc, tiệm còn lại thì vắng hoe. Cô ấy vừa mới phải xếp hàng để ăn mì cừu xong, thật sự không muốn phải xếp hàng thêm lần nữa nên đã chọn tiệm không có ai. Lúc đó cô ấy nghĩ, hai tiệm này nhìn cách trang trí và hình dáng bánh là biết ngay sản phẩm ăn theo trào lưu, chắc hương vị và công thức cũng chẳng khác gì nhau, mua ở đâu cũng vậy.
+Lúc đó trên con phố ấy có hai tiệm quẩy sữa chua, một tiệm xếp hàng dài dằng dặc, một tiệm chẳng có ai. Cô ấy vừa mới phải xếp hàng ăn phở dê xong, thật sự không muốn xếp hàng mua quẩy nữa, thế là đi thẳng vào cái tiệm vắng khách kia.
 
-Ai ngờ, chiếc bánh cầm trên tay vừa ngọt, vừa ngấy, lại còn đẫm dầu. Đối với một người vừa ăn mì cừu xong lại còn uống trà sữa như cô ấy thì đúng là một cực hình. Cô ấy và bạn mình phải cố gắng lắm mới ăn chung hết một cái nhân sữa chua. Cô ấy mang về chiếc bánh vị sô-cô-la, còn bạn cô ấy thì mang về chiếc vị trứng muối. Giờ cái của nợ ấy vẫn còn nằm chỏng chơ trong tủ lạnh, vứt thì tiếc mà ăn thì không nổi.
+Lúc ấy cô ấy đã nghĩ rằng, nhìn cách trang trí và hình dáng món quẩy của hai tiệm này là biết ngay sản phẩm đu theo trào lưu trên mạng, chắc hương vị và công thức cũng chẳng khác gì nhau. Mua ở đâu mà chẳng vậy.
 
-Bấm vào bài viết, Chu Minh Thanh lướt xem ảnh trước rồi mới đọc chữ. Lướt qua hai tấm ảnh, cô ấy nhận ra người đăng bài cũng mua bánh ở con phố đó. Thậm chí người này còn ghép ảnh hai cửa hàng lại với nhau để so sánh, khiến cho tiệm bánh vắng khách trông càng thảm hại hơn.
+Đến khi cầm cái quẩy trên tay, nó vừa ngọt vừa ngấy lại còn bám đầy dầu mỡ. Với một người vừa ăn phở dê lại còn uống trà sữa như cô ấy mà nói, quả là một sự kết hợp ngấy đến phát sợ. Cô ấy và bạn mình cố lắm mới ăn chung hết một cái quẩy nhân sữa chua, cô ấy cầm lấy cái vị sô cô la trong hai cái còn lại, còn bạn cô ấy thì mang cái vị trứng muối về nhà.
 
-Nhìn thấy hình ảnh của cửa hàng mà mình đã ăn hôm trước, Chu Minh Thanh không thể nhịn được nữa, quyết định bình luận trước khi đọc bài viết:
+Giờ cái của nợ ấy vẫn đang bị vứt chỏng chơ trong tủ lạnh, thật khó xử, chẳng biết nên ăn hay nên bỏ.
 
-[Bánh xoắn của tiệm Bánh Xoắn Sữa Chua Baba này dở tệ luôn, tôi hối hận vì đã mua ba cái, trong tủ lạnh vẫn còn một cái đây này. Đúng là oan gia mà [khóc lớn]. Nhưng mà tiệm Mì Bò Zunyi Huaji bên cạnh thì ngon lắm, mọi người nên thử!]
+Bấm vào bài viết, cô ấy xem ảnh trước rồi mới đọc chữ.
 
-Viết xong bình luận, cô ấy mới bắt đầu đọc nội dung bài viết.
+Lướt ảnh qua hai lần, được lắm, bài viết có cả thông tin định vị, người đăng bài cũng mua quẩy trên cùng con phố với cô ấy. Người này còn ghép ảnh hai cửa tiệm lại với nhau, đặt cạnh nhau so sánh, trông cái tiệm vắng khách càng thêm thảm hại. Bức ảnh của cái tiệm mà mình mới ăn và chê dở hôm trước đập ngay vào mắt, đúng là một đòn chí mạng.
 
-“...Tiệm đông khách hơn thì ngon hơn, vì bánh mới ra lò, vỏ ngoài giòn rụm, bên trong mềm mại nóng hổi, cắn một miếng còn túa cả nhân ra... Hả? Mua online chỉ có 3,8 tệ một cái thôi á? Tác giả khuyên chỉ nên ăn một cái thôi không sẽ bị ngấy. Trời ơi, biết thế này tôi đã không mua ở tiệm Bánh Xoắn Sữa Chua Baba rồi!”
+Châu Minh Tình không thể nhịn nổi nữa, quyết định phải bình luận một tràng trước khi đọc nội dung:
 
-*Đồ đắt tiền lại không ngon bằng đồ rẻ tiền!*
+[Quẩy của tiệm Ba Ba Sữa Chua này dở kinh khủng khiếp, hối hận vì đã mua ba cái, trong tủ lạnh nhà tôi vẫn còn một cái đây này, đúng là oan gia mà [khóc lớn]. Nhưng phở dê Hoa Ký ở Tuân Nghĩa bên cạnh thì ngon lắm, mọi người nên thử!]
 
-Cô ấy nhấn thích, rồi kéo xuống xem bình luận. Khu vực bình luận không có nhiều người, chủ yếu là những người đi ngang qua và muốn thử. Có người nói thích nhất vị trứng muối nhưng cũng thấy ngấy, mỗi lần chỉ ăn được một cái.
+Viết xong bình luận, cô ấy mới bắt đầu đọc phần chữ trong bài viết.
 
-Một lúc sau, tác giả bài viết, “Tiểu Chi ăn chưa no”, đã nhấn thích bình luận của cô ấy và còn trả lời:
+"Tiệm đông người xếp hàng ăn ngon hơn, vì quẩy tươi, lúc mới ra lò vỏ được chiên giòn rụm, bên trong mềm xèo còn bốc hơi nóng, cắn một miếng là nhân trào ra... hả? Mua trên mạng có 3.8 tệ một cái, khuyên là chỉ nên ăn một cái thôi không sẽ bị ngán, á á á, biết thế này tôi đã không mua ở tiệm Ba Ba Sữa Chua rồi!"
 
-[Mình thấy trong một bài viết khác có chỉ, bánh xoắn bị nguội có thể hâm nóng lại bằng lò nướng hoặc nồi chiên không dầu. Nếu không có hai thứ đó, bạn có thể dùng chảo với lửa nhỏ nhất rồi đậy nắp lại, hoặc dùng lò vi sóng cũng được, nhưng sẽ không ngon bằng.]
+"Đồ đắt tiền mà còn không ngon bằng của người ta!"
 
-Dù nhà thuê của Chu Minh Thanh không có lò nướng hay nồi chiên không dầu, nhưng câu trả lời nhiệt tình của tác giả đã khiến cô ấy có thiện cảm và tiện tay bấm vào trang cá nhân của người đó.
+Cô ấy nhấn thích, rồi kéo xuống xem bình luận.
 
-*“Tên là Tiểu Chi ăn chưa no à? Hình như mình thấy ở đâu rồi.”*
+Khu vực bình luận cũng không đông lắm, chủ yếu là những người đi ngang qua và muốn ăn thử. Cũng có người nói thích nhất vị trứng muối, nhưng ăn vào cũng ngấy phát hoảng, mỗi lần chỉ ăn được một cái là nhiều, không thể ăn thêm.
 
-*“Có vẻ là một tài khoản review đồ ăn ở Bằng Thành. Lượng người theo dõi không nhiều. Thôi cứ theo dõi đi, người đâu mà tốt bụng.”*
+Không lâu sau, tác giả bài viết "Tiểu Trì Chưa No" đã nhấn thích và trả lời bình luận của cô ấy, nói rằng trong các bài viết khác có thấy quẩy nguội có thể hâm nóng lại bằng lò nướng hoặc nồi chiên không dầu. Nếu không có hai thứ đó thì có thể dùng chảo đun ở lửa nhỏ nhất rồi đậy vung lại, hoặc dùng lò vi sóng cũng được, chỉ là sẽ không ngon bằng.
 
-*“Bài viết ghim trên đầu là rút thăm trúng thưởng à?”*
+Tuy căn nhà trọ của Châu Minh Tình không có nồi chiên không dầu hay lò nướng, nhưng câu trả lời tử tế của tác giả khiến thiện cảm của cô ấy tăng vọt. Cô ấy tiện tay bấm vào trang cá nhân của đối phương, muốn tìm hiểu xem đây là người như thế nào.
 
-Vậy thì cô ấy cũng tham gia một suất. Tuy giá trị giải thưởng không cao lắm, nhưng phần bún ốc được tặng thêm một phần váng đậu lớn thì quả thực rất hấp dẫn.
+"Tên là Tiểu Trì Chưa No à? Hình như mình từng thấy ở đâu rồi."
 
-*“Quẩy không an toàn mở đến 18 giờ? Địa chỉ có vẻ không xa lắm.”* Chuyển tiếp cho bạn.
+"Hình như là một tài khoản ăn uống ở Bằng Thành, fan không nhiều lắm, nhấn theo dõi thôi, cô bạn này có vẻ tốt tính."
 
-*“Địa chỉ bánh cuốn hộp xốp? Cái này hữu ích!”* Chuyển tiếp vào nhóm chat đồng nghiệp.
+"Bài ghim trên đầu là rút thăm trúng thưởng à?"
 
-Tiếp tục kéo xuống, cô ấy lại thấy một đoạn video ngắn quen thuộc. Vừa bấm vào, loa điện thoại đã vang lên: “Đinh đoong, ví điện tử đã nhận, mười, tám, tệ...”
+Vậy mình cũng tham gia một suất. Tuy giá trị giải thưởng không cao lắm, nhưng món bún ốc được tặng thêm một phần váng đậu lớn thì quả thực rất hấp dẫn.
 
-“...”
+"Quẩy chiên không an toàn mở cửa đến 18:00? Vị trí có vẻ không xa."
 
-Đây chẳng phải là video ngắn mà cô ấy đã xem trên Douyin hôm qua lúc đang xếp hàng chờ ăn mì cừu sao?
+Cô ấy chuyển tiếp cho bạn mình.
 
-Chu Minh Thanh mở khu vực bình luận của video và để lại tin nhắn:
+"Địa chỉ bánh cuốn hộp xốp? Cái này hữu ích này!"
 
-[Tiểu Chi, video ngắn này cũng là bạn làm à?]
+Cô ấy chuyển tiếp vào nhóm chat đồng nghiệp.
 
-***
+Tiếp tục kéo xuống, cô ấy lại thấy một video ngắn quen thuộc.
 
-Tốc độ giao hàng của thương hiệu nhanh đến kinh ngạc.
+Vừa bấm vào, loa điện thoại đã vang lên: "Ting tong, ví đã nhận thanh toán, mười... tám... tệ..."
 
-Hòa Ái Xích vừa mới nhận nhiệm vụ trước khi đi ngủ, vậy mà sáng hôm sau nồi cơm điện đã được giao đến tận cửa nhà thuê, toàn bộ quá trình chưa đến 12 tiếng.
+"..."
 
-Cầm chiếc nồi cơm điện trên tay, cô thầm nghĩ, *nên làm món gì với nó đây nhỉ?*
+Đây chẳng phải là video ngắn mà hôm qua lúc xếp hàng ăn phở dê mình xem trên Đẩu Âm hay sao?
 
-“Alô, bố ạ...”
+Châu Minh Tình mở khu vực bình luận của video và để lại lời nhắn:
 
-Nhìn thấy nồi cơm điện, điều đầu tiên cô nghĩ đến chính là cơm. Đồ ăn mẹ nấu không hợp khẩu vị của Hòa Ái Xích cho lắm. Bố cô, thực ra lại là một người rất khéo tay.
+[Tiểu Trì ơi, video ngắn này cũng là bạn làm à?]
 
-Việc cô từ nhỏ dù không thích đồ ăn mẹ nấu nhưng vẫn phân biệt được ngon dở là có lý do. Bởi vì cô đã thực sự được ăn những món ngon.
+*
 
-Bố cô là một người có khả năng xoay xở rất tốt. Nhà ở ven biển, gia đình lại đơn thân. Ông nội cô mất sớm, ở nhà chỉ có bà nội là trụ cột. Ngày bé nhà nghèo, không có gì ăn, ông ấy có thể tự mình ra đồng, ra biển, đào hàu, bắt tôm cá mang về cho bà nội cải thiện bữa ăn. Lớn lên, nghe nói lúc mới trưởng thành ông ấy còn đến làm việc tại một nhà hàng nổi tiếng trong vùng, rèn luyện tay nghề trong bếp. Sau này cuộc đời ông ấy cũng khá lận đận, đi làm công, rồi đến thành phố khác làm thuê, cuối cùng bây giờ tự mở một cửa hàng nhỏ kinh doanh.
+Tốc độ giao nồi cơm điện của phía thương hiệu nhanh đến kinh ngạc. Nhiệm vụ mà Hòa Ái Xích vừa nhận trước khi đi ngủ, sáng ra đã được giao đến tận cửa nhà trọ, toàn bộ quá trình chưa đến 12 tiếng.
 
-Trong suốt thời gian cô lớn lên, bố cô lại đang đi làm ăn xa, ở nhà chỉ có mẹ, nên cô toàn ăn đồ mẹ nấu. Sau này khi cô lớn hơn và bắt đầu ở ký túc xá, bố cô mới quay về quê mở tiệm. Chỉ là vì tiệm của ông ấy đóng cửa muộn, nên người nấu ăn chính trong nhà vẫn là mẹ cô. Tuy nhiên, mỗi dịp lễ Tết, bố cô vẫn sẽ trổ tài nấu một bữa thật ngon.
+Cầm chiếc nồi cơm điện trên tay, Hòa Ái Xích thầm băn khoăn, rốt cuộc nên dùng thứ này để làm món gì đây nhỉ?
 
-“Bố ơi, món cơm nếp lạp xưởng mà hồi bé con rất thích làm thế nào ạ?”
+"Alô, ba à..."
 
-“Sao tự nhiên lại hỏi cái này? Muốn ăn thì về đây bố làm cho. Dù sao cũng sắp Tết rồi, con được nghỉ chưa?”
+Nhìn thấy nồi cơm điện, điều đầu tiên cô nghĩ đến chính là cơm.
 
-“Năm nay con đi làm rồi, không có nghỉ đông đâu bố. Phải đến đêm giao thừa con mới về được.”
+Cơm nhà Hòa Ái Xích không ngon, chủ yếu là vì người nấu chính trong nhà là mẹ cô. Trong khi đó, vị phụ huynh còn lại, ba của Hòa Ái Xích, thực ra lại là người có tài nấu nướng. Đó là lý do vì sao dù từ nhỏ đã cảm thấy đồ ăn ở nhà không ngon, cô vẫn có thể phân biệt được hương vị ngon dở. Bởi vì cô đã thực sự được ăn những món ngon.
 
-“À phải, con đi làm rồi nhỉ...”
+Ba cô là người có khả năng thực hành rất tốt, quê ở vùng biển, lại xuất thân từ một gia đình đơn thân. Ông nội của Hòa Ái Xích mất sớm, trong nhà chỉ có bà nội là trụ cột. Hồi nhỏ nhà nghèo, không có gì ăn, ông đã tự mình ra đồng, xuống biển mò hàu, bắt cá tôm mang về để bà nội thêm món cho cả nhà. Lớn lên, nghe nói lúc mới trưởng thành ông còn đến làm việc trong một nhà hàng nổi tiếng ở địa phương, đã từng rèn luyện trong bếp. Sau này cuộc đời cũng khá long đong, ông từng đi làm công sở, rồi lại đến các thành phố khác làm thuê, cuối cùng hiện tại thì tự mở một cửa hàng nhỏ để kinh doanh.
 
-Đúng vậy, Hòa Ái Xích không hề nói cho bố mẹ biết chuyện mình thất nghiệp. Cô chỉ kể qua cho chị họ và nhờ chị ấy giữ bí mật giúp. Rõ ràng là chị họ cô đã giữ lời hứa. Trông chị ấy có vẻ vô tư, tưởng như chuyện gì cũng sẽ kể ra ngoài, nhưng thực ra chị ấy lại kín miệng vô cùng. Sống với nhau bao nhiêu năm, cô hiểu rất rõ điều này. Nếu không phải lo lắng rằng Ứng dụng không rõ nguồn gốc này sẽ biến mất nếu bị người khác phát hiện, cô thậm chí còn dám kể cho chị ấy nghe về nó.
+Khoảng thời gian Hòa Ái Xích lớn lên cũng chính là lúc ba cô đi làm ăn xa, ở nhà chỉ có mẹ, nên cô toàn ăn cơm mẹ nấu. Sau này cô lớn lên, bắt đầu ở nội trú, ba Hòa Ái Xích mới về quê mở tiệm. Chỉ là lúc mở tiệm, cửa hàng đóng cửa muộn, nên người nấu chính trong nhà vẫn là mẹ cô. Tuy nhiên, mỗi dịp lễ Tết, ba cô vẫn sẽ trổ tài ở nhà, nấu một bữa thật ngon.
 
-Sau khi ghi lại công thức làm món cơm nếp lạp xưởng, cô nói chuyện với bố thêm một lúc nữa thì cũng đến giờ ăn.
+"Ba ơi, món xôi nếp lạp xưởng mà hồi nhỏ con thích ăn ấy, làm thế nào ạ?"
 
-Theo kế hoạch, hôm nay cô vẫn sẽ đến quán Tom Yum Goong để thử món mới.
+"Sao tự dưng lại hỏi cái này? Thèm thì về đây ba làm cho mà ăn, dù gì cũng sắp Tết rồi, con được nghỉ khi nào?"
 
-*Hì hì, mình đã muốn thử đĩa đồ ăn vặt tổng hợp giá 78 tệ đó từ lâu rồi!*
+"Con bắt đầu đi làm từ năm nay rồi, đâu phải nghỉ đông nữa mà sớm thế, giao thừa con sẽ về."
 
-Một đĩa tổng hợp bao gồm sáu món của quán: xiên gà chiên sả, cánh gà chiên, xiên bò sa tế, xiên gà sa tế, bánh phồng tôm và thịt heo nướng than. Dùng món này để đánh giá quán thì quả là tiện lợi.
+"À phải, con đi làm rồi nhỉ..."
 
-Tuy phải tự bỏ thêm 28 tệ, nhưng chẳng phải gần đây cô cũng đã kiếm được tiền rồi sao? Phải hào phóng lên một chút!
+Đúng vậy, chuyện Hòa Ái Xích thất nghiệp, cô không nói cho ba mẹ biết, chỉ kể qua với chị họ một lần, và dặn chị tạm thời đừng nói chuyện này cho gia đình. Rõ ràng là chị họ cô đã giữ lời, không kể chuyện này cho ai khác. Cô chị họ của cô trông có vẻ xuề xòa, chẳng mấy khi để bụng chuyện gì, tưởng như chuyện gì cũng sẽ bô bô ra ngoài, nhưng thực ra lại kín miệng vô cùng. Sau nhiều năm tiếp xúc, cô đã thấm thía điều này. Nếu không phải lo lắng ứng dụng không rõ lai lịch này sẽ biến mất ngay lập tức sau khi người khác biết đến sự tồn tại của nó, cô thậm chí còn dám kể chuyện về ứng dụng cho chị ấy nghe.
+
+Ghi lại công thức món xôi nếp lạp xưởng xong, cô lại trò chuyện với ba thêm một lúc nữa thì cũng đến giờ ăn.
+
+Theo kế hoạch đã định, hôm nay cô vẫn đến quán Đông Âm Công để thử các món mới.
+
+Hì hì, cô đã muốn thử cái mẹt đồ ăn vặt giá 78 tệ kia từ lâu lắm rồi!
+
+Một mẹt đồ ăn vặt bao gồm sáu món của quán Đông Âm Công, gồm có xiên gà chiên sả, cánh gà chiên, xiên bò sa tế, xiên gà sa tế, bánh phồng tôm và thịt heo nọng nướng than, dùng để viết bài đánh giá quán thì vô cùng tiện lợi. Tuy phải tự bỏ thêm 28 tệ, nhưng dạo này cô chẳng phải đã kiếm được tiền rồi sao, cứ xông xênh một chút!
 
 Lên đường!
 
 ...
 
-Một tiếng rưỡi sau, Hòa Ái Xích, người vừa thưởng thức xong đĩa đồ ăn vặt, vẫn đang đắn đo không biết nên đánh giá món ăn này như thế nào.
+Một tiếng rưỡi sau, Hòa Ái Xích vừa thưởng thức xong mẹt đồ ăn vặt, vừa đăm chiêu suy nghĩ xem nên đánh giá món ăn này như thế nào.
 
-*Điều khiến cô ngạc nhiên là món ăn vặt trông đẹp mắt này lại không ngon như vẻ ngoài của nó. Hơn nữa, tỷ lệ giá cả và chất lượng cũng không cao.*
+Điều khiến cô khá bất ngờ là, món ăn vặt trông có vẻ hấp dẫn này ăn vào lại không tuyệt vời như vẻ ngoài của nó. Hơn nữa, xét về giá cả thì cũng không đáng tiền cho lắm.
 
-Món cánh gà chiên ở Tom Yum Goong không có gì đặc biệt nổi trội so với các quán trà khác, hay thậm chí là so với những hàng cánh gà chiên ven đường. Xiên bò và xiên gà sa tế tuy mang hương vị Thái, ăn cũng thơm, nhưng dù sao cũng là sản phẩm của nhà hàng, không phải nướng trên than củi. So với đồ nướng trong nước, chúng lại kém xa về cả giá cả lẫn sự đa dạng trong hương vị.
+Cánh gà chiên của quán Đông Âm Công không có gì đặc biệt nổi trội so với các quán trà hay thậm chí là các tiệm gà rán ven đường. Còn xiên bò và xiên gà sa tế tuy mang đậm hương vị Thái, ăn cũng thơm, nhưng dù sao cũng là sản phẩm của nhà hàng, ăn vào không có vị nướng than. So với đồ nướng trong nước, ngược lại đồ nướng còn đáng tiền hơn, hương vị cũng phong phú hơn.

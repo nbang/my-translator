@@ -1,133 +1,149 @@
-# Chương 13
+### **Chương 13**
 
 ---
 
-Nhưng ông chủ Trần không phải trả một xu tiền thuê mặt bằng. Hơn nữa, giá thành của đậu hũ thối vốn đã không cao, cho dù ông ta cho thêm nhiều nguyên liệu đến mấy thì chi phí cũng chẳng tăng thêm được bao nhiêu. Ông chủ Trần quả là biết tính toán.
+Nhưng ông chủ Trần chẳng phải trả một đồng tiền thuê mặt bằng nào. Cộng thêm giá vốn của món đậu hũ thối vốn đã không cao, dù ông ấy có cho thêm bao nhiêu topping đi nữa thì chi phí cũng chẳng tăng thêm được mấy hào. Ông chủ Trần quả là người biết tính toán.
 
-Khẽ thở ra một hơi đầy cảm khái, cô bấm vào trang nhiệm vụ hàng ngày. Cô định nhận nhiệm vụ xong sẽ đi ngủ luôn, nhưng lại phát hiện ra trang nhiệm vụ hàng ngày không biết đã được cập nhật từ lúc nào. Ngoài nhiệm vụ viết đánh giá để được hoàn trả chi phí bữa ăn như trước, giờ còn có thêm một nhiệm vụ mới.
+Khẽ thở ra một hơi, cô mở trang nhiệm vụ hằng ngày, định nhận xong rồi đi ngủ luôn, ai ngờ lại phát hiện nhiệm vụ đã được cập nhật tự lúc nào. Ngoài nhiệm vụ viết bình luận để được hoàn tiền ăn như cũ, còn có thêm một nhiệm vụ mới nữa.
 
-[Nhiệm vụ hàng ngày: Vui lòng thêm một người bán thực phẩm mới vào ứng dụng Cộng Đồng Đánh Giá Độc Đáo. Nhấp vào liên kết bên dưới để chuyển đến Ứng dụng Cộng Đồng Đánh Giá Độc Đáo→. Phần thưởng nhiệm vụ: Tiền mặt 200~500 tệ (thông tin người bán càng chi tiết, thưởng càng nhiều), 5 điểm kinh nghiệm người dùng.]
+Nội dung nhiệm vụ mới như sau:
+
+[Nhiệm vụ hằng ngày: Vui lòng thu thập một hàng quán ẩm thực mới trên ứng dụng Cộng Đồng Đánh Giá Độc Đáo. Nhấp vào liên kết bên dưới để chuyển đến ứng dụng →. Phần thưởng: Tiền mặt 200~500 tệ (thông tin quán càng chi tiết càng nhiều), 5 điểm kinh nghiệm người dùng.]
 
 !!!
 
-Hòa Ái Xích sốc đến mức bật thẳng dậy trên giường.
+Hòa Ái Xích kinh ngạc đến mức bật thẳng dậy trên giường.
 
-*Lại có chuyện tốt thế này sao!*
+*Còn có chuyện tốt thế này sao! Không ngờ nhiệm vụ này lại thành nhiệm vụ hằng ngày, ngày nào cũng làm được!*
 
-Không ngờ nhiệm vụ này đã biến thành nhiệm vụ hàng ngày, ngày nào cũng có thể làm được! Mặc dù không còn phần thưởng vòng quay may mắn như nhiệm vụ tân thủ, nhưng phần thưởng tiền mặt thì không hề giảm chút nào. Hoàn thành một lần là được 200 đến 500 tệ! Hơn nữa, việc điền đầy đủ thông tin cũng chẳng có gì khó.
+Dù so với nhiệm vụ tân thủ thì đã không còn phần thưởng vòng quay may mắn, nhưng phần thưởng tiền mặt thì chẳng hề giảm đi chút nào. Hoàn thành một lần là được từ 200 đến 500 tệ cơ mà! Hơn nữa, việc điền đầy đủ thông tin cũng chẳng phải chuyện gì khó khăn.
 
-Nếu ngày nào cô cũng tìm được một quán mới, chẳng phải lương tháng của cô đã hơn vạn tệ rồi sao? Đúng là giải quyết được nhu cầu cấp thiết của cô!
+Nếu mỗi ngày cô đều tìm được một quán mới, chẳng phải lương tháng sẽ hơn vạn tệ sao? Việc này sẽ giải quyết được nhu cầu cấp bách của cô!
 
-Mấy quán hàng rong trong khu phố ẩm thực này chắc chắn chưa có quán nào được đăng ký trên Cộng Đồng Đánh Giá Độc Đáo cả. Cứ thế này, mỗi ngày cô đăng ký một quán mới, từ đầu phố đến cuối phố, ít nhất cũng phải có hai ba mươi quán, kiếm được gần vạn tệ dễ như bỡn.
+Mấy quán hàng rong ở khu phố ẩm thực trong làng đô thị này chắc chắn chưa có quán nào đăng ký trên Cộng Đồng Đánh Giá Độc Đáo cả. Sau này, mỗi ngày cô sẽ đăng ký một quán mới, từ đầu phố đến cuối phố, ít nhất cũng phải được hai ba chục quán, kiếm gần chục ngàn tệ dễ như bỡn.
 
-Hòa Ái Xích vui đến mức suýt thì nhảy dựng lên trên giường, nhưng nghĩ lại chiếc giường trong nhà trọ không được chắc chắn cho lắm, cô đành thôi, chỉ vung tay múa chân, đánh một bài quyền loạn xạ không biết học từ đâu.
+Hòa Ái Xích vui đến nỗi suýt thì nhảy cẫng lên trên giường, nhưng nghĩ lại cái giường trong phòng trọ không được chắc chắn lắm, cuối cùng cô chỉ múa may tay chân, đánh một bài quyền loạn xạ học lỏm từ đâu đó.
 
-Một lúc sau, Hòa Ái Xích cuối cùng cũng bình tĩnh lại và phát hiện ra ngoài nhiệm vụ hàng ngày, chuỗi nhiệm vụ tân thủ cũng đã được cập nhật.
+Mất một lúc, Hòa Ái Xích mới bình tĩnh lại được. Cô phát hiện ngoài nhiệm vụ hằng ngày, chuỗi nhiệm vụ tân thủ cũng đã được cập nhật.
 
-[Nhiệm vụ 3 trong Chuỗi nhiệm vụ tân thủ: Vui lòng viết một bài ghi chú dạng hình ảnh, văn bản hoặc video liên quan đến ẩm thực trên ứng dụng Cộng Đồng Đánh Giá Độc Đáo. Có thể là món ăn bạn tự làm hoặc món ăn ở ngoài. Nhấp vào liên kết bên dưới để chuyển đến Ứng dụng Cộng Đồng Đánh Giá Độc Đáo→. Phần thưởng nhiệm vụ: Một lượt quay Vòng quay may mắn, thưởng tiền mặt 10~100 tệ (phần thưởng thực tế phụ thuộc vào chất lượng bài ghi chú), 5 điểm kinh nghiệm người dùng. Đây là nhiệm vụ cuối cùng trong Chuỗi nhiệm vụ tân thủ. Sau khi hoàn thành, bạn có thể mở Cửa hàng Danh Vọng.]
+[Chuỗi nhiệm vụ tân thủ 3: Vui lòng viết một bài ghi chú dạng ảnh, bài viết hoặc video liên quan đến ẩm thực trên ứng dụng Cộng Đồng Đánh Giá Độc Đáo. Có thể là món bạn tự nấu, hoặc món ăn bên ngoài. Nhấp vào liên kết bên dưới để chuyển đến ứng dụng →. Phần thưởng: Một lượt quay Vòng Quay May Mắn, tiền mặt 10~100 tệ (phần thưởng thực tế phụ thuộc vào chất lượng bài viết), 5 điểm kinh nghiệm người dùng. Đây là nhiệm vụ cuối cùng trong chuỗi nhiệm vụ tân thủ, sau khi hoàn thành sẽ mở khóa Cửa Hàng Danh Vọng.]
 
-Bên cạnh phần mô tả nhiệm vụ, một dòng chữ "Có thể nộp nhiệm vụ" được in đậm và phóng to, dường như đang hối hả nhắc nhở Hòa Ái Xích nhấn vào.
+Bên cạnh phần mô tả nhiệm vụ, dòng chữ [Nhiệm vụ có thể nộp] được in đậm và phóng to, dường như đang hối hả nhắc nhở cô mau nhấn vào.
 
-Nhiệm vụ này sao vừa mới ra đã có thể nộp được rồi? Chẳng lẽ hai bài ghi chú cô viết thêm mấy hôm nay cũng được tính vào tiến độ nhiệm vụ sao?
+*Sao nhiệm vụ này vừa mới ra đã có thể nộp được rồi? Chẳng lẽ hai bài viết thêm mà mình viết mấy hôm nay cũng được tính vào tiến độ nhiệm vụ sao?*
 
-Cô nhấn thử vào nút nộp nhiệm vụ, một cửa sổ liền hiện lên trên giao diện ứng dụng.
+Cô thử nhấn vào nút nộp nhiệm vụ, giao diện ứng dụng liền hiện ra một cửa sổ thông báo.
 
-[Vui lòng chọn bài ghi chú bạn muốn nộp:
-1. «Không cần dậy sớm vẫn ăn được quẩy nóng mới chiên, quán quẩy mở cửa đến 18:30!»
-2. «Đậu hũ thối và bún ốc, một sự kết hợp bùng nổ mùi hương!»]
+[Vui lòng chọn bài viết bạn muốn nộp: 《Không cần dậy sớm vẫn có quẩy nóng giòn, quán quẩy mở đến 18:30!》 hoặc 《Đậu hũ thối và bún ốc, combo bốc mùi!》]
 
-*Hửm. Có gì khác nhau sao? Chẳng lẽ mỗi bài ghi chú khác nhau sẽ nhận được phần thưởng tiền mặt khác nhau?*
+"Ờm."
 
-Cả hai bài này đều là do Hòa Ái Xích ngẫu hứng muốn viết, nên lúc viết cũng khá tâm huyết. Nếu phải so sánh xem bài nào hay hơn, thì bài viết cho quán quẩy có nhiều chữ và chi tiết hơn. Còn bài về đậu hũ thối thì được cô đầu tư chụp ảnh cẩn thận hơn.
+*Có gì khác nhau sao? Chẳng lẽ mỗi bài sẽ nhận được phần thưởng tiền mặt khác nhau?*
 
-Suy nghĩ một hồi, Hòa Ái Xích chọn «Không cần dậy sớm vẫn ăn được quẩy nóng mới chiên, quán quẩy mở cửa đến 18:30!».
+Cả hai bài viết này đều do cô tự phát muốn viết, lúc viết cũng đã đặt không ít tâm tư. Nếu phải phân định bài nào viết tốt hơn, thì bài viết cho quán quẩy có nhiều chữ hơn và chi tiết hơn. Còn bài viết cho quán đậu hũ thối thì lại được đầu tư chụp ảnh kỹ lưỡng hơn.
 
-Bài này nhiều chữ, biết đâu nhờ vậy mà được thưởng thêm vài đồng thì sao?
+Suy nghĩ một lát, cô chọn bài 《Không cần dậy sớm vẫn có quẩy nóng giòn, quán quẩy mở đến 18:30!》.
+
+*Bài này nhiều chữ, biết đâu nhờ vậy mà được thêm mấy đồng thì sao?*
 
 Ngay lập tức, cô đã có câu trả lời.
 
-[Nhiệm vụ 3 trong Chuỗi nhiệm vụ tân thủ đã hoàn thành. Bạn nhận được phần thưởng tiền mặt 81 tệ, một lượt quay Vòng quay may mắn, 5 điểm kinh nghiệm người dùng. Phần thưởng đã được gửi đi.]
+[Chuỗi nhiệm vụ tân thủ 3 đã hoàn thành. Bạn nhận được 81 tệ tiền mặt, một lượt quay Vòng Quay May Mắn, 5 điểm kinh nghiệm người dùng. Phần thưởng đã được gửi.]
 
-[Gói quà tân thủ đã được gửi đến cho bạn qua đường chuyển phát nhanh. Bạn có thể xem mã vận đơn trong ứng dụng, dự kiến sẽ được giao tận nhà sau một ngày. Vui lòng chú ý nhận hàng.]
+[Gói quà tân thủ đã được gửi đến cho bạn qua đường chuyển phát nhanh. Mã vận đơn có thể xem trong ứng dụng, dự kiến giao hàng tận nơi trong vòng một ngày. Vui lòng chú ý nhận hàng.]
 
-[Chuỗi nhiệm vụ tân thủ của bạn đã hoàn thành. Ứng dụng sẽ cập nhật Cửa hàng Danh Vọng và chuỗi nhiệm vụ mới vào 0:00 ngày hôm sau. Hãy nhớ đăng nhập vào ứng dụng để kiểm tra.]
+[Chuỗi nhiệm vụ tân thủ của bạn đã hoàn thành. Ứng dụng sẽ cập nhật Cửa Hàng Danh Vọng và chuỗi nhiệm vụ mới vào 0:00 ngày mai. Vui lòng đăng nhập để kiểm tra.]
 
-Khi thấy phần thưởng nhiệm vụ được gửi đến, Hòa Ái Xích mới nhớ ra nhiệm vụ tân thủ số 2 mà cô nộp tối qua cũng cho cô một lượt rút thăm. Nhưng lúc đó cô đang vội ăn đậu hũ thối nên không quay ngay, sau đó thì quên bẵng đi mất.
+Hòa Ái Xích thấy phần thưởng được chuyển vào tài khoản mới sực nhớ ra, chuỗi nhiệm vụ tân thủ 2 nộp tối qua cũng cho cô một lượt quay thưởng, nhưng lúc đó cô đang vội ăn đậu hũ thối nên chưa quay ngay, sau rồi cũng quên bẵng đi mất.
 
-Giờ thì hay rồi, có thể quay một lúc hai lượt luôn.
+Thế này thì hay rồi, có thể quay một lúc hai lượt luôn.
 
-Cô xoa xoa hai tay, trong lòng thầm vái lạy chư thiên thần Phật.
+Cô xoa xoa tay, trong lòng thành tâm khấn vái chư vị thần phật.
 
-Rút nào!
+*Quay!*
 
-[Chúc mừng bạn đã trúng: Phiếu ăn uống trị giá 400 tệ tại nhà hàng Đồ nướng Hàn Quốc Lão Đông. Bạn có thể đến thẳng nhà hàng để sử dụng. Mọi chi tiêu dưới 400 tệ đều sẽ được hoàn trả, phần vượt quá vui lòng tự thanh toán. Bạn có thể xem vị trí nhà hàng trên trang nhiệm vụ. Nhấp vào liên kết bên dưới để chuyển thẳng đến trang của nhà hàng trong Ứng dụng Cộng Đồng Đánh Giá Độc Đáo→. (Giải thưởng này chỉ có thể sử dụng một lần, lưu ý không lãng phí thức ăn, nếu không sẽ bị phạt)]
+[Chúc mừng bạn đã quay trúng: Phiếu ăn trị giá 400 tệ tại nhà hàng thịt nướng Hàn Quốc Lão Đông. Bạn có thể đến trực tiếp nhà hàng để sử dụng, mọi chi tiêu trong phạm vi 400 tệ đều được thanh toán, phần vượt quá vui lòng tự chi trả. Có thể xem vị trí nhà hàng trên trang nhiệm vụ, nhấp vào liên kết bên dưới để chuyển đến trang của nhà hàng trên ứng dụng Cộng Đồng Đánh Giá Độc Đáo →. (Giải thưởng này chỉ được sử dụng một lần, chú ý không lãng phí đồ ăn, dùng theo nhu cầu, nếu không sẽ bị phạt).]
 
-Rút tiếp!
+*Quay tiếp!*
 
-[Chúc mừng bạn đã trúng: Một chiếc nồi gang Trương Khâu. Thời hạn đổi thưởng là 1 năm. Trong vòng một năm, hãy điền địa chỉ và thông tin liên lạc để nhận hàng. Nhấp vào liên kết này để xem thông số chi tiết của sản phẩm.]
+[Chúc mừng bạn đã quay trúng: Một chiếc nồi sắt Chương Khâu. Thời hạn đổi thưởng là 1 năm, trong vòng một năm điền địa chỉ và thông tin liên lạc của bạn để nhận hàng. Nhấp vào liên kết này để xem thông số chi tiết của sản phẩm.]
 
-Phiếu ăn thịt nướng cũng không tệ, còn nhiều hơn món Thái lần trước 200 tệ, nhưng trúng một cái nồi thì để làm gì chứ? Cô làm gì có bếp.
+Phiếu ăn thịt nướng cũng không tệ, còn nhiều hơn phiếu đồ Thái lần trước 200 tệ, nhưng quay ra một cái nồi thì là thế nào, cô làm gì có bếp.
 
-Nhấp vào liên kết của Nồi gang Trương Khâu, ứng dụng mua sắm trên điện thoại lập tức được mở lên, chuyển đến trang của một cửa hàng trực tuyến bán loại nồi này.
+Cô nhấp vào liên kết của nồi sắt Chương Khâu, ứng dụng mua sắm trên điện thoại lập tức được kích hoạt, chuyển đến trang của một cửa hàng trực tuyến bán loại nồi này.
 
-*Ý là cái nồi gửi cho mình chính là cái nồi trong link này à?*
+"Ý gì đây, cái nồi gửi cho mình chính là cái nồi trong link này à?"
 
-Chà, cái nồi này không hề rẻ, giá bán trực tiếp là 379 tệ. Tạm thời cô chưa dùng đến, nhưng bán lại cũng được. Hơn nữa, việc bán lại cũng rất tiện. Chỉ cần có người đặt mua trên nền tảng bán đồ cũ và cung cấp địa chỉ, cô có thể điền thẳng thông tin địa chỉ của người đó vào trang đổi thưởng là xong. Hàng mới tinh, rao bán 300 tệ là hợp lý.
+Chà, cái nồi này cũng chẳng rẻ, mua thẳng cũng phải từ 379 tệ trở lên. Tạm thời cô chưa dùng được, nhưng bán lại thì được. Hơn nữa, bán lại cũng rất tiện, chỉ cần có người đặt mua trên các nền tảng bán đồ cũ và cung cấp địa chỉ, cô chỉ việc điền thông tin của họ vào trang đổi thưởng là xong.
+
+Hàng mới tinh, cứ rao bán 300 tệ vậy.
 
 Đi ngủ thôi.
 
-...
+…
 
-Đúng 10 giờ sáng, chuông báo thức vang lên. Hòa Ái Xích nấn ná trên giường một lúc rồi mới ngân nga một bài hát, đứng dậy đi tắm rửa.
+Đúng 10 giờ sáng, chuông báo thức vang lên. Hòa Ái Xích nấn ná trên giường một lúc rồi mới ngâm nga hát, lồm cồm bò dậy đi vệ sinh cá nhân.
 
-Thất nghiệp một thời gian đúng là khiến con người ta sa sút. Mười giờ sáng dậy mà còn phải đặt báo thức, cứ thế này thì chẳng mấy chốc ngày nào cũng ngủ đến trưa mất, thật hết nói nổi.
+Thất nghiệp một thời gian đúng là khiến người ta sa sút, 10 giờ dậy mà còn phải đặt báo thức, cứ thế này chẳng mấy chốc lại ngủ đến trưa mất, không được không được.
 
-Từ phòng tắm bước ra, Hòa Ái Xích mở ứng dụng trò chuyện, gửi một tin nhắn thoại cho cô chị họ Lâm Phi Hành: "Chị dậy chưa? Dậy mau lên, trưa nay mình đi ăn đồ Thái đấy!"
+Từ nhà vệ sinh bước ra, cô mở ứng dụng trò chuyện, gửi một tin nhắn thoại cho cô em họ Lâm Phỉ Hạnh: "Dậy chưa, mau dậy đi, trưa nay ăn đồ Thái!"
 
-Đúng vậy, đây chính là lý do một kẻ thất nghiệp như cô phải tự đặt báo thức cho mình. Hôm nay cô sẽ đi ăn một bữa thịnh soạn, một bữa ăn trị giá 200 tệ! Mặc dù những món như đậu hũ thối và bún thịt cừu rất ngon, nhưng đã lâu rồi cô chưa được ăn trong một nhà hàng tử tế. Một nhà hàng có cơm, có món ăn đàng hoàng.
+Đúng vậy, đây chính là lý do một kẻ thất nghiệp như cô phải tự đặt báo thức cho mình. Hôm nay cô sẽ đi ăn một bữa thịnh soạn, một bữa ăn trị giá 200 tệ!
+
+Dù đậu hũ thối hay bún thịt cừu đều rất ngon, nhưng đã lâu lắm rồi cô chưa được đến một nhà hàng tử tế để ăn. Kiểu nhà hàng có cơm có món đàng hoàng ấy.
 
 Cô muốn ăn cơm!
 
-Sau khi tắm rửa sạch sẽ và thay quần áo, Hòa Ái Xích vừa xem thông tin thuê nhà, vừa đợi Lâm Phi Hành báo hiệu để xuất phát.
+Sau khi sửa soạn sạch sẽ, thay quần áo xong, Hòa Ái Xích vừa xem thông tin cho thuê nhà, vừa đợi tín hiệu xuất phát từ Lâm Phỉ Hạnh.
 
-Quán Tom Yum Kung này cách nơi cô ở không xa, chưa đầy 3 cây số, đi xe buýt chỉ hai, ba trạm là tới. Lâm Phi Hành thì ở xa hơn, lại còn là một người lề mề, nên mấy giờ mới được ăn còn phải tùy thuộc vào cô ấy.
+Quán ăn tên Tom Yum Kung này cách chỗ ở của cô không xa, chưa đến 3 cây số, đi xe buýt chỉ hai ba trạm là tới. Lâm Phỉ Hạnh thì ở xa hơn, lại còn là một người lề mề, rốt cuộc mấy giờ mới được ăn còn phải xem cô ấy.
 
-Ban đầu, Hòa Ái Xích nghĩ mình sẽ phải đợi rất lâu vì Lâm Phi Hành mãi không trả lời. Ngay lúc cô định gọi điện đánh thức chị họ dậy thì đối phương cuối cùng cũng lên tiếng.
+Ban đầu Hòa Ái Xích cứ ngỡ mình sẽ phải đợi rất lâu, vì Lâm Phỉ Hạnh mãi không trả lời. Ngay lúc cô định gọi điện thoại để đánh thức cô em họ dậy thì đối phương cuối cùng cũng lên tiếng.
 
-"Chị đến làng của em rồi đây."
+"Tớ đến làng của cậu rồi đây."
 
-Nói xong, cô ấy còn gửi một bức ảnh. Nhìn kỹ thì đó là ảnh chụp cửa hàng quẩy Đại Hồng.
+Nói xong, cô ấy còn gửi một tấm ảnh. Nhìn kỹ thì ra là ảnh chụp cửa hàng quẩy Đại Hồng.
 
 "?"
 
-Lâm Phi Hành: "Nhìn này, quẩy mới chiên nóng hổi!"
+Lâm Phỉ Hạnh: "Nhìn này, quẩy mới chiên nóng hổi!"
 
-Đúng là một tín đồ ăn uống thực thụ. Hai người họ vốn hẹn gặp nhau sau 12 giờ ở cổng quán Tom Yum Kung, không ngờ cô ấy lại vì mấy cái quẩy mà dậy sớm như vậy.
+Đúng là đồ ham ăn có khác. Họ vốn hẹn gặp nhau sau 12 giờ ở trước cửa quán Tom Yum Kung, không ngờ cô ấy lại dậy sớm chỉ vì món quẩy.
 
-"Ở đây có quẩy, bánh khoai tây, bánh hẹ, bánh gạo nếp, em muốn ăn cái nào?" Nói rồi, Lâm Phi Hành lại chụp một tấm ảnh khác gửi qua. "Đối diện còn có tào phớ nữa."
+"Ở đây có quẩy, bánh khoai tây, bánh hẹ, bánh nếp, cậu muốn ăn cái nào?"
 
-"Em muốn bánh gạo nếp và tào phớ. Chị ăn ít thôi nhé, để bụng lát nữa còn ăn đồ Thái." Hòa Ái Xích nhắc nhở. "Em phục chị thật đấy. Mới hai hôm trước em nhắc đến quẩy một câu mà chị đã lặn lội đến tận đây để ăn."
+Nói rồi, Lâm Phỉ Hạnh lại chụp một tấm ảnh khác gửi qua.
 
-"Cũng không hẳn." Lâm Phi Hành đang gặm miếng quẩy nóng giòn, không rảnh gõ chữ nên trả lời bằng tin nhắn thoại: "Tối qua chị rảnh nên lướt Cộng Đồng Đánh Giá Độc Đáo xem có gì ăn không, thấy có người bảo ở đây có quán quẩy với tào phớ mở đến tận 18 giờ 30 nên mò đến."
+"Đối diện còn có tào phớ nữa."
+
+"Tớ ăn bánh nếp với tào phớ, cậu ăn ít thôi, lát còn để bụng ăn đồ Thái đấy," Hòa Ái Xích nhắc nhở cô ấy. "Đúng là chịu cậu thật, hai hôm trước tớ chỉ mới nhắc qua món quẩy mà cậu đã lặn lội đến tận đây để ăn."
+
+"Cũng không hẳn," Lâm Phỉ Hạnh vừa gặm quẩy nóng vừa trả lời bằng tin nhắn thoại vì không rảnh tay gõ chữ: "Tối qua tớ rảnh rỗi nên lướt Cộng Đồng Đánh Giá Độc Đáo xem đồ ăn, thấy trên mạng có người bảo ở đây có quán quẩy với tào phớ ngon mở đến 18:30 nên mò đến thôi."
 
 Hòa Ái Xích: "?"
 
-*Không thể nào trùng hợp đến thế được chứ?*
+*Không lẽ lại trùng hợp đến thế?*
 
-Sự thật là có những sự trùng hợp như vậy đấy.
+Đúng là có sự trùng hợp như vậy.
 
-Không phải vì bài viết của Hòa Ái Xích nổi đến mức ai cũng thấy, mà là vì các ứng dụng bây giờ đều sẽ đọc danh bạ của người dùng. Ngay cả khi bạn đã cài đặt không thêm bạn bè từ danh bạ khi đăng nhập, ứng dụng vẫn sẽ tìm cách âm thầm kết nối bạn với những người bạn quen biết ngoài đời thực. Ví dụ như đẩy bài viết của Hòa Ái Xích đến cho chị họ của cô. Nếu mẹ của Hòa Ái Xích cũng dùng Cộng Đồng Đánh Giá Độc Đáo, bà cũng có thể sẽ thấy bài viết này.
+Không phải vì bài viết của cô đã nổi đến mức ai cũng có thể thấy, mà là vì mấy cái ứng dụng bây giờ đều sẽ đọc thông tin danh bạ. Dù lúc vào ứng dụng đã chọn không thêm bạn bè từ danh bạ, nó vẫn sẽ tìm cách âm thầm kết nối những người vốn đã quen biết nhau ngoài đời thực trên nền tảng của nó.
 
-"Chị còn thấy trên mạng nói ở chỗ em có một quán đậu hũ thối ngon lắm, hình như tên là Trần Ký, em ăn thử chưa?" Lâm Phi Hành không hề hay biết sự thật, vừa nhai quẩy vừa tò mò hỏi. "Bánh gạo nếp của em ngon không? Bẻ cho chị một miếng ăn thử với. Chị cho em một miếng quẩy của chị này."
+Ví dụ như đề xuất bài viết của Hòa Ái Xích cho cô em họ của cô.
 
-Hòa Ái Xích bẻ bánh gạo nếp ra làm nhiều miếng rồi đưa cho Lâm Phi Hành. "Đậu hũ thối đúng là ngon thật, nhưng giờ này quán chưa mở đâu. Chẳng lẽ chị định ở lại đến tối để ăn đậu hũ thối à?"
+Nếu mẹ của Hòa Ái Xích cũng dùng Cộng Đồng Đánh Giá Độc Đáo, bà cũng sẽ thấy được bài viết này.
 
-"Cũng không đến mức đó," Lâm Phi Hành lẩm bẩm.
+"Tớ còn thấy trên mạng bảo ở chỗ cậu có một quán đậu hũ thối ngon lắm, hình như tên là Trần Ký, cậu ăn bao giờ chưa?" Lâm Phỉ Hạnh không biết gì, vừa gặm quẩy vừa tò mò hỏi: "Bánh nếp của cậu có ngon không, bẻ cho tớ một miếng ăn thử với, tớ cho cậu cắn một miếng quẩy của tớ này."
 
-Đây chính là cô chị họ của Hòa Ái Xích, một người có tâm hồn ăn uống từ nhỏ đến lớn. Hoàn toàn trái ngược với một Hòa Ái Xích kén ăn và không thích ăn uống, Lâm Phi Hành từ bé đã ham ăn, món gì cũng thích. Cô ấy không hề kén chọn, cũng không kiêng khem gì, chua, ngọt, đắng, cay, mặn, sống hay chín đều nếm thử được hết. Hai chị em hoàn toàn khác biệt, nhưng lại chơi rất thân với nhau.
+Hòa Ái Xích bẻ chiếc bánh nếp qua lớp túi ni lông thành mấy miếng rồi đưa cho Lâm Phỉ Hạnh, "Đậu hũ thối đúng là ngon thật, nhưng giờ này chưa mở đâu, không lẽ cậu định ở lại đến tối để ăn à?"
 
-Vẫn còn sớm mới đến giờ ăn trưa, hai người bèn đi dạo một vòng quanh khu phố ẩm thực. Hòa Ái Xích phải ngăn Lâm Phi Hành lại khi cô ấy thấy ăn quẩy không thì nhạt nhẽo quá, định mua thêm một bát cháo để ăn cùng. "Đừng ăn nữa, ăn nữa là trưa không ăn nổi đâu."
+"Cũng không đến mức đó," Lâm Phỉ Hạnh lẩm bẩm.
 
-Lâm Phi Hành cười khúc khích: "Câu này nghe giống hệt mẹ chị nói."
+Đó chính là Lâm Phỉ Hạnh, cô em họ từ nhỏ đã mê ăn mê uống của cô. Hoàn toàn trái ngược với một Hòa Ái Xích kén ăn biếng ăn, Lâm Phỉ Hạnh từ bé đã háu ăn, món gì cũng thích. Cô ấy chẳng hề kén cá chọn canh, cũng không kiêng khem gì, chua cay mặn ngọt, sống chín đều nếm thử được hết. Hai chị em tính cách khác một trời một vực, vậy mà lại chơi thân được với nhau.
 
-Đúng vậy, Lâm Phi Hành khi còn nhỏ vừa ham ăn lại vừa ăn khỏe, một ngày ăn một bữa, một bữa ăn cả ngày. Ăn sáng xong thì ăn hoa quả, ăn hoa quả xong thì ăn vặt, ăn vặt xong lại cắn vài hạt dưa, nhai hai viên kẹo, thế là lại đến giờ ăn trưa. Vì đã ăn quá nhiều thứ trước đó nên bữa trưa cô ấy ăn không vào, nhưng đến chiều lại lẻn vào bếp lục lọi đồ ăn thừa trong tủ lạnh.
+Còn khá lâu mới đến giờ ăn trưa, hai người bèn đi dạo một vòng quanh khu phố ẩm thực. Hòa Ái Xích phải giữ chặt Lâm Phỉ Hạnh lại khi cô ấy cứ thấy ăn quẩy không thì nhạt miệng, lại muốn mua thêm một bát cháo ăn kèm.
+
+"Đừng ăn nữa, ăn nữa là trưa không ăn nổi đâu."
+
+Lâm Phỉ Hạnh cười hì hì: "Câu này nghe giống mẹ tớ nói ghê."
+
+Đúng vậy, hồi nhỏ Lâm Phỉ Hạnh vừa háu ăn lại vừa ăn khỏe, một ngày ăn một bữa, một bữa kéo dài cả ngày. Ăn sáng xong thì ăn hoa quả, ăn hoa quả xong lại ăn vặt, ăn vặt xong thì cắn hạt dưa, nhai hai viên kẹo, rồi lại đến giờ ăn trưa. Ăn bao nhiêu thứ trước đó rồi nên bữa trưa chẳng ăn được bao nhiêu, nhưng nếu giờ trưa không ăn, thì đến chiều cô ấy lại chạy vào bếp lục tủ lạnh tìm đồ ăn thừa.

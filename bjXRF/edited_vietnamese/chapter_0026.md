@@ -1,88 +1,119 @@
-Hoặc là lập một tài khoản Official Account chuyên khám phá ẩm thực.
+### Chương 26
 
-Thực tế, Bành Thành vốn không thiếu các trang chuyên về ẩm thực. Nhưng dần dà, một số trang đã bắt đầu biến mất khỏi tầm mắt công chúng. Ngành này không còn dễ làm như xưa nữa.
+Hoặc là lập một trang blog chuyên đánh giá ẩm thực. Thực ra, ở Bành Thành vốn không thiếu các trang blog về mảng này. Nhưng dần dà, một vài trang đã bắt đầu biến mất khỏi tầm mắt công chúng. Ngành này không còn dễ làm như xưa nữa.
 
-Tài khoản Official Account thực sự đã có phần lỗi thời. Thời mà nó còn thịnh hành, làm gì đã có những nền tảng video ngắn và ghi chú như Tiểu Tử Sách hay Douyin. Khi đó, người ta thường giết thời gian trên điện thoại bằng cách lướt đọc những bài viết lạ lùng trên vòng bạn bè. Nhưng giờ đây, mọi người thích chuyển sang các nền tảng khác hơn. Suy cho cùng, những nền tảng kia có giao diện đẹp, lưu lượng truy cập lớn, và tất cả người dùng đều có thể đăng bài, chứ không bị giới hạn trong cái gọi là "chủ tài khoản". Hơn nữa, người dùng có thể tự do trả lời và nhấn thích. Khi được ai đó hồi đáp hay yêu thích, họ cũng nhận được thông báo. Nếu nhận được nhiều tương tác, hệ thống còn gửi thông báo "bình luận hấp dẫn", mang lại trải nghiệm tốt hơn hẳn. Người dùng rời đi cũng chẳng có gì oan uổng.
+Các trang blog thực chất đã có phần lỗi thời. Thời hoàng kim của chúng, những nền tảng video ngắn và chia sẻ ghi chú như Tiểu Tử Thư hay Douyin vẫn chưa xuất hiện. Khi đó, người ta thường giết thời gian bằng cách cắm mặt vào điện thoại đọc mấy bài viết kỳ lạ trên vòng bạn bè. Nhưng giờ thì người ta thích lướt các nền tảng khác hơn. Suy cho cùng, những nền tảng mới có giao diện đẹp, lượt truy cập cao, hơn nữa tất cả người dùng đều có thể đăng bài, không bị giới hạn trong khuôn khổ "chủ blog" như trước. Thêm vào đó là tính năng tự do bình luận, thả tim. Mỗi khi có người trả lời hay thả tim, người dùng đều nhận được thông báo, nếu tương tác nhiều còn được lên top bình luận, mang lại trải nghiệm tốt hơn hẳn. Người dùng bỏ đi cũng chẳng oan chút nào.
 
-Chu Minh Thanh thường dùng Tiểu Tử Sách và xem Douyin, hiếm khi đọc bài trên các tài khoản Official Account, nhưng cô ấy vẫn theo dõi vài trang ẩm thực địa phương ở Bành Thành.
+Bình thường Chu Minh Thanh hay dùng Tiểu Tử Thư, cũng có xem Douyin, gần như không đọc các bài viết trên blog, nhưng cô ấy vẫn theo dõi vài trang blog ẩm thực địa phương ở Bành Thành.
 
-Hôm nay, một tài khoản nào đó lại đẩy một loạt bài viết mới, gồm một bài chính và ba bài phụ. Bài chính giới thiệu về một nhà hàng thịt nướng: *“Quán nướng cực hot ở Trường Sa đã đổ bộ Bành Thành, khai trương ba ngày giảm giá sốc!”*
+Hôm nay, một trang blog lại đăng một loạt bài mới, gồm một bài viết chính và ba bài viết nhỏ. Bài viết chính là về một quán thịt nướng.
 
-Cô ấy nhấp vào xem lướt qua vài cái rồi nhanh chóng mất hứng.
+《Quán thịt nướng cực hot ở Trường Sa đã đổ bộ Bành Thành, khai trương giảm giá ba ngày liền!》
 
-Lúc ban đầu theo dõi những trang này, cô ấy chủ yếu muốn đọc những câu chuyện về các món ngon bị lãng quên trong những con phố, ngõ hẻm của Bành Thành, được khám phá qua những chuyến ghé thăm. Nếu những quán ăn này mở gần nhà thì càng tuyệt, cô ấy sẵn lòng đến thử ngay.
+Cô ấy nhấn vào xem lướt qua vài cái rồi nhanh chóng mất hứng.
 
-Nhiều năm trước, nội dung của các trang này còn rất phong phú. Cứ cách một tuần hoặc nửa tháng, họ lại giới thiệu một quán ăn thú vị, nhưng bây giờ gần như chẳng còn nữa. Toàn là quảng cáo.
+Khi bắt đầu theo dõi những trang này, mục đích chính của cô ấy là muốn khám phá những món ngon bị lãng quên trong từng con đường, ngõ hẻm của Bành Thành. Sẽ càng tuyệt hơn nếu những quán ăn đó nằm gần nơi cô ấy ở, cô ấy chẳng ngại đến thử ngay. Vài năm trước, nội dung của các trang blog còn rất phong phú, cứ cách một tuần hay nửa tháng lại giới thiệu một quán ăn thú vị, nhưng giờ thì gần như chẳng còn nữa.
 
-Nào là *“Nhà hàng BBQ vừa mở đã nổi như cồn!”*. Nào là *“Quán lẩu mười năm tuổi, ngày nào cũng chật kín khách, nay giảm giá chỉ còn 48%!”*.
+Toàn là quảng cáo.
 
-Lừa ai chứ? Nếu ngày nào cũng đông nghịt thì cần gì phải giảm giá tới 48%. Không giảm cũng có người ăn, ai rảnh mà bày vẽ ra chương trình khuyến mãi này?
+Nào là 《Quán nướng vừa mở đã được mệnh danh là quán "hot" trên mạng!》. Cô ấy đã đến thử rồi. Quán mới khai trương, nhân viên còn chưa được đào tạo bài bản, trong quán trống hoác chỉ thấy bàn ghế chứ chẳng thấy khách đâu. Chắc là "hot" do quán tự phong.
 
-Nhưng giảm giá 48% thì cũng đáng thử, dù sao cũng là được giảm giá. Chính vì thỉnh thoảng nhận được những thông tin khuyến mãi như vậy nên cô ấy mới không hủy theo dõi các trang này.
+Nào là 《Quán lẩu mười năm tuổi, ngày nào cũng đông nghẹt khách, nay giảm giá còn 4.8 phần!》. Lừa ai chứ, đã ngày nào cũng đông nghẹt thì cần gì giảm giá. Không giảm cũng có người ăn, ai hơi đâu mà bày vẽ ra chương trình này? Nhưng giảm còn 4.8 phần thì cũng đáng thử, dù sao cũng là giảm giá mà.
 
-Trước khi thoát ra, Chu Minh Thanh quen tay kéo xuống cuối bài để xem cửa hàng giảm giá bao nhiêu và địa chỉ ở đâu. Các quán mới mở thường giảm rất mạnh, dưới 50% thì cô ấy còn cân nhắc, chứ giảm 20% thì thôi bỏ qua.
+Cũng chính vì thỉnh thoảng nhận được tin khuyến mãi nên cô ấy mới chưa hủy theo dõi những trang blog này.
 
-Bài viết phụ có hình ảnh một tô mì thịt cừu với tiêu đề: *“Ghé thăm quán mì thịt cừu Tuân Nghĩa ở quận Đông Thành, nơi từng tạo nên trào lưu mì thịt cừu ở Bành Thành”*.
+Trước khi thoát ra, Chu Minh Thanh theo thói quen kéo xuống cuối bài để xem rốt cuộc quán này giảm giá bao nhiêu và địa chỉ ở đâu. Quán mới mở thường giảm giá rất mạnh, dưới 5 phần thì cô ấy còn cân nhắc, chứ 8 phần thì thôi bỏ qua.
 
-Phản ứng đầu tiên của Chu Minh Thanh khi đọc tiêu đề là cảm thấy hơi khó đỡ. Bây giờ người ta đặt tiêu đề thật biết cách khoa trương, đến cả chuyện “tạo nên trào lưu” cũng bịa ra được.
+"Giảm còn 6.8 phần..." Vẫn chưa đủ hấp dẫn.
 
-Phản ứng thứ hai. Tiêu đề lại ghi thẳng quận của quán ăn? Hơi hiếm thấy. Bởi vì người hâm mộ của các trang ẩm thực thường đến từ khắp các quận trong thành phố, mà Bành Thành là thành phố hạng nhất với tổng cộng tám quận. Nếu không ghi rõ quận trong tiêu đề, người hâm mộ ở mọi nơi đều có thể nhấp vào xem. Ngược lại, rất có thể chỉ những người ở quận đó mới quan tâm. Xét cho cùng, một trong những lý do quan trọng để theo dõi các trang ẩm thực địa phương là hy vọng có thể đến tận nơi thưởng thức sau khi đọc bài. Vị trí gần vẫn là tốt nhất. Nhưng các trang đăng bài quảng cáo đâu quan tâm người đọc có tiện đến quán hay không, họ chỉ biết lượng đọc càng cao thì phí quảng cáo càng hậu hĩnh. Thậm chí họ còn cố tình giấu địa chỉ để người hâm mộ phải tìm, buộc họ phải đọc hết bài viết dài ngoằng mới thấy.
+Ngay lúc cô ấy định thoát khỏi trang blog thì phát hiện ở cuối trang có một bài viết được đề xuất.
 
-Bài viết về mì cừu này quả thực có chút khác biệt, hơn nữa cô ấy lại làm việc ở quận Đông Thành. Theo trực giác, cô ấy đã nhấp vào bài viết.
+《Ghé thăm quán bún thịt cừu Tuân Nghĩa ở khu Đông Thành, nơi từng tạo nên trào lưu bún thịt cừu tại Bành Thành》
 
-Chi tiết hơn, ngoài việc dùng lời lẽ để miêu tả hương vị của mì cừu, tác giả còn kể lại câu chuyện về việc quán mì này từng tạo nên trào lưu ở Bành Thành như thế nào. Ngay cả những quyết định khác nhau của chủ quán ban đầu cũng được giải thích rõ ràng.
+Bức ảnh minh họa là một tô bún thịt cừu.
 
-Lúc đó cô ấy cũng khá tò mò tại sao mì cừu bỗng dưng lại nổi lên như vậy. Cô ấy từng ăn thử một quán gần công ty, thịt thì ít, nước lèo thì nhạt, vị cũng bình thường. Phần trang trí của quán đó còn đẹp hơn nhiều so với quán trong bài viết.
+Phản ứng đầu tiên của Chu Minh Thanh khi đọc tiêu đề là cảm thấy hơi khó đỡ. Giật tít bây giờ thật là biết cách nổ, đến cả chuyện "tạo nên trào lưu" cũng bịa ra được.
 
-Đọc tiếp xuống dưới, tác giả bài viết còn cẩn thận ghi thêm một dòng nhắc nhở nhỏ: *Trừ khi bạn thực sự thèm ăn mì cừu của quán này, nếu không thì nên cẩn thận khi đến vào những ngày cận Tết. Vì chủ quán sẽ đóng cửa về quê ăn Tết Nguyên Đán, nên trong khoảng thời gian này, cửa hàng sẽ không chuẩn bị đủ nguyên liệu, mỗi phần mì sẽ có ít thịt cừu hơn và hương vị cũng sẽ khác so với ngày thường.*
+Phản ứng thứ hai. Tiêu đề lại ghi thẳng khu vực của quán? Hơi hiếm thấy.
 
-Câu nói này khiến Chu Minh Thanh có thiện cảm với tác giả. Tài khoản này là tài khoản mới sao? Cô ấy quyết định nhấn theo dõi trước.
+Bởi vì người hâm mộ của các trang blog ẩm thực thường đến từ khắp các quận trong thành phố, mà Bành Thành lại là thành phố hạng nhất với tổng cộng tám quận. Nếu không ghi rõ quán ở quận nào trong tiêu đề, người hâm mộ ở tất cả các khu vực đều có khả năng nhấn vào xem. Ngược lại, rất có thể chỉ người hâm mộ ở quận đó mới xem. Suy cho cùng, một lý do quan trọng để theo dõi các trang blog ẩm thực địa phương là hy vọng sau khi đọc bài, mình cũng có thể đến thưởng thức. Địa chỉ gần nhà là tốt nhất.
 
-Sau đó để lại bình luận dưới bài viết: *“Mấy năm trước tôi cũng từng ăn mì cừu ở quán khác, vị rất bình thường, quán này có ngon thật không?”*
+Các trang blog đăng quảng cáo chẳng thèm quan tâm người đọc có tiện đến quán hay không, họ chỉ biết lượt đọc càng cao thì tiền quảng cáo nhận được càng nhiều. Thậm chí họ còn ước gì có thể giấu địa chỉ đi để người hâm mộ phải tìm, buộc họ phải đọc hết bài viết dài ngoằng mới biết quán ở đâu.
+
+Bài viết về bún thịt cừu này quả thực có chút khác biệt, mà cô ấy lại đang làm việc ở khu Đông Thành.
+
+Tin vào trực giác, cô ấy nhấn vào bài viết.
+
+Khác với những bài quảng cáo ẩm thực gần đây, bài viết này không có nhiều ảnh, hình chụp cũng bình thường, ngược lại phần chữ lại chi tiết hơn. Ngoài việc dùng từ ngữ để miêu tả hương vị của tô bún, tác giả còn kể lại câu chuyện về việc quán ăn này đã từng tạo nên một trào lưu ở Bành Thành như thế nào, ngay cả những quyết sách ban đầu của quán cũng được trình bày rất rõ ràng. Có lý có cứ.
+
+Chẳng lẽ tiêu đề không phải bịa đặt?
+
+Chu Minh Thanh đã đến Bành Thành làm việc được vài năm, cô ấy cố nhớ lại, hình như mấy năm trước đúng là có một dạo các quán bún thịt cừu mọc lên như nấm khắp các con phố. Sau đó không biết vì lý do gì mà lại dẹp tiệm hết. Hồi đó cô ấy cũng khá tò mò tại sao món này lại hot đột ngột như vậy, cũng đã đi ăn thử một quán gần công ty, nhưng thịt thì ít, nước lèo thì nhạt, mùi vị cũng bình thường. Phần trang trí của quán đó còn đẹp hơn quán trong bài viết này nhiều.
+
+Đọc tiếp xuống dưới, tác giả bài viết còn cẩn thận ghi một dòng lưu ý nhỏ: *Vài ngày trước Tết, nếu không phải thực sự thèm bún thịt cừu của quán này thì khuyên mọi người nên cân nhắc kỹ trước khi đến. Vì chủ quán sẽ đóng cửa về quê ăn Tết, nên khoảng thời gian này quán thường không chuẩn bị đủ nguyên liệu, thịt cừu trong mỗi tô sẽ ít hơn, ăn sẽ khác so với ngày thường. Qua Tết sẽ trở lại bình thường.*
+
+Câu nói này khiến Chu Minh Thanh có thiện cảm hẳn với tác giả. Cô ấy nhấn vào trang blog để xem có bài viết nào khác không, nhưng lại phát hiện bài viết về bún thịt cừu này lại là bài đầu tiên? Hóa ra là một tài khoản mới, cứ theo dõi trước đã.
+
+Sau đó, cô ấy để lại bình luận dưới bài viết: [Mấy năm trước mình cũng từng ăn bún thịt cừu ở quán khác, vị rất bình thường, quán này ngon thật không bạn?]
 
 ...
 
-Hòa Ái Xích đứng dậy, vươn vai giãn gân cốt.
+Hòa Ái Xích đứng dậy vươn vai.
 
-Biên tập video mệt thật.
+*Dựng video mệt thật.*
 
-Phần phụ đề là dễ nhất, vì phần lồng tiếng của cô đều đọc theo kịch bản, chỉ cần sao chép rồi dán vào dòng thời gian là xong. Cả một ngày trời từ sáng đến tối mới cho ra được một video dài khoảng năm phút.
+Đầu tiên phải trích xuất những đoạn cần dùng từ một video dài nửa tiếng, sau đó ghép lại, rồi xác định xem nên lồng tiếng ở đâu. Tiếp theo là thu âm, chèn nhạc nền, và cuối cùng là thêm phụ đề. Khâu phụ đề là dễ nhất, vì giọng đọc của cô là đọc theo kịch bản có sẵn, chỉ cần sao chép rồi dán vào dòng thời gian là xong.
 
-Trong nhà không có bàn ghế tử tế đúng là cực hình. May mà khu làng trong thành phố ban ngày khá yên tĩnh, nên không ảnh hưởng gì đến việc lồng tiếng. Thực ra bây giờ có rất nhiều video dùng giọng đọc AI, chỉ cần gõ kịch bản rồi chọn một giọng đọc đặc trưng là được. Nhưng kiểu lồng tiếng này lại không có tính nhận diện. Giai đoạn đầu, khi chỉ có vài người làm, nó còn tạo được nét riêng và cư dân mạng cũng thích thú. Về sau, ai cũng dùng thì lại thành ra nhàm chán. Tuy nhiên, lồng tiếng AI quả thực đã giải quyết được vấn đề ngại ngùng cho nhiều người. Không ít người dùng giọng đọc AI không phải vì lười, mà vì… họ thực sự hơi ngại.
+Mất cả một ngày trời, từ sáng đến tối, mới cho ra được một video dài khoảng năm phút.
 
-Video đã được biên tập xong và tải lên đài P chờ duyệt. Hòa Ái Xích tự thấy kinh ngạc trước tốc độ làm việc của mình. Chỉ trong hai ngày mà cô đã hoàn thành việc ghé quán, quay tư liệu, viết một bài đăng và cắt ra một video dài năm phút.
+Trong phòng không có bàn ghế tử tế đúng là cực hình, may mà khu nhà trong làng ban ngày tương đối yên tĩnh, không ảnh hưởng đến việc thu âm. Thật ra bây giờ có rất nhiều video dùng giọng đọc AI, chỉ cần gõ kịch bản rồi chọn một giọng đọc đặc trưng là được. Nhưng kiểu lồng tiếng này không có nét riêng. Thời gian đầu chỉ có vài chủ kênh sử dụng nên nghe khá mới lạ, cư dân mạng xem rất thích thú. Về sau ai cũng dùng nên thành ra nhàm chán. Tuy nhiên, giọng đọc AI đúng là đã giải quyết được vấn đề ngại ngùng khi lồng tiếng của không ít người làm video. Nhiều người dùng giọng đọc AI không phải vì lười, mà vì... đúng là có chút ngại ngùng thật.
 
-*Mình cũng có năng khiếu ra phết, chuyện này mà kể ra chắc người ta phải sốc lắm.*
+Hòa Ái Xích thì không ngại lồng tiếng, cô chỉ ngại ống kính, lên hình là lại thấy gượng gạo.
 
-Thực ra video có thể từ từ biên tập, dù sao nhiệm vụ cũng không gấp, nhưng…
+Video dựng xong, cô tải lên trang P rồi chờ duyệt.
 
-Hòa Ái Xích mở điện thoại lên, và đúng như dự đoán, thông báo mà cô mong chờ đã được gửi tới.
+Hòa Ái Xích kinh ngạc trước tốc độ làm việc của chính mình, chỉ trong hai ngày đã hoàn thành việc đến quán quay tư liệu, viết một bài blog và dựng xong một video dài năm phút. Quá tài năng, nói ra chắc doạ người ta sợ chết khiếp.
 
-[Nhiệm vụ đã hoàn thành. Chúc mừng bạn nhận được 700 tiền thưởng, 1 lượt quay vòng quay may mắn, 20 điểm kinh nghiệm và 1000 phiếu giảm giá lưu lượng.]
-[Cấp độ người dùng của bạn đã được nâng cấp. Cần 500 điểm kinh nghiệm để lên cấp tiếp theo.]
+Thực ra video có thể từ từ dựng cũng được, dù sao nhiệm vụ cũng không gấp, nhưng...
 
-Nội dung của nhiệm vụ điểm danh hàng ngày đã thay đổi.
+Hòa Ái Xích mở điện thoại, quả nhiên, thông báo cô mong chờ đã đến!
 
-[Nhiệm vụ hàng ngày: Đến bất kỳ cửa hàng nào để thưởng thức món ngon và tải lên bài đánh giá trên Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng. Phần thưởng nhiệm vụ: Hoàn tiền bữa ăn, giới hạn 50 (giới hạn liên quan đến cấp độ người dùng, cấp tiếp theo là 100), 2 điểm kinh nghiệm người dùng. Không hoàn thành không bị phạt. Lưu ý: Không được lãng phí đồ ăn.]
+[Nhiệm vụ đã hoàn thành, chúc mừng bạn nhận được 700 tệ tiền mặt, một lượt quay Vòng Quay May Mắn, 20 điểm kinh nghiệm, 1000 phiếu tăng lượt xem]
 
-Chính vì lý do này mà trưa nay cô vẫn ăn mì trộn ở nhà. Phải để dành cơ hội hoàn tiền này cho đến khi nộp nhiệm vụ.
+[Cấp độ người dùng của bạn đã tăng. Cần 500 điểm kinh nghiệm để lên cấp tiếp theo.]
 
-Ngay khi Hòa Ái Xích chuẩn bị thay quần áo để ra ngoài ăn một bữa tối trị giá tới 50 tệ, ứng dụng lại hiện lên một thông báo đẩy khác.
+Nội dung nhiệm vụ điểm danh hàng ngày đã thay đổi.
 
-[Nhiệm vụ giới hạn thời gian (Nhiệm vụ này tồn tại trong 24 giờ và phải hoàn thành trong vòng 7 ngày sau khi nhận): Đến bất kỳ cửa hàng nào của "Cá Nướng Bếp Lửa" để thử sản phẩm mới ra mắt gần đây: Cá nướng Tom Yum, và viết một bài đánh giá trung thực trên Cộng Đồng Đánh Giá Độc Đáo. Sau khi hoàn thành, bạn sẽ nhận được 1.000 phiếu lưu lượng, 500 Thu nhập Ảnh hưởng, 100 danh tiếng, 100 tiền thưởng, 10 điểm kinh nghiệm và một lượt quay vòng quay may mắn.]
+[Nhiệm vụ hàng ngày: Đến một cửa hàng bất kỳ để thưởng thức món ăn, và đăng bài đánh giá lên ứng dụng Cộng Đồng Đánh Giá Độc Đáo, yêu cầu ba tấm ảnh + 100 chữ. Nhấn vào liên kết sau để chuyển đến ứng dụng →. Phần thưởng: Hoàn trả chi phí bữa ăn, giới hạn 50 tệ (giới hạn liên quan đến cấp độ người dùng, cấp tiếp theo giới hạn 100 tệ), 2 điểm kinh nghiệm người dùng. Không hoàn thành không bị phạt. Lưu ý: Không lãng phí thức ăn, chỉ được tự mình ăn, cùng một quán ăn chỉ được tính một lần trong vòng 3 ngày.]
 
-*“Ơ?” Sao lại có nhiệm vụ kiểu này nhỉ?*
+Hì hì.
 
-Vừa được ăn uống miễn phí lại còn có tiền, mà Cá Nướng Bếp Lửa lại là một chuỗi nhà hàng cá nướng khá nổi tiếng ở Bành Thành. Trước đây Hòa Ái Xích cũng thường cùng bạn bè đến ăn, nên chắc sẽ không gặp phải vấn đề gì.
+Số tiền được hoàn trả đã tăng lên, hôm nay có thể xa xỉ một chút, làm một bữa ra trò!
 
-Cô nhanh chóng nhấp nhận nhiệm vụ.
+Vì lẽ đó mà trưa nay cô vẫn ăn mì trộn ở nhà, chính là để dành cơ hội hoàn tiền này cho sau khi nộp nhiệm vụ. Nhìn kỹ lại, giới hạn thời gian cũng đã thay đổi, trước đây là 7 ngày mới được tính một lần, giờ chỉ còn 3 ngày. Điều này cũng không sao, dù sao cô cũng không có ý định ăn ở một quán suốt mấy ngày liền.
 
-[Phiếu giảm giá gói nhiệm vụ đã được gửi đến Cộng Đồng Đánh Giá Độc Đáo. Bạn có thể sử dụng gói này bằng cách xuất trình phiếu tại cửa hàng.]
+Ngay lúc Hòa Ái Xích chuẩn bị thay đồ ra ngoài ăn một bữa tối trị giá đến 50 tệ, Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng lại hiện lên thông báo.
 
-Hòa Ái Xích mở Cộng Đồng Đánh Giá Độc Đáo ra và phát hiện trong mục đơn hàng có thêm một phiếu mua theo nhóm cho một suất ăn ở Cá Nướng Bếp Lửa, trị giá tổng cộng 188 tệ. Suất ăn bao gồm một con cá nướng, các món ăn kèm, một phần xiên nướng nhỏ, một phần dưa chuột trộn và hai phần cơm trắng.
+[Nhiệm vụ giới hạn thời gian (nhiệm vụ tồn tại trong 24 giờ, hoàn thành trong vòng 7 ngày sau khi nhận): Đến một chi nhánh bất kỳ của Lò Lửa Quán để thử món mới ra mắt: cá nướng Tom Yum, và viết đánh giá trung thực trên Cộng Đồng Đánh Giá Độc Đáo. Hoàn thành nhiệm vụ sẽ nhận được 1000 phiếu tăng lượt xem, 500 điểm Ảnh hưởng, 100 điểm danh vọng, 100 tệ tiền mặt, 10 điểm kinh nghiệm, một lượt quay Vòng Quay May Mắn.]
 
-Khoan đã, bất kể trong gói có gì, tại sao cô lại phải tự mua gói này?
+"Ủa?"
 
-May thay, phiếu mua theo nhóm tuy hiển thị là được mua bằng tài khoản của cô, nhưng đối tượng trừ tiền không phải là ví điện tử của cô mà là một phương thức thanh toán của bên thứ ba.
+*Sao lại có cả nhiệm vụ kiểu này?*
 
-Xét thấy nhiệm vụ này cần hoàn thành sớm, mà phiếu giảm giá lại là suất ăn cho hai người, Hòa Ái Xích quyết định liên hệ lại với cạ cứng ăn uống của mình là Lâm Phi Tinh, hẹn ngày mai đi ăn luôn.
+Được ăn uống miễn phí còn có tiền mang về, hơn nữa Lò Lửa Quán là một chuỗi nhà hàng cá nướng khá nổi tiếng ở Bành Thành, trước đây cô cũng thỉnh thoảng đi ăn cùng bạn bè, chắc sẽ không đến nỗi dở tệ.
+
+Cô vội vàng nhấn nhận nhiệm vụ.
+
+[Phiếu gói nhiệm vụ đã được gửi đến Cộng Đồng Đánh Giá Độc Đáo của bạn, đến quán xuất trình phiếu để thưởng thức.]
+
+Hòa Ái Xích mở Cộng Đồng Đánh Giá Độc Đáo, phát hiện trong mục đơn hàng có thêm một phiếu mua nhóm suất ăn của Lò Lửa Quán, tổng trị giá 188 tệ. Suất ăn bao gồm một con cá nướng, một phần rau ăn kèm thập cẩm, một phần xiên nướng nhỏ, một phần dưa chuột trộn và hai chén cơm trắng.
+
+Khoan hãy nói trong suất ăn có gì, tại sao gói này cô lại phải tự mua?
+
+Hòa Ái Xích giật mình.
+
+*Trừ tiền của mình rồi sao?*
+
+Cô vội kiểm tra ví điện tử của mình, nếu làm nhiệm vụ này mà còn phải bù lỗ thì thật quá không đáng. May mà phiếu mua theo nhóm đúng là hiển thị do tài khoản của cô mua, nhưng đối tượng thanh toán lại không phải ví điện tử của cô mà là một phương thức thanh toán của bên thứ ba nào đó.
+
+Xét thấy nhiệm vụ này cần hoàn thành nhanh, hơn nữa phiếu lại là suất ăn đôi, Hòa Ái Xích quyết định liên lạc lại với cạ cứng ăn uống của mình là Lâm Phỉ Hạnh, hẹn ngày mai đi ăn luôn.

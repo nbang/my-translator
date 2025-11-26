@@ -1,97 +1,125 @@
-# Chương 40
+### **Chương 40**
 
-Món chay quả thực không bắt cơm cho lắm, phải ăn kèm thịt mới ngon. Cứ phải có thịt có rau xen kẽ thì ăn mới vào, không bị ngán. Hòa Ái Xích gắp cả thịt lẫn rau, chấm đẫm nước sốt rồi và một miếng cơm đầy.
+---
 
-Cô đang một mình thưởng thức bữa ăn ngon lành thì có hai vị khách bước vào quán.
+Tiếc là món chay không bắt cơm cho lắm, ăn với cơm trắng vẫn phải có món mặn mới hợp vị. Món mặn món chay kết hợp, ăn hoài không ngán. Cô gắp cả thịt lẫn rau trong mâm vào bát nước chấm đậm đà, rồi và một miếng cơm lớn vào miệng.
 
-Hai người khách mới này trông có vẻ là lần đầu đến đây, có lẽ cũng giống cô, bị mùi thơm quyến rũ mà tìm vào. Khi cả hai bước vào, họ nhận ra trong quán không có nhân viên phục vụ, chỉ có một cô gái trẻ đang ngồi ăn cơm nên có chút ngập ngừng. Quán này rốt cuộc có mở cửa không? Sao chẳng có ai thế này?
+Hòa Ái Xích đang ăn ngon lành một mình trong quán thì có thêm hai vị khách bước vào. Hai vị khách này có lẽ cũng lần đầu ghé quán, biết đâu lại giống như cô, bị mùi thơm dẫn lối tìm đến.
 
-Trong hai người, người phụ nữ mặc áo khoác dài màu trắng xám lên tiếng hỏi cô trước:
+Khi bước vào, hai người họ thấy trong quán không có nhân viên phục vụ, chỉ có một cô gái trẻ đang cúi đầu ăn cơm nên có chút do dự. Quán này rốt cuộc có mở cửa không? Sao chẳng có ai thế này?
+
+Người phụ nữ mặc áo khoác dài màu xám tro trong hai người lên tiếng hỏi Hòa Ái Xích trước:
 
 "Xin chào, cho hỏi quán có mở cửa không ạ? Bạn là khách đang ăn ở đây phải không?"
 
-Hòa Ái Xích nuốt vội miếng xúc xích giòn trong miệng rồi hất cằm về phía bếp: "Lúc tôi mới vào cũng không có ai, nhân viên ở trong đó, chị cứ gọi thử xem."
+Hòa Ái Xích nuốt miếng lạp xưởng giòn tan trong miệng, chỉ tay về phía bếp:
 
-"Cảm ơn nhé."
+"Lúc tôi mới vào cũng không thấy ai, nhân viên ở trong đó, anh chị cứ gọi thử xem."
 
-Biết trong quán có người, hai người họ lại không đi thẳng vào trong gọi, mà bắt đầu đứng bàn tán thì thầm trước tủ đông, thảo luận xem lát nữa nên ăn gì, có nên ăn ở quán này không, hay nếu món ăn không ổn thì đổi quán khác. Trong lúc nói, họ thỉnh thoảng liếc về phía khay đồ ăn trước mặt Hòa Ái Xích.
+"Cảm ơn bạn."
 
-"Trông cũng bình thường nhỉ?"
+Biết trong quán có người, hai vị khách cũng không vào trong gọi ngay mà bắt đầu đứng trước tủ lạnh bàn tán xôn xao, thảo luận xem lát nữa nên ăn gì, có nên ăn ở đây không, hay nếu món không ổn thì đổi quán khác. Vừa nói, họ thỉnh thoảng lại liếc mắt về phía mâm đồ ăn trước mặt cô.
+
+"Trông có vẻ không được ngon lắm nhỉ?"
 
 "Ăn ở đây thật à?"
 
-"Nhưng quán vắng quá, liệu có khó ăn không?"
+"Nhưng quán vắng quá, liệu có dở không?"
 
-"Chắc do phong thủy quán này không tốt, vị trí lại khuất nên mới vắng khách thôi."
+"Chắc phong thủy quán này không tốt, vị trí hẻo lánh thế này bảo sao ít khách."
 
 "Vậy bà chọn món đi, tôi vào gọi người."
 
-Người phụ nữ mặc áo khoác dài màu trắng xám đi về phía nhà bếp, nhưng cô ấy còn chưa kịp cất tiếng gọi thì anh nhân viên bên trong đã đủng đỉnh bước ra. Thấy có khách, anh ta lại uể oải lặp lại câu nói quen thuộc: "Mọi người tự lấy đồ ăn rồi ra đây gọi món, thanh toán nhé."
+Người phụ nữ mặc áo khoác dài màu xám tro đi về phía bếp. Chưa kịp để cô ấy lên tiếng, nhân viên phục vụ bên trong đã lững thững bước ra. Thấy có khách, anh ta lại uể oải lặp lại điệp khúc cũ:
 
-"Ồ, để chúng tôi xem thêm chút nữa." Người đàn ông đứng trước tủ đông quay lại hỏi anh nhân viên: "Quán mình có món nào ngon không, giới thiệu cho chúng tôi với?"
+"Tự chọn món rồi ra đây tính tiền."
 
-Anh nhân viên uể oải dựa vào quầy gọi món, thờ ơ đáp: "Món nào cũng ngon cả. Nguyên liệu đều có trong tủ, muốn ăn gì thì mọi người tự chọn."
+"Ồ, vậy để chúng tôi xem thêm lát nữa." Người đàn ông đứng trước tủ lạnh quay lại hỏi nhân viên phục vụ: "Anh ơi, quán mình có món nào ngon không, giới thiệu cho bọn tôi với?"
 
-Người phụ nữ mặc áo khoác dài màu xám quay lại chỗ bạn mình, hai người họ vừa chỉ trỏ vào tủ đông vừa bàn bạc gì đó. Vài phút sau, hai người đóng cửa tủ lạnh lại rồi cứ thế bỏ đi, chẳng gọi món nào.
+Nhân viên phục vụ uể oải tựa người vào quầy gọi món, đáp một cách thờ ơ:
 
-Hòa Ái Xích chứng kiến toàn bộ quá trình, chỉ biết im lặng, lẳng lặng cúi đầu ăn tiếp.
+"Món nào cũng ngon cả. Nguyên liệu đều ở trong tủ, muốn ăn gì thì tự chọn đi."
 
-Chẳng mấy chốc, một khay đồ ăn đã hết sạch, bát cơm vừa lấy cũng chẳng còn hạt nào, nhưng cô vẫn cảm thấy hơi thòm thèm.
+Người phụ nữ mặc áo khoác xám tro quay lại chỗ bạn mình, cả hai chỉ trỏ vào tủ lạnh, bàn bạc thêm gì đó. Vài phút sau, họ đóng cửa tủ lạnh lại rồi rời đi, không gọi món nào cả.
 
-*Ăn mới được sáu phần no. Vẫn còn ăn được nữa.*
+Chứng kiến toàn bộ sự việc, Hòa Ái Xích chẳng biết nói gì hơn, chỉ biết cúi đầu ăn cho xong bữa.
 
-Nếu còn đồ ăn và cơm, ít nhất cô có thể ăn thêm nửa bát nữa. Hòa Ái Xích rút một tờ giấy ăn lau miệng, sau đó rời khỏi quán "Đồ ăn khô trộn Hẻm Lão".
+Chẳng mấy chốc, mâm đồ ăn đã hết sạch, bát cơm vừa gọi cũng đã ăn xong, nhưng cô vẫn cảm thấy chưa đã thèm.
 
-Lúc cô rời đi, có vài người lướt qua cô và bước vào quán. Xem ra, họ cũng là những thực khách bị mùi thơm hấp dẫn mà đến.
+Mới lưng lửng dạ.
 
-Thú thật, món đồ ăn khô trộn này hương vị rất ngon, là kiểu hương vị mà cô nếm rồi vẫn muốn ăn lại. Nhưng cô cũng phần nào hiểu được tại sao quán lại vắng khách đến vậy. Như hai vị khách vừa vào rồi lại đi, vị trí khuất là một lý do.
+Vẫn ăn thêm được nữa.
 
-Rõ ràng, những vấn đề khác còn nghiêm trọng hơn.
+Nếu còn cơm và thức ăn, ít nhất cô có thể ăn thêm nửa bát nữa.
 
-Bành Thành là một thành phố hạng nhất. Trên mạng người ta thường nói dân Bành Thành chỉ biết kiếm tiền, nhưng lương cao và cơ hội nhiều thì mức tiêu dùng cũng cao theo. Tuy nhiên, những người làm việc và sinh sống ở đây không phải là những kẻ ngốc lắm tiền.
+Hòa Ái Xích rút một tờ giấy ăn lau miệng rồi rời khỏi quán "Đồ Ăn Vặt Trộn Khô Hẻm Cũ". Khi cô rời đi, vài người khác lướt qua cô để bước vào quán. Xem ra họ cũng là những thực khách bị hương thơm hấp dẫn.
 
-Phải thừa nhận rằng, hương vị của quán "Đồ ăn khô trộn Hẻm Lão" thực sự rất ổn, thậm chí mô hình kinh doanh cũng rất phù hợp với một thành phố trẻ trung như Bành Thành. Phần lớn dân nhập cư đến Bành Thành làm việc đều tự thuê nhà, ít khi nấu nướng. Món đồ ăn khô trộn này có thể tự chọn món, một người ăn cũng được mà nhiều người ăn cũng tiện, quá phù hợp với những người trẻ độc thân chưa lập gia đình.
+Thật lòng mà nói, món ăn ở đây rất ngon, là hương vị mà cô nếm rồi vẫn muốn ăn lại. Nhưng cô cũng phần nào hiểu được tại sao quán lại vắng khách đến vậy.
 
-Chỉ có điều, mức giá của quán này nếu để ăn như một bữa cơm bình thường thì lại hơi cao so với những người trẻ độc thân.
+Như lời hai vị khách vừa vào rồi lại đi lúc nãy, vị trí hẻo lánh là một nguyên nhân. Nhưng rõ ràng, những vấn đề khác còn nghiêm trọng hơn nhiều.
 
-Trong quán có dán thông báo, nói rằng một người ăn chỉ cần 4-5 đĩa là đủ. Vừa rồi, Hòa Ái Xích lấy tổng cộng 6 đĩa, 4 mặn 2 chay, thanh toán hết 48 tệ. Vậy mà cô vẫn chưa no. Rõ ràng con số 4-5 đĩa có chút không thực tế. Sức ăn của cô chắc chắn không phải dạng lớn, nhưng phần đồ ăn vừa rồi chỉ đủ để cô ăn với một bát cơm. Bát cơm ở quán Hẻm Lão lại nhỏ, một bát cơm với ngần ấy đồ ăn, thực sự chẳng được bao nhiêu.
+Thâm Quyến là thành phố hạng nhất. Người ta vẫn hay đồn rằng dân Thâm Quyến chỉ biết kiếm tiền, nhưng bù lại lương cao, cơ hội nhiều nên mức tiêu dùng cũng cao. Tuy nhiên, những người làm việc và sinh sống ở đây đâu phải kẻ ngốc dễ bị lừa.
 
-Nếu cô ăn cho no nê, chi phí bình quân đầu người sẽ lên tới 60-70 tệ. Nhưng khi chi phí đạt đến mức đó, sẽ có nhiều lựa chọn khác hơn. Tính ra giá cả của quán này không hấp dẫn lắm, và nhiều người sẽ sẵn lòng đến những quán có hương vị ổn và dịch vụ tốt hơn.
+Phải thừa nhận rằng, hương vị của quán "Đồ Ăn Vặt Trộn Khô Hẻm Cũ" rất ổn, thậm chí mô hình kinh doanh cũng rất phù hợp với một thành phố trẻ như Thâm Quyến. Rất nhiều người từ nơi khác đến đây làm việc, tự thuê nhà và ít khi nấu ăn. Món ăn vặt trộn khô này cho phép khách tự chọn món, một người ăn cũng được mà nhiều người ăn cũng tiện, vô cùng phù hợp với những người trẻ độc thân chưa lập gia đình.
 
-Nếu đây là tiền túi của Hòa Ái Xích, bữa ăn này sẽ không thể thoải mái như vậy, và cô sẽ không cân nhắc quay lại lần thứ hai. Muốn ăn no ở quán này mà vẫn tiết kiệm cũng có cách, đó là gọi vài món chay, thêm một suất mì trứng 3 tệ rồi trộn chung. Nhưng ăn kiểu tiết kiệm như vậy lại không thể nào sảng khoái bằng việc gọi thỏa thích món mặn ăn cùng cơm trắng.
+Chỉ có điều, mức giá của quán này lại hơi cao so với một bữa ăn thường ngày của giới trẻ sống một mình.
 
-Và còn một yếu tố khác ảnh hưởng đến doanh thu của quán, một yếu tố sẽ khiến khách hàng bỏ đi trước cả khi kịp suy nghĩ xem nên chi tiêu thế nào cho tiết kiệm.
+Trên tường có dán thông báo, một người ăn 4-5 đĩa là đủ. Lúc nãy cô đã lấy tổng cộng 6 đĩa, 4 mặn 2 chay, hết 48 tệ.
 
-Ngành ẩm thực ở Bành Thành thực ra khá cạnh tranh. Dân số đông, giá cả sinh hoạt cao, nếu mở được một cửa hàng thành công thì sẽ rất hái ra tiền. Ngược lại, nếu kinh doanh thất bại, lỗ cũng rất nặng, bởi tiền thuê mặt bằng vô cùng đắt đỏ. Vì vậy, những người kinh doanh ẩm thực luôn cố gắng hết sức để làm tốt cửa hàng của mình. Nếu không thể cạnh tranh bằng hương vị, ít nhất họ sẽ tìm cách cải thiện dịch vụ.
+Mà vẫn chưa no.
 
-Ví dụ điển hình là quán cá nướng Lò Lửa. Dù món cá nướng ở quán này không còn ngon như trước, nhưng thái độ phục vụ của họ rất tốt, vẫn giữ chân được những khách hàng coi trọng dịch vụ hơn là hương vị. Những quán biết mình không có dịch vụ tốt thì sẽ tập trung vào số lượng và giá cả. Khi mọi người cảm thấy món ăn hời, họ có thể bỏ qua cả dịch vụ và không gian. Ví dụ như các quán Mì Ngon, Mì Trùng Khánh Thơm Nức, hay Phở Bò Cừu, tất cả đều có thể ăn no nê trong vòng 20 tệ. Ngay cả quán Hoành Thánh Lão Hải cũng biết cách đưa ra mức giá phải chăng.
+Rõ ràng con số 4-5 đĩa chỉ là nói cho hay. Sức ăn của cô chắc chắn không phải dạng lớn, vừa rồi ăn mâm đồ ăn đó cũng chỉ vừa đủ cho một bát cơm. Bát cơm của quán lại còn nhỏ, một bát cơm cộng với từng ấy thức ăn thật sự chẳng được bao nhiêu.
 
-Mở quán không phải làm từ thiện, có kiếm được tiền hay không mới là điều quan trọng. Quán "Đồ ăn khô trộn Hẻm Lão" quả là một trường hợp kỳ lạ, phương châm kinh doanh của họ dường như đi ngược lại với việc kiếm tiền. Ngoài hương vị ổn ra, quán chẳng có ưu điểm nào khác.
+Nếu cô ăn cho thỏa thích, suất ăn trung bình phải lên tới 60-70 tệ. Nhưng với tầm giá đó, thực khách sẽ có nhiều lựa chọn hơn hẳn, và quán này trở nên kém cạnh tranh. Nhiều người sẽ sẵn sàng đến những nơi vừa ngon miệng, vừa có dịch vụ tốt hơn.
 
-Anh nhân viên cũng thật kỳ lạ. Việc cần làm anh ta vẫn làm, nhưng động tác thì lúc nào cũng chậm rì rì, giọng điệu thì uể oải kéo dài, tạo cảm giác anh ta chẳng muốn tiếp khách chút nào. Trông không giống ông chủ, vì chẳng có ông chủ nào lại đi đuổi khách như thế. Cũng không giống nhân viên được thuê, vì làm gì có nhân viên nào đi làm với thái độ này mà không bị mắng?
+Nếu phải tự bỏ tiền túi, có lẽ cô đã không thể ăn một bữa thoải mái như vậy, và chắc chắn sẽ không quay lại lần thứ hai.
 
-Điều kỳ lạ nhất là, nếu quán này vì eo hẹp tài chính mà chỉ thuê được một nhân viên kiêm cả phục vụ lẫn đầu bếp, thì việc quán thường xuyên không có người trông coi cũng có thể hiểu được. Nhưng lúc nãy, khi ăn, Hòa Ái Xích đã quan sát rất kỹ, bên trong bếp còn có một đầu bếp khác!
+Muốn ăn no ở quán này mà vẫn tiết kiệm cũng có cách: gọi vài đĩa rau, thêm một vắt mì trứng 3 tệ rồi trộn chung. Nhưng ăn kiểu dè sẻn như vậy sao thoải mái bằng việc gọi thỏa thích món mặn ăn cùng cơm trắng được.
 
-Không tài nào hiểu nổi quán này hoạt động ra sao, Hòa Ái Xích rời khỏi con hẻm vắng vẻ và quay lại con phố ẩm thực nhộn nhịp.
+Và có một yếu tố khác ảnh hưởng đến doanh thu, yếu tố này thậm chí còn khiến khách hàng bỏ đi trước cả khi kịp cân nhắc xem nên ăn thế nào cho rẻ.
 
-Sau bữa ăn, dòng người trên phố dường như còn đông hơn trước. Nhân viên trong các cửa hàng lớn đều phấn chấn tinh thần, sẵn sàng cho một cuộc chiến với các đối thủ cạnh tranh. Các cửa hàng bán hạt, bánh mì và trái cây đều cử nhân viên ra đường mời khách ăn thử.
+Ngành ẩm thực ở Thâm Quyến thực ra cạnh tranh rất khốc liệt. Dân số đông, giá cả sinh hoạt cơ bản cao, nên nếu mở được một quán ăn thành công thì sẽ kiếm được bộn tiền. Ngược lại, nếu kinh doanh thất bại thì cũng lỗ sấp mặt, vì tiền thuê mặt bằng quá đắt đỏ.
 
-Ánh mắt người ta luôn có xu hướng đổ dồn về những nơi đông đúc. Trên con phố này, nơi náo nhiệt nhất hiện giờ là quán phở bò cừu Hoa Ký đang xếp hàng dài, theo sau là quán bánh quẩy sữa chua đang hot trên mạng vừa mới khai trương.
+Do đó, các chủ nhà hàng luôn cố gắng hết sức để làm tốt quán của mình. Nếu không thể cạnh tranh bằng hương vị, ít nhất họ sẽ tìm cách nâng cao chất lượng dịch vụ.
 
-Trào lưu ở Bành Thành luôn đến theo từng đợt, chẳng biết cơn sốt bánh quẩy sữa chua này nổi lên từ bao giờ. Cô nhớ mấy hôm trước đến ăn phở bò cừu, chỗ này vẫn còn đang sửa chữa. Bên ngoài cửa hàng mới khai trương treo băng rôn "Mua hai tặng một".
+Quán "Cá Nướng Hỏa Lò" là một ví dụ điển hình. Dù món cá nướng ở đó không còn ngon như xưa, nhưng thái độ phục vụ của họ rất tốt, vẫn giữ chân được những khách hàng coi trọng dịch vụ hơn là hương vị, khiến họ trở thành khách quen.
 
-Điều khá lạ là trên con phố ẩm thực này, cách nhau chưa đầy trăm mét lại có hai cửa hàng bánh quẩy sữa chua. Một quán mở chung với quán lòng bò, tên là "Bánh quẩy sữa chua Ba Ba". Chủ quán lòng bò thuê một mặt bằng rồi chia đôi, một nửa bán lòng bò, nửa còn lại cho thuê để bán bánh quẩy sữa chua, giá 12.8 tệ một chiếc, mua hai tặng một. Quán này đã mở được gần nửa tháng, kinh doanh không mấy khả quan. Trước đây Hòa Ái Xích đi ngang qua có để ý, nhưng vì quán quá vắng vẻ nên cô chẳng có ý định mua thử.
+Những quán biết mình không có dịch vụ tốt thì sẽ bù lại bằng khẩu phần ăn hoặc giá cả. Khi khách hàng cảm thấy hợp lý, họ có thể bỏ qua vấn đề dịch vụ và không gian. Chẳng hạn như quán "Mì Gia Đình Thơm Ngon", "Mì Trùng Khánh Cay Thơm" hay "Bún Bò Cừu", về cơ bản chỉ cần dưới 20 tệ là có thể ăn một bữa no nê thoải mái. Ngay cả quán "Hoành Thánh Lão Hải" cũng biết điều chỉnh giá cả cho phải chăng. Ông chủ của họ dù không rành về ngành ẩm thực nhưng cũng hiểu rằng khu vực quanh quán có nhiều khu công nghiệp, nên đã bổ sung vào thực đơn nhiều món cơm suất với giá cả hợp lý.
 
-Quán mới mở còn lại có tên "Bánh quẩy sữa chua Bà Trương" thì đã làm marketing rất rầm rộ trước khi khai trương. Họ không chỉ phát tờ rơi, mở nhạc ầm ĩ ngoài cửa hàng mà còn đặc biệt mời các hot tiktoker đăng nhiều video quảng cáo trên Douyin. Mua tại cửa hàng là 10.8 tệ một chiếc, mua hai tặng một. Nếu mua qua Douyin hoặc Cộng Đồng Đánh Giá Độc Đáo, chiếc bánh đầu tiên sẽ được hưởng ưu đãi người dùng mới, chỉ 3.8 tệ. Vị sô cô la hoặc trứng muối thì 5.8 tệ một chiếc.
+Mở quán không phải làm từ thiện, có kiếm ra tiền hay không mới là điều quan trọng. Quán "Đồ Ăn Vặt Trộn Khô Hẻm Cũ" này đúng là một của lạ, phương châm kinh doanh cứ như thể có thù với tiền bạc vậy. Ngoài việc đồ ăn ngon ra, quán chẳng có lấy một ưu điểm nào khác.
 
-Cuộc chiến giá cả thật khốc liệt!
+Nhân viên phục vụ cũng thật kỳ lạ. Việc cần làm thì anh ta vẫn làm, nhưng cử chỉ lúc nào cũng lề mề, cộng thêm cái giọng điệu uể oải, kéo dài ở cuối câu, khiến người ta có cảm giác anh ta chẳng muốn tiếp mình. Trông anh ta không giống ông chủ, vì chẳng có ông chủ nào lại đi đuổi khách như thế. Nhưng cũng không giống nhân viên được thuê, vì làm gì có nhân viên nào đi làm kiểu này mà không bị mắng?
 
-Làm sao Hòa Ái Xích biết trên Douyin có ưu đãi ư? Là khi cô đang đứng cuối hàng, lưỡng lự không biết có nên thử món bánh hot trên mạng này không, thì thấy những thực khách phía trước thanh toán bằng phiếu mua hàng trên Douyin.
+Điều kỳ lạ nhất là, nếu quán eo hẹp về tài chính, buộc phải thuê duy nhất một nhân viên kiêm cả phục vụ lẫn đầu bếp, dẫn đến việc quán thường xuyên không có người tiếp khách, thì còn có thể hiểu được. Nhưng lúc nãy trong khi ăn, cô đã quan sát rất kỹ, bên trong bếp còn có một đầu bếp khác!
 
-Giá 10.8 tệ mua hai tặng một còn khiến cô phải đắn đo, chứ 3.8 tệ một chiếc thì... cô nhanh tay đặt một phiếu.
+Vẫn chưa nghĩ ra quán này rốt cuộc là thế nào, Hòa Ái Xích rời khỏi con hẻm vắng và quay lại khu phố ẩm thực.
 
-*Vừa hay, lúc nãy ăn chưa no, bụng mình vẫn còn chỗ cho một chiếc bánh quẩy.*
+Sau bữa ăn, dòng người trên phố dường như còn đông hơn trước. Nhân viên các quán đều lên dây cót tinh thần, sẵn sàng cho một cuộc chiến với các đối thủ cạnh tranh. Các cửa hàng bán hạt khô, bánh mì, trái cây đều cử nhân viên ra đường phát đồ ăn thử cho khách.
 
-À mà, ăn bánh quẩy có thể hơi ngấy, nên mua thêm một ly nước uống. Con phố này có rất nhiều quán trà sữa. Hòa Ái Xích mở điện thoại, lướt qua các ứng dụng đặt trà sữa như Yidiudiu, COCO, Trà Chanh... rồi chọn ứng dụng của Michelle Bingchen, bỏ ra 4 tệ đặt một ly nước chanh. Như vậy, lúc xếp hàng lấy được bánh thì ly nước chanh cũng vừa làm xong, thật tiện lợi.
+Ánh mắt con người luôn có xu hướng đổ dồn về những nơi đông đúc.
 
-Trong lúc xếp hàng, Hòa Ái Xích vừa trò chuyện với bạn bè trong nhóm, vừa thỉnh thoảng quan sát quá trình làm bánh. Quán "Bánh quẩy sữa chua Bà Trương" chiếm một diện tích nhỏ, bên trong có ba nhân viên. Một người đeo tai nghe và loa, phụ trách thu tiền và phát phiếu cho khách.
+Trên con phố này, quán đông nhất hiện tại là "Bún Bò Cừu Nhà Họ Hoa" đang có hàng dài người xếp hàng, thứ hai là quán "Quẩy Sữa Chua" nổi tiếng trên mạng vừa mới khai trương.
+
+Các trào lưu ở Thâm Quyến luôn đến và đi theo từng đợt, chẳng biết cơn sốt quẩy sữa chua này nổi lên từ bao giờ. Hòa Ái Xích nhớ mấy hôm trước khi cô đến ăn bún bò cừu, chỗ này vẫn còn đang sửa chữa.
+
+Bên ngoài cửa hàng mới mở treo một tấm băng rôn lớn: "Khai trương mua hai tặng một".
+
+Điều khá lạ là trên cùng một con phố, cách nhau chưa đầy trăm mét lại có tới hai quán quẩy sữa chua. Một quán mở chung với tiệm phá lấu bò, tên là "Quẩy Sữa Chua Baba". Chủ tiệm phá lấu bò thuê một mặt bằng rồi chia làm đôi, một nửa bán phá lấu, nửa còn lại cho thuê để bán quẩy sữa chua, giá 12.8 tệ một chiếc, mua hai tặng một. Quán này đã mở được khoảng nửa tháng nhưng kinh doanh không mấy khả quan. Trước đây Hòa Ái Xích đi qua có để ý, vì quán quá vắng vẻ nên cô không có chút hứng thú nào muốn mua thử.
+
+Quán mới mở còn lại có tên "Quẩy Sữa Chua Bà Trương" thì đã làm marketing rất kỹ lưỡng trước khi khai trương. Họ không chỉ phát tờ rơi, mở nhạc ầm ĩ trước cửa hàng mà còn đặc biệt mời những người nổi tiếng trên mạng đăng rất nhiều video quảng cáo trên Douyin.
+
+Mua tại quán, giá là 10.8 tệ một chiếc quẩy sữa chua, mua hai tặng một. Nếu mua qua Douyin hoặc **Cộng Đồng Đánh Giá Độc Đáo**, chiếc đầu tiên sẽ được hưởng ưu đãi người dùng, chỉ còn 3.8 tệ. Loại vị sô cô la hoặc trứng muối thì giá 5.8 tệ một chiếc.
+
+Cuộc chiến về giá thật khốc liệt!
+
+Làm sao Hòa Ái Xích biết có ưu đãi trên Douyin ư? Trong lúc cô đang đứng cuối hàng, lưỡng lự không biết có nên thử món quẩy nổi tiếng này không, cô đã thấy những thực khách phía trước thanh toán bằng phiếu mua hàng theo nhóm trên Douyin.
+
+Giá 10.8 tệ mua hai tặng một thì cô còn đắn đo, chứ 3.8 tệ một chiếc thì... phải nhanh tay đặt ngay một phiếu giảm giá thôi.
+
+Đúng là quá hợp lý! Vừa hay lúc nãy cô ăn chưa no, trong bụng vẫn còn chừa chỗ cho một chiếc quẩy rán.
+
+À mà, quẩy có thể hơi ngấy, hay là mua thêm ly gì đó để uống nhỉ? Tiện thể trên con phố này có biết bao nhiêu là quán trà sữa.
+
+Hòa Ái Xích mở điện thoại, lướt qua một loạt ứng dụng trà sữa như Yi Diandian, CoCo, Trà Chanh... rồi quyết định chọn ứng dụng của Mixue, đặt một ly nước chanh giá 4 tệ. Như vậy, lúc xếp hàng lấy được quẩy thì ly nước chanh cũng vừa làm xong, thật tiện lợi.
+
+Trong lúc xếp hàng, cô vừa tán gẫu với bạn bè trong nhóm chat, vừa thỉnh thoảng liếc mắt quan sát quá trình làm quẩy. Quán quẩy Bà Trương không lớn, bên trong có ba nhân viên. Một người đeo tai nghe và micro, phụ trách thu tiền và phát phiếu cho khách, để mọi người có thể dựa vào số phiếu mà nhận quẩy sau khi đã chiên xong.

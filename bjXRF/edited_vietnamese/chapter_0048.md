@@ -1,113 +1,103 @@
-Chương 48
+### **Chương 48**
 
 ---
 
-Ví dụ như món thịt băm hấp phải có gừng. Khổ nỗi, cô lại không ăn được gừng. Phải làm sao đây? Vậy thì phải thái gừng thành sợi thật mỏng, băm thật nhuyễn, cuối cùng trộn vào thịt rồi tiếp tục băm cho đến khi cô không còn nếm ra vị nữa.
+Ví dụ như món thịt băm hấp bắt buộc phải có gừng, nhưng cô lại không ăn gừng. Vậy phải làm sao? Cha cô sẽ thái gừng thành sợi thật mỏng, băm nhỏ rồi trộn vào thịt, sau đó tiếp tục băm cho đến khi cô không còn nếm ra vị gừng nữa.
 
-Nhiều người cũng dùng cách băm nhỏ nguyên liệu rồi trộn lẫn vào món khác để “lừa” trẻ con ăn, nhưng thường không hiệu quả, vì để thực sự làm cho mùi vị biến mất thì rất tốn công. Có thể tưởng tượng được, để con gái không phát hiện ra vị gừng trong món thịt băm, ông Hòa Nhậm Sơn đã phải vất vả đến mức nào.
+Cái mẹo băm nhuyễn nguyên liệu rồi trộn lẫn vào món khác để dụ trẻ con ăn thì nhiều người vẫn dùng, nhưng thường không hiệu quả. Bởi lẽ, để làm cho mùi vị biến mất hoàn toàn thực sự rất tốn công. Có thể tưởng tượng, để con gái không phát hiện ra vị gừng trong món thịt băm, ông Hòa Nhân Thiện đã phải kỳ công đến mức nào. Nhưng chỉ cần thấy con gái mình ăn ngon miệng món do chính tay mình làm, lòng người làm cha cũng thấy an ủi.
 
-Chỉ cần nhìn con gái yêu thích món mình nấu, người làm cha cũng thấy lòng vui sướng.
+Thuở nhỏ, vì kén ăn nên mỗi khi gặp được món hiếm hoi mình thích, Hòa Ái Xích lại có những phản ứng vô cùng tích cực. Chẳng hạn, cô dành cho món thịt băm hấp một sự trân trọng đặc biệt, mỗi lần ăn là một quy trình rất dài. Cô sẽ đòi ba mẹ chỉ xới cho nửa chén cơm, sau đó đặt miếng thịt băm vào nửa chén còn trống, rồi dùng một chiếc thìa sắt nhỏ, tỉ mẩn dằm nát miếng thịt đã được ép thành bánh ra thành từng vụn nhỏ.
 
-Hồi nhỏ, Hòa Ái Xích rất kén ăn, nên mỗi khi tìm được món khoái khẩu, cô sẽ hưởng ứng vô cùng nhiệt tình. Chẳng hạn như cô dành một sự trân trọng đặc biệt cho món thịt băm hấp, mỗi lần ăn đều thực hiện một quy trình vô cùng phức tạp.
+Công đoạn này cũng tốn thời gian không kém, cha cô thường trêu: "Cha ăn xong cả chén cơm rồi mà con vẫn còn ngồi chơi với miếng thịt của mình thế?"
 
-Cô sẽ nằng nặc đòi bố mẹ chỉ xới cho nửa bát cơm. Sau đó, cô đặt miếng thịt băm vào nửa bát còn trống, rồi dùng chiếc thìa sắt nhỏ, tỉ mẩn tách phần thịt đã được ép thành bánh ra thành từng vụn nhỏ. Công đoạn này cũng tốn không ít thời gian, bố cô vẫn thường trêu: “Bố ăn xong cả bát cơm rồi mà con vẫn còn nghịch miếng thịt của mình thế?”
+Dằm nát thịt vẫn chưa xong. Cô sẽ dùng thìa trộn đều thịt với cơm, cẩn thận kiểm tra xem tỷ lệ đã vừa ý chưa. Nếu thịt nhiều quá, cô sẽ thêm một chút cơm. Nếu ít thịt, cô lại lấy thêm một miếng thịt băm khác để dằm tiếp cho đến khi hài lòng mới thôi. Cuối cùng, cô còn rưới thêm hai thìa nước thịt tiết ra khi hấp, đảm bảo toàn bộ tinh hoa của miếng thịt băm hòa quyện hoàn hảo vào cơm. Chỉ đến lúc đó, cô mới ngoan ngoãn bắt đầu ăn.
 
-Tách thịt ra xong vẫn chưa hết. Cô sẽ dùng thìa trộn đều thịt vụn với cơm, cẩn thận kiểm tra xem tỷ lệ đã vừa ý hay chưa. Nếu thịt nhiều quá, cô sẽ thêm một chút cơm. Nếu ít thịt, cô sẽ lấy thêm một miếng thịt băm khác và tiếp tục công cuộc tách nhỏ cho đến khi hài lòng. Cuối cùng, phải rưới thêm hai muỗng nước thịt tiết ra trong đĩa, đảm bảo toàn bộ tinh túy của món ăn hòa quyện hoàn hảo vào cơm, lúc ấy cô mới chịu bắt đầu ăn.
+Chén cơm trộn thịt băm ấy được cô xúc ăn bằng thìa, mà lại ăn rất nhanh, còn nhanh hơn cả cha mình. Từng thìa từng thìa, cho đến khi không còn một hạt cơm nào sót lại dưới đáy chén mới chịu dừng. Trông cô ăn ngon miệng đến nỗi khiến ai nhìn cũng phải thèm mà ăn thêm vài miếng.
 
-Cô dùng thìa xúc bát cơm trộn thịt ấy, ăn nhanh thoăn thoắt, còn nhanh hơn cả bố mình. Từng thìa, từng thìa một, cho đến khi vét sạch hạt cơm cuối cùng dưới đáy bát mới thôi. Dáng vẻ ngon lành của cô khiến bất cứ ai nhìn vào cũng phải thèm thuồng muốn ăn thêm vài miếng.
+Tuy nhiên, lớn lên rồi thì Hòa Ái Xích không còn làm vậy nữa. Cô lại bắt đầu thích ăn thịt băm nguyên miếng vì nó có độ dai. Cha cô lại thấy hơi tiếc nuối, bởi ông khá thích ngắm nhìn con gái mình tỉ mẩn dằm nát miếng thịt. Với ông, thói quen ăn uống kỳ quặc của con gái là một cảnh tượng thú vị trên bàn ăn.
 
-Tuy nhiên, lớn lên rồi, Hòa Ái Xích không còn làm vậy nữa. Cô bắt đầu thích ăn nguyên miếng thịt vì nó dai và đã miệng hơn. Bố cô lại thấy tiếc nuối, vì ông rất thích ngắm nhìn con gái mình tỉ mẩn tách thịt. Đối với ông, sự cầu kỳ của con gái khi ăn là một cảnh đẹp trên bàn ăn.
+Thịt băm hấp có thể coi là một trong những món ăn khai sáng vị giác cho Hòa Ái Xích. Và cũng chính nó đã giúp cô nhận ra rằng, hình dạng của món ăn có thể ảnh hưởng đến hương vị. Thịt sau khi dằm nát có kết cấu và vị ngon hơi khác so với khi ăn nguyên miếng. Không chỉ vậy, trong lúc hấp, việc có ép chặt miếng thịt hay không cũng sẽ ảnh hưởng đến hương vị sau khi chín.
 
-Thịt băm hấp có thể coi là một trong những món ăn khai sáng của Hòa Ái Xích. Cũng chính nó đã giúp cô nhận ra rằng, hình dạng của món ăn có thể ảnh hưởng đến hương vị. Miếng thịt sau khi được tách nhỏ có kết cấu và mùi vị hơi khác so với khi ăn nguyên miếng. Hơn nữa, việc có ép thịt thành bánh khi hấp hay không cũng ảnh hưởng đến hương vị cuối cùng.
+Cô nhớ có lần, vì thấy cô lúc nào cũng thích dằm nát thịt, nên gia đình đã không ép thịt thành bánh mà rải thẳng thịt băm lên đĩa rồi đem hấp. Mọi người nghĩ, đằng nào cô cũng dằm ra ăn, thì có phải hình bánh hay không cũng chẳng quan trọng, để rời như vậy lại càng dễ dằm hơn.
 
-Cô nhớ có lần, vì thấy cô lúc nào cũng tách thịt ra, gia đình bèn rải thẳng thịt băm lên đĩa để hấp chứ không ép thành bánh nữa. Họ nghĩ, đằng nào con bé cũng làm cho nó nát ra, có phải hình bánh hay không cũng chẳng quan trọng, mà để rời thế này lại càng dễ tách. Ai ngờ, hương vị hấp ra lại khác hẳn so với khi ép thành bánh. Kể cả khi đã tách nhỏ ra ăn, vị của nó vẫn không giống, rõ ràng là ép bánh ngon hơn hẳn.
+Kết quả là, vị của thịt hấp theo kiểu này lại khác hẳn so với khi ép thành bánh. Dù có dằm nát ra ăn thì hương vị vẫn có chút khác biệt, rõ ràng là ép thành bánh ngon hơn hẳn. Nguyên lý đằng sau là gì, đến giờ cô vẫn chưa hiểu hết. Nhưng cô vô cùng khâm phục người đầu tiên đã sáng tạo ra món thịt băm hấp.
 
-Nguyên lý là gì, Hòa Ái Xích cũng không hiểu rõ. Nhưng cô vô cùng khâm phục người đầu tiên nghĩ ra món thịt băm hấp này.
+Miếng thịt băm tươi mới ra lò được mọi người trên bàn ăn hưởng ứng nhiệt liệt. Món cúng từ hôm trước chẳng ai gắp mấy miếng, trong khi đĩa thịt băm và rau xào mới thì được dọn sạch veo. Ông Hòa Nhân Thiện, người chịu trách nhiệm băm thịt, cũng cảm thấy vô cùng thỏa mãn, cho rằng công sức của mình đã được đền đáp xứng đáng. Ăn no xong, ông ngả người thoải mái trên ghế sô pha, xoa bụng ợ một tiếng. Nếu không có gì thay đổi, tối nay món này sẽ lại xuất hiện trên bàn ăn, cho đến khi bảy phần thịt băm mà cha cô đã chuẩn bị được ăn hết sạch.
 
-Món thịt băm tươi mới ra lò được mọi người hưởng ứng nhiệt liệt. Mấy món cúng hôm trước chẳng ai động đũa mấy, trái lại, đĩa thịt băm và rau tươi thì được gắp hết veo. Ông Hòa Nhậm Sơn, người phụ trách băm thịt, cũng vô cùng mãn nguyện, cảm thấy công sức của mình đã được đền đáp xứng đáng. Ăn xong, ông thoải mái ngả người trên ghế sofa, xoa bụng ợ một tiếng no nê.
-
-Nếu không có gì bất ngờ, món này sẽ lại xuất hiện trên bàn ăn tối nay, cho đến khi bảy phần thịt băm mà bố cô đã chuẩn bị được giải quyết hết.
-
-*
+***
 
 Buổi chiều.
 
-Hòa Ái Xích nhìn chằm chằm vào miếng thịt heo quay còn sót lại trong nhà, chìm vào suy tư.
+Hòa Ái Xích đăm chiêu nhìn miếng thịt heo quay còn lại trong nhà. Giờ cô đã là người đi làm rồi, lại còn là một người đang có ý định trở thành một chuyên gia ẩm thực. Không thể cứ chê bai cơm nhà dở tệ rồi chẳng làm gì, cứ thế mặc kệ được. Phải nghĩ cách gì đó thôi. Ít nhất cũng phải tìm cách biến miếng thịt heo quay này trở nên ngon hơn, chứ không thể ngày nào cũng chỉ hấp lên rồi chấm xì dầu.
 
-*Giờ mình đã đi làm, lại còn là người đang chuẩn bị trở thành một chuyên gia ẩm thực nữa chứ. Không thể chỉ biết chê bai đồ ăn ở nhà không ngon rồi nằm ườn ra mặc kệ được. Phải nghĩ cách gì đó mới được.*
+Con gà thì đã bị cha cô chặt miếng, ướp muối để thử làm món gà hấp muối, coi như hết cứu. May mà khi ăn món heo quay hấp, cha cô luôn ăn bao nhiêu hấp bấy nhiêu, nên phần thịt còn lại chưa qua hấp này trông vẫn còn có thể cứu vãn được.
 
-Ít nhất cũng phải tìm cách biến miếng heo quay này thành món gì đó ngon hơn, thay vì ngày nào cũng chỉ hấp lên rồi chấm xì dầu. Con gà kia đã bị bố cô chặt ra ướp muối để thử làm món gà hấp muối, coi như hết cứu. May mà bố cô có thói quen ăn bao nhiêu hấp bấy nhiêu, nên phần heo quay còn lại chưa qua chế biến này xem ra vẫn còn cơ hội cứu vãn.
+Cứu vãn thế nào đây?
 
-*Làm sao để cứu vãn đây?*
+Nghĩ vậy, Hòa Ái Xích bắt đầu đi đi lại lại trong nhà, từ cửa vào phòng khách, từ phòng khách đến phòng ăn, rồi từ phòng ăn ra hành lang, và rồi—
 
-Hòa Ái Xích vừa nghĩ vừa đi đi lại lại trong nhà, từ cửa vào phòng khách, từ phòng khách đến phòng ăn, rồi từ phòng ăn ra ngoài hành lang, rồi…
+"Con cứ đi qua đi lại làm gì thế, chóng hết cả mặt. Lại đây ngồi xem ti vi đi." Bà Chúc Văn Tâm đang xem ti vi, có người cứ lượn lờ bên cạnh khiến bà không tài nào tập trung được. "Đây, mẹ bóc cho quả quýt."
 
-“Con cứ đi qua đi lại ở đây làm gì thế? Mẹ chóng hết cả mặt. Ngồi xuống xem TV đi.” Chúc Văn Tâm đang xem TV, có người cứ lượn lờ bên cạnh khiến bà không tài nào tập trung được. “Đây, mẹ bóc quýt cho con này.”
+Hòa Ái Xích ngoan ngoãn ngồi xuống ghế sô pha, nhận lấy quả quýt đã được bóc sẵn rồi ăn. "Mẹ đang xem gì thế ạ?"
 
-Hòa Ái Xích ngoan ngoãn ngồi xuống sofa, nhận quả quýt đã được bóc sẵn rồi ăn. “Mẹ đang xem gì thế ạ?”
+Cô liếc nhìn màn hình, trên đó đang chiếu bộ phim tiên hiệp cổ trang đang rất nổi trong hai năm gần đây. Mẹ cô xem say sưa lắm. Nhắc đến chuyện này, bà ấy vui vẻ hẳn lên: "Chà, dạo này mẹ nghỉ hưu ở nhà ngày nào cũng xem ti vi, xem hết bộ này đến bộ khác. Phim bây giờ hay thật đấy con ạ! Con xem, mấy người này tu tiên mà cũng cầu kỳ ghê, có cả văn hóa cổ đại của nước mình..."
 
-Cô liếc nhìn TV, trên đó đang chiếu một bộ phim tiên hiệp cổ trang đang nổi đình nổi đám hai năm nay, mẹ cô xem say sưa. Nhắc tới chuyện này, bà vui vẻ hẳn lên: “Chà, dạo này mẹ nghỉ hưu ở nhà ngày nào cũng xem TV. Mẹ xem hết bộ này đến bộ khác, phim bây giờ hay thật đấy chứ? Con xem, mấy người này tu tiên cũng cầu kỳ ghê, đậm nét văn hóa cổ xưa của nước mình…”
+Hòa Ái Xích nghe mẹ nói bên tai mà nhớ lại chuyện ngày xưa.
 
-Hòa Ái Xích nghe mẹ nói bên tai mà nhớ lại chuyện ngày bé.
+Khác với sự tỉ mỉ của cha cô, mẹ cô là một người khá đoảng, và cũng không giỏi chăm sóc con cái. Dù sao đây cũng là lần đầu tiên bà ấy làm mẹ. Việc bà ấy nấu ăn không ngon, lại hay trộn lẫn đủ thứ nguyên liệu với nhau cho con ăn không có nghĩa là bà ấy không thương con gái. Sự kỳ vọng của bà dành cho con được thể hiện ở một phương diện khác.
 
-Khác với sự tỉ mỉ của bố, mẹ cô là người khá đoảng, không giỏi chăm sóc con cái trong sinh hoạt hàng ngày. Dù sao thì, đó cũng là lần đầu tiên bà làm mẹ. Việc bà nấu ăn không ngon, hay trộn lẫn những nguyên liệu linh tinh cho con ăn không có nghĩa là bà không thương con gái. Sự kỳ vọng của bà dành cho con cái được thể hiện ở một phương diện khác.
+Bà Chúc Văn Tâm là một người rất quyết liệt. Nghiêm khắc với người khác, và cũng tàn nhẫn với chính mình.
 
-Chúc Văn Tâm là một người rất nghiêm khắc. Nghiêm khắc với người khác, và cũng nghiêm khắc với chính mình.
+Hồi nhỏ, Hòa Ái Xích không được phép xem ti vi. Mỗi ngày đi học về, cô phải làm bài tập, phải học. Ngày ấy cô làm gì cũng lề mề, lại dễ phân tâm nên làm bài rất chậm, và bà Chúc Văn Tâm luôn ngồi bên cạnh kèm cặp. Bà ấy không phải kiểu phụ huynh nhốt con trong phòng học bài rồi mình thì ra phòng khách xem ti vi. Đã nói không cho Hòa Ái Xích xem, chính bà ấy cũng không xem.
 
-Hồi nhỏ, Hòa Ái Xích không được phép xem TV. Mỗi ngày đi học về, cô phải làm bài tập, phải học bài. Hồi đó cô rất lề mề, lại dễ mất tập trung, làm bài tập cực kỳ chậm, và Chúc Văn Tâm luôn ngồi bên cạnh kèm cặp.
+Khi đi làm, đồng nghiệp trong công ty bàn tán rôm rả về tình tiết bộ phim mới nhất, chỉ mình bà ấy là không biết gì, vì bà ấy có xem đâu. Mỗi ngày, khi Hòa Ái Xích ngồi học bài ở nhà, bà Chúc Văn Tâm lại ôm một cuốn sách để đọc. Không phải tiểu thuyết đâu nhé, mà là những cuốn sách dày cộp mà cô bé Hòa Ái Xích khi đó không tài nào hiểu nổi. Tóm lại là chúng trông rất phức tạp, và hồi đó không có cuốn nào cô đọc hiểu được.
 
-Bà không phải kiểu phụ huynh nhốt con trong phòng làm bài rồi mình ra phòng khách xem TV. Đã cấm Hòa Ái Xích xem, bà cũng không xem. Khi đi làm, đồng nghiệp trong công ty bàn tán về tình tiết bộ phim mới nhất, chỉ mình bà là không biết gì, vì bà có xem đâu. Mỗi ngày, khi Hòa Ái Xích làm bài tập, Chúc Văn Tâm sẽ ngồi bên cạnh đọc sách. Không phải tiểu thuyết đâu, mà là những cuốn sách dày cộp mà cô bé Hòa Ái Xích hồi đó không tài nào hiểu nổi. Tóm lại là trông rất phức tạp.
+Sự tự chủ đáng gờm của bà Chúc Văn Tâm khiến Hòa Ái Xích trong một thời gian dài đã đinh ninh rằng mẹ mình không thích xem ti vi. Mãi sau này lớn lên, khi cô không còn ở nhà nữa, cô mới phát hiện ra mẹ mình như thể được tháo bỏ phong ấn, xem hết bộ phim này đến bộ phim khác. Không kén chọn thể loại, không kén chọn nội dung, cứ có phim là xem. Xem ra những năm tháng trước đây, bà ấy đã phải kìm nén không ít.
 
-Sự tự chủ đáng gờm của Chúc Văn Tâm đã khiến Hòa Ái Xích trong một thời gian dài cứ ngỡ rằng mẹ mình không thích xem TV. Mãi sau này lớn lên, không còn ở nhà nữa, cô mới phát hiện ra mẹ mình cứ như thể được tháo bỏ phong ấn, xem hết bộ phim này đến bộ phim khác. Không kén chọn thể loại hay kịch bản, cứ có là xem. Xem ra những năm tháng trước đây đã kìm nén bà không ít.
+Ngày nhỏ mẹ đã cùng cô học bài, vậy thì giờ lớn rồi, cô sẽ ngồi xem ti vi cùng mẹ một lát.
 
-Vì ngày nhỏ mẹ đã ngồi cùng cô làm bài tập, nên khi lớn lên, cô có thể ngồi xem TV cùng mẹ một lúc.
+Hai mẹ con cùng xem ti vi, thỉnh thoảng lại trò chuyện vài câu, thời gian trôi qua thật nhanh. Mãi đến gần giờ cơm tối, Hòa Ái Xích mới sực nhớ ra chuyện miếng heo quay.
 
-Hai mẹ con cùng nhau xem TV, thỉnh thoảng trò chuyện vài câu, thời gian trôi qua rất nhanh. Mãi đến gần giờ cơm tối, Hòa Ái Xích mới sực nhớ ra chuyện miếng heo quay.
+Cha cô đã bắt đầu cắm cơm và đang lấy những món thừa của bữa trưa ra từng đĩa, chuẩn bị cho lên nồi hấp. Đầu tiên là đĩa gà luộc vừa mặn vừa cứng, tiếp theo là con cá rán ăn dở đã hơi tanh, và cuối cùng là miếng heo quay. Ông lấy thớt ra, đang chuẩn bị thái thì—
 
-Bố cô đã bắt đầu nấu cơm, và đang lấy những món ăn thừa của bữa trưa ra từng đĩa riêng để chuẩn bị đem hấp. Đầu tiên, ông bày ra đĩa thịt gà luộc vừa mặn vừa cứng, tiếp đến là con cá rán ăn dở đã hơi tanh, và cuối cùng là miếng heo quay. Ông lấy thớt ra, định bụng thái nó…
+"Chờ đã cha."
 
-“Khoan đã bố!”
+Nhìn cha mình thái thịt heo quay, Hòa Ái Xích chợt nhớ đến một món ăn nổi tiếng của Tứ Xuyên – thịt heo xào lại.
 
-Hòa Ái Xích nhìn bố mình thái thịt heo quay, trong đầu chợt lóe lên một món ăn nổi tiếng của Tứ Xuyên – thịt heo quay xào lại.
+Thịt heo xào lại, đúng như tên gọi của nó, là món ăn dùng thịt đã chín để chế biến lại lần nữa. Cách làm cụ thể ra sao thì Hòa Ái Xích chưa biết, nhưng lúc này trong tay cô chẳng phải đang có một miếng thịt đã nấu chín đó sao. Lại còn là thịt ba rọi loại ngon nữa chứ! Dù là thịt để qua đêm, nhưng điều đó không quan trọng.
 
-Đúng như tên gọi, món này chính là đem thịt đã chín nấu lại một lần nữa. Cách làm cụ thể ra sao thì Hòa Ái Xích chưa biết, nhưng trong tay cô lúc này chẳng phải đang có sẵn một miếng thịt đã chín đó sao? Lại còn là phần ba rọi ngon nhất! Dù là đồ thừa từ hôm qua, nhưng điều đó không quan trọng.
+Món thịt heo xào lại làm thế nào nhỉ? Thử tìm trên mạng xem sao.
 
-*Món thịt heo quay xào lại làm thế nào nhỉ?*
+Gia vị cần có gừng, lá tỏi tây, tỏi băm, tương đậu cay Pixian, một vài công thức còn cho thêm ớt và tiêu Tứ Xuyên. Những thứ khác thì không nói làm gì, chỉ riêng tương đậu cay Pixian là nhà cô không có, mà thứ này ở một thành phố nhỏ tại Quảng Đông cũng không dễ mua. Siêu thị gần nhà chắc chắn không có, phải đặt hàng qua mạng thôi. Đang dịp Tết nhất, mua hàng qua mạng đâu có tiện.
 
-Cô thử tìm kiếm trên mạng. Gia vị cần có gừng, tỏi tây, tỏi băm, tương đậu cay Pixian, một vài công thức còn cho thêm ớt và tiêu Tứ Xuyên.
-
-Những thứ khác thì dễ rồi, chỉ riêng tương đậu cay Pixian là nhà cô không có. Hơn nữa, thứ này ở một thành phố nhỏ tại Quảng Đông cũng không dễ mua, siêu thị gần nhà chắc chắn không có, phải đặt hàng trên mạng. Mà đang dịp Tết, mua hàng online cũng chẳng tiện.
-
-Tìm kiếm thêm, Hòa Ái Xích phát hiện món này thực ra không chỉ có phiên bản Tứ Xuyên, mà người dân ở các vùng khác cũng có cách chế biến riêng theo khẩu vị địa phương. Có thể tùy ý lựa chọn cho tương đậu, ớt và các gia vị khác.
+Tìm kiếm thêm, Hòa Ái Xích phát hiện ra món thịt heo xào lại không chỉ có phiên bản Tứ Xuyên, mà người dân ở các vùng khác cũng có cách chế biến theo khẩu vị địa phương. Tùy theo sở thích mà có thể cho tương đậu, ớt và các gia vị khác hay không.
 
 Hay là thử xem sao?
 
-Hòa Ái Xích chạy vào bếp: “Bố ơi, tối nay mình thử làm món thịt quay xào lại xem sao?”
+Hòa Ái Xích chạy vào bếp: "Cha ơi, tối nay nhà mình thử làm món thịt heo xào lại ăn xem sao?"
 
-“Thịt quay xào lại?” Ông Hòa Nhậm Sơn ngẫm nghĩ một lúc: “Bố không biết làm món đó.”
+"Thịt heo xào lại?" Ông Hòa Nhân Thiện nghĩ một lúc: "Cha không biết làm món đó."
 
-“Để con thử cho. Nhà mình có tỏi tây không ạ?”
+"Để con thử xem. Nhà mình có lá tỏi tây không ạ?"
 
-“Không có.”
+"Không có."
 
-“Tỏi ta thì sao?”
+"Vậy tỏi thì sao ạ?"
 
-“Có, hành gừng tỏi đều có đủ.”
+"Tỏi thì có, hành gừng tỏi đều có đủ." Ông Hòa Nhân Thiện thắc mắc: "Sao tự nhiên con lại muốn làm món thịt heo xào lại?"
 
-Ông Hòa Nhậm Sơn thắc mắc: “Sao tự nhiên con lại muốn làm món này?”
+"Vì con muốn xào miếng heo quay cha mua đó." Hòa Ái Xích chạy ra cửa xỏ giày, "Vậy con xuống siêu thị dưới khu nhà mình mua lá tỏi tây đây."
 
-“Vì con muốn xào miếng heo quay bố mua lên.” Hòa Ái Xích chạy ra cửa xỏ giày, “Vậy con xuống siêu thị dưới khu mua ít tỏi tây nhé.”
+...
 
-…
+Ngày Tết, siêu thị đóng cửa sớm, suýt chút nữa là Hòa Ái Xích không mua được lá tỏi tây.
 
-Ngày Tết siêu thị đóng cửa sớm, Hòa Ái Xích suýt nữa thì không mua được tỏi tây.
+Bình thường khi ở nhà, hầu như toàn cha mẹ cô nấu cơm. Đây là lần đầu tiên Hòa Ái Xích chính thức vào bếp xào nấu, nên cô khá hồi hộp.
 
-Thường ngày ở nhà, bố mẹ cô gần như luôn là người nấu nướng. Đây là lần đầu tiên Hòa Ái Xích chính thức vào bếp xào nấu, trong lòng không khỏi hồi hộp.
+Nhưng người lo lắng không phải cô, mà là cha mẹ cô. Hai ông bà thỉnh thoảng lại đi ngang qua cửa bếp, lén nhìn vào trong, vẻ mặt như thể sợ cô sẽ cho nổ tung cả gian bếp.
 
-Nhưng người lo lắng không phải là cô, mà là bố mẹ cô. Hai người họ thỉnh thoảng lại đi ngang qua cửa bếp, liếc vào trong một cái, vẻ mặt cứ như sợ cô sẽ làm nổ tung căn bếp vậy.
+Dĩ nhiên trước đây Hòa Ái Xích cũng từng nấu ăn, thậm chí ở nhà cô còn thường tự nấu mì, nấu bún ăn. Mẹ cô cũng đã ăn không ít những món mì bún, thậm chí cả cơm nắm sushi do con gái mình làm ngẫu hứng. Nhưng rõ ràng, việc nấu bún nấu mì, hay cuốn cơm nắm vẫn có chút khác biệt so với việc xào nấu một món ăn nghiêm chỉnh. Hai vợ chồng hoàn toàn không biết trình độ nấu nướng của con gái mình đến đâu.
 
-Tất nhiên trước đây Hòa Ái Xích cũng từng nấu ăn, thậm chí còn thường xuyên tự nấu mì, nấu phở ở nhà. Mẹ cô cũng không ít lần ăn những món mì hay cơm nắm sushi do con gái mình tự mày mò làm ra. Nhưng rõ ràng, nấu mì, nấu phở hay làm cơm nắm vẫn khác xa so với việc xào nấu một cách bài bản.
+Cũng phải thôi, vì kiến thức nấu ăn của Hòa Ái Xích không phải do họ dạy. Cha cô thì không có nhiều cơ hội để dạy, còn mẹ cô thì không dạy. Bà Chúc Văn Tâm vốn là người không thích nấu nướng. Những việc bà không thích thì cũng sẽ không để con gái mình làm. Vì vậy, từ nhỏ, mỗi khi Hòa Ái Xích tò mò nhìn mẹ nấu ăn, cô đều bị mẹ cô đuổi ra khỏi bếp. Trẻ con mà, khó tránh có chút nổi loạn, mẹ càng không cho xem, cô lại càng tò mò về chuyện bếp núc.
 
-Vợ chồng ông bà hoàn toàn không biết trình độ nấu nướng của con gái mình đến đâu. Cũng phải thôi, vì kiến thức nấu ăn của Hòa Ái Xích không phải do họ dạy. Bố cô thì không có nhiều cơ hội, còn mẹ cô thì không dạy. Chúc Văn Tâm là một người rất không thích nấu ăn. Việc gì bà không thích làm, bà cũng sẽ không để con gái mình làm. Vì vậy, từ nhỏ, mỗi khi Hòa Ái Xích tò mò xem mẹ nấu nướng, cô đều bị bà đuổi ra khỏi bếp.
-
-Trẻ con mà, ít nhiều cũng có chút nổi loạn. Mẹ càng không cho xem, cô lại càng tò mò về chuyện bếp núc. Đáng tiếc, sự tò mò này ở nhà luôn bị mẹ cô dập tắt không thương tiếc. Ngoại trừ những lúc nghỉ đông, nghỉ hè, nhân lúc mẹ đi làm mà lén xem vài chương trình nấu ăn, còn lại thì cô chẳng dám manh nha ý định gì.
+Tiếc là sự tò mò ấy đã bị mẹ cô kìm kẹp chặt cứng khi ở nhà. Trừ những lúc nghỉ đông, nghỉ hè, nhân lúc mẹ đi làm lén xem vài chương trình nấu ăn, còn lại thì nó không có cơ hội trỗi dậy.

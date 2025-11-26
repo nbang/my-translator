@@ -1,141 +1,159 @@
-# Chương 11
+### **Chương 11**
 
-Bức ảnh đầu tiên là một tô bún ốc bị vô số món ăn kèm che lấp đến mức không còn nhận ra hình dạng ban đầu. Gã quản lý cửa hàng vừa xem xong bài đánh giá đậu hũ thối Trần Ký, nên có thể nhận ra món đậu hũ trong bát rất giống với của tiệm đó. Bức ảnh thứ hai, một đôi đũa gắp lên sợi bún óng ánh dầu ớt, trông vô cùng hấp dẫn. Bức ảnh thứ ba, sợi bún và miếng đậu hũ thối được đặt gọn trong một chiếc thìa gỗ lớn, ống kính zoom cận cảnh, là một tấm ảnh macro. Bức ảnh thứ tư, miếng đậu hũ thối ngâm trong nước dùng bị đũa xé ra, có thể thấy bên trong ngấm đầy nước súp và củ cải muối.
+---
 
-"..."
+Bức ảnh đầu tiên chụp một tô bún ốc bị vô số món ăn kèm che lấp đến mức không nhận ra nổi. Vị quản lý vừa xem xong trang đánh giá của quán Đậu hũ thối Trần Ký, nên có thể nhận ra đậu hũ thối trong tô rất giống với của quán đó. Bức ảnh thứ hai, một đôi đũa gắp lên sợi bún đẫm dầu ớt đỏ au, trông đến là thèm. Bức thứ ba, sợi bún và đậu hũ thối được đặt trong một chiếc muỗng gỗ lớn, ống kính zoom lại gần hơn, là một bức ảnh chụp cận cảnh. Bức thứ tư, miếng đậu hũ thối ngâm trong nước dùng bị đũa tách ra, để lộ phần nước súp và củ cải muối ngập tràn bên trong.
 
-*Đúng là đồ thần kinh. Con nhỏ Tiểu Trì ăn không no này có vấn đề về vị giác à? Đến thứ này mà cũng ăn được?*
+*“...”*
 
-*Bún ốc với đậu hũ thối mà cũng kết hợp được, tài thật! Chả trách lại cho quán mình một cái đánh giá tệ. Đã không biết ăn thì đừng có ra ngoài đánh giá lung tung, được không? Đúng là phí thời gian.*
+*Đồ thần kinh.*
 
-Gã quản lý cửa hàng lẳng lặng và một miếng cơm, nhai đi nhai lại. Chẳng hiểu sao, anh ta bỗng thấy suất cơm nhân viên trong miệng mình nhạt nhẽo hẳn đi.
+*Cái cô "Tiểu Trì ăn không no" này có vấn đề về vị giác à? Đến thứ này mà cũng ăn được sao? Đậu hũ thối với bún ốc mà kết hợp với nhau thì có gì hay ho chứ, thảo nào lại đánh giá tệ cho quán mình. Không biết ăn thì đừng có đi lung tung đánh giá người khác được không? Đúng là làm mất thời gian mà.*
 
-*Vừa muốn ăn bún ốc, vừa muốn ăn đậu hũ thối, có lẽ có thể ngâm đậu hũ thối vào bún ốc rồi ăn cùng.*
+Vị quản lý lặng lẽ xúc một miếng cơm, nhai nhai mấy cái, chẳng hiểu sao bỗng dưng thấy bữa cơm nhân viên trong miệng nhạt nhẽo hẳn.
 
-Người quản lý cửa hàng, một kẻ chưa bao giờ nếm thử đậu hũ thối vị bún ốc, tiếp tục lướt xuống xem bài đăng.
+*Thèm ăn bún ốc, lại thèm cả đậu hũ thối, có lẽ ngâm đậu hũ thối vào bún ốc ăn chung cũng được.*
 
-Nội dung bài viết không dài, chỉ kể rằng hôm trước Tiểu Trì ăn không no mua quá nhiều đậu hũ thối, ăn không hết nên hôm sau nấu bún ốc đã cho vào thử, không ngờ lại ngon bất ngờ. Cuối cùng, cô còn hỏi: *Mọi người đã bao giờ ăn món nào có mùi đặc biệt hoặc kết hợp kỳ lạ chưa?*
+Chưa từng nếm thử món đậu hũ thối vị bún ốc bao giờ, anh ta tiếp tục lướt xuống xem bài đăng.
 
-Đây là một câu hỏi dẫn dắt bình luận rất điển hình. Gã quản lý bấm vào phần bình luận định nói gì đó thì chợt sực nhớ ra.
+Nội dung bài viết cũng không dài, chỉ kể lại chuyện hôm trước "Tiểu Trì ăn không no" mua quá nhiều đậu hũ thối nên ăn không hết, hôm sau nấu bún ốc bèn cho vào, không ngờ lại ngon bất ngờ. Cuối bài còn hỏi: Mọi người đã từng ăn món nào có mùi đặc biệt thối, hoặc kết hợp kỳ lạ chưa?
 
-*Rõ ràng là đang online, sao không trả lời tin nhắn của mình?*
+Đây là một kiểu câu hỏi dẫn dắt bình luận rất điển hình.
 
-Anh ta vội thoát khỏi bài đăng, nghĩ rằng đối phương chắc vẫn còn trực tuyến, bèn lập tức gõ vài dòng vào khung chat. Anh ta đã nói lời ngon tiếng ngọt, bóng gió mỉa mai, thậm chí gợi ý trả tiền để gỡ bài đánh giá, nhưng cô vẫn không hồi âm, dù cũng chẳng chặn anh ta.
+Vị quản lý bấm vào phần bình luận định trả lời gì đó thì chợt bừng tỉnh.
 
-Mãi cho đến khi anh ta nhắn: "Đậu hũ thối Trần Ký trả cho cô bao nhiêu? Hay là cô xem xét hợp tác với bên tôi thử xem?"
+*Ủa cô đang online mà? Sao không trả lời tin nhắn của tôi!*
 
-Bên kia mới trả lời: "Anh thật sự không thấy đồ ăn trong quán của mình dở à?"
+Anh ta vội thoát khỏi bài đăng, nghĩ rằng đối phương hẳn vẫn còn trực tuyến nên lập tức gõ thêm vài câu vào khung chat.
+
+Nói chung là lời ngon tiếng ngọt đã nói, châm biếm mỉa mai cũng xong, gợi ý chi tiền xóa đánh giá cũng đưa rồi, nhưng đối phương vẫn không thèm trả lời. Có điều, người nọ cũng không chặn anh ta.
+
+Mãi cho đến khi anh ta nhắn: "Đậu hũ thối Trần Ký trả cho cô bao nhiêu phí, hay là bên chúng tôi cũng liên hệ thử xem sao?"
+
+Bên kia mới trả lời: "Anh thật sự không cảm thấy đồ ăn trong quán của anh không ngon à?"
 
 Im lặng.
 
-Thực ra, đồ ăn trong quán có ngon hay không, gã quản lý tự biết rõ. Bát hoành thánh đó có vấn đề gì, anh ta cũng tường tận.
+Thực ra, đồ ăn trong quán có ngon hay không, trong lòng vị quản lý biết rõ. Tô hoành thánh đó rốt cuộc có vấn đề gì, anh ta cũng rất tường tận.
 
-Quán hoành thánh Lão Hải là một chuỗi cửa hàng, nhưng không phải chuỗi trực doanh mà là nhượng quyền. Bất kỳ ai có tiền đều có thể加盟 Lão Hải và mở một chi nhánh ở bất cứ đâu. Và ông chủ của anh ta, tình cờ lại là một người có chút tiền dư.
+Quán Hoành thánh Lão Hải là một chuỗi cửa hàng, nhưng không phải theo mô hình chuỗi trực doanh mà là cửa hàng nhượng quyền. Bất kỳ ai có tiền, chỉ cần tham gia nhượng quyền của Hoành thánh Lão Hải là đều có thể mở chi nhánh ở bất cứ đâu. Và ông chủ của anh ta, vừa hay lại là một người có chút tiền dư.
 
-Ông chủ có chút tiền dư, lại muốn dùng số tiền đó để kiếm nhiều tiền hơn, thế là chi nhánh hoành thánh Lão Hải này ra đời. Anh ta được tuyển vào làm quản lý từ ngày khai trương.
+Ông chủ có chút tiền dư, lại muốn dùng chút tiền đó để kiếm thêm, thế là chi nhánh Hoành thánh Lão Hải này ra đời. Anh ta là quản lý được tuyển vào từ lúc khai trương.
 
-Vốn dĩ đầu tư kinh doanh kiếm tiền là chuyện tốt, chỉ tiếc là ông chủ chẳng hiểu gì về ngành dịch vụ ăn uống, hầu như mọi việc trong quán đều giao cho quản lý, thỉnh thoảng mới chỉ tay năm ngón. Ông chủ có tiền thật, nhưng lại rất keo kiệt, mở quán này đã dùng đủ mọi cách để tiết kiệm chi phí. Ví dụ như để khách tự quét mã QR đặt món, mua nguyên liệu rẻ tiền hơn một chút, hoặc tuyển ít nhân viên hơn.
+Đầu tư kinh doanh kiếm tiền vốn là chuyện tốt, chỉ tiếc là bản thân ông chủ dường như chẳng hiểu biết gì về ngành ẩm thực, mọi việc trong quán gần như đều giao hết cho quản lý. Thỉnh thoảng cũng sẽ chỉ tay năm ngón.
 
-Nhân lực không đủ, vấn đề tự nhiên nảy sinh.
+Ông chủ thực ra cũng có chút tiền, nhưng lại rất keo kiệt. Lúc mở quán này, ông ta đã tận dụng mọi phương pháp có thể để tiết kiệm chi phí. Ví dụ như để khách tự quét mã đặt món, ví dụ như chi ít tiền hơn khi mua nguyên liệu, ví dụ như tuyển ít nhân viên hơn một chút.
 
-Là một quán ăn lấy hoành thánh làm món tủ, đáng lẽ nơi này phải tập trung vào hoành thánh tươi với đủ loại hương vị. Muốn hoành thánh tươi ngon, tốt nhất là phải gói tại chỗ. Nhưng nhân lực không đủ, lấy đâu ra thời gian mà gói, thế là ông chủ lại ra chỉ thị.
+Nhân lực không đủ thì tất nhiên sẽ phát sinh vấn đề.
 
-"Lúc quán vắng thì gói nhiều vào rồi cấp đông. Để một hai tuần vẫn ăn được."
+Là một cửa hàng lấy hoành thánh làm món tủ, đáng lẽ quán phải tập trung vào các loại hoành thánh tươi với nhiều hương vị khác nhau. Hoành thánh muốn tươi ngon thì tốt nhất là phải gói tại chỗ. Nhưng nhân lực không đủ, lấy đâu ra thời gian mà gói tại chỗ, thế là lúc này ông chủ liền ra chỉ đạo.
 
-Ban đầu, nhân trong quán cũng là thịt tươi mua mỗi ngày, tự dùng máy xay rồi trộn. Sau đó, ông chủ lại chẳng biết kiếm đâu ra một nhà cung cấp, giao thẳng thịt xay đến cho họ. Chẳng biết thứ thịt xay đó là phần nào của con lợn, chỉ biết có cả mỡ lẫn nạc, làm hoành thánh cũng tạm được.
+"Lúc quán vắng khách thì gói nhiều vào, đem đông lạnh, để một hai tuần vẫn ăn được."
 
-Còn vấn đề vỏ hoành thánh mà "Tiểu Trì ăn không no" đề cập trong bài đánh giá, anh ta cũng biết tỏng.
+Vốn dĩ nhân của quán cũng là thịt tươi mua mỗi ngày, tự dùng máy xay nhuyễn rồi mới trộn, sau này ông chủ lại chẳng biết kiếm đâu ra một nhà cung cấp, giao thẳng thịt băm cho họ. Chẳng biết thứ thịt băm đó là thịt ở bộ phận nào, chỉ biết có cả nạc lẫn mỡ, làm hoành thánh cũng tạm được.
 
-Bất kể là hoành thánh hay sủi cảo, vỏ tươi và vỏ đông lạnh ăn vào khác nhau một trời một vực. Vỏ tươi không dễ bị nát, ăn có độ dai, còn vỏ đã cấp đông, tệ nhất là vỏ đã rã đông, luộc lên sẽ nhũn ra rất nhanh. Cộng thêm việc quán thiếu nhân lực, món ăn đã làm xong rất dễ bị quên không mang ra cho khách, nên việc khách hàng có trải nghiệm tồi tệ cũng là chuyện bình thường.
+Còn về vấn đề vỏ hoành thánh mà "Tiểu Trì ăn không no" đã nói trong bài đánh giá, anh ta cũng biết rất rõ.
 
-Nói đi nói lại, vấn đề này vẫn phải đổ tại ông chủ. Vốn dĩ với số nhân lực ít ỏi, nếu chỉ làm hoành thánh và sủi cảo thì cũng vừa đủ. Nhưng ông chủ lại khăng khăng rằng nơi này gần một khu làng trong thành phố, có nhiều người ăn cơm hộp, nên đã thêm vào thực đơn vô số món ăn khác, khiến cho quán lúc nào cũng rối tung lên.
+Bất kể là hoành thánh hay sủi cảo, vỏ tươi và vỏ đông lạnh ăn vào cảm giác hoàn toàn khác nhau. Vỏ tươi không dễ bị nát, ăn có độ dai nhất định, còn vỏ đã qua đông lạnh, tệ nhất là loại đã rã đông rồi, luộc lên sẽ bị nhũn rất nhanh. Thêm vào đó, quán của họ không đủ nhân lực, rất dễ xảy ra tình trạng làm xong món mà quên bưng cho khách, nên việc có khách hàng trải nghiệm không tốt cũng là chuyện bình thường.
 
-Gã quản lý nhấn vào hộp thoại, định nói gì đó với "Tiểu Trì ăn không no" thì phát hiện tài khoản của mình đã bị khóa.
+Nói đi nói lại, vấn đề này vẫn phải trách ông chủ của họ.
 
-"Tiểu Trì ăn không no" đã khiếu nại anh ta.
+Vốn dĩ với số nhân lực ít ỏi của quán, nếu chỉ làm hoành thánh và sủi cảo thì cũng vừa đủ dùng. Nhưng ông chủ của họ cứ khăng khăng nói rằng nơi này gần khu ổ chuột trong thành phố, có nhiều người ăn cơm hộp, nên đã thêm rất nhiều món ăn vào thực đơn, dẫn đến việc họ rất dễ bị quá tải.
 
-Lý do là: Nghi ngờ bị chủ quán quấy rối.
+Vị quản lý bấm vào khung chat, định nói gì đó với "Tiểu Trì ăn không no" thì phát hiện tài khoản của mình đã bị khóa.
 
-*Nghèo khó nhưng không thể khuất phục! Muốn dùng tiền mua chuộc tôi à, mơ đi!*
+"Tiểu Trì ăn không no" đã khiếu nại anh ta với lý do: Nghi ngờ bị chủ quán quấy rối.
 
-*Mấy lời khen của tôi mà có thể mua được bằng tiền sao?!*
+---
 
-Một cú khiếu nại thẳng thừng đã tiễn anh ta về nơi bắt đầu.
+*“Uy vũ bất năng khuất! Muốn dùng tiền mua chuộc tôi á, mơ đi!”*
 
-Hòa Ái Xích tội nghiệp không thể nói rằng mình hoàn toàn không rung động trước lời đề nghị của gã quản lý. Mặc dù cô không biết đối phương sẵn sàng trả bao nhiêu để cô xóa một bài đánh giá, nhưng... cô liếc nhìn dòng thông báo hiện lên trên thanh trạng thái điện thoại:
+*“Đánh giá tốt của tôi mà có thể dùng tiền mua được sao?!”*
 
-[Người dùng vui lòng tuân thủ lương tâm, không nhận hối lộ để xóa đánh giá. Việc này sẽ ảnh hưởng đến uy tín và trải nghiệm của bạn.]
+Cô khiếu nại thẳng tay, tiễn anh ta về nơi đã đến.
 
-Lời nhắc đến từ Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng. Ý là không được kiếm tiền bẩn.
+Hòa Ái Xích nghèo thật đấy, nhưng không thể nói là cô hoàn toàn không rung động trước lời đề nghị của vị quản lý. Dù cô không biết đối phương sẵn sàng trả bao nhiêu tiền để cô xóa một bài đánh giá, nhưng...
 
-Không kiếm thì thôi, dù sao thì cô cũng không có ý định xóa bình luận đó.
+Cô liếc nhìn thông báo hiện lên trên thanh trạng thái điện thoại:
 
-Hôm đó tâm trạng Hòa Ái Xích rất tốt. Ngoài việc viết một bài đánh giá có cánh cho Đậu hũ thối Trần Ký, cô còn viết thêm một bài ghi chú và đính kèm liên kết đến trang của cửa hàng.
+[Người dùng vui lòng tuân thủ lương tâm, không nhận hối lộ riêng để xóa bình luận, việc này sẽ ảnh hưởng đến uy tín cũng như trải nghiệm của người dùng.]
 
-Không ngờ rằng, vì thông tin cửa hàng Đậu hũ thối Trần Ký là do cô đăng ký, nên từ bây giờ, 100 người dùng đầu tiên đến Trần Ký tiêu thụ thông qua trang cửa hàng trên Cộng Đồng Đánh Giá Độc Đáo có thể mang lại cho cô 5% Thu nhập Ảnh hưởng trên tổng số tiền họ chi tiêu!
+Thông báo đến từ Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng.
 
-Từ khách hàng thứ 101 đến 500, cô vẫn có thể nhận được 2% Thu nhập Ảnh hưởng.
+Ý là không cho phép kiếm tiền bẩn.
 
-Những khoản thu nhập này còn có thể cộng dồn với Thu nhập Ảnh hưởng từ các bài đánh giá hoặc ghi chú khác. Hiện tại, Đậu hũ thối Trần Ký chỉ có một bài đánh giá do cô viết. Tất cả người dùng xem trang của quán này chắc chắn sẽ thấy bài đánh giá của cô, điều này làm tăng đáng kể tầm ảnh hưởng và thu nhập của cô.
+Không kiếm thì thôi, dù sao thì ban đầu cô cũng chẳng có ý định xóa bài đánh giá.
 
-*Tuyệt vời! Trần Ký! Ha ha ha!*
+Hôm đó tâm trạng của Hòa Ái Xích rất tốt, ngoài việc viết đánh giá tích cực cho Đậu hũ thối Trần Ký, cô còn viết thêm một bài đăng và đính kèm liên kết đến cửa hàng của quán trong đó.
 
-*Chỉ cần tìm thêm vài quán nhỏ như thế này, đăng ký thông tin của họ lên Cộng Đồng Đánh Giá Độc Đáo, mình sẽ có một nguồn thu nhập ổn định và không cần phải đi làm nữa!*
+Bất ngờ chưa, vì thông tin cửa hàng của Đậu hũ thối Trần Ký là do cô đăng ký, nên kể từ bây giờ, 100 khách hàng đầu tiên đến quán Trần Ký thông qua trang cửa hàng trên Cộng Đồng Đánh Giá Độc Đáo đều có thể mang lại cho cô 5% Thu nhập Ảnh hưởng trên tổng số tiền họ chi tiêu!
 
-...
+Còn từ khách hàng thứ 101 đến 500, vẫn có thể mang lại cho cô 2% Thu nhập Ảnh hưởng trên tổng số tiền chi tiêu.
 
-Mặt trời khuất dần về phía tây, ánh nắng màu cam xuyên qua cửa kính của tòa nhà đối diện khu làng trong thành phố, rọi vào căn nhà trọ. Người thuê nhà hiện tại, Hòa Ái Xích, lại đang chật vật tìm việc.
+Những khoản thu nhập này còn có thể cộng dồn với Thu nhập Ảnh hưởng từ các bài đánh giá hoặc bài đăng khác.
 
-*Công việc vẫn là thứ đáng tin cậy nhất.*
+Hiện tại, Đậu hũ thối Trần Ký chỉ có một bài đánh giá duy nhất do cô viết, tất cả người dùng khi xem thông tin về quán này chắc chắn sẽ thấy bài đánh giá của cô, giúp Thu nhập Ảnh hưởng của cô tăng vọt.
 
-Cách đây không lâu, khi biết rằng việc đăng ký thông tin cửa hàng có thể mang lại thu nhập bổ sung, Hòa Ái Xích đã rất vui. Cô mở máy tính trên điện thoại và tính toán xem mình có thể kiếm được bao nhiêu từ việc đăng ký cửa hàng Đậu hũ thối Trần Ký.
+Trần Ký tuyệt quá! Ha ha ha!!
 
-"Nếu 100 người đều đặt một phần đậu hũ thối 10 tệ, thì 100 x 10 x 5% = 50 tệ."
-
-"..."
-
-"400 người tiếp theo đều gọi một phần 10 tệ, có lẽ sẽ có người ăn nhiều hơn, cứ cho là mỗi người gọi phần 15 tệ đi, 400 x 15 x 2% = 120 tệ."
-
-"..."
-
-*Tích tiểu thành đại...*
-
-*Thôi... đi làm cho lành.*
+Chỉ cần tìm thêm vài gánh hàng rong như thế này, đăng ký thông tin của họ lên Cộng Đồng Đánh Giá Độc Đáo, cô sẽ có một nguồn tiền vô tận, không cần phải đi làm nữa!
 
 ...
 
-Gã quản lý của quán hoành thánh Lão Hải rất bối rối. Anh ta không còn bận tâm đến chuyện của "Tiểu Trì ăn không no" nữa, bài đánh giá đó đang có chiều hướng phát triển rất kỳ lạ. Có người bắt đầu viết truyện cười trong khu bình luận, thậm chí có vẻ như một số người còn định vì bài đánh giá tệ đó mà đặc biệt đến thử xem hoành thánh của quán dở đến mức nào.
+Hoàng hôn buông xuống, ánh nắng màu cam xuyên qua cửa kính của tòa nhà đối diện khu ổ chuột, phản chiếu vào căn phòng trọ.
 
-Anh ta không thể hiểu nổi cư dân mạng thời nay đang nghĩ gì. Dù sao thì từ sáng đến giờ ông chủ cũng chưa gọi điện mắng mỏ, nên cũng không cần vội.
+Và người đang thuê căn phòng này, Hòa Ái Xích, lại đang cật lực tìm việc làm.
 
-Điều anh ta đang phân vân là một chuyện khác.
+*“Đi làm vẫn là chắc ăn nhất.”*
+
+Cách đây không lâu, khi biết việc đăng ký thông tin cửa hàng có thể kiếm thêm thu nhập, Hòa Ái Xích đã rất vui mừng. Cô cầm điện thoại mở máy tính, tính toán lợi nhuận có thể nhận được từ việc đăng ký quán Đậu hũ thối Trần Ký.
+
+*“Giả sử 100 người, mỗi người đều gọi một phần đậu hũ thối 10 tệ, 100 x 10 x 5% = 50.”*
+
+*“...”*
+
+*“400 người tiếp theo, mỗi người cũng gọi một phần 10 tệ, có thể có người ăn nhiều hơn, cứ cho là mọi người đều gọi phần 15 tệ đi, 400 x 15 x 2% = 120.”*
+
+*“...”*
+
+*“Tích tiểu thành đại...”*
+
+*“Thôi đi làm đi mình ơi.”*
+
+...
+
+Quản lý của quán Hoành thánh Lão Hải đang rất băn khoăn.
+
+Anh ta không còn bận tâm đến chuyện của "Tiểu Trì ăn không no" nữa, bài đánh giá đó đang lên men theo một chiều hướng khá kỳ quặc. Có người bắt đầu viết truyện cười trong phần bình luận, thậm chí có vẻ như có người còn định vì bài đánh giá tệ đó mà đặc biệt chạy đến thử xem hoành thánh của quán họ dở đến mức nào.
+
+Cư dân mạng khóa này rốt cuộc đang nghĩ gì, anh ta hoàn toàn không hiểu nổi. Dù sao thì từ sáng đến giờ ông chủ vẫn chưa gọi điện mắng anh ta, không cần phải vội.
+
+Điều anh ta băn khoăn là một chuyện khác.
 
 *Lát nữa tan làm có nên đi ăn đậu hũ thối không nhỉ?*
 
-Hình như quán đậu hũ thối mà "Tiểu Trì ăn không no" khen ngợi cũng ở gần đây. Hơn nữa, vào lúc anh ta tan làm lúc 10 giờ tối, quán đó cũng vừa hay dời từ nơi khác đến khu làng trong thành phố, ngay đối diện quán hoành thánh của anh ta. Kể cả qua đường, đi bộ cũng chưa đến 300 mét.
+Cái quán đậu hũ thối mà "Tiểu Trì ăn không no" khen nức nở hình như có vị trí ở gần đây. Hơn nữa, lúc anh ta tan làm vào 22:00 cũng vừa kịp lúc quán đó dời gánh hàng từ nơi khác đến khu ổ chuột bên kia đường đối diện quán hoành thánh. Tính cả qua đường thì đi bộ chưa đến ba trăm mét.
 
-Cuối cùng, sau một hồi đắn đo suy nghĩ, anh ta quyết định tan làm sẽ đến khu làng trong thành phố để tìm quán Đậu hũ thối Trần Ký.
+Cuối cùng, sau một hồi đắn đo suy nghĩ, vào giờ tan làm, anh ta quyết định lên đường đến khu ổ chuột tìm quán Đậu hũ thối Trần Ký này.
 
-*Chắc chắn là nhận tiền rồi mới viết lách kiểu đó. Con nhỏ này chuyên dùng đánh giá tệ để câu view, sau đó xây dựng hình tượng rồi bán đánh giá tốt!*
+*“Chắc chắn là nhận tiền rồi mới viết lách công phu như vậy. Người này chuyên dùng đánh giá tệ để câu view, sau đó xây dựng hình tượng rồi bán đánh giá tốt!”*
 
-*Món đậu hũ thối đó chắc chắn cũng thường thôi. Nhưng không thử thì sao biết nó thường đến mức nào.*
-
-Anh ta sẽ đích thân đến quán đậu hũ thối để "thử độc", vạch trần bộ mặt của cô ta.
+*Đậu hũ thối chắc chắn rất bình thường, không thử thì khó mà biết nó bình thường đến mức nào. Mình phải đích thân đến gánh đậu hũ thối lấy thân thử độc, vạch trần cô ta.*
 
 ...
 
-Gã quản lý cứ nghĩ loại quán vỉa hè này sẽ khó tìm, không ngờ vừa bước vào phố ẩm thực của khu làng, anh ta đã thấy ngay xe đẩy của Đậu hũ thối Trần Ký.
+Vị quản lý vốn nghĩ rằng loại gánh hàng rong này sẽ rất khó tìm, không ngờ vừa vào đến con phố ẩm thực trong khu ổ chuột, anh ta đã thấy ngay gánh Đậu hũ thối Trần Ký.
 
-Rất dễ tìm, quán nào có nhiều người xếp hàng nhất chính là Đậu hũ thối Trần Ký.
+Rất dễ tìm, quán đông người xếp hàng nhất chính là Đậu hũ thối Trần Ký.
 
-Sau 10 giờ tối là lúc đội quản lý đô thị tan làm, tất cả các hàng quán vỉa hè đều bắt đầu dọn ra. Đây cũng là thời điểm kinh doanh cao điểm của họ. Những thực khách thèm ăn đêm đã nín nhịn từ lâu, chỉ chờ quán mình thích mở cửa là lập tức đến xếp hàng gọi món. Khu làng lúc này náo nhiệt như một phiên chợ.
+Sau 10 giờ tối là lúc quản lý đô thị tan làm, tất cả các gánh hàng rong đều mở cửa, cũng là thời điểm buôn bán nhộn nhịp nhất. Những thực khách muốn ăn khuya đã nín nhịn từ lâu, chỉ chờ quán mình thích mở cửa là lập tức đến xếp hàng gọi món.
 
-Gã quản lý hòa vào dòng người, rồi lại do dự.
+Khu ổ chuột trong thành phố lúc này náo nhiệt như một phiên chợ, vị quản lý hòa vào dòng người, rồi lại do dự.
 
-Người xếp hàng ở Trần Ký đông thật, nhìn sơ qua cũng có ít nhất tám khách đang vây quanh xe đẩy, và khách mới vẫn liên tục kéo đến. Nhiều người đã đặt món từ sớm, đi dạo nơi khác rồi quay lại lấy đồ ăn sau. Thực sự không biết phía trước còn bao nhiêu khách đang đợi.
+Quán Trần Ký đúng là có rất nhiều người xếp hàng, ước chừng có ít nhất 8 khách hàng đang vây quanh chiếc xe đẩy, và khách mới vẫn liên tục kéo đến. Không ít khách đã đặt món từ sớm, chạy đi dạo nơi khác, đợi món xong mới quay lại lấy. Thực tế không biết phía trước còn bao nhiêu khách đang chờ.
 
-Thực ra, bên cạnh cũng có hai quầy bán đậu hũ thối khác, nhưng chẳng có mấy người mua. Chỉ cần anh ta muốn, có thể ăn ngay mà không cần xếp hàng.
+Thực ra bên cạnh cũng có hai gánh bán đậu hũ thối, nhưng rất ít người mua. Chỉ cần anh ta muốn, có thể ăn ngay mà không cần xếp hàng.
 
-Gã quản lý không phải là người thích xếp hàng, nhưng mục đích ban đầu của anh ta là đến vì Trần Ký. Sau một hồi đấu tranh tư tưởng, anh ta quyết định vẫn sẽ xếp hàng để ăn thử.
+Vị quản lý không phải là người thích xếp hàng, nhưng vốn dĩ anh ta đến đây vì quán Trần Ký. Sau một hồi đấu tranh tư tưởng, anh ta vẫn quyết định xếp hàng ăn thử.
 
-Trần Ký tuy chỉ là một quán nhỏ, người xếp hàng đông nhưng lại rất trật tự. Bởi vì vào giờ cao điểm, ông chủ đã thuê một người làm bán thời gian để giúp ghi lại món khách gọi và phụ trách đóng gói. Thậm chí trong tay người đó còn có một chiếc máy in hóa đơn mini. Những ai đã đặt món và thanh toán sẽ nhận được một phiếu lấy hàng.
+Quán Trần Ký tuy là một gánh hàng nhỏ, người xếp hàng đông, nhưng lại rất trật tự. Đó là vì vào giờ cao điểm, chủ quán đã thuê một người làm thêm, chuyên giúp ghi lại món khách gọi và phụ trách đóng gói. Thậm chí trong tay người đó còn có một chiếc máy in hóa đơn mini, đưa cho những khách đã đặt món và thanh toán một phiếu lấy đồ ăn.

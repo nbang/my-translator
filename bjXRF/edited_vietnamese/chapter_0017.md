@@ -1,143 +1,153 @@
-# Chương 17: Cửa Hàng Danh Vọng và Chuỗi Nhiệm Vụ
+### Chương 17
 
-[Hôm nay, mức độ ảnh hưởng tăng 505 điểm, thu nhập Ảnh hưởng là 22,86 tệ.]
+***
 
-Có lẽ vì cuối tuần, cộng thêm bài viết bỗng nổi như cồn, nên có thêm nhiều người theo dõi và vào trang cá nhân của cô để xem lại các bài đánh giá trước đây. Nhờ vậy, thu nhập Ảnh hưởng của cô cao hơn hẳn hôm qua.
+[Hôm nay tăng 505 điểm ảnh hưởng. Thu nhập Ảnh hưởng hôm nay: 22,86 tệ.]
 
-Sau khi đọc bài viết, có 13 người đã đến ăn Đậu phụ thối Trần Ký, 9 người đi ăn quẩy, thậm chí có 5 người tìm đến quán Mì dê Tuân Nghĩa Hoa Ký, và hai người ghé tiệm Hoành thánh Lão Hải.
+Có lẽ vì cuối tuần, lại thêm bài viết trước đó hơi nổi nên thu nhập cũng tăng lên. Vẫn có người theo dõi cô, vào trang cá nhân xem lại các bài đánh giá cũ, thế nên Thu nhập Ảnh hưởng hôm nay cao hơn hôm qua kha khá.
 
-Tuy nhiên, độ hot của một bài viết thường có giới hạn. Chỉ một hai ngày nữa, nhiệt độ sẽ giảm dần, nền tảng sẽ không tiếp tục đẩy bài viết này lên, và thu nhập sẽ lại bắt đầu đi xuống. Trừ khi cô viết thêm được thứ gì đó mới mẻ để thu hút sự chú ý.
+Sau khi đọc bài viết của cô, có 13 người đã đến ăn đậu phụ thối Trần Ký, 9 người đi ăn dầu cháo quẩy, thậm chí có 5 người tìm đến quán phở dê Hoa Ký Tuân Nghĩa, và hai người ghé tiệm hoành thánh Lão Hải.
 
-*Không thể nào.* Hòa Ái Xích lắc đầu. *Vốn liếng của mình cạn rồi.*
+Nhưng độ hot của một bài viết có giới hạn. Chắc chỉ một hai hôm nữa là nhiệt độ sẽ giảm, nền tảng sẽ không đề xuất mãi một bài, lúc đó thu nhập lại bắt đầu đi xuống. Trừ khi cô lại viết ra được thứ gì đó khác để thu hút sự quan tâm của mọi người.
 
-Với 707 điểm ảnh hưởng trong tay, Hòa Ái Xích xông vào Cửa hàng Danh vọng vừa được mở khóa, rồi lại thất vọng đóng nó lại.
+*Không thể nào.* Hòa Ái Xích lắc đầu. *Tiểu Hòa tài cạn rồi.*
 
-Tuy Cửa hàng Danh vọng đã mở, nhưng vật phẩm bên trong lại được phân chia theo cấp độ. Tổng điểm danh vọng hiện tại của cô là 139, thuộc cấp một, nên chỉ có thể mua những món đồ trong cửa hàng cấp một.
+Nắm trong tay 707 điểm ảnh hưởng, cô hùng hổ xông vào Cửa hàng Danh vọng vừa mở, rồi lại thất vọng đóng nó lại.
 
-Trong số các vật phẩm ở cửa hàng cấp một, thứ duy nhất cô có thể mua nổi là phiếu tăng lượt tiếp cận. 1 điểm ảnh hưởng có thể đổi lấy 1 lượt tiếp cận.
+Cửa hàng Danh vọng tuy đã mở, nhưng vật phẩm bên trong lại phân cấp để mua. Hiện tại tổng điểm danh vọng của cô là 139, thuộc cấp một, chỉ có thể mua đồ trong cửa hàng cấp một.
 
-Đây không phải là phiếu tăng dung lượng dữ liệu di động, mà là phiếu giúp nền tảng đẩy bài viết. Ví dụ, nếu bỏ ra 100 điểm ảnh hưởng để mua phiếu 100 lượt tiếp cận, cô có thể áp dụng nó cho bất kỳ bài viết hay đánh giá nào. Tác dụng của nó là đẩy bài viết đó đến trang chủ của 100 người dùng ngẫu nhiên trên nền tảng.
+Trong số các vật phẩm được bán ở cửa hàng cấp một, chỉ có duy nhất một thứ cô mua nổi, đó là phiếu tăng lượt tiếp cận.
 
-Thế nhưng, sau khi người ta thấy bài viết, họ có nhấp vào xem hay không lại là chuyện ngoài tầm kiểm soát của chiếc phiếu này. Đẩy bài viết đến cho 707 người thì có tác dụng gì chứ?
+1 điểm ảnh hưởng có thể đổi lấy 1 lượt tiếp cận.
 
-Những vật phẩm khác đều rất đắt đỏ, từ đồ ăn, thức uống, đồ dùng, thậm chí cả nội thất, phiếu sử dụng phòng khách sạn trong một ngày, và cả vé vào công viên giải trí. Theo tỷ giá quy đổi, khoảng 250 điểm ảnh hưởng mới đổi được 1 tệ.
+Đây không phải phiếu tăng dung lượng mạng di động, mà là phiếu tăng lượt đề xuất của nền tảng. Ví dụ, dùng 100 điểm ảnh hưởng để mua phiếu 100 lượt tiếp cận, có thể áp dụng cho bất kỳ bài viết hay đánh giá nào. Tác dụng của nó là đẩy bài viết hoặc đánh giá đó đến trang chủ của 100 người dùng ngẫu nhiên trên nền tảng.
 
-Ngoài ra còn có một kênh giảm giá chớp nhoáng, nhưng hiện tại vẫn trống không. Nghe nói phải đợi Cửa hàng Danh vọng cấp hai mở khóa thì sản phẩm mới được lên kệ. Nhưng để lên cấp hai, cô cần đến 1.000 điểm danh vọng. Ở giai đoạn từ cấp một đến cấp hai, mỗi một người hâm mộ tăng thêm trên nền tảng chỉ tương đương 1 điểm danh vọng. Con đường còn xa lắm.
+Nhưng sau khi người ta thấy bài viết, có nhấp vào xem hay không thì không nằm trong tầm kiểm soát của phiếu này nữa.
 
-Thất vọng rời khỏi Cửa hàng Danh vọng, Hòa Ái Xích mở chuỗi nhiệm vụ phụ vừa được cập nhật trong ứng dụng.
+*Đẩy bài viết cho 707 người xem thì có tác dụng gì chứ?*
 
-Chà, có tới bốn chuỗi nhiệm vụ phụ, tương ứng với bốn nền tảng: Tiểu Tử Thư, trạm P, tài khoản công chúng và Douyin.
+Còn những vật phẩm khác đều rất đắt, bao gồm đồ ăn, thức uống, đồ dùng, thậm chí có cả đồ nội thất, phiếu sử dụng phòng khách sạn trong một ngày, và cả vé vào công viên giải trí. Theo tỷ giá quy đổi, khoảng 250 điểm ảnh hưởng mới đổi được 1 tệ.
 
-Nhiệm vụ đầu tiên của Tiểu Tử Thư là đăng một bài viết dạng hình ảnh, văn bản hoặc video. Nếu đăng một bài hoàn toàn mới, tùy vào mức độ hoàn thành, cô sẽ nhận được phần thưởng tiền mặt từ 10 đến 100 tệ, 10 điểm kinh nghiệm và 100 phiếu tăng lượt tiếp cận. Cô cũng có thể chia sẻ thẳng bài viết từ Cộng Đồng Đánh Giá Độc Đáo qua, nhưng làm vậy sẽ không có thưởng tiền mặt, chỉ có 2 điểm kinh nghiệm, 100 phiếu tăng lượt tiếp cận và được chuyển sang nhiệm vụ tiếp theo.
+Ngoài ra còn có kênh giảm giá chớp nhoáng theo giờ, nhưng tạm thời chưa có gì, nghe nói phải đợi Cửa hàng Danh vọng cấp hai mở ra thì mới có sản phẩm. Nhưng để lên cấp hai cần 1000 điểm danh vọng, mà trong giai đoạn từ cấp một lên cấp hai, nền tảng chỉ tính 1 người hâm mộ mới bằng 1 điểm danh vọng. Con đường còn xa lắm.
 
-Nội dung và phần thưởng của nền tảng Douyin cũng tương tự, nhưng nếu đăng nội dung chủ yếu là hình ảnh, phần chữ cần được tinh giản hơn nữa.
+Thất vọng rời khỏi Cửa hàng Danh vọng, Hòa Ái Xích mở chuỗi nhiệm vụ phụ vừa được ứng dụng cập nhật.
 
-Trạm P thì khác. Nền tảng này yêu cầu tải lên một video liên quan đến ẩm thực, thời lượng không dưới ba phút, có thể là video trải nghiệm quán ăn hoặc video tự nấu nướng. Tùy vào điểm hoàn thành của video, phần thưởng sẽ là 100 đến 1.000 tệ tiền mặt, một lượt quay vòng quay may mắn, 20 điểm kinh nghiệm và 1.000 phiếu tăng lượt tiếp cận.
+Chà, có đến bốn chuỗi nhiệm vụ phụ, bao gồm bốn nền tảng: Tiểu Tử Thư, trang P, Tài khoản công khai và Đẩu Âm.
 
-Yêu cầu của tài khoản công chúng lại khác hẳn ba nền tảng còn lại. Cô cần đăng một bài viết dài có nhiều hình ảnh về trải nghiệm quán ăn, với ít nhất 9 tấm ảnh và 1.000 chữ. Sau khi hoàn thành, dựa vào chất lượng hình ảnh và nội dung, cô sẽ nhận được phần thưởng tiền mặt từ 100 đến 800 tệ, một lượt quay vòng quay may mắn, 20 điểm kinh nghiệm và 1.000 phiếu tăng lượt tiếp cận.
+Nhiệm vụ đầu tiên của Tiểu Tử Thư là đăng một bài viết hình ảnh hoặc video. Nếu đăng một bài hoàn toàn mới, tùy theo độ hoàn chỉnh, cô sẽ nhận được 10~100 tệ tiền thưởng, 10 điểm kinh nghiệm và một phiếu 100 lượt tiếp cận. Cô cũng có thể chia sẻ trực tiếp bài viết từ Cộng Đồng Đánh Giá Độc Đáo sang, nhưng làm vậy sẽ không có thưởng tiền mặt, chỉ được 2 điểm kinh nghiệm, một phiếu 100 lượt tiếp cận và chuyển sang quy trình nhiệm vụ tiếp theo.
 
-Cả bốn nhiệm vụ này sau khi nhận đều không có hình phạt nếu không hoàn thành, không phạt nếu từ bỏ, cũng không giới hạn thời gian. Phần thưởng cũng không quá hậu hĩnh, làm hay không đều được.
+Nền tảng Đẩu Âm có nội dung và phần thưởng nhiệm vụ tương tự. Tuy nhiên, nếu đăng nội dung chủ yếu là hình ảnh lên Đẩu Âm, phần chữ cần phải tinh giản hơn nữa mới dễ đăng.
+
+Trang P thì khác, yêu cầu phải tải lên video liên quan đến ẩm thực, thời lượng không dưới ba phút, có thể là video trải nghiệm quán hoặc video tự nấu ăn. Dựa vào điểm hoàn thiện của video, cô sẽ nhận được 100~1000 tệ tiền thưởng, một lượt quay vòng quay may mắn, 20 điểm kinh nghiệm và một phiếu 1000 lượt tiếp cận.
+
+Yêu cầu của Tài khoản công khai cũng không giống ba nền tảng kia, cần đăng một bài viết dài trải nghiệm quán với nhiều hình ảnh, không dưới 9 tấm ảnh và 1000 chữ. Sau khi hoàn thành, dựa vào chất lượng bài viết, cô sẽ nhận được 100~800 tệ tiền thưởng, một lượt quay vòng quay may mắn, 20 điểm kinh nghiệm và một phiếu 1000 lượt tiếp cận.
+
+Sau khi nhận bốn nhiệm vụ này, không hoàn thành cũng không bị phạt, bỏ cuộc cũng không sao, và không có giới hạn thời gian. Phần thưởng cũng không thể nói là hậu hĩnh, nhận hay không đều được.
 
 Nhưng!
 
-Nếu hoàn thành cả bốn nhiệm vụ trên, cô sẽ được một lượt quay vòng quay đặc biệt. Vòng quay này chỉ có ba vật phẩm: điện thoại di động flagship phiên bản cao cấp mới nhất, laptop cấu hình cao và máy tính bảng. Không có ô "mất lượt"!
+Nếu hoàn thành cả bốn nhiệm vụ trên, cô sẽ được một lần quay vòng quay đặc biệt. Vòng quay này chỉ có ba vật phẩm: điện thoại flagship cấu hình cao mẫu mới nhất, laptop cấu hình cao và máy tính bảng, không có ô "chúc bạn may mắn lần sau"!
 
-Món rẻ nhất chắc chắn là máy tính bảng, mà thứ đó ở bất kỳ ứng dụng nào khác cũng đã được xem là giải thưởng lớn rồi!
+Thứ rẻ nhất có lẽ là máy tính bảng, mà máy tính bảng ở bất kỳ chương trình bốc thăm của ứng dụng nào khác cũng được coi là giải thưởng lớn rồi!
 
-Đầu óc Hòa Ái Xích ong ong, cô bắt đầu tính toán xem nên làm nhiệm vụ nào trước, nhiệm vụ nào sau.
+Đầu óc Hòa Ái Xích ong ong, cô đăm chiêu tính toán xem nên làm nhiệm vụ nào trước.
 
-Tiểu Tử Thư và Douyin là dễ nhất. Chỉ cần chia sẻ lại bài viết đã đăng trên Cộng Đồng Đánh Giá Độc Đáo là xong. Viết một bài mới cũng không khó.
+Nhiệm vụ của Tiểu Tử Thư và Đẩu Âm là dễ nhất, chỉ cần chia sẻ lại bài viết đã đăng trên Cộng Đồng Đánh Giá Độc Đáo là xong, viết bài mới cũng không khó. Bài viết dài cho Tài khoản công khai cũng ổn, dù sao bài cô viết cho quán dầu cháo quẩy sữa đậu nành cũng đã 500 chữ. Chỉ cần thêm thắt chút nội dung, thổi vào đó chút cảm xúc, câu chuyện gì đó là đủ 1000 chữ. Ảnh thì càng đơn giản, cứ lấy điện thoại ra chụp lách tách là xong.
 
-Bài viết dài cho tài khoản công chúng cũng ổn. Bài cô viết cho quán sữa đậu nành và quẩy đã dài 500 chữ rồi. Chỉ cần thêm thắt chút nội dung, thổi vào đó một chút cảm xúc, một chút câu chuyện là có thể đủ 1.000 chữ. Ảnh thì càng đơn giản, cứ lấy điện thoại ra chụp là được.
+Khó nhất lại là quay video.
 
-Khó nhất chính là quay video.
+Đầu tiên là phải mua thiết bị, ví dụ như micro, chân máy chống rung. Quay xong còn phải dựng phim, chèn phụ đề, thậm chí là lồng tiếng hậu kỳ, những thứ này cô chưa từng làm bao giờ. Không biết thì có thể học, nhưng chiếc điện thoại bốn năm tuổi trong tay cô liệu có quay ra được video gì ra hồn không?
 
-Trước hết, cô phải mua thiết bị, như micro, chân máy chống rung... Quay xong còn phải biên tập, thêm phụ đề, thậm chí là lồng tiếng hậu kỳ. Những việc này cô chưa từng làm bao giờ. Không biết thì có thể học, nhưng chiếc điện thoại bốn năm tuổi trong tay cô liệu có quay ra được video chất lượng không?
-
-Mang theo nỗi băn khoăn về tương lai, Hòa Ái Xích nằm trên giường rồi thiếp đi lúc nào không hay.
+Mang theo nỗi băn khoăn về tương lai, Hòa Ái Xích nằm trên giường thiếp đi.
 
 ...
 
-Tối qua ứng dụng cập nhật quá nhiều nhiệm vụ, khiến não bộ Hòa Ái Xích phải hoạt động quá tải, cả đêm cô lại ngủ không ngon giấc.
+Tối qua ứng dụng cập nhật quá nhiều nhiệm vụ, khiến não Hòa Ái Xích hoạt động quá tải, lại một đêm mất ngủ.
 
 9 giờ 30 sáng, cô bị tiếng chuông điện thoại đánh thức.
 
 ---
 
-# Chương 18: Món Quà Bất Ngờ
+### Chương 18
 
-Hồi còn đi làm, nhận điện thoại vào sáng sớm thường chẳng có gì hay ho. Nhưng giờ cô đã thất nghiệp, người gọi cho cô vào giờ này ngoài mẹ ra thì chỉ có nhân viên giao hàng.
+Lúc còn đi làm, nhận điện thoại vào sáng sớm thường chẳng có gì tốt đẹp, nhưng bây giờ cô đang thất nghiệp, người gọi cho cô vào giờ này ngoài mẹ ra thì chỉ có nhân viên giao hàng.
 
-Đó là một cuộc gọi từ bên chuyển phát.
+Đây là một cuộc gọi từ bên chuyển phát.
 
-Hòa Ái Xích ngẩn người khi nhận kiện hàng.
+Hòa Ái Xích ngẩn người khi nhận được gói hàng.
 
-*Cái gì thế này?*
+*Cái gì đây?*
 
-Vì thất nghiệp, không có thu nhập nên cô đã không mua sắm trên mạng một thời gian rồi, ít nhất cũng phải mười ngày. Món đồ này từ đâu ra vậy?
+Vì không có việc làm, không có thu nhập, cô đã không mua sắm trên mạng một thời gian, ít nhất là trong mười ngày qua. Rốt cuộc thứ này là gì?
 
-Cô cẩn thận đọc tên người nhận trên phiếu giao hàng. Đúng là gửi cho cô. Hơn nữa còn dùng dịch vụ của Thuận Phong.
+Cô cẩn thận xem tên người nhận trên phiếu giao hàng, đúng là gửi cho cô. Hơn nữa, đơn vị vận chuyển còn là Thuấn Phong.
 
-Là một người đã ở ký túc xá bốn năm và thuê nhà trong một khu đô thị tự phát sau khi tốt nghiệp, Hòa Ái Xích đã rất lâu rồi không nhận được kiện hàng giao tận cửa. Thông thường, các đơn vị chuyển phát khác đều gửi hàng đến trạm dịch vụ, cô phải tự mình xuống lầu lấy.
+Là một người đã ở ký túc xá bốn năm, sau khi tốt nghiệp lại thuê nhà trong khu tập thể bình dân, Hòa Ái Xích đã rất lâu rồi không nhận được gói hàng giao tận cửa. Bình thường các hãng chuyển phát khác đều gửi ở trạm dịch vụ, cô phải tự mình xuống lầu lấy.
 
-Sau khi mở hộp, cô càng bối rối hơn.
+Sau khi mở gói hàng ra, cô càng ngơ ngác hơn.
 
 Bên trong là một chiếc máy ảnh không gương lật.
 
-Cô lên một nền tảng mua sắm tìm kiếm theo mã hiệu sản phẩm và chết lặng—
+Cô tìm kiếm theo mẫu mã trên một nền tảng mua sắm và biết được—
 
-“Mười lăm nghìn tệ!?”
+"Mười lăm ngàn tệ!?" Giọng cô lạc đi vì kinh ngạc!
 
-Cô kinh ngạc đến biến cả giọng!
+Chiếc máy ảnh trong tay bỗng trở nên phỏng tay, dù sao nó cũng đáng giá mười lăm ngàn tệ! Rốt cuộc là ai gửi cho cô, có phải ghi nhầm địa chỉ không?
 
-*Chiếc máy ảnh trên tay bỗng trở nên nóng rẫy. Rốt cuộc thì nó cũng đáng giá mười lăm nghìn tệ!*
+Hòa Ái Xích lướt qua toàn bộ danh bạ, định nhắn tin hỏi từng người xem có ai gửi đồ cho mình không.
 
-Ai đã gửi cho cô? Hay là họ ghi nhầm địa chỉ?
+Nhưng cô nhanh chóng sực tỉnh.
 
-Hòa Ái Xích lướt qua toàn bộ danh bạ, định nhắn tin hỏi từng người một xem có ai gửi đồ cho cô không. Nhưng rồi cô nhanh chóng sực tỉnh. Địa chỉ của cô chỉ có chị họ và bố mẹ biết, ngoài ra không ai hay cả. Cô đã hỏi cả ba người, và ai cũng nói không gửi gì cho cô, đây không phải món quà bất ngờ từ họ.
+Địa chỉ của cô chỉ có chị họ và bố mẹ ở nhà biết, ngoài ra không ai biết cả. Hỏi ba người họ thì ai cũng nói không gửi gì cho cô, đây không phải món quà bất ngờ mà họ dành cho cô.
 
-Lúc này, Hòa Ái Xích mới mơ hồ nhớ lại, khi hoàn thành chuỗi nhiệm vụ tân thủ trên Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng, hình như có một thông báo hiện lên nói rằng sẽ tặng cô một gói quà lớn dành cho người mới.
+Lúc này, Hòa Ái Xích mới mơ hồ nhớ ra, khi hoàn thành chuỗi nhiệm vụ tân thủ trên Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng, hình như có thông báo nhắc sẽ tặng cô một gói quà tân thủ.
 
-Lẽ nào là nó?
+Chẳng lẽ là thứ này?
 
-...Cô đã hỏi bộ phận chăm sóc khách hàng, và đúng là như vậy.
+...
 
-Ứng dụng này thật hào phóng. Chiếc máy ảnh không gương lật trị giá mười lăm nghìn tệ, nói tặng là tặng. Cô chỉ vừa mới hoàn thành ba chuỗi nhiệm vụ tân thủ mà thôi.
+Cô đã hỏi chăm sóc khách hàng, đúng là nó thật.
 
-Tuy nhiên, nhân viên chăm sóc khách hàng cũng nói rõ rằng chiếc máy ảnh này chỉ dành cho cô sử dụng, không được bán lại. Nếu chuyển nhượng cho người khác, 15.000 tệ sẽ bị trừ thẳng vào tài khoản của cô. Đây không phải là ví điện tử, mà là tất cả thu nhập cô nhận được qua ứng dụng trong tương lai, bao gồm cả tiền hoàn lại từ các bài đánh giá, đều sẽ bị khấu trừ cho đến khi trả hết khoản nợ 15.000 tệ.
+Ứng dụng này hào phóng thật, chiếc máy ảnh mười lăm ngàn tệ nói tặng là tặng, trong khi cô chỉ mới hoàn thành ba nhiệm vụ tân thủ mà thôi.
 
-Hòa Ái Xích có lý do để nghi ngờ rằng ứng dụng chê ảnh cô chụp bằng điện thoại quá tệ, nên mới đặc biệt tặng máy ảnh để cô chụp cho đẹp hơn.
+Tuy nhiên, nhân viên chăm sóc khách hàng cũng nói rõ, chiếc máy ảnh này chỉ mình cô được dùng, không được bán lại. Nếu chuyển nhượng cho người khác sử dụng, tài khoản của cô sẽ bị trừ thẳng mười lăm ngàn tệ.
 
-Được rồi!
+Đó không phải là ví điện tử của cô. Mà là mọi thu nhập cô có được từ ứng dụng trong tương lai, bao gồm cả tiền hoàn lại từ các bài đánh giá, đều sẽ bị khấu trừ cho đến khi trả hết khoản nợ mười lăm ngàn tệ.
 
-Tràn đầy năng lượng, Hòa Ái Xích xuống lầu, kịp mua một hộp bánh cuốn xốp giá 3 tệ trước khi người bán dọn hàng.
+Hòa Ái Xích có lý do để nghi ngờ rằng ứng dụng chê ảnh cô chụp bằng điện thoại trước đây quá tệ, nên mới đặc biệt tặng cô một chiếc máy ảnh để chụp cho tử tế.
 
-Vừa ăn, cô vừa suy nghĩ xem nên làm các nhiệm vụ phụ còn lại như thế nào. Cô vừa gắp một đũa bánh cuốn định đưa vào miệng thì bỗng khựng lại.
+Được thôi!
 
-Cô cúi xuống nhìn bữa sáng chỉ có giá 3 tệ trước mặt.
+Tràn đầy năng lượng, Hòa Ái Xích xuống lầu, kịp mua một phần bánh cuốn hộp xốp 3 tệ trước khi hàng dọn về. Vừa ăn cô vừa suy tính xem phải làm mấy nhiệm vụ phụ còn lại như thế nào.
 
-*Hay là... viết một bài về món bánh cuốn này nhỉ?*
+Vừa gắp một đũa bánh cuốn định đưa lên miệng, cô bỗng dừng lại.
 
-Nhắc đến bánh cuốn, người ta sẽ nghĩ ngay đến Quảng Đông. Quảng Đông là quê hương của món ăn này, nhưng Quảng Đông cũng rất rộng lớn. Ở mỗi thành phố, mỗi vùng miền, cách ăn bánh cuốn lại khác nhau, cách làm khác nhau, nước chấm khác nhau, thậm chí loại bột gạo dùng để tráng bánh cũng khác nhau.
+Cô cúi xuống nhìn bữa sáng chỉ 3 tệ trước mặt.
 
-Dụng cụ làm bánh thường là một chiếc tủ inox lớn, bên trong có nhiều ngăn kéo cũng bằng inox. Người bán sẽ kéo ngăn kéo ra, múc một muỗng bột gạo đổ lên trên, lắc đều cho bột dàn mỏng rồi đẩy ngăn kéo trở lại tủ. Hấp trên lửa lớn chừng một phút, lấy ra, dùng dao chuyên dụng cạo hai ba đường, rưới nước chấm lên là có thể ăn ngay. Ngoài ra còn có cách tráng bánh trên vải hoặc dùng mẹt, mỗi loại đều có nét đặc sắc riêng.
+*Viết một bài về bánh cuốn thì sao nhỉ?*
 
-Nhưng đa số các loại bánh cuốn đều được tráng mới từ bột gạo.
+Nhắc đến bánh cuốn, người ta sẽ nghĩ ngay đến Quảng Đông. Quảng Đông là nơi khai sinh ra món bánh cuốn, nhưng Quảng Đông cũng không hề nhỏ. Mỗi thành phố, mỗi vùng miền lại có cách ăn, cách làm, nước chấm khác nhau, thậm chí cả loại bột gạo dùng để tráng bánh cũng khác.
 
-Còn phần bánh cuốn trước mặt Hòa Ái Xích thì không phải vậy.
+Dụng cụ làm bánh phần lớn là một chiếc tủ inox lớn, bên trong có nhiều ngăn kéo cũng bằng inox. Người ta sẽ kéo ngăn kéo ra, múc một muỗng bột gạo đổ vào, láng cho đều rồi đẩy lại vào tủ. Hấp trên lửa lớn khoảng một phút, lấy ra dùng thanh gạt cạo vài đường, rưới nước chấm lên là có thể ăn. Cũng có nơi dùng vải hoặc mẹt để tráng, mỗi loại đều có nét đặc sắc riêng.
 
-Loại này được gọi là bánh cuốn hộp xốp. Đừng nói là tráng tại chỗ, nó thậm chí còn không phải làm thủ công, mà là hàng công xưởng, được làm ra từ máy tráng bánh cuốn.
+Nhưng đại đa số bánh cuốn đều được tráng mới từ bột gạo.
 
-Mỗi sáng sớm, nhà máy sẽ bắt đầu sản xuất loại bánh cuốn này. Người ta sẽ cho gạo đã ngâm vào máy xay để làm thành bột nước. Sau đó, bột được đổ vào máy, máy sẽ tự động hấp, tự động cắt, rồi qua băng chuyền, bánh cuốn sẽ được xếp ngay ngắn vào những thùng nhựa lớn đã được chuẩn bị sẵn. Bên ngoài thùng nhựa còn có một thùng xốp lớn để giữ nhiệt, tránh cho bánh cuốn bị nguội và mất ngon khi bán ra.
+Thế nhưng phần bánh cuốn trước mắt Hòa Ái Xích lại không phải loại đó.
 
-Những người bán hàng rong muốn bán loại bánh cuốn này phải đặt hàng với nhà máy từ hôm trước, đợi nhà máy giao hàng rồi mang về nơi mình định bán. Việc họ cần làm chỉ là chuẩn bị sẵn nước chấm, các loại đồ ăn kèm đặc trưng như củ cải khô, dưa muối, tương ớt. Sau đó chuẩn bị đủ hộp cơm và đũa dùng một lần.
+Loại bánh cuốn này được gọi là bánh cuốn hộp xốp, đừng nói là làm tại chỗ, thậm chí còn không phải làm thủ công, mà là hàng nhà máy.
 
-Trước giờ cao điểm, họ sẽ tìm một vị trí đắc địa, đông người qua lại và chờ đợi.
+Làm bằng máy.
 
-Khi đến giờ, khách hàng từ khắp nơi sẽ đổ về, tranh nhau mua những hộp bánh cuốn được cung cấp hàng ngày từ nhà máy.
+Mỗi sáng sớm, nhà máy sẽ bắt đầu sản xuất loại bánh cuốn này. Công nhân cho gạo đã ngâm vào máy xay để làm bột. Sau đó đổ bột vào máy, nó sẽ tự động hấp, tự động cắt, rồi qua băng chuyền, bánh sẽ được xếp vào những thùng nhựa lớn đã chuẩn bị sẵn. Bên ngoài thùng nhựa còn có một thùng xốp lớn để giữ nhiệt, tránh cho bánh bị nguội khi bán, ăn sẽ không ngon.
 
-Có phải vì nó ngon không? Nước chấm ăn cũng khá ổn, nhưng không đến mức khiến người ta phải tranh nhau mua.
+Những người bán hàng rong muốn bán loại bánh cuốn này phải đặt hàng từ nhà máy trước một ngày, đợi nhà máy giao hàng rồi mới mang về nơi định bán. Việc họ cần chuẩn bị là nấu sẵn nước chấm ăn kèm, chuẩn bị củ cải khô, dưa muối, tương ớt và các loại đồ ăn kèm khác. Sau đó là chuẩn bị đủ hộp và đũa dùng một lần.
 
-Nhưng nó rẻ, đủ no, lại tiện lợi mang đi.
+Trước giờ cao điểm đi làm, họ sẽ tìm một vị trí đông người qua lại, và chờ.
 
-Nghe nói những năm đầu, chỉ cần 0,5 tệ là đã có thể mua được một phần. Nếu mua phần 0,5 tệ, người ta sẽ cho vào một túi ni lông nhỏ, và khách sẽ dùng xiên tre để ăn.
+Đến giờ, khách hàng sẽ từ bốn phương tám hướng đổ về, tranh nhau mua những phần bánh cuốn được cung cấp từ nhà máy mỗi ngày.
+
+Là vì nó ngon ư?
+
+Nước chấm cũng tạm ổn, nhưng không đến mức ngon đến độ người ta phải tranh nhau mua.
+
+Nhưng nó rẻ, đủ no, lại tiện lợi mang đi. Nghe nói những năm đầu, chỉ cần 0,5 tệ là mua được một phần, nếu mua phần 0,5 tệ thì người ta sẽ cho vào một túi ni lông nhỏ, dùng xiên tre để ăn.

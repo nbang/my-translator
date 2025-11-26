@@ -1,103 +1,103 @@
-**Chương 29**
+Chương 29
 
 ---
 
-Nhiệm vụ hằng ngày cũng được cập nhật, bổ sung thêm hai nhiệm vụ hằng ngày và một nhiệm vụ tháng.
+Nhiệm vụ hằng ngày cũng được cập nhật, thêm hai nhiệm vụ mới và một nhiệm vụ tháng.
 
-[Nhiệm vụ hằng ngày 4: Đăng một bài viết dài dạng khám phá quán ăn (nhiều hình ảnh) lên tài khoản công khai. Yêu cầu: Tối thiểu 9 ảnh và 1.000 chữ. Phần thưởng sau khi hoàn thành sẽ dựa trên chất lượng bài viết: 100 ~ 800 tệ tiền mặt, một lượt quay vòng quay may mắn, 10 điểm kinh nghiệm và 300 phiếu tăng lưu lượng.]
+[Nhiệm vụ hằng ngày 4: Đăng một bài viết dài trải nghiệm quán ăn lên kênh, yêu cầu tối thiểu 9 ảnh và 1000 chữ. Sau khi hoàn thành, tùy theo chất lượng bài viết sẽ nhận thưởng tiền mặt từ 100~800, một lượt quay vòng quay may mắn, 10 điểm kinh nghiệm, 300 phiếu tăng lượt xem.]
 
-[Nhiệm vụ hằng ngày 5: Sản xuất một video về ẩm thực. Độ dài tối thiểu 3 phút, có thể là video khám phá quán ăn hoặc tự nấu nướng. Tùy theo mức độ hoàn thành, phần thưởng sẽ là 100 ~ 1.000 tệ tiền mặt, một lượt quay vòng quay may mắn, 10 điểm kinh nghiệm và 300 phiếu tăng lưu lượng.]
+[Nhiệm vụ hằng ngày 5: Sản xuất một video về ẩm thực, thời lượng tối thiểu 3 phút. Video có thể là trải nghiệm quán ăn hoặc tự nấu nướng. Tùy theo mức độ hoàn thiện của video sẽ nhận thưởng tiền mặt từ 100~1000, một lượt quay vòng quay may mắn, 10 điểm kinh nghiệm, 300 phiếu tăng lượt xem.]
 
-*Chẳng khác nào biến nhiệm vụ phụ tuyến trước đây thành nhiệm vụ hằng ngày, chỉ có điều điểm kinh nghiệm thưởng giảm từ 20 xuống 10, còn phiếu tăng lưu lượng thì từ 1000 giảm còn 300.*
+*Vậy là nhiệm vụ phụ tuyến trước đây đã được chuyển thành nhiệm vụ hằng ngày, nhưng điểm kinh nghiệm thưởng giảm từ 20 xuống còn 10, phiếu tăng lượt xem cũng giảm từ 1000 xuống 300.* Hai nhiệm vụ này quá tốn sức, dù phần thưởng hậu hĩnh nhưng ngày nào cũng làm thì chắc chắn không kham nổi. Nhưng phần thưởng tiền mặt này thật sự quá hấp dẫn.
 
-Hai nhiệm vụ này ngốn sức thật, tuy thưởng hậu hĩnh nhưng ngày nào cũng làm thì chắc kham không nổi. Nhưng phần thưởng tiền mặt đúng là hấp dẫn quá.
+Cô xem xét kỹ hơn nhiệm vụ tháng.
 
-Cô xem kỹ hơn nhiệm vụ tháng.
+*Tiền thuê nhà của mình có hy vọng rồi?*
 
-*Tiền nhà của mình có hy vọng rồi!*
+**Chương 30: Nhiệm vụ tháng**
 
-[Nhiệm vụ tháng: Trong mỗi tháng dương lịch, đăng tổng cộng 4 bài viết trên tài khoản công khai hoặc video ẩm thực trên kênh P (yêu cầu nội dung khác nhau), sẽ nhận được trợ cấp 35% tổng tiền thuê nhà của tháng đó. Giới hạn trợ cấp tối đa 2.000 tệ (Mức trợ cấp và tỷ lệ sẽ tăng theo cấp độ người dùng).]
+[Trong mỗi tháng dương lịch, nếu tích lũy đăng tải tổng cộng 4 bài viết trên kênh/video ẩm thực trên trang P (yêu cầu nội dung khác nhau), người dùng sẽ nhận được khoản trợ cấp bằng 35% tổng tiền thuê nhà của tháng đó, mức trợ cấp tối đa là 2000 (Số tiền và tỷ lệ trợ cấp sẽ tăng theo cấp bậc người dùng)]
 
-Ví dụ, tiền thuê nhà hiện tại của cô là 1.700 tệ một tháng. Sau khi hoàn thành nhiệm vụ, cô sẽ được trợ cấp 595 tệ, nghĩa là cô chỉ cần trả 1.105 tệ tiền nhà. Mức trợ cấp trần là 2.000 tệ, tức là cô có thể thuê một căn nhà giá lên tới 5.715 tệ để nhận được khoản trợ cấp 2.000 tệ, và thực trả 3.715 tệ. Nhưng nếu giá thuê cao hơn nữa, phần vượt quá sẽ không được trợ cấp.
+Ví dụ, tiền thuê nhà hiện tại của Hòa Ái Xích là 1700 mỗi tháng. Sau khi hoàn thành nhiệm vụ, cô sẽ nhận được khoản trợ cấp 595, nghĩa là cô chỉ cần trả 1105 tiền nhà. Mức trợ cấp tối đa là 2000, tức là cô có thể thuê một căn nhà giá cao nhất là 5715 để nhận được 2000 tiền trợ cấp, và thực trả 3715. Nhưng nếu tiền thuê cao hơn nữa, phần chênh lệch sẽ không được bù.
 
-*“Yêu cầu nội dung khác nhau” nghĩa là sao nhỉ?*
+*"Yêu cầu nội dung khác nhau" nghĩa là sao nhỉ?*
 
-Hòa Ái Xích suy nghĩ một lát rồi quyết định hỏi chăm sóc khách hàng để nắm rõ định nghĩa cụ thể.
+Hòa Ái Xích suy nghĩ một lát rồi quyết định hỏi bộ phận chăm sóc khách hàng để được giải thích cụ thể. Đọc xong hồi âm, cuối cùng cô cũng thông suốt các quy tắc.
 
-Xem xong phản hồi, cuối cùng cô cũng thông suốt quy tắc. Ví dụ như hôm qua, tuy cô đã đăng cả bài viết và video khám phá quán ăn lên tài khoản công khai và kênh P, nhưng vì đều dùng chung tư liệu về quán mì bò cay Hoa Ký nên trong nhiệm vụ tháng chỉ được tính là một lần. Nếu bài viết và video của cô sử dụng nội dung khác nhau thì sẽ được tính là hai lần. Chẳng hạn, mỗi tháng cô viết ba bài cho tài khoản công khai và làm một video ẩm thực thì cũng được xem là hoàn thành nhiệm vụ này.
+Chẳng hạn như hôm qua, tuy cô đã đăng cả bài viết lên kênh và video trải nghiệm lên trang P, nhưng vì cả hai đều dùng chung tư liệu về quán phở bò cừu Hoa Ký ở Tuân Nghĩa, nên trong nhiệm vụ tháng chỉ được tính là một lần. Nếu bài viết và video của cô sử dụng nội dung khác nhau, chúng sẽ được tính là hai lần. Ví dụ, nếu mỗi tháng cô viết ba bài trên kênh và làm một video ẩm thực thì cũng được tính là hoàn thành nhiệm vụ.
 
-Tuy nhiên, đây chỉ là cách tính của nhiệm vụ tháng. Nhiệm vụ hằng ngày về bài viết và video ẩm thực vẫn được tính riêng. Giống như hôm qua, khi đăng bài viết “Khám phá quán ăn: Quán mì bò cay T遵 Nghĩa từng khuấy đảo trào lưu mì bò cay ở Bành Thành” và video khám phá quán, cô có thể nhận thưởng lần lượt của Nhiệm vụ hằng ngày 4 và 5. Hệ thống sẽ không từ chối trả thưởng chỉ vì tư liệu giống nhau.
+Tuy nhiên, đây chỉ là cách tính của nhiệm vụ tháng. Nhiệm vụ hằng ngày cho bài viết trên kênh và video ẩm thực trên trang P vẫn được tính riêng. Giống như hôm qua, việc đăng bài viết "Trải nghiệm quán phở bò cừu Tuân Nghĩa từng làm mưa làm gió ở quận Đông, Bành Thành" và video trải nghiệm quán vẫn giúp cô nhận được phần thưởng của Nhiệm vụ 4 và Nhiệm vụ 5. Ứng dụng sẽ không từ chối trả thưởng chỉ vì chúng có cùng chất liệu.
 
-Nhìn vào tiến độ, cô thấy nhiệm vụ tháng này của mình đang là (1/4). Bài viết về quán mì bò cay T遵 Nghĩa đã được ghi nhận. Nhưng tháng này chẳng còn lại bao nhiêu ngày, muốn hoàn thành thêm ba lần nữa thì hơi vất vả.
+Nhìn vào tiến độ, cô thấy nhiệm vụ tháng này của mình đang là (1/4). Bài viết về quán phở bò cừu Tuân Nghĩa đã được ghi nhận. Nhưng tháng này không còn lại bao nhiêu ngày, muốn hoàn thành thêm ba lần nhiệm vụ nữa thì có chút vất vả.
 
-Gắn với nhiệm vụ tháng này, Hòa Ái Xích buộc phải đánh giá lại tình hình hiện tại của mình.
+Nghĩ đến nhiệm vụ tháng này, Hòa Ái Xích buộc phải xem xét lại tình hình hiện tại của mình.
 
-Thú thật, từ khi có Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng, suy nghĩ của cô về chuyện tìm việc và thuê nhà đã bắt đầu khác trước. Đặc biệt là sau hai ngày viết bài và làm video vừa qua, ý nghĩ này càng thêm mãnh liệt.
+Thật lòng mà nói, kể từ khi có Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng, suy nghĩ của cô về việc tìm việc và thuê nhà đã bắt đầu thay đổi. Đặc biệt là sau hai ngày viết lách và làm video vừa qua, ý nghĩ này càng trở nên mãnh liệt.
 
 Bởi vì cô đã có nhiều lựa chọn hơn.
 
-Vốn dĩ, cô chỉ có thể tìm việc trước, rồi dựa vào địa điểm làm việc để tìm nhà thuê. Chừng nào chưa tìm được việc, chuyện thuê nhà ở đâu vẫn là một vấn đề lớn, mà tiền trong tay cô cũng chẳng còn lại bao nhiêu. Cùng lắm thì chỉ có thể xin tiền gia đình, hoặc về thẳng quê nhà tìm việc, hay thi công chức.
+Trước đây, cô chỉ có thể tìm việc trước, rồi dựa vào địa điểm làm việc để tìm nhà thuê. Chừng nào chưa tìm được việc, chuyện thuê nhà ở đâu sẽ là một vấn đề lớn, mà tiền trong tay cô cũng chẳng còn lại bao nhiêu. Cùng lắm thì đành ngửa tay xin tiền gia đình, hoặc về quê ở, tìm việc tại quê nhà hay thi công chức.
 
-Nhưng bây giờ thì khác.
+Bây giờ thì khác.
 
-Tính từ lúc nhận được ứng dụng đến nay chưa đầy mười ngày, thông qua việc hoàn thành các loại nhiệm vụ, cô đã nhận được tổng cộng 2.703,14 tệ tiền thưởng (trong đó có 95,14 tệ là Thu nhập Ảnh hưởng). Một chiếc chảo sắt Chương Khâu trị giá 379 tệ treo trên sàn đồ cũ chưa bán được, một nồi chiên không dầu và một lò vi sóng để dùng riêng. Ba món này nếu tự mua cũng ngốn hơn một nghìn tệ. Ngoài ra còn có phiếu ăn tổng trị giá 600 tệ, trong tài khoản vẫn còn 400 tệ phiếu ăn thịt nướng Hàn Quốc chưa dùng đến. Đó là chưa kể chiếc máy ảnh trị giá mười lăm nghìn tệ và chiếc máy tính bảng vẫn chưa được giao tới.
+Tính từ lúc nhận được ứng dụng đến nay chưa đầy mười ngày. Thông qua việc hoàn thành các nhiệm vụ, cô đã tích lũy được 2703,14 tệ tiền thưởng (trong đó 95,14 tệ là Thu nhập Ảnh hưởng). Một chiếc chảo gang Chương Khâu trị giá 379 tệ đăng trên sàn đồ cũ không bán được, một nồi chiên không dầu và một lò vi sóng định dùng cho bản thân, ba món này nếu tự mua cũng tốn hơn một nghìn tệ. Ngoài ra còn có tổng cộng 600 tệ phiếu ăn, hiện trong tài khoản vẫn còn 400 tệ phiếu thịt nướng Hàn Quốc chưa dùng. Đó là chưa kể chiếc máy ảnh trị giá mười lăm nghìn tệ và chiếc máy tính bảng chưa giao tới.
 
-Tính ra, thu nhập của cô trong khoảng thời gian này còn nhiều hơn cả lúc đi làm trước đây. Hồi đó tuy lương tháng ổn định, nhưng tiền vừa về tài khoản là đã phải trích ngay một phần ra trả tiền nhà. Thêm nữa, cô không có thói quen tự nấu cơm mang đi làm, ở công ty toàn đặt đồ ăn ngoài, mỗi tháng tiền ăn dù tiết kiệm thế nào cũng tốn mất 1.500 tệ.
+Tính ra, thu nhập của cô trong khoảng thời gian này còn nhiều hơn cả lúc đi làm trước đây. Hồi đó, dù có lương cố định nhưng tiền vừa về tay là đã phải trích một phần trả tiền nhà. Thêm vào đó, cô không có thói quen tự nấu cơm mang đi làm, nên ở công ty toàn gọi đồ ăn ngoài, chi phí ăn uống mỗi tháng dù tiết kiệm thế nào cũng ngốn hết 1500 tệ. Ăn và ở là hai khoản chi lớn nhất. Thỉnh thoảng mua sắm quần áo, mỹ phẩm, trả tiền điện nước, điện thoại, rồi mỗi tháng tụ tập bạn bè ít nhất một hai lần là tiền chẳng còn lại bao nhiêu.
 
-Ăn và ở đã là hai khoản chi lớn nhất. Thỉnh thoảng mua sắm quần áo, đồ dưỡng da, trả tiền điện nước, điện thoại, rồi mỗi tháng tụ tập bạn bè ít nhất một hai lần là chẳng còn lại bao nhiêu.
+Dĩ nhiên, cô cũng có thể tìm một công việc đãi ngộ tốt hơn, lương cao hơn thì sẽ không phải lo lắng về những vấn đề này. Nhưng…
 
-Dĩ nhiên, cô cũng có thể tìm một công việc đãi ngộ tốt hơn, lương cao hơn thì sẽ không phải lo lắng những vấn đề này.
+"Haiz..."
 
-Nhưng…
+*Bị từ chối nhiều quá cũng khiến người ta sinh lòng hoài nghi bản thân.*
 
-*Haiz…*
+Hàng trăm bộ hồ sơ gửi đi đều bặt vô âm tín, tâm lý của cô từ chỗ tin rằng mình sẽ tìm được việc tốt dần chuyển sang mất hết tự tin. Cuối cùng, thậm chí khi thấy yêu cầu của vài công ty xuất sắc, cô còn không dám nộp hồ sơ.
 
-*Bị từ chối nhiều quá, người ta sẽ đâm ra hoài nghi chính mình.* Mấy trăm bộ hồ sơ gửi đi đều chìm vào im lặng, tâm lý của cô từ chỗ tin rằng mình sẽ tìm được việc tốt dần chuyển sang mất tự tin. Đến cuối cùng, thậm chí khi thấy yêu cầu của vài công ty xuất sắc, cô còn chẳng dám nộp hồ sơ. Cô sẽ tự hỏi mình có xứng không? Hoặc là công ty này có phải lừa đảo không? Giống như một người xui xẻo liên tục, họ sẽ bắt đầu không tin rằng may mắn có thể đến với mình.
+*Mình có xứng không?* Cô tự hỏi. *Hay công ty này là lừa đảo?*
 
-May thay, cô là người may mắn đó, cô đã nhận được cái ứng dụng kỳ lạ này.
+Giống như một người gặp xui xẻo liên tục, họ sẽ bắt đầu không tin rằng may mắn có thể đến với mình.
 
-Nếu từ giờ cô chuyển hướng làm một blogger ẩm thực, mỗi tháng chỉ cần hoàn thành nhiệm vụ cơ bản là đã có một khoản tiền thưởng và trợ cấp nhà ở nhất định. Chuyện ăn uống thì ứng dụng có thể hoàn tiền cho một bữa. Hai bữa còn lại cô có thể tiết kiệm một chút, tự nấu ở nhà, tiện thể rèn luyện độ nhạy cảm cơ bản của một blogger ẩm thực đối với nguyên liệu.
+May thay, cô là người may mắn đó, cô đã có được ứng dụng kỳ lạ này.
 
-Chuyện thuê nhà cũng có thể linh hoạt hơn bây giờ. Công ty cũ của cô nằm ở trung tâm thành phố, nên thuê một phòng đơn trong khu làng đô thị cũng đã tốn 1.700 tệ. Nếu chọn làm blogger ẩm thực, cô có thể ở một nơi xa hơn một chút, miễn là gần tàu điện ngầm. Khi ra ngoài khám phá các quán ăn, cô có thể tránh giờ cao điểm, tàu điện ngầm sẽ không đông đúc. Như vậy, với cùng một mức giá, cô có thể thuê được một căn nhà lớn hơn, mới hơn, trang trí đẹp hơn và có cả tủ lạnh.
+Nếu bây giờ cô chuyển hướng làm một blogger ẩm thực, chỉ cần hoàn thành các nhiệm vụ cơ bản mỗi tháng là đã có một khoản tiền thưởng và trợ cấp nhà ở nhất định. Về phần ăn uống, ứng dụng có thể bao tiêu một bữa. Hai bữa còn lại cô có thể tiết kiệm bằng cách tự nấu ở nhà, tiện thể rèn luyện sự nhạy bén cơ bản của một blogger ẩm thực đối với nguyên liệu. Chuyện thuê nhà cũng có thể linh hoạt hơn.
 
-Ăn ở không lo, sau này nếu làm tốt còn có thể có những nguồn thu nhập khác. Hơn nữa, cô không hề bài xích việc viết lách hay làm video về ẩm thực, ngược lại còn thấy khá thú vị. Lạ thật, cô vốn là một người kén ăn cơ mà.
+Vì công ty cũ của cô nằm ở trung tâm thành phố, nên thuê một phòng trọ trong khu làng đô thị đã tốn 1700 tệ. Nếu chọn làm blogger ẩm thực, cô có thể ở một nơi xa hơn một chút, miễn là gần ga tàu điện ngầm. Khi ra ngoài trải nghiệm quán ăn, cô có thể tránh giờ cao điểm, tàu điện ngầm cũng không đông đúc. Như vậy, với cùng một số tiền, cô có thể thuê được một căn nhà lớn hơn, mới hơn, trang trí đẹp hơn và có cả tủ lạnh.
 
-Không nghĩ nữa, cô trùm chăn đi ngủ.
+Ăn ở không phải lo, nếu sau này làm tốt còn có thể có thêm thu nhập khác. Hơn nữa, cô không hề ghét việc viết bài hay làm video về ẩm thực, ngược lại còn thấy khá thú vị.
+
+*Lạ thật, mình vốn là một người kén ăn cơ mà.*
+
+Thôi không nghĩ nữa, trùm chăn đi ngủ.
 
 …
 
-Ngày hôm sau, Hòa Ái Xích, người đã quyết định thử sức với vai trò blogger ẩm thực, ngừng gửi hồ sơ xin việc và bắt đầu tìm nhà mới.
+Ngày hôm sau, Hòa Ái Xích quyết định thử sức với vai trò blogger ẩm thực. Cô không gửi hồ sơ xin việc nữa mà bắt đầu tìm nhà mới.
 
-Lần này, phạm vi tìm nhà của cô không còn giới hạn ở khu trung tâm thành phố với dày đặc các tòa nhà văn phòng, mà mở rộng ra các khu vực xa hơn. Tốt nhất là khu đó phải có nhiều món ngon, giao thông thuận tiện và khu thương mại đầy đủ.
+Lần này, cô không còn giới hạn phạm vi tìm kiếm ở trung tâm thành phố, nơi tập trung nhiều tòa nhà văn phòng, mà tìm đến những khu vực xa hơn. Tốt nhất là khu vực đó có nhiều hàng quán ngon, giao thông thuận tiện và đầy đủ các khu thương mại. Hơn nữa, Hòa Ái Xích vẫn chưa quyết định được sẽ tập trung vào hướng nào, không rõ mình giỏi mảng nào, nên cũng muốn thử làm video tự nấu ăn. Vì vậy, căn nhà mới cần có một gian bếp trông tươm tất, ánh sáng tốt để khi quay phim ban ngày không cần dùng đèn trợ sáng, vì ánh nắng mặt trời chính là đèn bổ sung toàn phổ tốt nhất.
 
-Hơn nữa, Hòa Ái Xích vẫn chưa quyết định sẽ tập trung vào hướng nào, không rõ mình giỏi mảng nào, nên cũng muốn thử làm các video tự mình nấu nướng. Vì vậy, căn nhà này cần có một gian bếp trông tươm tất, ánh sáng cũng phải tốt để ban ngày quay phim bằng máy ảnh không cần thêm đèn trợ sáng. Ánh sáng mặt trời chính là đèn bổ sung ánh sáng toàn phổ tốt nhất.
+Khi tìm nhà theo tiêu chuẩn này, cô mới nhận ra mình đã nghĩ quá đơn giản.
 
-Khi tìm nhà theo tiêu chuẩn này, cô mới nhận ra suy nghĩ trước đây của mình có phần đơn giản.
+Vừa xem xong ba căn nhà khác nhau, Hòa Ái Xích đứng giữa đường phố mà lòng đầy hoang mang.
 
-Sau khi xem liền ba căn nhà khác nhau, Hòa Ái Xích đứng bơ vơ giữa đường.
+Nhà ở Bành Thành đắt đỏ thật. Không chỉ trung tâm thành phố, mà các khu vực khác cũng vậy. Nơi này phát triển quá nhanh, các quận khác thực chất cũng đã sớm hình thành những khu thương mại và trung tâm của riêng mình. Giá thuê đúng là rẻ hơn quận Đông, nhưng không rẻ hơn nhiều, không thể nào như cô dự tính ban đầu là có thể thuê được căn nhà ưng ý với giá thấp.
 
-Nhà ở Bành Thành đắt thật. Không chỉ trung tâm thành phố đắt, mà các khu khác cũng đắt. Nơi này phát triển quá nhanh, các quận khác từ lâu đã có khu thương mại và trung tâm quận của riêng mình. Giá thuê nhà đúng là rẻ hơn quận Đông Thành, nhưng cũng không rẻ hơn là bao. Cô không thể thuê được căn nhà mình muốn với giá thấp như dự tính ban đầu.
+Ví dụ, căn phòng trọ 1700 tệ cô thuê trước đây, nếu ở quận Hoa Hồng, cách quận Đông một giờ đi tàu điện ngầm, giá sẽ là 1100 tệ, trông cũng sạch sẽ và mới hơn. Nhưng với 1100 tệ ở một số thành phố khác, người ta thậm chí có thể thuê một căn hộ hai phòng ngủ một phòng khách trong khu dân cư có cả sân vườn, trải nghiệm sống tốt hơn không biết bao nhiêu lần.
 
-Ví dụ, căn phòng đơn 1.700 tệ trong làng đô thị mà cô đang thuê, nếu ở quận Hoa Hồng, cách quận Đông Thành một tiếng đi tàu điện ngầm, thì giá là 1.100 tệ, nhưng trông sẽ sạch sẽ và mới hơn. Thế nhưng 1.100 tệ ở một số thành phố khác thậm chí có thể thuê được một căn hộ hai phòng ngủ một phòng khách trong khu dân cư có sân vườn, trải nghiệm sống tốt hơn không biết bao nhiêu lần.
+Vậy tại sao cô không đến thành phố khác? Hoặc về thẳng quê nhà cho tiết kiệm?
 
-Vậy tại sao cô không đến các thành phố khác? Thậm chí về thẳng quê nhà còn tiết kiệm được khối tiền.
+Đầu óc Hòa Ái Xích rối như tơ vò, không nghĩ ra được lối đi cho mình.
 
-Đầu óc rối như tơ vò, Hòa Ái Xích đi lang thang không mục đích. Cuối cùng, cô rẽ bừa vào một trung tâm thương mại ven đường, ăn một suất cơm sườn heo đút lò giá 48 tệ, bao gồm một phần cơm và một chén súp.
+Cuối cùng, cô bước bừa vào một trung tâm thương mại ven đường, gọi một suất cơm đút lò sườn heo giá 48 tệ, bao gồm một phần cơm và một phần súp trong ngày. Nhà hàng trong trung tâm thương mại có không gian và dịch vụ tốt, hương vị ổn, không quá xuất sắc nhưng có thể cho bốn sao. Tiếc là không có gì đặc sắc, rất khó để viết một bài review hay làm video. Tuy nhiên, có thể thử viết một bài ghi chú ăn uống hằng ngày. Dù sao thì ánh sáng và chén đĩa ở đây cũng đẹp, cộng thêm vẻ ngoài vốn đã rất "lừa tình" của món cơm đút lò, qua lăng kính của chiếc máy ảnh trị giá mười lăm nghìn tệ, ảnh chụp trông vẫn rất bắt mắt.
 
-Nhà hàng trong trung tâm thương mại có không gian và dịch vụ tốt, hương vị cũng ổn, có thể cho bốn sao. Tiếc là không có gì đặc sắc, rất khó để dùng nó viết bài hay làm video. Thay vào đó, có thể thử viết một bài ghi chú ăn uống hằng ngày. Dù sao thì ánh sáng và bộ đồ ăn ở đây đều đẹp, bản thân món cơm đút lò trông cũng rất bắt mắt, lại thêm hiệu ứng làm đẹp của chiếc máy ảnh mười lăm nghìn tệ, ảnh chụp ra vẫn rất ổn.
+Ăn trưa xong, cô ngồi ngay tại quán hoàn thành nhiệm vụ đánh giá, nhận lại 48 tệ tiền ăn, rồi lại tiếp tục xem nhà. Dù sao đi tàu điện ngầm đến đây cũng không dễ dàng gì, dù chưa quyết được cũng phải xem thêm vài nơi cho bõ công. Thế là cô cứ đi theo môi giới lòng vòng khắp quận Hoa Hồng.
 
-Ăn trưa xong, cô ngồi ngay tại quán hoàn thành nhiệm vụ đánh giá. Sau khi nhận được 48 tệ tiền hoàn trả, cô lại tiếp tục đi xem nhà. Dù gì cũng mất công đi tàu điện ngầm đến đây, dù chưa quyết được cũng phải xem thêm vài nơi cho bõ công.
+Mãi đến gần năm giờ chiều, cô mới ngừng xem nhà, bắt xe đến quận Thanh Điền, nơi chị họ Lâm Phỉ Hạnh ở, để chuẩn bị hoàn thành nhiệm vụ đánh giá món mới của quán Cá Nướng Hỏa Lò.
 
-Thế là cô lại theo chân môi giới đi khắp quận Hoa Hồng.
+Cá Nướng Hỏa Lò là một chuỗi nhà hàng khá nổi, cũng có chi nhánh gần công ty của Lâm Phỉ Hạnh.
 
-Mãi đến gần năm giờ chiều, cô mới ngừng xem nhà, lên đường đến quận Thanh Điền, nơi chị họ Lâm Phi Tinh đang ở, để chuẩn bị cho nhiệm vụ đánh giá sản phẩm mới của quán cá nướng Hỏa Lô.
+Ngồi trên chuyến tàu điện ngầm vắng hoe lúc năm giờ chiều, Hòa Ái Xích nhắn tin cho chị họ:
 
-Cá nướng Hỏa Lô là một chuỗi nhà hàng nổi tiếng, cũng có một chi nhánh gần công ty của Lâm Phi Tinh.
+"Chị tan làm đúng sáu giờ được không? Em đến quán gọi món trước đợi chị nhé, kẻo tối lại phải xếp hàng."
 
-Ngồi trên chuyến tàu điện ngầm vắng hoe lúc năm giờ chiều ngày thường, Hòa Ái Xích nhắn tin cho chị họ:
+Khoảng năm phút sau, Lâm Phỉ Hạnh mới gửi lại một nhãn dán "OK", xem ra chị ấy bận thật sự.
 
-"Sáu giờ chị có tan làm đúng giờ không? Em đến quán gọi món trước đợi chị nhé, kẻo tối lại phải xếp hàng."
-
-Khoảng năm phút sau, Lâm Phi Tinh mới trả lời bằng một nhãn dán "OK", xem ra chị ấy đang rất bận.
-
-Quận Hoa Hồng không gần quận Thanh Điền, đi tàu điện ngầm cũng mất hơn bốn mươi phút. Khi Hòa Ái Xích đến trước cửa quán cá nướng Hỏa Lô thì đã gần sáu giờ.
+Từ quận Hoa Hồng đến quận Thanh Điền cũng không gần, đi tàu điện ngầm mất hơn bốn mươi phút. Khi Hòa Ái Xích đến trước cửa quán Cá Nướng Hỏa Lò thì đã gần sáu giờ.
