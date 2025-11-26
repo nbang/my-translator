@@ -7,6 +7,16 @@ on:
         description: 'Optional: Content of chapters.html to overwrite'
         required: false
         type: string
+      book_source_url:
+        description: 'Source URL'
+        required: false
+        default: 'https://www.52shuku.net'
+        type: string
+      book_base_dir:
+        description: 'Base Directory'
+        required: false
+        default: 'bjXRF'
+        type: string
 
 jobs:
   scrape:
@@ -35,8 +45,8 @@ jobs:
 
     - name: Run Scraper
       env:
-        BOOK_SOURCE_URL: ${{ secrets.BOOK_SOURCE_URL }}
-        BOOK_BASE_DIR: ${{ secrets.BOOK_BASE_DIR }}
+        BOOK_SOURCE_URL: ${{ inputs.book_source_url }}
+        BOOK_BASE_DIR: ${{ inputs.book_base_dir }}
       run: python step1_chapter_scraper.py
 
     - name: Commit and Push changes

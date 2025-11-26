@@ -40,13 +40,17 @@
 
                 <hr>
 
-                <h2>Environment Variables (.env)</h2>
-                <div class="actions-bar">
-                    <button onclick="loadEnvFromRepo()">Load .env from Repo</button>
-                    <button onclick="saveEnvToRepo()" class="primary">Save .env to Repo</button>
+                <h2>Workflow Configuration (Inputs)</h2>
+                <p>These values are passed as inputs to the workflows.</p>
+
+                <div class="form-group">
+                    <label for="config-url">BOOK_SOURCE_URL</label>
+                    <input type="text" id="config-url" placeholder="https://www.52shuku.net"
+                        onchange="saveLocalConfig()">
                 </div>
                 <div class="form-group">
-                    <textarea id="env-content" rows="10" placeholder="BOOK_SOURCE_URL=..."></textarea>
+                    <label for="config-base-dir">BOOK_BASE_DIR</label>
+                    <input type="text" id="config-base-dir" placeholder="bjXRF" onchange="saveLocalConfig()">
                 </div>
             </section>
 
@@ -87,7 +91,7 @@
             <!-- Data Browser Tab -->
             <section id="data" class="tab-content">
                 <div class="browser-controls">
-                    <select id="folder-select" onchange="loadFileList()">
+                    <select id="folder-select" onchange="loadFileList()" aria-label="Folder Selection">
                         <option value="raw_chinese">Raw Chinese</option>
                         <option value="raw_vietnamese">Raw Vietnamese</option>
                     </select>
