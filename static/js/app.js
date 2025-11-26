@@ -25,25 +25,7 @@ function openTab(tabId) {
 }
 
 // Config Management
-function loadLocalConfig() {
-    currentConfig.token = localStorage.getItem('gh_token') || '';
-    currentConfig.owner = localStorage.getItem('gh_owner') || '';
-    currentConfig.repo = localStorage.getItem('gh_repo') || '';
-
-    document.getElementById('github-token').value = currentConfig.token;
-    document.getElementById('github-owner').value = currentConfig.owner;
-    document.getElementById('github-repo').value = currentConfig.repo;
-}
-
-localStorage.setItem('gh_token', currentConfig.token);
-localStorage.setItem('gh_owner', currentConfig.owner);
-localStorage.setItem('gh_repo', currentConfig.repo);
-
-// Also save the secret config values for convenience (not secrets themselves, just the config keys)
-localStorage.setItem('config_url', document.getElementById('config-url').value);
-localStorage.setItem('config_base_dir', document.getElementById('config-base-dir').value);
-}
-
+// Config Management
 function loadLocalConfig() {
     currentConfig.token = localStorage.getItem('gh_token') || '';
     currentConfig.owner = localStorage.getItem('gh_owner') || '';
@@ -55,6 +37,19 @@ function loadLocalConfig() {
 
     document.getElementById('config-url').value = localStorage.getItem('config_url') || '';
     document.getElementById('config-base-dir').value = localStorage.getItem('config_base_dir') || '';
+}
+
+function saveLocalConfig() {
+    currentConfig.token = document.getElementById('github-token').value;
+    currentConfig.owner = document.getElementById('github-owner').value;
+    currentConfig.repo = document.getElementById('github-repo').value;
+
+    localStorage.setItem('gh_token', currentConfig.token);
+    localStorage.setItem('gh_owner', currentConfig.owner);
+    localStorage.setItem('gh_repo', currentConfig.repo);
+
+    localStorage.setItem('config_url', document.getElementById('config-url').value);
+    localStorage.setItem('config_base_dir', document.getElementById('config-base-dir').value);
 }
 
 function getHeaders() {
@@ -71,6 +66,76 @@ function showToast(message) {
     toast.textContent = message;
     toast.classList.add('show');
     setTimeout(() => toast.classList.remove('show'), 3000);
+}
+
+// 3. Trigger Scraper
+async function triggerScraper() {
+    if (!currentConfig.token || !currentConfig.repo) return showToast('Please configure GitHub settings first.');
+
+    const htmlContent = document.getElementById('chapters-html-content').value;
+    const sourceUrl = document.getElementById('config-url').value;
+    const baseDir = document.getElementById('config-base-dir').value;
+
+    try {
+        const url = `${GITHUB_API_BASE}/repos/${currentConfig.owner}/${currentConfig.repo}/actions/workflows/scraper.yml/dispatches`;
+        const body = {
+            ref: 'main',
+            inputs: {
+                html_content: htmlContent,
+                book_source_url: sourceUrl,
+                book_base_dir: baseDir
+            }
+        };
+
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: getHeaders(),
+            body: JSON.stringify(body)
+        });
+
+        if (!response.ok) throw new Error('Failed to trigger scraper');
+
+        showToast('Scraper workflow triggered!');
+        checkWorkflowStatus();
+    } catch (error) {
+        console.error(error);
+        showToast('Error triggering scraper: ' + error.message);
+    }
+}
+
+// 4. Trigger Translator
+async function triggerTranslator() {
+    if (!currentConfig.token || !currentConfig.repo) return showToast('Please configure GitHub settings first.');
+
+    const batchSize = document.getElementById('batch-size').value;
+    const force = document.getElementById('force-translate').checked;
+    const baseDir = document.getElementById('config-base-dir').value;
+
+    try {
+        const url = `${GITHUB_API_BASE}/repos/${currentConfig.owner}/${currentConfig.repo}/actions/workflows/translator.yml/dispatches`;
+        const body = {
+            ref: 'main',
+            inputs: {
+                batch_size: batchSize,
+                force: force.toString(),
+                book_base_dir: baseDir
+            }
+        };
+
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: getHeaders(),
+            body: JSON.stringify(body)
+        });
+
+        if (!response.ok) throw new Error('Failed to trigger translator');
+
+        showToast('Translator workflow triggered!');
+        checkWorkflowStatus();
+    } catch (error) {
+        console.error(error);
+        showToast('Error triggering translator: ' + error.message);
+    }
 }
 
 // 5. Check Status

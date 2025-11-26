@@ -235,7 +235,7 @@ def main():
     logger.info(f"Found {len(chapters)} chapters")
     
     # Process chapters
-    scraper.process_chapters(max_chapters=max_chapters, delay=0)
+    scraper.process_chapters(max_chapters=max_chapters, delay=1.0)
     
     logger.info("Done!")
 
