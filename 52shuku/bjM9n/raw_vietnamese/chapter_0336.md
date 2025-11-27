@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 336 Trang 336
+
+---
+
+### Nội dung | Nội dung
+
+Gạo nếp mềm dẻo hơn nhiều lần so với nhựa dẻo, độ đàn hồi nhẹ khiến việc nhai trở nên đặc biệt thú vị. Điều quan trọng là vị ngọt tinh tế khiến người ta cứ muốn khám phá nên cứ nhai mãi, hương thơm tươi mát của gạo nếp tỏa ra. "Đây là bột gạo nếp bình thường sao? Mềm thơm như vậy?"Mao xoăn nhét thêm hai quả vào miệng, "Đã lâu rồi tôi không ăn xôi sao? Hay là đã lâu lắm rồi tôi mới ăn chà là đỏ? Món ăn vặt này quả thực quá tuyệt vời!" Đoàn Tấn Nguyên nghe được thư ký khen ngợi, ở một bên nén cười, nghĩ tới lúc mới bắt đầu hắn cũng như vậy kinh ngạc. “Hai người có diễn không?”Zhuzhu nheo mắt lại và liếc nhìn qua lại giữa hai người, cố gắng bộc lộ kỹ năng diễn xuất kém cỏi của họ."Tôi không diễn, tôi không diễn, thật đấy... à, không, chúng tôi đang diễn, đừng tranh đồ ăn với chúng tôi." Lông Xám và Tóc Xoăn vừa cười tinh nghịch vừa nhét đồ ăn nhẹ vào miệng."Hai người các ngươi thật vô dụng..." Chu Trúc cũng nhét một cái vào miệng, ngừng lời, "...phải không? Hả? Mùi vị này...cái này cũng...đợi đã, đừng giật nó khỏi tay tôi, tất cả đều là của tôi!!" Càng ngày càng có nhiều nhân viên tham gia vào nhóm ăn vặt, nhai càng lúc càng nhanh. Trong thời gian ngắn như vậy, hơn hai mươi nhân viên đã thực sự ăn hết một hộp đến tận đáy, sờ bụng đã no một nửa rồi bắt đầu mở hộp thứ hai. Đoàn Tấn Nguyên thấy vậy, nhanh chóng khóa cửa phòng đựng đồ ăn nhẹ lại.May mắn thay, anh ấy lấy ra hai hộp để chia sẻ với họ. Bằng không, nếu nhóm người này đột nhập vào phòng, có lẽ trong thời gian ngắn bọn họ đã quét sạch nửa căn phòng gạo nếp và chà là đỏ.“Nhắc nhở, anh chỉ có hai hộp này để chia, còn lại sẽ tặng cho khách đến đặt phòng.” Nghe Đoàn Cẩm Nguyên nói như vậy, mọi người thất vọng thở dài, chậm lại tốc độ ăn uống."Không sao đâu các anh chị em, ngày mai ở nhà hàng Nianjia sẽ có món ăn vặt mới, vậy chúng ta cùng ngồi xổm xuống lấy đi." Trong lúc ăn, Tiểu Phi không quên truyền hy vọng cho mọi người."Ồ, thật đấy!!!" "Đây không phải là vội vàng sao?" "Tuyệt đối, ta sẽ chịu trách nhiệm đợt đầu tiên bán gạo nếp và táo đỏ của Nianjia Xiaoguan!" Mọi người đang thảo luận sôi nổi thì đột nhiên có tiếng gõ cửa. Mọi người im lặng, bối rối nhìn nhau.“Không phải bây giờ mới mười một giờ sao? Bình thường chúng ta mở cửa vào lúc một giờ trưa, nhưng không có ai bỏ lỡ sao?” Đoàn Tấn Nguyên cũng có chút bối rối. Anh bước tới mở cửa thì phát hiện từ ngoài cửa đến cầu thang đều có người đứng. Nhìn xuống, phía dưới mấy tầng cầu thang đều chật kín người, ít nhất cũng phải trăm người."Anh... anh đang làm gì vậy? Anh đến đây để đánh nhau à?" Đoàn Tấn Nguyên vốn tưởng rằng bên ngoài chỉ có một hai người. Khi mở cửa ra, anh giật mình nhìn thấy một đám người, yếu ớt hỏi."Chúng ta...chúng ta không biết nhau." Một cô gái nhỏ ở hàng ghế đầu nói."Nhưng chúng ta đều đến đây để kiếm tiền. Lão đại, bây giờ chúng ta có thể vào cửa hàng được không?" Một nam sinh khác hỏi Đoàn Cẩm Nguyên."Chúng ta còn chưa mở cửa." Đoàn Cẩm Nguyên có chút mơ hồ, nhưng dường như đã nhận ra điều gì đó."Chúng tôi không vội đặt chỗ, chủ yếu muốn ngồi trong cửa hàng trước. Ông chủ có đồ ăn nhẹ không? Đồ ăn vặt do nhà hàng Nianjia sản xuất." Một cậu bé mũm mĩm ngồi ở hàng sau hỏi, gần như chảy nước miếng khi nói.“Ừ, chúng ta ngồi xuống và ăn chút đồ ăn nhẹ nhé.” "Thật sự chỉ ăn một chút thôi." Người ở tầng dưới lần lượt vang lên, khung cảnh trở nên sôi động. Mọi người đều mong đợi nhìn Đoàn Cẩm Nguyên, nhìn chằm chằm vào cánh cửa đang mở, muốn đi vào.Chương 152
+Cơm Chiên Giòn "Ai ở ngoài?" Một số DM đã nghe thấy giọng nói,
+Tò mò, tôi bước tới cửa và giật mình vì đám đông đen tối bên ngoài.Đoàn Cẩm Nguyên giữ cửa, trong lòng thầm vui mừng, mỉm cười với người chơi ngoài cửa: “Hiện tại có thể mở cửa trước.
+Nhưng hãy cho chúng tôi năm phút để nghỉ ngơi,
+Chỉ năm phút thôi. "Được rồi,
+Chúng ta có thể đợi một lúc.“Ngoài cửa một đám người đồng ý, Đoàn Cẩm Nguyên tiến vào trong cửa hàng, đóng cửa lại.
+Anh nháy mắt với căn phòng đầy DM,
+Họ đã hiểu rồi. "Mọi người nhanh lên, nếu không cái hộp này một lát sẽ bị người chơi chia." Mọi người vội vàng nhét đồ ăn nhẹ của mình vào hộp.
+Hai người còn lại không nhịn được nhét thêm hai quả chà là vào miệng, bị DM bên cạnh tát vào tay. Những người nhân viên cười lớn và nhét những chiếc hộp xuống dưới quầy.
+Ký "OK" với sếp. "Anh đã giấu nó à?" Đoàn Cẩm Nguyên nắm lấy tay nắm cửa, mỉm cười nhìn mọi người. "Ừ, ừ!" Những người thư ký gật đầu với nụ cười ẩn giấu trong mắt họ. "Chúng ta mở cửa hàng!" Đoàn Tấn Nguyên vừa mở tay nắm cửa, người chơi từ bên ngoài đã tràn vào, nhanh chóng chiếm hết các phòng trong cửa hàng.
+Vẫn còn rất nhiều người ngồi ở sảnh chờ in sách và ăn vặt “trên đường”. -Trung tâm giải mã vụ án Duẩn không nằm ở khu vực trung tâm thành phố,
+Nhưng may mắn thay, DM tương đối chuyên nghiệp.
+Nó có thể mang lại cho người chơi trải nghiệm tuyệt vời,
+Vì vậy, mặc dù phòng và khung giờ thường không được đặt kín,
+Nhưng lưu lượng khách hàng vẫn ổn.Tuy nhiên, so với hiện nay, lưu lượng hành khách trước đây chỉ ở mức trung bình.Hôm nay từ trưa đến hai giờ sáng,
+Cửa hàng không thiếu khách hàng
+Đợt DM đầu tiên buồn ngủ quá
+Vẫn còn rất nhiều khách hàng ngồi ở sảnh, khiến Đoàn Tấn Nguyên nhanh chóng gọi điện cho các DM đang trong kỳ nghỉ đến làm thêm giờ trong cửa hàng.Cuối ngày, vào lúc ba giờ sáng, Đoàn Tấn Nguyên và các DM đã héo rũ tiễn nhóm người chơi cuối cùng về nhà ngủ.Đoàn Cận Nguyên vui vẻ nhảy lên khỏi mặt đất sau khi tính toán thu nhập hôm nay - thu nhập hôm nay của anh cao hơn bình thường gấp mười lần.Số tiền bỏ ra mua đồ ăn vặt ở nhà hàng Nianjia chẳng là gì so với những thứ này.Duẩn Jinyuan cảm thấy vui vẻ, ngân nga một bài hát và gửi một phong bì màu đỏ khổng lồ cho mỗi DM.-Nian Sui đã làm món cơm chiên giòn mới dựa trên lượt thích trong mục đánh giá món ăn của Nhà hàng Nianjia và phản hồi từ Duan An Decryption Hall.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:22:09*

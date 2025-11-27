@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 374 Trang 374
+
+---
+
+### Nội dung | Nội dung
+
+“Ừ, có lẽ tôi đã từng gặp anh ấy trước đây.” Niệm Tùy có lẽ không có ấn tượng gì với La Thục, hắn cũng không muốn để người trong thôn biết, nửa năm không xuất hiện "Niên Tùy" đột nhiên xuất hiện, cho nên hắn cũng không có cụ thể thảo luận sự tình.Lạc Thư không hỏi thêm. Anh lần lượt đặt hai xiên mực vào hai hộp giấy, lấy khăn ăn đưa cho Niệm Tùy và Thanh Lãng."Được rồi, cảm ơn." Hai người cầm chiếc hộp chậm rãi đi về phía số 18 phố Haiti.Niên Tùy cầm xiên mực xiên lên. Có rất nhiều nước sốt trên mực. May mắn thay, có một cái hộp để nhặt nó lên.Mực được nướng vừa phải, có độ giòn vừa mềm, mềm hơn giòn xương và giòn hơn gân thịt. Sau khi nướng bề mặt có mùi thơm của thịt xen lẫn mùi dầu, hương vị đặc trưng của hải sản được kích thích trọn vẹn.Nước sốt mặn đậm đà không chỉ rưới đều trên bề mặt con mực mà còn thấm hẳn vào bên trong miếng thịt. Nó rất ngon. Bề mặt được rắc mè, khi cắn vào sẽ có vị béo đậm đà.Những miếng mực to ăn mềm và mọng nước, ngon hơn nữa là những xúc tu của mực. Những xúc tu của mực đã cuộn tròn dưới sức nóng, lớp ngoài được rang thành màu nâu, khi nhai có mùi thơm khét.Ngoài ra, phần nhăn nheo của xúc tu mực được quấn thêm nước sốt. Cắn một miếng, miệng bạn sẽ tràn ngập hương thơm nồng nàn."Tay nghề của đứa trẻ này khá tốt." Thanh Lãng liếm nước sốt trên môi khen ngợi.“Đúng, nhưng món hải sản này có vị ngon hơn hải sản ở thế giới thực.” Niệm Tùy cắn một miếng nữa, cảm nhận được hương vị thơm ngon nhảy múa trên đầu lưỡi.Sau khi hai người ăn xong, họ lau miệng với ý định không hài lòng.Sau khi ăn thứ gì đó, tôi cảm thấy tràn đầy năng lượng hơn trước.Sau một thời gian dài chuẩn bị tinh thần, cuối cùng cô quyết định đi gặp bà ngoại. Vì đã muộn nên không còn thời gian để trì hoãn, nếu tiếp tục thì bà nội cô sẽ đi ngủ.Nếu phải đợi đến ngày mai, cô sẽ mất ngủ cả đêm.Niệm Tuy bình tĩnh lại, liếc nhìn Thanh Lãng: “Chúng ta đi số 18 đường Hải Thiên đi.” Thanh Lãng gật đầu, đưa tay nắm lấy tay cô, dùng ngón tay cái vuốt ve mu bàn tay cô, xoa dịu: “Được.” Khi hai người đi đến số 20 đường Haiti, tim Niệm Tùy bắt đầu đập. Cô chưa bao giờ cảm thấy tim mình đập nhanh đến thế, như thể nó sắp rời khỏi cơ thể mình.Rẽ vào góc phố, cả hai đi đến số 18 phố Haiti.Niệm Tùy hít một hơi thật sâu, sững sờ, trong mắt lóe lên những tia sáng nhỏ như làn sóng trên đầu.Chương 169
+Risotto hải sản thơm Đường phố Haiti rất độc đáo.
+Những viên gạch đá xanh lớn nhỏ nằm rải rác trong những con hẻm dài, gió biển ẩm ướt thổi qua các con phố khiến nơi đây rất giống một thành phố Nam Bộ hiền hòa trong thực tế.Có vài gia đình nằm rải rác trong mỗi con hẻm.
+Tất cả đều là những ngôi nhà dành cho một gia đình có sân nhỏ.
+Hầu hết mọi người đều đóng cửa sân.
+Trong nhà đèn vẫn sáng
+Có thể nghe thấy tiếng leng keng của ly khi đang ăn.Cứ đi vài bước lại thấy đèn đường vàng ấm áp,
+Phát ra ánh sáng dịu nhẹ nhưng mờ ảo, chiếu sáng màn đêm tối.Dưới một trong những ngọn đèn,
+Một ông già đang ngồi trên chiếc ghế liễu gai, ngơ ngác nhìn lối vào ngõ.Dù đã cách xa tuổi tác,
+Nhưng cô chỉ nhìn một cái cũng nhận ra đó là bà ngoại.Hơi thở của cô trở nên tắc nghẽn, cô theo bản năng nắm lấy cổ tay Thanh Lãng.
+Tiến về phía trước một cách lo lắng và mong đợi.Lão giả sửng sốt, nhưng vừa nhìn thấy tuổi tác của hắn, ánh mắt liền tập trung. Cô hoài nghi đứng dậy khỏi chiếc ghế liễu gai, nheo mắt nhìn người đang đi về phía mình.Tốc độ của tuổi tác nhanh chóng,
+Nhưng anh ta chậm lại khi đến gần ông già.So với lúc tôi còn khỏe mạnh,
+Lúc này bà Nian đã sụt cân rất nhiều,
+Nhưng với làn da hồng hào,
+Mắt tôi cũng rất sáng, tôi tương đối khỏe mạnh và gầy.
+Nó tốt hơn nhiều so với da và xương do bệnh tật gây ra.Tôi nhớ lần cuối cùng tôi tiễn bà tôi đi,
+Tóc cô đã bị cạo sạch từ lâu,
+Bây giờ tóc tôi dày hơn, tóc đen nhiều hơn tóc trắng, óng ả dưới ánh đèn đường vàng ấm áp.Tôi rất vui vì khi gặp lại bà, bà tôi dường như vẫn khỏe mạnh. Chỉ cần thấy cô ấy sống tốt thì nửa năm không gặp cũng chẳng sao cả."Bà ơi..." Khi cô bước đến chỗ bà, nước mắt rơi dày đặc, làm mờ tầm nhìn của cô."Năm?" Nian bà nội không thể tin đi tới, nhéo vai cô, véo mặt cô, cuối cùng vỗ mạnh vào cánh tay cô, như muốn kiểm tra xem cô có nhìn thấy ảo giác hay không, hay chỉ là mơ.“Thật sự là Niệm Tùy…” Khi bà Nian nói được nửa câu sau, giọng bà đã khàn khàn, lông mày nhíu lại, nước mắt rơi. Cô ôm vai Niệm Tùy, ôm cô thật chặt.Cô dùng hết sức lực như muốn nắm lấy sợi dây diều sắp đứt, sợ nếu không cẩn thận, năm tháng lại bay đi."Tại sao... tại sao con mới quay lại..." Bà Nian nói như thể Nian không phải bị chôn dưới đáy biển, cũng không đi được nửa năm mà giống như một đứa trẻ bị lạc."Ừ, tôi đã về rồi, tôi đã về rồi, tôi sẽ không đi xa lâu như vậy nữa." Niệm Tùy dùng mu bàn tay dụi dụi mắt, nhưng nước mắt càng ngày càng nhiều."Bọn họ đều nói ngươi... Đều nói ngươi có..." Niệm bà nội không có nói ra hai chữ này. "Tôi không tin, tôi nói Niệm Tùy từ nhỏ đã bơi giỏi, chuyện như vậy tuyệt đối không thể xảy ra, nhất định là bơi đâu đó quên đường về nhà, một ngày nào đó sẽ quay lại." “Chỉ là ta đi lâu quá, trở về là tốt rồi.” Nian bà nội ôm lấy vai Niệm Tùy, vừa cười vừa rơi nước mắt nhìn nàng, hai mắt đều đỏ hoe.Vì vậy, trên thực tế, không chỉ Nian Sui nhớ đến người bạn cũ của mình. Trong nửa năm kể từ khi biến mất khỏi thế giới của nhau, họ chưa bao giờ ngừng nhớ nhau dù chỉ một giây phút.Niệm Tuy nghe được tiếng nức nở của người khác. Âm thanh phát ra từ cánh cửa sân nhỏ phía sau bà Nian. Ở đó có một ông già chống nạng, cúi đầu khóc.Nian Nian chợt nhớ ra cô đã quên đề cập, khi hệ thống giới thiệu thân phận của cô, cô có đề cập đến số 18 đường Haiti có ba ông bà và cháu, cho nên ông già này chính là vợ của bà Nian.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:22:51*

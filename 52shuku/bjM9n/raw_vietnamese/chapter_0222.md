@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 222 Trang 222
+
+---
+
+### Nội dung | Nội dung
+
+"Được rồi được rồi! Lễ đính hôn! Lễ đính hôn! Lễ đính hôn!" "Tôi đồng ý cuộc hôn nhân này!" “Anh sẽ đi, tua nhanh đến lễ cưới ngay khi chúng ta nắm tay nhau, tốc độ gấp năm lần phải không?” Một nhóm thanh niên nam nữ ồn ào, toát ra sức sống trẻ trung khiến thực khách ở đây không khỏi ghen tị, hồi tưởng lại những ngày học cấp 2 với nụ cười trên môi.Đợi mọi người ngồi xuống, Giang Phong nhìn chung quanh, nghi hoặc hỏi: "Còn thiếu một người sao?" "Hình như là..." Mọi người cũng chú ý tới chỉ có một chỗ trống."Lớp cũ không đến! Hahahahahahaha." "Anh ấy đến muộn!" "Chờ một chút, trừng phạt hắn đi vào cho hắn uống!" Một nhóm người đang nói chuyện vui vẻ thì rèm cửa cửa hàng được kéo ra, một người đàn ông trung niên xuất hiện, thu hút sự chú ý của cả một lớp người.Chương 105
+Thịt lợn kho, tôm tỏi, v.v.Người đàn ông trung niên giữ đĩa của mình,
+Bước vào cửa dường như là chuyển động chậm lại, chuyển động được cố ý làm chậm lại. Mọi người chuẩn bị uống rượu để phạt, nhưng khi nhìn thấy kiểu tóc của anh, họ sững sờ trong giây lát.
+Anh ta vỗ tay reo hò: "Ồ——" Lão Chai mỉm cười bước vào.
+Vừa đi anh vừa vẫy tay: “Xin chào mọi người!
+Tất cả họ đều ở đây. "Tôi sẽ đi,"
+Tại sao Laoban lại thay đổi kiểu tóc của mình? “Đừng nói,
+Kiểu tóc của Lão Chải vẫn có chút thần thái. Lão Chai cười cười nói như đang bôi tóc: “Các bạn trẻ được phép buông thả.
+Bạn không cho phép tôi, một ông già, nhảy vào cuộc sao? "Được rồi, được rồi, đẹp trai!" "Lão Chai sao có thể là lão nhân?"
+Mãi mãi mười tám! Lão Sài ngồi xuống, vòng tay qua vai giáo viên dạy toán bên cạnh: “Nhìn kìa, thầy Du đẹp trai quá!“Thầy Du cũng đã trung niên rồi. Mái tóc của anh ấy đã được toán học rửa tội và anh ấy đã trở nên "cực kỳ thông minh".
+Một bộ đồ màu đen trông rất trang trọng. Chưa kể đến dự tiệc tri ân thầy cô, dù làm khách mời trong tiệc cưới cũng không thấy lạc lõng. "Thầy Du cũng đẹp trai!" Một cậu bé dẫn đầu trong tiếng cổ vũ, và những học sinh còn lại cũng cổ vũ. "Hai người đấu với nhau thì thế nào?Hãy chiến đấu! Hãy chiến đấu!" "Tất cả giáo viên có thể thành lập một đội bảy lớp!" Một số giáo viên nam và nữ khác ngồi cùng bàn bị gọi lên và bắt đầu la ó. Thầy Du bị lời khen như vậy dỗ dành,
+Anh có chút ngượng ngùng xấu hổ: “Không phải tôi nghĩ mình sẽ đi ăn ở nhà hàng lớn như thế sao?
+Vì thế tôi ăn mặc trang trọng hơn,
+Tôi không ngờ lại đến nhà hàng nhỏ này ..." Các bạn cùng lớp xung quanh nghe thấy điều này, họ nói
+Tất cả đều hít một hơi, biết giáo viên toán kén chọn của họ sẽ nói gì nữa.
+Tôi lặng lẽ liếc nhìn tuổi,
+Thật may là cô ấy không nghe thấy. Lão Chai đã lợi dụng hắn chưa kịp nói xong,
+Cô nhanh chóng bịt miệng anh, cười lớn: "Thầy Du, anh có thể tùy ý ăn, nhưng không được nói bậy.Tôi nói cho anh biết, sau khi ăn xong ở nhà hàng này, anh phải rút lại những lời này." "Đúng vậy." Một nữ giáo viên khác là thực khách cấp cao tại nhà hàng Nian đã trả lời. Thầy Du nhướng mày: “Lão Chai, cậu không biết đâu, tuần nào tôi cũng ghé vào các nhà hàng lớn trong thành phố và nghiên cứu. Nếu nhà hàng này ngon thì hôm nay tôi sẽ lộn đầu ra ngoài.”Cả lớp đã quen với tính kén chọn của thầy Du, nhưng những ai từng ăn ở nhà hàng Nian đều biết rằng dù thầy có kén chọn đến đâu thì món ăn hôm nay của thầy vẫn có thể thuyết phục được. "Không được, hôm nay Đỗ sư phụ định trồng cây chuối đi ra ngoài.Nói thật... ta rất thích xem!" Giang Phong thì thầm vào tai cô gái bên cạnh. "Sao cậu tệ thế?...Tôi cũng thích xem nó." Cô gái giận dữ tát cô một cái, hai người cùng cười lớn. "Được rồi, hãy quên chuyện trồng cây chuối đi.Hãy đặt cược 50 xu.Tôi đảm bảo sẽ rất ngon." Lão Chải liếc nhìn các bạn cùng lớp đang chuẩn bị xem nhào lộn. Để không làm thầy Du khó xử, thầy nhanh chóng giải quyết ổn thỏa. "Được rồi, chỉ có năm mươi xu thôi, ăn thôi!" Thầy Du cảm thấy không khí có gì đó không ổn liền sờ sờ đầu trần của mình. "Chờ một chút!" Giang Phong rót một ít rượu, bưng chén cười đi tới trước mặt Lão Tử: "Lão Ban, chúng ta đã thống nhất, ai đến muộn sẽ bị phạt ba ly, đừng quên đếm!" Lão Chải gãi gãi đầu nhận lấy bia: "Được rồi, ai đến muộn uống cùng ta!" Mọi người cười nói: "Chỉ có ngươi, một người đến muộn!" Lão Sài sửng sốt, vỗ vỗ vai thầy Du: “Có thật hay không?” Thầy Du nói: “Thật đấy, làm nhanh đi!” "Các bạn cùng lớp, lớp cũ uống hết rồi, chúng ta cũng cùng cổ vũ nào!Kỷ niệm thành công kỳ thi tuyển sinh đại học của chúng ta, chúng ta có thể vào đại học, tự do bay lượn!" Giang Phong rót cho mình một ly, nâng chén lên. Mọi người cũng nâng cao trà lúa mạch, trà sữa, soda và bia. "Được rồi, hãy ăn mừng vì cuối cùng chúng ta không phải rụng tóc vì lũ nhóc bất cẩn này!Cuối cùng chúng ta cũng có thể chăn được cừu!" Lão Chải quàng tay qua vai thầy Du và nâng cốc chúc mừng cùng các giáo viên khác. "Chúc mừng!" Những chiếc ly va vào nhau, bọt cola và bia bắn tung tóe, trà sữa và nước trái cây lắc lư ngọt ngào. Các món ăn nguội lần lượt được dọn ra, các món ăn nóng lần lượt được nấu. Trên mỗi bàn bày rất nhiều món ăn, bao quanh là hương thơm nồng nàn. Khi món gà đã được dọn ra, thầy Du gắp một miếng thịt cho vào miệng nhai. Thông thường, món gà cắt miếng đơn giản ở các nhà hàng là món khai vị trước các món ăn nóng. Nó được nấu chín cứng và không có hương vị, chỉ để lấp đầy dạ dày. Nhưng thịt của loài gà cắt trắng này mềm đến nỗi khi dùng đũa ấn nhẹ vào da gà sẽ bị rách, thịt trên xương hoàn toàn được tách xương mà không cần tốn chút sức lực nào. Tuy không nấu với các loại gia vị cầu kỳ nhưng chỉ thêm một ít nước tương đen và dầu mè để tăng hương vị, khi ăn rất tươi và sảng khoái, có cảm giác trở về với thiên nhiên và sự giản dị, làm nổi bật vị dịu dàng nguyên bản của gà.Nó thực sự có một chút khác biệt.Thầy Du vừa nghĩ vừa múc thêm một thìa bột khoai mỡ.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:20:03*

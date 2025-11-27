@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 327 Trang 327
+
+---
+
+### Nội dung | Nội dung
+
+Vị ngọt truyền ra từng tầng ở đầu lưỡi, bà nội không khỏi nhai nhanh hơn. "Đúng như mong đợi về chiếc bánh Weiwei mang đến đây, nó thực sự rất đặc biệt."Bà nội kêu lên: “Thơm mềm, lại không tốn một đồng răng nào cả”. "Ta vốn tưởng rằng bánh táo ở cửa sau trường tiểu học số hai rất ngon, nhưng bây giờ so sánh, cái kia cứng như bánh mây, ăn xong sẽ già và khô. Cái này vị ẩm hơn, có mùi táo tàu đặc biệt nồng." "Bạn có thể ăn nó nếu bạn thích!" Chen Yiwei mỉm cười và lần lượt đưa hai ly sữa cho ông và bà. Ông nội lấy sữa và uống một ngụm.Anh không biết là do sữa dành cho người trung niên và người già nên khi uống không béo, không đặc, hay là do vợ anh miêu tả về món bánh táo tàu vừa rồi quá hấp dẫn. Anh luôn cảm thấy mùi vị của sữa nhạt nhẽo, không khỏi liếc nhìn bánh táo tàu."Ông nội, ông cũng muốn thử à?" Chen Yiwei lọt vào mắt ông nội cô."Tôi, chết tiệt, tôi không muốn ăn, tôi chỉ uống sữa thôi." Ông nội ngoảnh mặt đi."Này, cứ ăn đi. Tôi không biết rõ về cậu sao? Cậu muốn thì cứ ăn đi! Đừng xấu hổ." Bà ngoại có vẻ mặt. Ông nội nhìn thấu điều đó và mỉm cười ngượng ngùng."Được, tôi cũng ăn một miếng, không thể để Vi Vi thất vọng được." Ông nội xé gói và cắn một miếng.Cắt bánh táo tàu bằng răng nhẹ nhàng như cắt xuyên không khí. Vị ngọt thoang thoảng lan từ đầu lưỡi đến tận sâu trong vòm miệng. Vị táo tàu đậm đà tan trên đầu lưỡi như mưa rơi xuống ao.Sau khi nhai vài lần, nó mềm, như sáp và hơi đàn hồi, có dư vị ngọt ngào và vị sữa ngọt ngào. Nó hoàn toàn không giống những loại bánh ngọt khô, cứng hay cực kỳ ngọt ngào."Ồ, Weiwei quả thật có khẩu vị rất tốt." Ông nội ngạc nhiên trước bữa ăn, giơ ngón tay cái lên cho Chen Yiwei: "Không biết có phải do tôi tưởng tượng không, nhưng tôi có cảm giác như được cho sữa vào, vị sữa rất thơm." "Là lưỡi của con ngon quá! Cửa hàng này ghi thành phần chỉ có sữa, mà sữa trong cửa hàng này bán một mình thì ngon, nhưng người mua nhiều quá, còn chưa xếp hàng, khi nào lấy được sẽ giao cho con." Ông nội tò mò hỏi: "Cửa hàng này là cửa hàng gì vậy?" "Nhìn kìa, nó ghi." Chen Yiwei giúp ông nội lật chiếc túi lại."Ồ, nhà hàng Nian, địa chỉ này trông khá gần đây. Lúc khác tôi phải đến cửa hàng để xem. Trước đây tôi không thích đồ ngọt, nhưng bây giờ có vẻ như tôi chưa tìm được cửa hàng phù hợp. Bây giờ tôi thích đồ ngọt." "Này, sau này sẽ có người tranh ăn bánh táo tàu với tôi."Bà nội cười đùa. "Mỗi người một nửa, tôi có thể cho cậu một ít." Ông nội cười."Không sao, tôi sẽ mua nhiều hơn! Bạn không cần phải nắm lấy nó. Tôi sẽ đến gặp bạn nhiều hơn." Chen Yiwei một tay đặt lên vai ông nội và tay kia của bà cô."Được rồi được rồi, tôi rất vui. Ông nội và bà ngoại cùng cười, không quên mang thêm một chiếc bánh táo táo cho Chen Yiwei ăn. Cùng lúc đó, Tan Xin vừa chào hỏi các học sinh tiểu học trong lớp và đang đi bộ về nhà thì đột nhiên ngửi thấy một mùi thơm ngọt ngào của bánh nướng, trộn lẫn với mùi trứng và mật ong. Mùi này rất quen, nhưng tôi không nhớ tại sao lại quen. Cửa trước cửa hàng, nơi cô nhìn thấy bốn nhân vật "Nhà hàng Nian", Tan Xin thấy trong cửa hàng có rất nhiều người giống cô, ánh mắt cô rơi xuống bếp, nhìn lên lò nướng thơm lừng Chương 148.
+Bánh mì giòn mật ong tuổi thơ đang ở trong bếp lúc này,
+Cùng với Lijiu và Yan Zhanqiu, chúng tôi vội vàng làm một mẻ bánh mì giòn mật ong. Nhào bột cho đến khi dẻo thì cho bơ vào và tiếp tục nhào. Một chút màu vàng nhạt sẽ được thêm vào khối bột màu trắng. Bột bị xì hơi sau khi lên men,
+Cuộn thành dải dài,
+Cuộn lại như một cuộn giấy. Trộn đều đường mịn và mè trắng với nhau
+Các màu sắc trộn lẫn để tạo ra một loại hạt khác nhau,
+Nhúng một đầu bột vào nước mật ong,
+Sau đó nhúng vào đường và vừng băm nhuyễn rồi cho vào lò nướng lên men.Bột lên men được làm từ những cuộn mỏng,
+Nó biến thành một khối bột nhão có kích thước bằng nắm tay và được quét bằng nước rửa trứng.
+Bột màu vàng nhạt chuyển sang màu vàng trong, rắc vừng rồi cho vào lò nướng.Hơi nóng từ từ bốc hơi từ giữa chiếc bánh mì, khối bột dày và nặng ban đầu dần nở ra và trở nên lỏng lẻo, mùi ngọt ngào của bơ và đường tỏa ra từ các vết nứt trong lò.
+Một hơi thở làm tôi thấy nhẹ nhõm hơn.Cùng với âm thanh của lò nướng “ting ting”, hầu hết mọi người trong cửa hàng và một số người nằm ở cửa sổ phía sau đều bị thu hút.Bánh mì mật ong được nướng thành hình xoắn ốc tròn trịa, giống như vỏ ốc,
+Toàn bộ hiện ra một màu vàng,
+Màu sắc trở nên đậm hơn khi bạn đi lên,
+Mặt trên có màu nâu cháy,
+Những hạt mè trắng được làm rõ ràng và tinh tế hơn.Khi bánh mới nướng, tôi phết một lớp nước mật ong lên trên.
+Đặt lộn ngược trên lưới làm mát để hạ nhiệt.Lật bánh lại,
+Đáy phẳng có màu caramel hoàn hảo,
+Những hạt vừng riêng biệt được chà xát lên trên, và có thể nhìn thấy một hình xoắn ốc nhẹ trên phần đế giòn trong mờ, trông giống như một món đồ thủ công tinh xảo.Mọi người hít một hơi thật sâu. Bởi vì có nhiều người như vậy, trong đại sảnh lần lượt vang lên tiếng hít thở, nhất thời trở nên đặc biệt buồn cười.Khi bánh mì mật ong cuối cùng cũng ấm lên, mọi người đổ xô đi mua.Xiong Shanwei và Zhao Songshi đã mài giũa kinh nghiệm mua sắm đông đúc và làm việc với một số người phục vụ để điều chỉnh trật tự tại hiện trường.Có rất nhiều người một mình mua bánh mì, Nian Sui mở một cửa sổ ở cửa sau chuyên bán bánh mì mật ong.Ngay khi cửa sổ mở ra, nó giống như một phát súng chỉ huy được bắn ra. Mọi người vội vã đến cửa sổ phía sau và đứng đó. Một con rồng dài hình chữ S trườn ra khỏi cửa sổ vốn dĩ trống rỗng.Đàm Tâm thầm thở dài, lẽ ra nàng không nên tới cửa trước. Lẽ ra cô ấy phải đứng ngay cửa sổ phía sau. Cô vừa nghĩ vừa chạy thật nhanh. May mắn thay, cô phản ứng nhanh hơn một số người đứng lấy biển số trước cửa.Mặc dù cô ấy đang xếp hàng ở giữa nhưng cũng không mất quá nhiều thời gian. Cô chơi với điện thoại di động và từ từ cùng đội tiến về phía trước.Tiếng trò chuyện của những người phía trước thỉnh thoảng lọt vào tai cô.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:21:59*

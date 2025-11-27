@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 385 Trang 385
+
+---
+
+### Nội dung | Nội dung
+
+Tiết Thụy trước tiên gắp một miếng thịt kho. Nước sốt trên thịt rất đặc và không nhỏ giọt khi anh gắp lên. Cả miếng thịt được đưa vào miệng, cảm giác lấp đầy trong miệng đặc biệt vui sướng.Dùng răng dùng một chút lực ép, thịt nạc bị vỡ thành vô số mảnh nhỏ, nước thịt trộn với nước sốt từ đó chảy ra, giống như magma xuyên thủng các vết nứt trên vỏ trái đất, hoàn thành việc bùng nổ mùi thịt thơm ngon trong miệng.Phần mỡ của thịt kho được làm mịn, nhai êm hơn, vị béo đậm đà tỏa ra khi mỡ tan dần."Này, thịt này thơm quá. Thịt được hầm khéo đến mức nước không bị mất đi chút nào, không tệ chút nào." Khi Xue Rui nói, hơi thở của anh có mùi thơm. Anh ăn thêm một miếng nữa và không để ý đến nước sốt béo ngậy trên miệng."Ừ, nguyên liệu ở đây rất tươi ngon, tay nghề của đầu bếp cũng rất tốt, làm một món ăn bình thường cũng không tệ." Fei Hongwei đặt thịt lên trên cơm đã dính nước sốt và có vị như thịt. "Mau ăn bào ngư đi." Thịt bào ngư trơn đến mức trượt vào môi và răng. Khi bạn cắn một miếng, nó mềm mại và đàn hồi. Với một vết cắn như vậy, nước ép dồi dào bên trong sẽ chảy ra ngoài.Nước sốt cực tươi và nước sốt om được trộn lẫn với nhau. Sự va chạm giữa biển và đất này đơn giản là ngon. "Trời ơi, tươi quá. Hải sản này mới đánh bắt à?" Xue Rui ăn xong một miếng bào ngư và ngậm nước ép giữa hai hàm răng."Bạn đã nếm thử chưa? Nó vẫn có vị ngọt, không phải vị ngọt của đường mà là vị ngọt tươi của hải sản."Fei Hongwei nuốt cơm. "Ừ, ừ! Tôi thấy vị ngọt cũng rất đặc biệt."Xue Rui dùng thìa múc một ít súp trộn với cơm, sau đó thêm một ít bào ngư và thịt lợn kho vào rồi cho vào miệng. Cả hai loại thịt đều rất mềm nhưng cảm giác mềm lại khác nhau.Lớp ngoài của thịt kho hơi thô nhưng khi nhai sẽ vỡ thành từng miếng, bên trong rất mềm. Bào ngư mịn như gân mềm, không có bất kỳ lực cản nào trên lưỡi. Điểm chung là thơm, ăn cơm rất hợp. "Đây, chúng ta uống một ly."Xue Rui ăn vui vẻ và cầm ly rượu lên."Tôi ước gì chúng ta...nói sao nhỉ...có được ngày này hàng năm, và ngày này hàng năm!" Phí Hồng cười, Tiết Thụy cũng cười, bởi vì Phí Hồng cũng đã nói như vậy trong bữa tối tốt nghiệp.Xuống với rượu sake.Lúc đầu thì mát, nhưng chỉ sau vài phút, mọi thứ từ lưỡi đến má, từ cổ họng đến bụng đều ấm lên. Tác dụng ấm áp và kích thích độc đáo của rượu mở ra mùi thơm của thịt. Mùi thơm của rượu và thịt hòa quyện vào nhau khiến người ta cảm thấy dễ chịu khắp người.Một số món xào lần lượt được phục vụ. Fei Hongwei và Xue Rui giống như đang ăn trên bàn chạy. Mọi món ăn đều được bày ra. Hai người vừa ăn vừa ợ hơi, không muốn rời đi. Họ phải ăn một lúc, nghỉ ngơi một lúc rồi mới từ từ ăn xong."Đồ ăn ở nhà hàng này ngon quá, tôi phải xin ông chủ đi công tác đến đây mới có thể ăn hàng ngày ở nhà hàng này." Xue Rui cười nói, vuốt ve cái bụng tròn trịa của mình, nhưng vẻ mặt lại rất nghiêm túc."Được, được... Nhân tiện, nếu cậu vẫn thích âm nhạc, cậu có thể lên sân thượng. Thỉnh thoảng sẽ có ban nhạc chơi trên sân thượng. Chất lượng khá tốt." Fei Hongwei chợt nhớ đến điều này, ngồi thẳng người và nghiêng người về phía trước."Và bạn biết đấy, tôi nghe nói anh chàng chơi trống trong ban nhạc ở tầng trên là đầu bếp ở đây." Chương 174
+Trà sữa khoai môn xay nhuyễn đường hạt dẻ rang "Đầu bếp,
+Đánh trống? "Xue Rui mở to mắt, cho rằng mình nghe nhầm nên cùng Fei Hongwei kiểm tra lại, gật đầu cười nói.“Giới trẻ ngày nay,
+Thực sự, không có sự chậm trễ giữa thực tế và giấc mơ. "Xue Rui lẩm bẩm,
+“Chúng ta có nên đi lên và xem xét sau không?” "Thật đáng tiếc hôm nay không có ban nhạc biểu diễn." Phí Hồng mở điện thoại ra xem ngày tháng.
+"Thông thường nó chỉ có vào các tối thứ sáu, thứ bảy và chủ nhật." "Đó là nó,
+Đó là một chút đáng tiếc. "Xue Rui gãi đầu,
+“Nhưng lần sau tôi sẽ đến đây vào cuối tuần để hai anh em chúng ta có thể gặp lại nhau.
+Bạn cũng có thể xem một ban nhạc biểu diễn. "Được, không có vấn đề." "Fei Hongwei gật đầu liên tục,
+Anh nâng ly lên và nâng ly chúc Xue Rui lần nữa.Sau khi hai người uống rượu xong, điện thoại di động của Fei Hongwei reo lên. Anh liếc nhìn nó, ánh mắt lập tức trở nên dịu dàng.
+Nhấc máy cuộc gọi thoại. "Này vợ, tôi vừa ăn xong ở đây và sẽ về nhà sớm thôi." Fei Hongwei mỉm cười nói:
+"Với ai? Tôi ăn cùng bạn đại học Xue Rui... Cậu quên à?
+Bạn cùng lớp đại học của tôi...ừ,
+Nam. "Vợ tôi đang kiểm tra bài viết à?" "Xue Rui nhẹ nhàng hỏi với một nụ cười."Ánh,
+Vợ tôi muốn xem bạn có phải là đàn ông không. "Fei Hongwei chỉ vào điện thoại di động."Được rồi, hahaha." Xue Rui càng cười vui hơn.Để chuyển cuộc gọi thoại sang cuộc gọi video, Fei Hong đã quay camera về phía Xue Rui,
+Xue Rui đều mỉm cười,
+Anh vẫy tay rộng rãi: "Xin chào ~" "Ừm,
+Xin chào. Fei Hongwei chào vợ, sau đó bầu không khí trở nên có chút khó xử. Cô nhanh chóng cắt bỏ sự xấu hổ và nói: "Không có gì đâu. Chỉ cần ăn thôi. Tạm biệt." "Cuộc gọi video đã cúp máy, Xue Rui cảm thấy hình bóng vừa lóe lên trên điện thoại có vẻ quen quen: "Này, vợ anh là... người cùng trường đại học à..." "Đúng vậy, cô ấy là bạn gái thời đại học của tôi. Cô ấy kết hôn vài năm sau khi tốt nghiệp. "Anh ơi, anh có thể làm được." Xue Rui ngạc nhiên và thở dài, "Thật không dễ dàng gì để ở bên nhau sau bao nhiêu năm mà vẫn tình cảm như vậy." Đang nói, điện thoại của anh cũng reo lên. Anh nhìn dãy số rồi nhanh chóng nhấc máy. "Này, Qinqin, à, bố đang dùng bữa với chú, lát nữa bố sẽ mua quà lưu niệm cho con.Đừng lo lắng, à." Xue Rui trông cao và mập nhưng lại nói chuyện rất nhẹ nhàng với người đối diện, như đang trêu chọc một đứa trẻ. Xue Rui cúp điện thoại, nụ cười tươi tắn hiện lên trên mặt Fei Hongwei: "Theo độ tuổi của anh, con gái anh không nên học cấp ba sao?Sao anh lại nói chuyện như một đứa trẻ vậy." "Đây là con gái thứ hai của tôi, năm nay mới vào tiểu học, rất dễ thương." Xue Rui cười và lấy ảnh của con gái ra cho Fei Hongwei xem.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:23:03*

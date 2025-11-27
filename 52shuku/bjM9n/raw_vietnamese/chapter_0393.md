@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 393 Trang 393
+
+---
+
+### Nội dung | Nội dung
+
+"Các chị em, đi tìm con vịt đi!" Đây là lần đầu tiên nhà hàng Nianjia có cảnh ăn mì tập thể hoành tráng như vậy. Cua mùa thu đang béo lên. Hầu như bàn nào trong quán cũng có tô bún riêu nóng hổi, ​​thơm phức mang lại cảm giác dễ chịu cho người thưởng thức trong tiết trời se lạnh.Mười hai giờ trưa đã sớm đến, cuộc bỏ phiếu kết thúc. Nhân viên chuyên điều hành tài khoản ẩm thực Nianjia Xiaoguan đã công bố hai mươi bức tranh hàng đầu và biệt danh của các họa sĩ trên bản tin.Tuổi cũng được công bố trên đài phát thanh tại hiện trường. Nếu có hai mươi người đứng đầu thì có thể trực tiếp nhận giải thưởng.Bún riêu làm giải thưởng khác hẳn bún riêu mới. Điều này đã được thông báo trước trong bản tin.Địa điểm nhận giải thưởng là tại quầy lễ tân ở tầng 1. Ở đó đã có người tụ tập rồi, ba tầng bên ngoài và ba tầng bên ngoài, chỉ để chờ người đến nhận giải và xem sự khác biệt."Tôi ở vị trí thứ sáu! Tôi ở vị trí thứ sáu! Hahahahahahaha!" Một cậu bé trông khoảng mười tuổi chạy nhanh tới và bị trôi khi quay lại. Kết quả là anh bị ngã vì sàn quá trơn.Trên mặt hắn tràn đầy vui mừng, hoàn toàn không quan tâm đến vật lộn, lập tức đứng dậy.Những thực khách vây quanh quầy lễ tân đều cảm thấy tươi mới và nở nụ cười trên môi, nhường chỗ cho anh.Sau khi kiểm tra thông tin danh tính của anh ta, các giải thưởng bắt đầu được thực hiện và chẳng mấy chốc chúng đã được mang ra.Thực khách xung quanh nghểnh cổ lên xem món bún cua trúng thưởng. Ngoài cấu hình ban đầu là mì cua có thêm một lớp, phần này còn được thêm nửa bát đuôi tôm càng cay.Đuôi tôm mè bóc vỏ có màu đỏ tươi kích thích vị giác. Mỗi chiếc đuôi tôm có hình dạng một quả bóng nhỏ, đặc biệt dễ thương khi trải rộng trên bề mặt.Nếu nhìn xuống bát bún riêu giải thưởng, bạn sẽ thấy một nửa sợi mì trắng như tuyết có màu vàng, một nửa có màu đỏ rực, mùi thơm ngào ngạt."Ồ——" Chương 178
+Gương mặt cậu bé lộ ra niềm vui khó kìm nén khi được ăn mỳ tôm càng cay.
+Anh bưng mỳ trở lại bàn giữa tiếng reo hò của mọi người. Lần này hắn không dám chạy trốn. Anh bước đi thận trọng, sợ một vệt thịt hoặc đuôi tôm lọt ra ngoài.Những chiếc đuôi tôm, tôm bao phủ nửa tô mì có màu đỏ tươi.
+Ngoài ra còn có một lớp dầu mờ trên bề mặt,
+Thật khó để không thu hút sự chú ý của người khác,
+đi hết chặng đường,
+Một số người nhìn anh với ánh mắt ghen tị.Cha mẹ cậu bé mỉm cười,
+Hãy quan sát anh ấy cẩn thận đặt chiếc bát lên bàn."Đây là phần thưởng!" Cậu bé ngồi vào chỗ của mình không khỏi nhảy cẫng lên vì sung sướng."Ồ,
+Có rất nhiều tôm càng. Tôi nghĩ mì của người khác được ăn kèm với nhiều loại rau.
+Có chút ý nghĩa tôm viên, không ngờ ông chủ lại thành thật như vậy. “Mắt mẹ cậu bé sáng lên khi nhìn thấy những viên tôm.“Ở đây có rất nhiều thịt cua, cảm giác như mỗi sợi mì đều có thể phủ đầy thịt vậy.” Cha của cậu bé nói:
+Anh mím môi."Tôi sẽ cho bạn một ít." Sau khi cậu bé giành được giải thưởng, cậu bé rất vui mừng và hào phóng chia sẻ chiến lợi phẩm của mình với gia đình."Con trai chúng ta hôm nay thật thông minh!" Sau khi cậu bé chia cho bố mẹ một ít đuôi tôm và thịt cua, cậu bé cũng tự tay nhặt được một chiếc đuôi tôm.Đuôi tôm khi cầm lên có cảm giác rất chắc chắn.
+cho nó vào miệng,
+Vị giác đầu tiên của nước ép cay đã khơi dậy vị giác.Bạn có thể cảm nhận được nó khi nhai nó,
+Thịt của loài tôm càng này săn chắc hơn so với các loại tôm nước ngọt khác.
+Răng cũng đàn hồi hơn, răng mỗi lần bóp mạnh vào đuôi tôm,
+Có chút nước sốt cay thấm ra từ thịt tôm.
+Mỗi inch đều ngon.Vị thơm tươi của thịt tôm đi kèm với vị cay nồng,
+Vị giác bị nắm chặt, dầu cay tràn ngập hương thơm.Khi cậu bé và gia đình đang thưởng thức bữa ăn, vài phần mì tôm càng cay vừa được dọn ra bàn trong một căn phòng riêng nhỏ trên tầng hai của nhà hàng Nianjia."Wow - biểu diễn ở đây thật tuyệt! Ngoài ra còn có những món ăn ẩn ngoài thực đơn mà bạn có thể ăn!" Khang An Lâu nóng lòng cầm đũa lên, quay đầu nhìn Giang Dung: "Cảm ơn ông chủ Niệm nhiều lắm! Cũng là nhờ Dung tỷ." “Ừ, ừ, mùi thơm quá.” Yin Jiangbei hít một hơi thật sâu, và đôi mắt anh sáng lên.Kang Anlou, Yin Jiangbei và một số người khác đều là những đối tác thường xuyên thực hiện các chương trình trò chuyện với Jiang Rong ở nhiều nơi khác nhau. Lần này, họ sẽ thực hiện talk show vào lúc 2h30 chiều."Được rồi, đừng khách khí nữa, ăn cơm trước đi. Tôi nghĩ nước bọt của cậu sắp chảy ra rồi." Giang Dung mỉm cười, mọi người cũng cười vui vẻ.Cô thổi món mì đang bốc khói. Thứ được trộn với tôm càng không phải là sợi mì mỏng thông thường mà là sợi mì cạo rộng hơn. Từng sợi mì được tráng một lớp nước sốt tôm càng, có màu vàng nhạt.Vừa gắp sợi mì cạo lên đưa lên miệng, tôi đã cảm nhận được mùi cay cay kích thích xộc vào chóp mũi.Khi cắn một miếng, sợi mì cực kỳ mềm và dai, thậm chí khi nhai trong miệng còn phát ra âm thanh dính. Nước sốt hơi cay bao phủ bề mặt sợi mì, nước sốt đọng lại quanh môi bạn.Sau khi liếm, vị cay thích hợp sẽ rơi xuống đầu lưỡi, giống như con kiến ​​nhỏ đang giữ lưỡi bạn. Bạn sẽ cảm thấy hơi đau một chút nhưng sẽ khiến bạn ngon miệng hơn.Sợi mì cạo cũng hấp thụ một phần nước sốt cay, hương vị khác hẳn với kết cấu nhạt nhẽo ban đầu.Trong miệng tràn ngập mùi thơm và vị cay nhẹ của tôm tươi. "Siha, món mì này được chấm với nước sốt tôm càng, có vị như tôm, ngon quá." Trên môi Ân Giang Bắc có chút dầu đỏ nhạt.Cô mím môi và cắn thêm một miếng nữa. "Ngay cả khi không có tôm càng, món mì này cũng đủ ngon! Nó không cứng và khô như mì chết mà mềm và đàn hồi, có cảm giác như đang thở". Kang Anlou gật đầu bình luận."Nói đến tính chuyên nghiệp, thầy Kang." Một số người phía sau cười lớn.Giang Dung cũng cười, nhưng không nói gì, tiếp tục ăn mì trong miệng.Nhét hai viên tôm tròn trịa vào miệng, khi nhai miếng thịt chắc nịch. Vị ngon đặc trưng của tôm cùng vị nhẹ của đạm đã được vị cay thăng hoa, bùng lên cùng nước sốt cay mỗi khi nhai.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:23:12*

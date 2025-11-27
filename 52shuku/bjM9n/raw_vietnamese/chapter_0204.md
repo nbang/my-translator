@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 204 Trang 204
+
+---
+
+### Nội dung | Nội dung
+
+Tiếng ồn mà hai người họ tạo ra còn lớn hơn cả tiếng ồn trong toàn bộ nhà hàng. Niệm Tùy có chút sợ hãi hắn, nhưng bọn họ không muốn hắn ảnh hưởng tới bữa ăn của mọi người, liền trực tiếp đi tới.Thanh Lãng đi theo cô, giả vờ dọn bàn bên cạnh cô, nhưng thực ra chưa bao giờ rời xa cô nửa mét.Niệm Tùy mặc dù giả vờ bình tĩnh đi tới, nhưng hắn vẫn có chút đề phòng Đoàn Cẩm Nguyên, đứng cách xa hắn một chút.Vì thân hình vạm vỡ nên anh mạnh mẽ đến mức có thể đẩy tuổi tác của mình đi vài mét chỉ bằng một cái vẫy tay. Vì những hình xăm khắp cánh tay và vết dao trên cẳng tay, anh ta trông giống như một kẻ lăng nhăng. Cũng vì cách ngồi bắt chéo chân nên anh ấy có cảm giác như một người anh trai."Xin lỗi, tôi nghĩ môi trường yên tĩnh hơn sẽ thích hợp hơn cho mọi người thưởng thức đồ ăn ngon." Niệm Tùy mỉm cười nhắc nhở, chỉ vào điện thoại di động rồi chỉ vào xung quanh.Đoàn Cẩm Nguyên sửng sốt hai giây, sau đó hiểu ý gật đầu: "Ồ, được." Anh vặn nhỏ âm lượng điện thoại, lại hạ giọng, đùa giỡn nhắc nhở Hạ Chiến: “Đừng hát nữa, mọi người đều cho rằng anh hát dở!” Cô không ngờ anh cả của mình lại nói nhiều như vậy. Cô và Thanh Lãng ngơ ngác quay trở lại phòng bếp, như đang chuẩn bị đánh nhau, nhưng bây giờ tất cả đều tập trung vào bông vải."Suỵt, cậu nhỏ giọng đi, tôi tiếp tục giới thiệu cậu!" Giọng nói của Duẩn Jinyuan trầm như thì thầm, vẫn không từ bỏ Amway."Nhìn quả ớt khô này, giòn quá. Tại sao lại giòn? Bởi vì nó được chiên." "Ta nói cho ngươi biết, nhai hai lần, dầu cay sẽ chảy ra, làm ta chảy nước miếng, càng nhai càng thơm, càng thơm càng muốn nhai!" Đoàn Tấn Nguyên bắt đầu ăn, âm thanh giòn của ớt khô lọt vào tai Hạ Chiến, khiến hắn không khỏi nuốt nước miếng."Đoan anh, anh lười quá, anh cho em biểu diễn đồ ăn trong khi em bị gãy xương không ăn được gì ngon, lần sau chúng ta nhất định phải đi cùng nhau!" "Không có gì!" Sau khi Đoàn Cẩm Nguyên trả lời câu cuối cùng, hắn cũng không để ý chút nào. Anh ăn sườn, nhai tủy xương thơm phức, nhai ớt khô.Con người có sự tò mò kỳ lạ. Nói to sẽ khiến người ta cảm thấy ồn ào, nhưng một khi bạn nói nhỏ nhẹ, người ta sẽ vểnh tai lên để nghe.Trong nhà hàng phần lớn người đều nín thở, nghe Đoàn Cẩm Nguyên bày tỏ ý kiến ​​của mình. Dựa theo miêu tả của hắn, bọn họ không khỏi nuốt nước bọt, muốn nếm thử một chút."Tôi muốn thêm rau! Thêm một phần sườn lợn tỏi ớt khô này, vâng! Thêm ớt khô nữa!" "Thịt lợn nghe có vẻ ngon quá! Ông chủ Niên, tôi muốn hai đĩa thịt lợn luộc, một đĩa đã được đóng hộp!" Đoàn Cẩm Nguyên ngoài ý muốn trở thành người đưa tin, lại hoàn toàn không để ý tới cống hiến của hắn. Anh ăn ớt khô, càng ngày càng cay. Vị cay của ớt khô tuy không nồng nhưng sẽ át lên đầu lưỡi.Các lớp vị cay lan từ đầu lưỡi đến gốc lưỡi như một đống gia vị, khiến cả đầu lưỡi như đang bốc cháy. Sau đó nó lan từ lưỡi xuống miệng khiến nửa mặt anh tê dại trong miệng.Lúc Đoàn Cẩm Nguyên tỉnh lại, hắn đã ăn hết nửa đĩa ớt. Khuôn mặt vốn trắng nõn và bụ bẫm của anh bây giờ như thể đã phơi nắng giữa trưa cả tiếng đồng hồ, đỏ bừng, trên trán lấm tấm mồ hôi."Lão đại...chà...anh có bia không? Tôi muốn uống lạnh...shasha..." Đoàn Cẩm Nguyên lau mồ hôi, vẫy tay chào tuổi.Lần này thời đại đã nới lỏng cảnh giác với anh ta và không còn sợ hãi anh ta nữa.“Xin lỗi, ở đây chúng tôi chưa có bia, chỉ có chút đồ uống thôi.” Đoàn Cẩm Nguyên nghe xong, đập bàn, lông mày rậm nhíu lại, khuôn mặt đỏ bừng như Quan Công, vẻ mặt đặc biệt nghiêm túc: “Không có bia thì không thể làm được!” Tác giả có lời muốn nói:!!Đã đến lúc thay đổi quan điểm!Đóa hoa nhỏ của tôi... đã mất rồi... (tê liệt) (khóc) Chương 97
+Ức gà nướng, trứng và sữa trứng. Vốn dĩ Đoàn Cẩm Nguyên đã thả lỏng cảnh giác.
+Hoảng sợ trước cú đập bàn bất ngờ này, toàn thân anh run lên.“Không có bia…” Đoàn Cẩm Nguyên tiếp tục nói.Gần như cùng lúc đó, Thanh Lãng lập tức di chuyển đến giữa Niệm Tùy và Đoàn Cẩm Nguyên, thu hẹp khoảng cách giữa họ.Hắn đã ước tính được thực lực và quỹ đạo của Đoàn Cẩm Nguyên.
+Nếu Đoàn Cẩm Nguyên ra tay,
+Sói Xanh sẽ ngay lập tức nắm lấy cổ tay anh ta và lật nó,
+Giữ anh ta trên bàn.Khi già đi, tôi cảm nhận được cơn gió thoảng mùi cỏ xanh sau khi bị nắng thiêu đốt,
+Trước mặt tôi là tấm lưng cao và thẳng của Qinglang,
+Anh như một cây cung căng ra, toàn thân căng cứng,
+Sự bất an bao trùm quanh cô biến mất trong chớp mắt."Nếu...nếu anh làm vậy, Siha...mùi vị của thịt sẽ bị ảnh hưởng...Eh? Anh đang làm gì ở đây thế, anh chàng đẹp trai?" Sau khi Đoàn Tấn Nguyên vỗ bàn xong,
+Bạn cần nói chuyện với ông chủ này về tầm quan trọng của bia kết hợp với những miếng thịt lớn.Trong chớp mắt, một bức tường màu xám...không, một người màu xám đứng trước nó,
+Chặn chặt ông chủ.Thanh Lãng đã luyện tập hàng trăm cách để đối thủ tấn công trong đầu. Niệm Tùy vốn là sợ hãi, có chút sợ hoa tay sư huynh tức giận nhấc bàn, đả thương Thanh Lãng.Hai người đang suy nghĩ về chuyện riêng của mình. Khi họ nghe thấy từ "trai đẹp trai",
+Cùng lúc đó, anh choáng váng....Có vẻ như họ không ở cùng một kênh.Giọng điệu của Đoàn Tấn Nguyên là “chia sẻ kinh nghiệm của người sành ăn”, đầy nhiệt tình.
+trở nên bối rối,
+Sau đó anh chợt nhận ra: "Anh là bạn trai của sếp phải không? Tôi dọa sếp à?" Đoàn Cẩm Nguyên cười lớn: “Gần đây ta chơi mạt chược không ít.
+Tôi luôn thích đập bàn nhưng bây giờ tôi ăn quá nhiều và âm thanh quá lớn.
+Xin lỗi xin lỗi. "Thanh Lãng nhìn lại tuổi tác nói:
+Cô ngạc nhiên gãi đầu
+Cô nắm lấy cánh tay anh và ra hiệu "Không sao đâu".Thanh Lãng gật đầu, quay sang Đoàn Cẩm Nguyên: “Không sao đâu, cậu chỉ cần nhỏ giọng xuống, đừng làm cô gái sợ hãi.” Nói xong, anh quay người đi vào bếp. Đoàn Tấn Nguyên nhìn thấy hắn tóc đuôi sói, lạnh giọng bổ sung: "Được rồi! Đẹp trai, tóc của ngươi cũng khá ngầu!" Đoàn Cẩm Nguyên vừa nói xong liền che miệng lại, âm lượng thấp hơn rất nhiều: “Ta nói lớn quá phải không?”
+
+---
+*Thời gian thế hệ: 2025-11-27 13:19:43*

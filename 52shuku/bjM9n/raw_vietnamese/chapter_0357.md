@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 357 Trang 357
+
+---
+
+### Nội dung |Nội dung
+
+Cặp đôi không buồn bàn luận về mùi vị của món ăn. Họ chỉ việc nhặt cơm lên và ăn thôi.Khi Kiều Hoài Viễn đặt bát xuống, đáy bát đã hoàn toàn trống rỗng, ngay cả miếng súp cuối cùng cũng bị cô dùng đũa gắp vào miệng. Ngọc Lương cũng đặt bát đũa xuống, ngơ ngác nhìn những chiếc đĩa trống rỗng.Có vẻ như bát đĩa đã trống rỗng trước khi anh tỉnh lại. Hai người lau miệng với những suy nghĩ còn dang dở thì thấy người phục vụ lại bưng đĩa cơm đi về phía họ.Những món đồ được giao lần này có vẻ rất bất thường, bởi vì khi người phục vụ đi ngang qua, ánh mắt của tất cả thực khách đều bị thu hút. Điều thu hút họ không chỉ là thị giác mà còn cả mùi vị.Dưới sự chú ý của hàng chục người, người phục vụ đặt những món ăn vàng óng thơm ngon trước mặt hai người. Tác giả có lời muốn nói: Chương 161
+Pizza Cua Trứng, Đậu Phụ và Giăm Bông "Wow... đây là món gì vậy? Thơm quá..." "Tôi không nghĩ nó có trong thực đơn?"“Hai người cùng bàn vừa nói chuyện với sếp Niên,
+Đó phải là một người bạn, được tạo ra đặc biệt dành cho họ. "Thật ghen tị... Suck..." Mọi người đang nhỏ giọng thảo luận, những ánh mắt ghen tị vây quanh cặp đôi. Kiều Hoài Viễn không quan tâm nhìn người chung quanh, ánh mắt hoàn toàn bị trước mắt hai cái đĩa hấp dẫn. Một đĩa là cua hấp thơm,
+Vỏ cua đầy đặn và sáng bóng có màu vàng cam đồng đều.
+Những chân cua được xếp gọn gàng lại với nhau,
+Cua trên đĩa lớn,
+Xếp thành vòng tròn xung quanh chiếc đĩa nhỏ đựng nước chấm ở giữa,
+Rất gọn gàng. Chiếc đĩa còn lại thoạt nhìn trông giống như đậu phụ, nhưng nhìn mùi thơm bạn có thể biết rằng món đậu phụ này không hề đơn giản chút nào. Hãy nhìn kỹ hơn,
+Ở giữa miếng đậu phụ có nhiều chấm vàng, cam nhạt, vàng là thịt cua.
+Món cam là mắm cua, bên dưới đậu phụ là súp đầy hương vị hải sản. Một ngụm sẽ kích thích sự thèm ăn của bạn trở lại. “Tôi chỉ ăn đủ thôi,
+Bây giờ tôi lại cảm thấy bụng mình hơi trống rỗng."Kiêu Hoài Viễn ngửi thấy mùi thơm, sờ bụng. "Ta cũng vậy." Ngọc Lương ngầm hiểu nhìn nàng. Hai người nhìn nhau mỉm cười, mỗi người gọi một phần cơm khác. Dùng thìa múc vài thìa đậu phụ trứng cua đặt lên trên cơm. Đậu phụ chạm nhẹ sẽ vỡ thành từng mảnh, cùng với nước súp sẽ sền sệt vào các khoảng trống trên cơm.
+Giống như đi đến tận cùng của mọi việc,
+Thịt cua còn lại trên cơm. Khuấy vài lần,
+Cơm được bọc trong nước súp màu vàng cam trong suốt.
+Múc một thìa nhẹ nhàng cho vào miệng,
+Thịt cua mềm và thái nhỏ,
+Nhai nhẹ và xé thịt,
+Đậu phụ mềm và mịn đến nỗi nó sẽ vỡ thành từng miếng chỉ bằng một lực nhẹ trên lưỡi. Cơm đầy nước súp phủ kín đầu lưỡi với mùi thơm của thịt cua và vị tươi của đậu phụ. Càng nhai, hương vị hải sản càng độc đáo và thơm ngon. Kết cấu đậm đặc của chả cua tan chảy trên đầu lưỡi, mùi thơm béo và vị ngọt nhẹ cũng tỏa ra, khiến món ăn trở thành một bữa ăn hoàn hảo. Nhưng nguyên liệu cho bữa ăn cuối cùng phải phụ thuộc vào khả năng có hạn của dạ dày. Tiêu Hoài Viễn ăn ba thìa, động tác chậm lại, bụng lại no.Yu Liang cũng vậy. Ăn được vài miếng, anh bắt đầu ợ hơi và không thể ăn được nữa.Cả hai món ăn này đều có thể được đóng gói đi một cách đơn giản.Hai vợ chồng không nỡ lãng phí nên đã gói ghém và mang đi.Khi người phục vụ gói cua hấp, Tiêu Hoài Viễn nghe thấy những người ở bàn xung quanh thở dài "A-".Cô tưởng rằng đó là ảo giác của mình, nhưng cô không biết rằng những người xung quanh đang âm thầm quan sát, muốn nhìn thấy hai vợ chồng ăn cua hấp mà không thể làm dịu cơn khát.Trong bàn có mấy người nhìn Tiêu Hoài Viễn và Ngọc Lương xách hai túi đồ ăn ngon để tiễn biệt tuổi già.Một số người sửng sốt một chút, viết sổ ý kiến trên bàn.“Tết ông chủ, mùa thu đến rồi, cua càng ngày càng béo. (Ánh mắt gợi ý)" "Những người sành ăn đang đói ở đâu? Trứng cua ở đâu? Cua lông đâu rồi?”“Cua thơm quá. Đói, đói."... Sau khi mọi người viết xong, họ cũng dùng nhiều kiểu khác nhau để vẽ nguệch ngoạc những con cua và trứng cua mà họ vừa nhìn thấy, đồng thời điên cuồng đề nghị thêm rau.Một số người hài lòng nhìn vào kiệt tác trong cuốn sách và đóng cuốn sách lại.- Khi Qiao Anan đến nhà hàng Nianjia Garden, đã là ngày thứ hai khai trương.Vốn cô muốn đến rất sớm, nhưng muốn tránh đông người nên chỉ đến vào ngày hôm sau.- Đứng trước tòa nhà cao hai tầng và nhìn ra ngoài Bức tường bên ngoài giống như lâu đài của nhà hàng, Kiều An An sửng sốt nhìn nhân viên tiếp tân mặc trang phục lịch sự trước cửa, sau đó nhìn vào điện thoại, đi theo lộ trình đăng trên tài khoản đồ ăn của Nhà hàng Nianjia, đi một vòng rồi đi đến cửa phụ bên cạnh, trước cửa không có ai.Để đánh số, một người có thể đi qua, sau khi Qiao Anan bước vào, cô nhìn thấy một khu vườn đầy người trước mặt, ngay cạnh cô là cầu thang dẫn lên tầng hai, cô cắn môi vội vàng leo lên cầu thang đến khu vực vắng vẻ trên tầng hai, đẩy cánh cửa gỗ dày dặn, có hoa văn ra, bên trong yên tĩnh hơn nhiều so với bên ngoài.Để giữ khoảng cách với đám đông, dù ở nơi riêng tư hay nơi công cộng, cách sắp xếp chỗ ngồi rộng rãi như vậy khiến cô cảm thấy an toàn ngay lập tức, cô tìm một chỗ ngồi bên cửa sổ và ngồi xuống một cách dễ dàng, cô đang suy nghĩ làm thế nào để ra ngoài và bảo người phục vụ ở tầng hai gọi món.Khi cô di chuyển tay, Qiao An'an thực sự nhìn kỹ hơn vào biển số.trượt để đặt món ăn "Thật là một thiết kế thân thiện với người dùng. Sếp rất chú ý đến nó."Qiao Anan thở dài.Sau khi gọi món cô muốn ăn, biển số nhấp nháy và vang lên.Cô tưởng món cô gọi đã sẵn sàng, nhưng không ngờ rằng màn hình hiện ra rằng cô đã trúng được món miễn phí hôm nay - pizza giăm bông và ngô.Cầm bảng số nhấp nháy trên tay, tim Qiao Anan đập thình thịch. Cô vừa bước vào cửa hàng đã gặp phải chuyện tốt như vậy.Một lúc sau, người phục vụ mang pizza và món ăn của Joan đến, đặt nhẹ nhàng đặt chúng trước mặt cô và nói nhẹ nhàng "Hãy sử dụng nó từ từ" khi rời đi.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:22:32*

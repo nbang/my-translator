@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 291 Trang 291
+
+---
+
+### Nội dung | Nội dung
+
+Hai người tuy không quen biết nhau nhưng lại có khí chất giống nhau.Chương 131
+Chúc mừng sinh nhật Mì Trường Sinh "Này,
+Bạn đang ở đây. "Đôi mắt của Nian Sui sáng lên khi nhìn thấy đó là Zhu Yining."Đúng vậy, ta biết ngươi tiểu cô nương đang mở cửa hàng, hãy thử tay nghề của ngươi đi." Chu Âm Ninh mỉm cười nói:
+Chỉ vào cái đĩa trống trước mặt,
+“Nó ngon quá.
+Khi đến nhà hàng, tôi đã có cảm giác thèm ăn rất lớn.
+Chỉ cần ăn xong món cuối cùng. "Những điều này không nhất thiết phải do tôi thực hiện,
+Có lẽ nó được làm bởi các nhân viên trong cửa hàng của tôi. Tay nghề của họ rất tốt. "Niên Tùy cười nói:
+"Tôi sẽ cho bạn xem còn thứ gì bạn đã đặt hàng nhưng chưa nhận được." Niệm Tùy nhìn vào danh sách rồi nói:
+Chỉ vào phi lê cá chua cay: “Chờ một chút, tôi làm món này.” "Được rồi, được rồi!Chúng ta chỉ đang đợi ăn thôi!" Niệm Tùy chú ý tới cô nói "chúng ta", không chỉ Chúc Dĩnh Ninh và ông già ngồi đối diện cô, bọn họ đều có một cái huy hiệu nhỏ trước ngực, những người ở mấy bàn xung quanh đều có huy hiệu giống nhau.
+Giống như một loại tổ chức nào đó. Chu Dật Ninh chú ý đến ánh mắt Niệm Tùy, mỉm cười vỗ cằm ông lão đối diện: “Ông có nhớ người đăng ảnh ở thủy cung không?Tìm được rồi!" "Tôi tên là Triệu An Khang, xin chào." Ông già đưa tay ra và bắt tay Nian Sui một cách lịch sự. "Ồ,
+Tìm thấy nó rất nhanh,
+Tôi tưởng phải mất ít nhất vài tháng mới tìm được nó.
+Rốt cuộc, có rất nhiều người trong bể cá.Nian Sui ngạc nhiên nói. “Lão Chu vẫn thông minh,
+Sau khi cô ấy ở lại thủy cung vài ngày, khi tôi gửi ảnh cho mọi người,
+Tôi đã lấy lại được một cái,
+Nói rằng anh ấy muốn tham gia cùng chúng tôi,
+Sau vài ngày đăng bài như thế này, chúng tôi liên lạc được và cô ấy đã gia nhập tổ chức của chúng tôi. Zhu Yining tiếp tục giải thích: "Đây là một tổ chức tình nguyện phi chính phủ. Hiện tại đang thúc đẩy việc bảo vệ động vật biển. Chúng tôi thường cùng nhau phân phối kiến ​​thức khoa học liên quan trên mạng, và chúng tôi cũng đang chuẩn bị tổ chức một buổi thuyết trình từ thiện tại trường đại học vào tháng tới!" "Nian Sui nghe nói tổ chức tình nguyện này có lẽ khá đáng tin cậy.Khi nhìn thấy Zhu Yining, đôi mắt anh ấy sáng hơn trước. "Thật tuyệt. Tôi thấy rằng bạn đang có tinh thần tốt hơn. Bạn có thấy vui khi được làm điều mình thích không?” “Đúng vậy! Tôi cảm thấy mình trẻ ra hai mươi tuổi, có nhiều nghị lực hơn trong cuộc sống." Nụ cười của Zhu Yining trở nên sâu hơn.Mặc dù nếp nhăn cũng sâu hơn, nhưng khuôn mặt cô tràn đầy hạnh phúc. Có người gọi Nian Sui trong bếp. Cô đáp lại và quay lại nhìn Zhu Yining: "Vậy anh ăn trước đi, tôi sẽ làm món phi lê cá chua nóng cho anh." Các món ăn phi lê cá, còn có rất nhiều món thay thế, bắp cải non, nấm kim châm, mì sợi mỏng lên bàn. "Chúng ta ăn đi, xem cô hàng xóm nấu có ngon không!"Chu Ân Ninh ra tay chào hỏi, Triệu An Khang sốt sắng di chuyển đũa, miếng cá phi lê mềm mại, đầy đủ chất đạm, vị nhẹ nhàng, bởi vì được nước súp nóng hổi từ ngoài vào trong thăng hoa nên mỗi centimet sau khi nhai đều đặc biệt thơm ngon.vị chua thanh mát cùng vị cay cay hòa quyện tạo nên hương vị thơm ngon đặc biệt trên vị giác.Lá bắp cải non vốn đã mềm như lụa, bắp cải hít vào, mỗi lần nhai, nước súp thơm lừng quyện với nước của chính bắp cải, tràn ra. dùng đũa gắp sợi mì cùng với nước súp vào trong miệng, cảm giác mềm mại và nước súp hòa quyện vào nhau khiến người ta ăn thích thú "Ồ, ngon quá! Ngon quá."Triệu An Khang cắn một miếng mì lớn, ăn cùng mấy miếng cá mềm thơm, nhai nuốt nuốt vào, vị chua cay tràn ngập trong ruột, không khỏi kêu lên: "Ngon quá, ngon quá! Chẳng trách hôm nay tôi thấy nhiều người gọi món này đến thế. Nhà hàng của cô gái hàng xóm của bạn rất nổi tiếng. "Mọi người đến cửa hàng đều có gu ngon!" "Ừ, môi trường rất tốt.Tôi thường xuyên đến đây và cảm thấy rất thoải mái." - Vì sự có mặt của Zhu Yining nên Nian Sui tập trung vào họ nhiều hơn. Khi đi ngang qua chiếc bàn bên cạnh, anh nhận thấy một ông già khá gầy đang ngồi ở đó. Ông già trông có vẻ đã bảy mươi, tám mươi tuổi. Anh ta gầy đến mức có thể nhìn thấy được đường viền của xương. Hốc mắt của anh hơi trũng xuống. Dù đang là mùa hè, anh ấy đội một chiếc mũ len màu đen nhưng dường như không có tóc. Tôi đã chú ý đến anh ta từ khi anh ta bước vào, bởi vì ông già này bước đi rất chậm, kể cả bây giờ khi nhìn vào menu, dù là tốc độ đọc hay tốc độ lật trang, dường như đã chậm lại rất nhiều lần. Nhìn thấy anh lật qua thực đơn từ đầu đến cuối, lại từ đầu đến cuối, giống như không tìm được món mình muốn ăn, Niệm Tùy Văn đi tới muốn giúp anh. "Xin chào, bạn muốn gọi món gì?" Nghe thấy tiếng tuổi tác, ông lão từ từ ngẩng đầu lên cười toe toét, chỉ lộ ra vài chiếc răng, hơi giống một đứa trẻ mất răng. "Tôi muốn ăn gì đó nhưng ở đây không có." Ông lão chỉ vào thực đơn, tay hơi run."Bạn muốn ăn gì?" Niệm Tùy tiếp tục hỏi. Cô nghĩ dù sao thì trong cửa hàng cũng không thiếu nguyên liệu. Ông già đã quá già và đã xếp hàng bên ngoài rất lâu.Anh ấy chắc chắn rất muốn ăn những món ăn ngon trong cửa hàng.Cho dù anh ấy có nấu vài món đặc biệt cho anh ấy thì cũng chẳng ra gì.“Tôi muốn ăn, tôi muốn ăn mì trường thọ, loại có trứng.” Ông lão nói, cái miệng không còn răng vẫn còn hơi rỉ ra, khi cười thì cong mắt: “Bởi vì hôm nay, hôm nay là sinh nhật của ta.”Niệm Tùy nghe vậy hơi giật mình, lập tức cười đáp: “Trong cửa hàng chúng tôi có mì trường thọ, ở một trang khác viết “Có trên thực đơn, vậy nên không có trong thực đơn này. Ngoài mì trường sinh ra còn muốn gì nữa không?” “Không còn gì nữa, tôi không thể ăn nhiều được.” Ông lão vừa nói vừa mò mẫm trong túi, lấy ra mấy tờ tiền nhàu nát trong đó, cố gắng vuốt phẳng từng tờ một. Khi Niệm Tùy nhìn thấy tiền, trong lòng nhẹ thở dài: “Một bát mì trường sinh giá năm tệ.Ngoài ra, tôi muốn hỏi, bạn có thể uống sữa không?"
+
+---
+*Thời gian thế hệ: 2025-11-27 13:21:19*

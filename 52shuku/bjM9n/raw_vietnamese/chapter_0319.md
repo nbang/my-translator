@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 319 Trang 319
+
+---
+
+### Nội dung | Nội dung
+
+Niệm Tùy vừa nói xong, mọi người bắt đầu thấp giọng thảo luận sôi nổi. Trên thực tế, không ai ngạc nhiên về việc mở rộng cửa hàng.Dù sao, trước cửa hàng mỗi ngày đều có rất đông người, muốn chuyển đến một nơi lớn hơn chỉ là vấn đề thời gian, nhưng không ai ngờ rằng lại sớm như vậy."Niên lão đại, xin hỏi cửa hàng mới lớn bao nhiêu? Có phải lớn gấp đôi cửa hàng hiện tại không?" Yến Lăng Xuyên giơ tay lên.Niệm Tùy mỉm cười lắc đầu."Thì ra cũng không lớn đến thế, xem ra thực khách lại phải xếp hàng." Thái Thương Thiên cười nói."Không, không, nó lớn hơn gấp đôi rất nhiều, lớn hơn rất nhiều." Nian Sui mỉm cười, "Trang trí cũng sẽ rất đẹp, nhưng tạm thời sẽ giữ một chút bí ẩn ~ để mọi người có chỗ cho trí tưởng tượng. Một hoặc hai tháng nữa, chúng tôi sẽ quay lại để xác nhận xem cửa hàng mới thực sự sẽ trông như thế nào ~" "Tôi xong rồi, mọi người có thể bắt đầu ăn!" Niệm Tùy nói xong, mọi người thảo luận càng thêm kịch liệt, nhưng rất nhanh, lại trở thành lúc ăn cơm thảo luận, bởi vì đồ ăn thơm quá, khó mà không thu hút sự chú ý.Bề mặt của toàn bộ con vịt có màu nâu vàng ngon miệng. Pu Liangzhou lấy một con dao và cắt dọc trên đó. Da mềm tách trực tiếp dọc theo lưỡi dao.Thịt vịt bên trong được ninh rất lâu, từng miếng thịt lộ ra những sợi xơ, hòa quyện với gạo nếp trong lòng vịt, tỏa ra mùi thơm nồng nàn.Pu Liangzhou chỉ cắt một lần và không tiếp tục vì thịt vịt giòn đến mức dùng thìa xé ra nên không cần thiết phải cắt.Mọi người đều nuốt nước miếng, mỗi người lấy một miếng bỏ vào miệng.Da vịt hơi giòn, có mùi thơm rang, thịt bên trong hơi thô nhưng khi nhai nhẹ sẽ thành thịt băm. Toàn bộ nước sốt được gói chặt bên trong miếng thịt vịt.Trong quá trình ninh, một lượng lớn nước xốt thấm vào cơm nếp khiến xôi trở nên dẻo và hơi nâu, thơm ngon mềm mại, thơm lừng mùi thịt trong miệng. "Tiểu Cửu, ngươi muốn ăn cái này sao?"Ông Yin Yihui gần như coi Lijiu như cháu gái của mình trong thời kỳ này. Bất cứ khi nào anh ấy nhìn thấy thứ gì đó tốt, anh ấy đều muốn hỏi xem cô ấy có muốn nó không.Lệ Cửu mỉm cười gật đầu, Ân Nhất Huy vui vẻ dùng đũa gắp một miếng khoai lang cắt nhỏ lớn đặt vào đĩa của mình."Tôi cũng muốn ăn, tôi cũng muốn ăn." Yan Zhanqiu co tay ở mép bàn, ép giọng và cố tình làm ra vẻ khiêu khích với Yin Yihui."Nào nhóc, tự chọn đồ ăn cho mình đi." Yin Yihui không thể chịu nổi khi nhìn các chàng trai hành động khêu gợi. Mặc dù đang cười nhưng trong giọng điệu lại có vẻ chán ghét.“Tự cắt đi ~” Yan Zhanqiu vẫn nhéo cổ họng, chậm rãi nhặt một miếng khoai lang cắt nhỏ lên.Mỗi dải khoai lang dày bằng ngón tay, toàn bộ dải có màu vàng sáng. Bên ngoài có một lớp da cháy nắng. Nó hơi cứng và hơi cháy khi nhai, nhưng càng nhai thì càng ngọt.Bên trong có khoai lang mềm, thậm chí còn hơi chảy nước, như thể dung nham từ dưới đất thấm ra, rơi xuống đầu lưỡi. Nó có kết cấu và vị ngọt đặc trưng của khoai tây.Điều tuyệt vời nhất là những lớp sợi đường vàng phủ lên trên. Mỗi cái mỏng như mạng nhện, gộp lại trông như một làn sương mù mờ ảo.Chỉ cần môi bạn vô tình chạm vào, đường sẽ tan chảy trên môi, bạn sẽ cảm nhận được vị ngọt khi liếm nhẹ.[ngon!] Lijiu làm vài cử chỉ.[Tôi biết bạn thích nó!] Yin Yihui cũng làm vài động tác, vẻ mặt đầy tự hào.[Không liên quan gì đến tôi phải không?] Yan Zhanqiu cũng làm vài động tác khiến Yin Yihui và Lijiu bật cười.Niệm Tùy và Thanh Lãng vốn đang ngồi ở bàn nhân viên. Ăn xong một lúc, họ đến bàn của Đường Vũ Hành và Lục Siêu, chuẩn bị trò chuyện cùng họ.Khi hai người vừa bưng ly rượu và đĩa đi tới, Đường Vũ Hành và Ngải Thần liền ngầm di chuyển sang hai bên nhường chỗ cho hai người."Ngồi xuống, ngồi xuống!" Chương 144
+Hai chúng tôi vừa ngồi xuống quán Squab rang giòn.
+Tôi thấy mọi người ở bàn đều mỉm cười.“Chúc mừng ông chủ Niên.” Ngải Thần lần lượt nâng ly và cụng ly với Niệm Tùy và Thanh Lãng. "Nhưng tôi đã cảm thấy từ lâu rằng việc hai người ở bên nhau chỉ là vấn đề thời gian." Niệm Tùy đỏ mặt.
+Anh cúi đầu uống một ngụm rượu."Tôi cũng nghĩ đó sẽ là vấn đề thời gian.
+Tôi cảm nhận được điều đó ngay khi gặp Anh Qinglang. "Lục Triều Nguyên nén cười,
+Lúc này tôi ăn hai miếng thức ăn,
+Cười rộng hơn."Hả?" Thanh Lãng luôn cảm thấy trong lời nói của mình có ẩn ý gì đó.
+Nghĩ kỹ, tôi chợt nhớ tới tô mì chua cay ngày xưa mình làm.Mặt Thanh Lãng cũng đỏ bừng.
+Anh cầm chiếc cốc lên chạm vào Lục Siêu: “Lúc đó tôi hiểu lầm, xin lỗi.” "Hahaha, không sao đâu.
+Tôi chỉ cảm nhận được thôi, nhưng bữa ăn có vị rất ngon! "Lục Siêu cũng chạm lại hắn.Hai người cùng uống rượu, Đường Vũ Hành lại sửng sốt: "Mật mã của ngươi là gì? Thật thần bí." Lục Siêu xua tay: "Không có gì đâu hahaha." Nian Sui biết họ đang nói về điều gì,
+Anh mím môi và mỉm cười.Đường Vũ Hành cũng không hỏi thêm nữa, bởi vì món mực nướng giòn đã được đặt trên bàn.So với gà, vịt, chim bồ câu có kích thước nhỏ hơn nhưng những con chim non nướng trên đĩa trước mặt lại có kích thước nhỏ hơn.
+Nhưng nó có mùi thơm đậm đà và lâu hơn so với thịt gà và vịt thông thường.Dùng dao cắt chim bồ câu nướng thành từng miếng nhỏ.
+Nơi lưỡi kiếm đi qua,
+Bánh phồng tạo ra âm thanh sắc nét,
+Mỗi người có vài miếng.Lớp da nâu giòn đã trở nên nhăn nheo, những chỗ phẳng mỏng như lá thiếc.
+Phần dính vào xương vẫn mềm và mọng nước.Cắn xương và xé chúng ra từng mảnh,
+Toàn bộ lớp da giòn bị xé ra,
+Nó có vị ngon khi nhai.Nước xốt bên trong có màu đỏ, khi nếm thử sẽ biết cả miếng thịt đã được ướp muối rồi nấu trong nước sốt cay ngọt rất lâu.Lúc đầu có vị mặn, thịt bồ câu mềm đến mức chỉ cần một đòn là có thể bẻ gãy, sau đó có vị cay ngọt ngọt đặc biệt thơm ngon. Nó làm cho miệng chảy nước miếng khi chạm vào đầu lưỡi. Dù có nuốt vào, hương thơm xa xăm vẫn đọng lại trong miệng và đọng lại rất lâu.So với những miếng thịt lớn, bộ xương chim bồ câu lúc này thực sự ngon hơn. Toàn bộ bộ xương đã được chiên giòn, một số xương được bao phủ bởi những miếng thịt vàng óng, có thể nhai trực tiếp.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:21:50*

@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 400 Trang 400
+
+---
+
+### Nội dung | Nội dung
+
+Lần này ngọn lửa còn lớn hơn, “xiên” được thực hiện rất mạnh, nhưng lần này bụng lợn cũng không tiếc, đen như than cốc, sau đó lửa tự tắt. "Hít, rít, hahahahaha, tuyệt vời!"Lý Vân Hương nhìn khối thịt bụng lợn đen kịt, không khỏi bật cười. “Tôi vừa nhìn thấy gì thế?”Lạc Giang Thần cường điệu dụi mắt."Bạn vừa nhìn thấy hiệu ứng đặc biệt của ngọn lửa năm xu." Hoắc Quân nhéo cằm, giả vờ phân tích sâu sắc.Cui Weihan và Bao Xiaowei ôm nhau, cười đến mức suýt rơi nước mắt: "Sản lượng than năm nay phụ thuộc vào các bạn!" “Người đẹp, bụng lợn béo và gầy rải rác chỗ này chỗ kia, không cần phết nhiều dầu như vậy, cứ để mỡ tự nó tách ra là được.” Người phục vụ nhìn hồi lâu, cuối cùng không nhịn được mà đi tới hỗ trợ."Được rồi, cảm ơn bạn!" Đường Quân nhận lấy miếng thịt ba chỉ nướng từ người phục vụ. Người phục vụ mỉm cười gật đầu rồi đi sang các bàn khác để xem liệu anh ta có thể giúp được gì không.Đường Quân nhai miếng thịt lợn nướng, có chút không cam lòng. Ăn xong miếng cuối cùng, cô lấy xiên sống: “Này, tôi vẫn chưa tin, nhất định phải nướng một xiên ăn được mới được.” "Cố lên!" Mặc dù có nhiều người khác cố nhịn cười nhưng họ vẫn động viên cô.Cuối cùng, một đống thịt ba chỉ không bắt lửa hoặc cháy thành than đã ra khỏi lò. Đường Quân vui mừng khôn xiết. Mọi người đứng gần đó vỗ tay, cô nhanh chóng nướng thêm vài xiên để chia sẻ với mọi người."Bạn có cảm giác thành tựu khi tự mình nướng nó." Đường Quân gói thịt ba chỉ nướng trong rau diếp rồi cắn một miếng.Phần thịt nạc đặc biệt lớn, có từng thớ rõ rệt, phần mỡ béo nhưng không béo ngậy, mềm mịn như gân mềm, sau khi nướng có mùi thơm đặc biệt nồng.Nhai cả hai cùng nhau, nước thịt đầy đặn sẽ chảy ra. Cùng lúc đó, rau xà lách xanh mềm được xé cùng với thịt xé, phát ra âm thanh giòn tan. Hương vị sảng khoái đã lấy đi sự êm dịu vốn có. Ăn một miếng lớn cũng không thấy đủ."Món nướng của Đường Đường vẫn ngon!" Bao Xiaowei khen ngợi."Ừ, ừ, nó luôn có cảm giác nhiều lớp hơn bụng lợn thông thường." Lý Vân Tường ăn xong miệng sáng bóng, lấy khăn ăn lau miệng."Cái cảm giác phân cấp này từ đâu đến? Ôi! Nó đến từ sự kiên trì của bạn học Đường Quân!" Cui Weihan nghiêm túc đẩy chiếc kính không tồn tại của mình lên, như thể một giáo viên đang giảng bài."Chủ đề này đã được thăng hoa!" Hoắc Quân vỗ tay hợp tác."Cái rắm cầu vồng này hay quá, tôi rất thích!" Đường Quân ưỡn ngực tự hào. Một số người lại uống rượu.Đồ uống ngọt ngào tan vào độ dày của gia vị, và các loại mùi thơm và vị ngọt khác nhau tan chảy trên đầu lưỡi cùng một lúc. Nó cảm thấy tuyệt vời.Lúc này, những viên kẹo dẻo có kích thước bằng đồng xu một nhân dân tệ được đặt trên que và phục vụ trên bàn."Này, nói cho tôi biết, những viên kẹo dẻo này có thể ăn trực tiếp được không? Chúng cũng có thể nướng được à?" Cui Weihan trầm tư hỏi.Chương 181
+BBQ cắm trại Yuanxing trên tầng thượng “Tôi nghĩ tôi đã từng thấy mọi người làm việc này trước đây.
+Chúng ta thử xem thế nào? "Bảo Tiểu Vi cũng có chút tò mò nên lấy một bó bỏ vào lửa.Chỉ trong vài giây, cô ngửi thấy mùi khét."Ôi chúa ơi!" Bao Xiaowei nhanh chóng nhặt kẹo dẻo lên. Chiếc kẹo dẻo màu hồng và dịu dàng ban đầu đã chuyển sang màu đen."Nhà sản xuất than cộng một." Một số người khác không nhịn được cười."Có vẻ như bạn không thể đến quá gần đống lửa than." Cui Weihan đã học được bài học nướng kẹo dẻo của Bao Xiaowei.
+Tôi không đặt xiên tre trực tiếp lên bếp than.
+Thay vào đó, anh ta đang cầm một chiếc kẹo dẻo lơ lửng giữa không trung phía trên ngọn lửa.Nó giống như phép thuật,
+Lớp ngoài của kẹo dẻo nở ra một chút,
+Chuyển sang màu nâu vàng."Điều này là đủ." Kẹo dẻo mở rộng một vòng tròn.
+Khi lớp ngoài sắp tối trở lại, Cui Weihan kịp thời di chuyển thanh tre ra khỏi đống lửa than.Cô ấy cẩn thận thổi kẹo dẻo,
+Anh cúi xuống và cắn một miếng.Lớp bên ngoài giống như khoai tây chiên, giòn và giòn.
+Cắn một miếng, vụn bánh đã bong ra lớp vỏ mềm bên trong.Sức nóng chiếu vào con bò qua núi, nướng viên kẹo dẻo bên trong rồi làm tan chảy, biến nó thành chất lỏng giống như kem.
+Nó chảy nhẹ nhàng và dính trên lưỡi, đầy ngọt ngào."Chà, ngon quá! Cảm giác như một thế giới mới đã mở ra vậy!" Cui Weihan nói, và những người còn lại nướng một đống kẹo dẻo.“Tôi không ngờ,
+Một ngày nào đó tôi sẽ có thể ăn được kẹo dẻo giòn.
+Hương vị hóa ra thật... mơ màng. "Bên ngoài trông giống như lớp vỏ bỏng ngô"
+Trong lòng có rất nhiều nỗi đau,
+Tuyệt vời. "Mặt trời đã lặn xuống phía chân trời, chỉ còn lại một màu sáng mờ nhạt trên bầu trời,
+Các ngôi sao đã có dấu vết mờ nhạt.Không lâu sau,
+Trời đã tối hoàn toàn,
+Những ngôi sao rải rác trên bầu trời, giống như một nắm kẹo sao vô tình rơi vãi.Cùng lúc đó, những ánh sao xung quanh lều cắm trại cũng sáng lên."Nó thật đẹp." Bảo Tiểu Vi không khỏi thở dài.Lều của họ rộng và có màu xanh đậm. Rèm cửa được kéo lên và đặt trên trần nhà. Những ánh sao rất nhỏ, xoay quanh đỉnh lều, chậm rãi nhấp nháy, như thể chiếc lều đang đội một chiếc vương miện khảm đá quý.“Chúng ta nướng vài xiên rồi ngồi ăn nhé.” Đường Quân đề nghị."Được, được, không có vấn đề gì." Mọi người lấy vài món ăn và đổ đầy bếp nướng. Những âm thanh xèo xèo nối tiếp nhau vang lên. Khói trắng từ từ bốc lên từ ngọn lửa và phân tán trong không khí cùng với mùi thơm.Không biết tại sao, nhưng ngửi mùi thơm này và nghe tiếng đồ ăn chín khiến tôi có cảm giác thân thuộc và hài lòng, giống như khi đi học về, đi ngang qua quán thịt nướng trong ngõ, tôi có cảm giác như sắp bước vào một ngôi nhà ấm áp.Đồ nướng lần lượt được đặt lên mâm sắt rồi mang vào trong lều.Lều được trải những tấm chiếu tatami khổ lớn, giữa có một chiếc bàn dài thấp."Ôi chúa ơi, mềm quá! Tôi thậm chí còn không muốn đứng dậy." Li Yunxiang chỉ ngồi trên tấm chiếu ở lối vào lều và nằm xuống. Một người chiếm vị trí của ba người, hắn rên rỉ thoải mái.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:23:20*

@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 61 Trang 61
+
+---
+
+### Nội dung | Nội dung
+
+Anh ấy đẹp trai và biết nấu ăn nên cực ngầu. Tuy nhiên... năm phút sau, trong bếp vang lên tiếng cháy.Lúc Niệm Tùy đang định đứng dậy nhìn xem, cửa bếp đã bị Thanh Lãng đóng lại, cô lại ngồi xuống. “Vậy cậu sẽ không đốt nhà bếp phải không?”Thái Thương Thiên ngập ngừng nói."KHÔNG." Niệm Tùy đáp: "Nên làm."... Nửa giờ sau, Thanh Lãng bưng một đĩa đồ ăn bốc khói đi ra, tóc cũng bốc khói.Niệm Tùy liếc nhìn anh, chỉ thấy một phần tóc mái trên trán anh đã bị lửa thiêu rụi."Ồ..." Đường Vũ Hành và Thái Thương Thiên đều kinh ngạc trước thứ trên đĩa: "Đây là đĩa...?" "Cánh gà nướng than." Thanh Lãng vuốt lại chỗ tóc rụng trên trán."Xem ra món này mới làm được một phần tư. Chúng ta có than củi. Cánh gà đâu...?" Đường Vũ Hành dùng đũa gắp bốn vật màu đen trên đĩa."Xem ra nấu ăn có chút khó khăn." Thanh Lãng nói xong liền im lặng."Nó khá ngon. Cánh gà khá chín." Niệm Tùy nhịn cười, đỡ hắn ra ngoài.“Nhưng tôi đã học được nó ngay lập tức mà.” Thanh Lãng quay đầu lại, kiên quyết nhìn Niệm Tuyền, như đang ra lệnh quân sự.Niệm Tùy cười: "Ta hoàn toàn tin tưởng." Ăn cơm xong, hai người trở về nhà, Niệm Tuyền đang suy nghĩ chuyện khác.Cửa hàng thuê của nhà hàng Nianjia sắp hết hạn sau khoảng một tháng nữa. Nian Sui muốn đến gặp chủ nhà để gia hạn hợp đồng thuê nhà. Không ngờ, bà cụ do dự hồi lâu mới nói với Niệm Tùy rằng sau khi hết hạn thuê, mặt tiền cửa hàng sẽ được cho người khác thuê.Bà chủ cũ biết tuổi của cô, cho rằng cô mắc nợ nhiều đến mức không đủ tiền thuê nhà nên trực tiếp ký hợp đồng với người khác.Thấy không còn chỗ để cải thiện, cô nhẹ thở dài. Bà chủ nhà lớn tuổi xin lỗi cô nhưng cô cảm thấy không cần phải xin lỗi. Suy cho cùng thì đó là mặt trận của chính chủ nhà.Chỉ là tìm một cửa hàng mới rất phiền phức, hơn nữa nhà hàng Nian đã ở đây nhiều năm nên cô có chút không đành lòng buông nó ra.Nhưng anh không thể chịu đựng được và không còn lựa chọn nào khác. Niệm Tuy và Đường Vũ Hành bàn bạc lại việc lựa chọn địa điểm.Niệm Tùy cũng nhận thấy hành vi ngày hôm đó của Thanh Lãng có gì đó không ổn. Cô suy nghĩ một lúc, có lẽ Thái Thương Thiên có liên quan đến nhiều chuyện ở nhà hàng Niên gia, nhưng anh không hề hay biết, cảm thấy xa lạ.Vì vậy tôi đã nói với Qinglang về việc tìm kiếm mặt tiền và nhờ anh ấy giúp trông chừng nó. Chắc chắn, Qinglang đã biết chuyện này và bắt đầu tìm kiếm thông tin về vấn đề này.Mặt khác còn có vấn đề trả nợ.Lần trước ra khỏi không gian Sơn Hải, tôi đến nhà chú Trì để trả nợ. Không ngờ tôi đến đó mấy lần nhưng không gõ cửa. Có vẻ như không có ai ở nhà.Cô phải trả nợ cho mấy gia đình tiếp theo trước, sau đó thỉnh thoảng mới về thăm nhà chú Chi.Thật sự không ngờ trước đây chú Chi thường xuyên đòi nợ, bây giờ chú không có ở đây để đưa tiền.Ngày này, Niệm Tùy lại gõ cửa. Không có tiếng trả lời từ phía cửa, nhưng cánh cửa đối diện đã mở ra."Cô bé, đừng gõ nữa. Người tên Trì không có ở đây, anh ấy đang nằm viện." Một người dì thò đầu ra khỏi cửa đối diện."Nhập viện? Chuyện gì đã xảy ra?" Niệm Tùy có chút bối rối. Anh nhìn một người đàn ông khỏe mạnh khỏe mạnh lại đột nhiên phải nhập viện."Không có gì, chỉ là cách đây không lâu nhà hắn bị ám vào lúc nửa đêm, ta sợ hãi." Dì dường như nghĩ đến nỗi sợ hãi của anh, liền mỉm cười vui vẻ.…Không được ưa chuộng là thế này, hàng xóm vẫn vui vẻ sau khi sợ hãi và ốm đau.Chương 30
+Gà rán bổ dưỡng cho cả gia đình...v.v.
+Bị ám ảnh? "Nó bị ma ám à?"Niệm Tùy cảm thấy sau lưng có chút ớn lạnh."Không phải sao? Luôn có người gõ cửa phòng Chi vào lúc nửa đêm và tạo ra những âm thanh ma quái." “Sau đó, Chi run rẩy ở cửa và nói gì đó về bộ đồ đen và khuôn mặt nhợt nhạt.
+Không có đặc điểm khuôn mặt hay bất cứ thứ gì tương tự,
+Sau đó anh ta đẩy nó qua và đưa anh ta đến bệnh viện. "Dì nói
+Cười rộng hơn."Bạn sống ngay bên kia đường,
+Bạn không sợ sao? "Nian Sui cảm thấy dì có chút kỳ quái."có hại,
+Cái quái gì vậy? Tôi đoán có người không thể chịu đựng được anh ta nữa.
+Làm anh ta sợ hãi, hoặc gõ cửa nhà anh ta,
+Không phải đã đến lúc gõ cửa nhà tôi sao? “Hơn nữa, trước đây anh ấy có cần gì thì anh ấy sẽ đến nhà tôi mượn. Anh ấy sẽ không trả lại và sẽ đến ăn uống khi đến giờ ăn tối.
+Anh ta gõ liên tục mà không mở cửa, và bây giờ cuối cùng anh ta cũng rời đi."Thím thở phào nhẹ nhõm. "Ừm..." Niệm Niệm có chút ngơ ngác, cùng dì nói thêm mấy câu, nhìn tình hình này, mười ngày rưỡi nữa Trì thúc cũng không thể về được, dì chào hỏi rồi trở về nhà.
+Tuổi sắp bước xuống nhà rồi
+Sau đó tôi nghe thấy một giọng nói khàn khàn phát ra từ trên lầu. "Ông chủ Niên." Niệm Tùy run rẩy.
+Một lớp mồ hôi mỏng chảy ra trên lưng tôi. Cô ấy không biết ai trong tòa nhà này,
+Chẳng phải nó cũng bị ám ảnh vào ban ngày sao? "Ông chủ Niên?" Người đàn ông hắng giọng và thò đầu ra khỏi tay vịn trên lầu. Giọng nói nghe hơi quen do tuổi của tôi,
+Anh ta cong cổ và nhìn lên,
+Hóa ra là chủ nợ của món nợ trước đó. Khi tôi còn nhỏ, tôi nhớ tên cô ấy là Tần Thanh. Cô ấy vẫn như lần trước,
+Mặc áo hoodie đen và đeo mặt nạ đen, giọng nói hút thuốc của anh ấy rất dễ nhận biết. "Nó làm tôi sợ.Ta còn tưởng rằng bị ma ám." Niệm Tùy thở phào nhẹ nhõm, mỉm cười đi lên lầu. "Bị ma ám không phải tốt sao?Ông chú khó chịu đó đã đi rồi, nên cậu không cần phải bị ông ta mỗi ngày đón." Tần Thanh già đi lên lầu, sau đó quay trở lại phòng, cửa vẫn chỉ mở một khe hở. "Sớm muộn gì cậu cũng phải trả." Niệm Tuyền đi đến cửa, mùi thuốc lá trong phòng lúc này đã nhạt đi nhiều. "Anh muốn gì ở tôi?" "Tôi theo dõi tài khoản của anh." Tần Thanh lướt di động lên xuống, "Gần đây tôi làm gà, nhưng không mang đi." “Muốn thì có thể tới cửa hàng nếm thử.”Niệm Tùy mỉm cười bắt lấy một cái quạt khác, “Ra ngoài không tiện.”Tần Thanh dừng lại, véo mặt nạ lên trên.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:17:06*

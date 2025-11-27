@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 300 Trang 300
+
+---
+
+### Nội dung | Nội dung
+
+"Đúng vậy, tôi cũng nghĩ rằng, đặc biệt là khi làm một món ăn với nguyên liệu từ bên ngoài công ty Sơn Hải, bạn có thể cảm nhận rõ ràng sự khác biệt giữa hai món ăn này." Yến Chiến Khâu ăn bột đá như ăn thạch, lời nói có chút không rõ ràng: "Mặc dù mùi vị rất ngon, nhưng hình như không thêm bất kỳ chất phụ gia nào vào, chỉ có vị tươi nguyên chất tự nhiên." Cậu nói đúng, tôi cũng nghĩ vậy. Sau khi ăn nhiều năm, tôi đã phát triển được khẩu vị tốt.Tôi vẫn nghĩ cơm của chúng tôi là ngon nhất, không có mùi phụ gia." Ông Yin Yihui chưa bao giờ ăn món tráng miệng này. Cái thìa run lên khi ông xúc bột đá, và ông gần như trượt và rơi vào bát. Ông nhanh chóng ăn nó. Nian Sui và Qing Lang đứng trong bếp và nghe mọi người thảo luận sôi nổi bên ngoài. Họ nhìn nhau và mỉm cười ngầm. Suy cho cùng, Công ty Sơn Hải là Công ty Sơn Hải, và nguyên liệu tất nhiên là phi thường. Mỗi loại có vài bát Nian Sui cầm một bát bột xoài tựa vào cửa bếp liếc nhìn cô, cũng cầm một bát bột xoài tựa vào cửa đối diện cùng cô. Nian Ni không khỏi bật cười khi nhìn thấy bột đá mịn như thạch, mật ong quế nặng hơn nhiều so với bột đá nhẹ, nó trượt đi và bao bọc toàn bộ khối đá. Khi cắn một miếng, bột đá trượt trong miệng, trượt trên đầu lưỡi, vị ngọt thoang thoảng mùi hoa quế cũng lan tỏa trong miệng. Hình dạng viên xoài và viên cơm nếp tương tự nhau, nhưng hương vị lại rất khác nhau, viên xoài có mùi thơm trái cây, khi nhai sẽ quyện trong kẽ răng, nhưng viên xôi thật mềm và dẻo, mùi thơm của gạo nếp tràn ngập khi bạn cắn vào.Những hạt bột mềm khi nhai và rất ngon ngọt Kết hợp với việc để lạnh, cả tô bột đá thăng hoa, ngọt ngào, mát lạnh và sảng khoái. Nó rất ngon.Chính là hương vị ngươi chọn." Thanh Lãng vừa nói vừa cúi đầu dùng thìa nhặt hai quả bóng nghịch ngợm trượt cuối cùng. Mái tóc gãy trên trán hơi xõa xuống, giữa lông mày và mắt tạo ra một bóng nhỏ rất đẹp. Niệm Tùy nhìn chằm chằm vào đôi mày sắc nét và hàng mi dài có thể thấy rõ khi hắn hạ mí mắt xuống. Hắn ngẩng đầu lên, ngẩng đầu lên mỉm cười: "Dưa hấu cũng rất ngon.Bạn có muốn thử không?" Niệm Tùy cầm một cốc bột đá dưa hấu lên, nước màu nâu đỏ trong đó đung đưa qua lại. Thanh Lãng nheo mắt, khẽ mỉm cười, đồng thời cầm một ly lên: "Được." "Vậy thì chúc mừng." Niệm Tùy nhẹ nhàng va chạm cái bát với chiếc bát trong tay Thanh Lãng, mép bát phát ra âm thanh giòn tan, bột đá lắc lư vui đùa như sóng, hai người cũng cười lớn. Không có si-rô màu nâu. đặc như mật ong hoa mộc tê nhưng lại thanh mát, vị chua ngọt của táo gai và vị ngọt thanh khiết của nho khô hòa quyện vào nhau khiến má bạn hơi râm ran, sự kết hợp giữa vị đậu phộng cứng giòn và độ mềm dẻo của bột đá, cộng thêm vị ngọt nhẹ của thịt cát, cắn một miếng lớn, hơi lạnh tràn vào miệng dọc theo môi và răng, lan từ miệng đến tứ chi, nhiệt độ cơ thể giảm xuống. Sự cáu kỉnh của mùa hè biến mất, tâm trạng trở nên thoải mái hơn. Trong lúc mọi người đang thưởng thức bữa ăn, Đường Vũ Hành đi tới cửa hàng, đưa tay ra chào cô, vừa bước vào cửa hàng đã thấy vài bóng người quen thuộc, ngạc nhiên nhìn quanh, sau đó lại gần xem mọi người đang ăn gì.Tôi cũng muốn một ít." Chương 135
+Trà chanh sô cô la đen Brownie Nian Ni đưa mắt nhìn về phía sau Tang Yuxing,
+Chỉ nhìn vào Ai Chen. "Ông chủ Niên, cửa hàng mới này bài trí thật trang nhã!" Ai Chen nhìn quanh cửa hàng và gật đầu khẳng định. "Bạn đã thiết kế nó rất trang nhã." Niệm Tùy mỉm cười, đặt bát trong tay lên bàn. "Thật ra chúng tôi chỉ làm bức tường,
+Việc bố trí cửa hàng vẫn do bạn thực hiện.
+Tôi không nói về tình hình,
+Chỉ cần sự sắp xếp này,
+Thật khí thế,
+Ngay khi bước vào phòng, tôi cảm thấy thoải mái và mọi căng thẳng đều tan biến!" Ái Thần nói
+Anh thở phào nhẹ nhõm và hít một hơi thật sâu. Anh ấy không phải là người duy nhất đến,
+Ngoài ra còn có Lu Chao, Yong Jing Shan và Meng Ge. Vừa bước vào cửa, họ đã bị thu hút bởi cốc bột đá trên tay. Niệm Tùy thấy bọn họ nhìn thấy bột đá không thể đi được, liền cười nói: “Trong bếp còn có hai cái bột đá nữa.Nếu bạn thấy hương vị ổn,
+Tôi sẽ làm thêm vài cái nữa. "Được, được!""Yong Jingshan và Mengge đồng thanh nói, đôi mắt lấp lánh. Ai Chen nhìn thấy ánh mắt tham lam của họ và lắc đầu cười. "Tôi đang đợi bạn đến và ủng hộ tôi,
+Cuối cùng nó cũng ở đây. "Nian Sui nghĩ rằng họ sẽ đến vào ngày đầu tiên khai trương cửa hàng,
+Nhưng tôi không nhìn thấy họ. "Vào ngày chúng tôi mở cửa hàng,
+Chúng tôi có công việc tạm thời phải làm,
+Tôi đi ngang qua cửa vài lần sau đó, và nó thực sự đông đúc."Ai Chen đưa tay ra hiệu cho đám đông,
+“Ông chủ Nian, công việc kinh doanh ở đây thực sự rất tốt.
+Chúng tôi nghĩ chúng tôi sẽ đợi cho đến khi có ít người hơn,
+Nếu không nó sẽ bị ép vào hộp cá mòi. Niệm Tùy đám người cười nói: "Được rồi, hiện tại có rất ít người, chúng ta tìm một chỗ ngồi đi.""Cô nói xong xoay người đi vào bếp lấy bột đá, Đường Vũ Hành cũng giúp lấy một cái bát. Hai bát bột đá được bưng ra, mấy người đã ngồi vào bàn sáu người. Yong Jingshan và Meng Ge cầm lấy như bảo bối. Lục Siêu hai mắt dán chặt vào bột đá, không muốn buông ra, do dự không muốn nói. Ngải Thần nhẹ nhàng ngửi mùi hương trái cây trong không khí, không khỏi nhìn chằm chằm vào hai người họ. Đang muốn di chuyển thìa, đã bị ánh mắt mạnh mẽ khiến bọn họ khó chịu nhìn: "Ừm... Muốn ăn cùng nhau không?" Hai người vừa nói xong liền có chút hối hận, bởi vì Lục Siêu cùng Ngải Thần lấy ra thìa bên cạnh với tốc độ nhanh như chớp, không có chút khách khí nào với bọn họ. Các nghệ sĩ tranh giành đồ ăn ngon, "Ừ, ừ, chúng ta vẫn làm, đừng chộp lấy." Nhiều người nói, nhưng vẫn không ngừng múc trái cây trên tay, bột đá nhúng mật ong và siro trôi trong miệng, nhai nhẹ nhàng như sương, trong miệng còn đọng lại vị mát như sương. ngọt ngào.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:21:29*

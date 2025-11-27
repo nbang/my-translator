@@ -1,0 +1,29 @@
+### Tiêu đề | Tiêu đề
+
+Chương 378 Trang 378
+
+---
+
+### Nội dung | Nội dung
+
+Tắm rửa xong, Niệm Tùy cùng bà nội nằm trên giường trò chuyện. Khi còn học cấp hai, tôi có phòng riêng.Tôi nhớ hồi nhỏ tôi chỉ sống chung phòng với bà ngoại. Vì điều này, tôi càng nhớ cô ấy nhiều hơn.Ánh trăng chiếu lên cây cối ngoài cửa sổ, bị cửa sổ cắt thành hình chữ nhật. Nó rơi vào Niệm Tùy và bà nội, giống như một bức tranh màu trắng bạc được khảm bóng cây.Lúc này Niệm Tùy mới phát hiện, ngoài cửa sổ có mấy cây quế thơm ngát cao ngất. Kỳ thực trước và sau nhà đều trồng cây quế thơm, khiến Niên Tùy nhớ đến cây hoa quế trồng trong sân quán ăn nhỏ của Nian.Hoa quế có mùi thơm ngọt ngào đang nở rộ và có hương thơm đậm đà. Nó được gió thổi vào, hương thơm bay theo từng đợt khiến người ta cảm thấy dễ chịu, thư thái."Niên Tùy." Nian bà nội xoay người, nghiêm túc nhìn Niệm Tùy, "Hôm nay ta quan sát thấy, chàng trai này rất tốt, nhưng ta muốn biết, ngươi thật sự thích hắn sao? Hay là vì hắn đã cứu ngươi, ngươi muốn báo đáp hắn." Niệm Tùy suýt chút nữa bật cười. Bà nội không biết “cứu cháu” là lý do bịa đặt, còn cho rằng đó là lời hứa gượng ép."Tôi rất thích anh ấy. Trong sáu tháng chúng tôi ở bên nhau, anh ấy đã giúp đỡ tôi rất nhiều. Anh ấy giúp đỡ tôi trong công việc, giúp tôi xua đuổi những kẻ bắt nạt tôi, tôn trọng và ủng hộ mọi ý tưởng của tôi. Tôi rất thích anh ấy, không phải vì anh ấy đã cứu tôi mà vì anh ấy có nhiều điểm sáng." Niệm Tùy nhịn cười, cẩn thận suy nghĩ từng chi tiết trong sáu tháng qua.Nian bà nội gật đầu: "Vậy thì tốt. Hôm nay tôi đã suy nghĩ rồi. Nếu ông ấy cần gì để báo đáp việc cứu con, chúng ta có thể cho dù bao nhiêu cũng được. Nhưng tôi hy vọng sở thích của con không phải là ép buộc mà là tự nguyện." Nian bà nội quay người lại, thở dài: "Ta thật hi vọng cháu gái nhỏ của ta có thể sống hạnh phúc, sau này nó sẽ chiếu cố cho ta, chiếu cố ngươi, ta yên tâm." Niệm Tùy ôm cánh tay bà nội, một giọt nước mắt từ khóe mắt rơi xuống, rơi xuống gối: “Bà yên tâm, ông ấy sẽ không rời xa con. Có thể ở cùng ông bà nội là điều hạnh phúc nhất.” "Được, được." Nian bà nội mỉm cười vui vẻ, dùng tay vỗ vỗ cánh tay Nian Sui, giống như bà vẫn làm khi còn nhỏ.Khi Nian bà nội ngủ say, Nian Sui dùng sóng não liên lạc với hệ thống: "Tôi có một câu hỏi, hiện tại tôi đang mặc vest. Nếu tôi trở về hiện thực, chẳng phải người trên thế giới này sẽ cho rằng Nian Sui đã biến mất trong không khí sao? Điều này có nghĩa là tôi chỉ có thể lựa chọn cuộc sống giữa phố Haiti và thế giới hiện thực." Niệm Tùy vừa nghĩ đến vấn đề này liền cảm thấy lạnh sống lưng."KHÔNG." Sóng não có thể xuyên qua tường, Thanh Lãng là người đầu tiên trả lời câu hỏi của cô: "Tốc độ dòng thời gian ở hai thế giới là khác nhau khi chúng ta ở lại thế giới này và khi chúng ta không ở." "Ta vừa trở về thế giới hiện thực lúc không có người chú ý, dùng hệ thống đo thời gian." "Kết quả là nếu chúng ta không ở lại thế giới này, hai mươi hai giờ ở thế giới hiện thực sẽ là tám giờ ở thế giới này. Nếu chúng ta ở lại thế giới này, tốc độ dòng thời gian sẽ khác." Ở thế giới này, hai giờ ở thế giới thực, bằng mười sáu giờ ở thế giới này.” Nghe xong, Niệm Tùy tính toán trong đầu, hai mắt sáng lên: “Nói cách khác, nếu chúng ta dành hai giờ mỗi ngày ở thế giới thực để quay lại phố Hải Thiên để dành cả ngày, và trở về thế giới thực khi mọi người ở phố Hải Thiên đi ngủ vào ban đêm, chúng ta có thể sống ở cả hai thế giới cùng một lúc mà không bị ai chú ý.”Lần này trở lại thế giới hiện thực?"[Tối mai.] Chương 171
+Cua bơi hấp chắc chắn sống ở hai thế giới,
+Thay vì phải chọn một nơi để sống giữa phố Haiti hay thế giới thực, Nian Sui lại phấn khích đến mức dù ngày mai có phải quay lại cũng chẳng là gì.Bà Nian đã ngủ quên bên cạnh,
+Thở nông,
+Như dòng suối ẩn trong rừng.Tôi không thể chịu được việc ngủ ở tuổi này,
+Nàng mượn ánh trăng,
+Hãy nhìn kỹ đường nét trên khuôn mặt của bà nội Nian,
+Và từng nếp nhăn trên khuôn mặt.Đã lâu rồi cô mới nghiêm túc nhìn mặt bà Nian. Cô nhìn đi nhìn lại khuôn mặt của bà Nian nhiều lần.
+Dường như nó đã in sâu vào trái tim tôi.Ngày này là khoảnh khắc hạnh phúc nhất trong nửa năm qua.
+Đối với cô, khi có thể kiếm được hàng trăm nghìn mỗi ngày, cô cũng không có được hạnh phúc như bây giờ.Các thành viên trong gia đình luôn ở bên cạnh bạn, dù bạn chỉ dùng bữa cùng nhau,
+Hoặc chỉ cần nằm đó lặng lẽ như thế này là đủ thỏa mãn rồi.Tôi cứ tưởng mình sẽ thức suốt đêm, mở to mắt và phấn khích cho đến tận bình minh.Nhưng sóng trên trời cuộn tới lăn lui, sóng phản chiếu ánh trăng vỡ vụn,
+Nó lại được phản chiếu từ cửa sổ.Tiếng nước biển dâng lên và hạ xuống,
+Nhẹ nhàng và đều đặn,
+Hiệu ứng thôi miên rất tốt.Sau một thời gian,
+Tôi chìm vào giấc ngủ sâu ở tuổi già.- "Niên Tùy... em có muốn đi ngắm biển không? Hay là muốn ngủ nướng?" Giọng nói nhẹ nhàng của Thanh Lãng mơ hồ vang lên, tựa như đang nói vào tai Niệm Tùy từ đầu bên kia hang động."Ừ..." Niệm Tùy ý thức hỗn loạn gần như không hiểu được vấn đề này.
+Khi nghĩ rằng vùng biển của phố Haiti nằm trên bầu trời,
+Cô lập tức mở mắt ra
+Tôi thực sự muốn biết biển trông như thế nào vào ban ngày.Thanh Lãng ở phòng bên cạnh dùng sóng não hỏi Niệm Tuy, Niệm Tuy cũng dùng sóng não đáp lại: “Ta muốn đi ngắm biển! Chờ một chút, tôi sẽ ra ngay." Nian Sui cẩn thận lăn ra khỏi giường, đi dép vào, nhưng Nian Sui lại là người dễ ngủ. Khi cô xỏ giày vào, Nian Sui mới mở mắt ra một chút."Bà ơi, cháu ra ngoài đi dạo, bà tiếp tục nghỉ ngơi." Giọng nói của tuổi già vừa đủ nhỏ để khơi gợi thính giác.Có lẽ là vì Nian Sui vừa mới về, Nian bà nội sợ khi ra ngoài lại mất cô nên mới nói: Có chút lo lắng ngồi dậy: "Yên tâm, Thanh Lãng ở cùng ta. Chúng ta sẽ không chạy quá xa."Sau khi Niệm Tùy nói xong những lời này, bà Nian thoải mái trở lại giường, có Thanh Lãng ở bên, bà cảm thấy nhẹ nhõm hơn. "Đi sớm về sớm a.""Được!" Niệm Tùy đi ra khỏi phòng, Thanh Lãng vừa lúc đi ra khỏi phòng khách bên cạnh, hai người nhìn nhau mỉm cười.
+
+---
+*Thời gian thế hệ: 2025-11-27 13:22:55*
