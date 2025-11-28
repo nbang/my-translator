@@ -1,0 +1,74 @@
+name: Edited Translator
+
+on:
+  workflow_dispatch:
+    inputs:
+      llm_provider:
+        description: 'LLM Provider (google/openai)'
+        required: true
+        default: 'google'
+        type: choice
+        options:
+        - google
+        - openai
+      llm_model:
+        description: 'Model Name (e.g., gemini-2.5-pro, gpt-4o)'
+        required: true
+        default: 'gemini-2.5-pro'
+        type: string
+      llm_api_key:
+        description: 'API Key'
+        required: true
+        type: string
+      limit:
+        description: 'Chapter Limit'
+        required: false
+        default: '10'
+        type: string
+      force:
+        description: 'Force Re-translation'
+        required: false
+        default: false
+        type: boolean
+      book_base_dir:
+        description: 'Base Directory'
+        required: false
+        default: 'bjXRF'
+        type: string
+
+jobs:
+  edit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Editor
+      env:
+        BOOK_BASE_DIR: ${{ inputs.book_base_dir }}
+        LLM_PROVIDER: ${{ inputs.llm_provider }}
+        LLM_MODEL: ${{ inputs.llm_model }}
+        LLM_API_KEY: ${{ inputs.llm_api_key }}
+        TRANSLATION_LIMIT: ${{ inputs.limit }}
+      run: |
+        python step3_edited_translate.py ${{ inputs.force && '--force' || '' }}
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add .
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update edited translations" && git push)

@@ -48,10 +48,10 @@ class EditedTranslator:
     RULES_FILE = os.path.join(BOOK_DIR, "EDITOR.md")
     
     def __init__(self):
-        self.provider = os.getenv('LLM_PROVIDER', 'openai').lower()
+        self.provider = os.getenv('LLM_PROVIDER', 'google').lower()
         self.api_key = os.getenv('LLM_API_KEY')
         self.api_base = os.getenv('LLM_API_BASE')
-        self.model = os.getenv('LLM_MODEL', 'gpt-5-mini')
+        self.model = os.getenv('LLM_MODEL', 'gemini-2.5-pro')
         
         if not self.api_key:
             raise ValueError("LLM_API_KEY must be set in .env file")
@@ -237,12 +237,9 @@ class EditedTranslator:
             logger.error(f"Error processing {chapter_file}: {e}")
             return False
 
-    def run(self, specific_chapter: Optional[str] = None, force: bool = False):
+    def run(self, limit: Optional[int] = None, force: bool = False):
         """Run the edited translation process."""
-        if specific_chapter:
-            files = [specific_chapter]
-        else:
-            files = sorted([f for f in os.listdir(self.INPUT_DIR) if f.endswith('.md')])
+        files = sorted([f for f in os.listdir(self.INPUT_DIR) if f.endswith('.md')])
         
         if not files:
             logger.warning(f"No files found in {self.INPUT_DIR}")
@@ -250,18 +247,47 @@ class EditedTranslator:
             
         logger.info(f"Found {len(files)} chapters to process")
         
+        processed_count = 0
+        
         for file in files:
-            self.process_chapter(file, force=force)
-            time.sleep(1)
+            # Check if file exists to decide whether to count it against the limit
+            output_path = Path(self.OUTPUT_DIR) / file
+            is_existing = output_path.exists() and output_path.stat().st_size > 0
+            
+            if is_existing and not force:
+                # File exists and we are not forcing re-translation.
+                # We call process_chapter to handle the standard logging (Skipping...)
+                # but we do NOT increment processed_count.
+                self.process_chapter(file, force=force)
+                continue
+                
+            # Check limit only for files that will actually be processed
+            if limit is not None and processed_count >= limit:
+                logger.info(f"Reached limit of {limit} new translations. Stopping.")
+                break
+            
+            if self.process_chapter(file, force=force):
+                processed_count += 1
+                time.sleep(1)
 
 def main():
     parser = argparse.ArgumentParser(description='Step 3: Edited Translation')
-    parser.add_argument('--chapter', type=str, help='Specific chapter file to process (e.g., chapter_001.md)')
+    parser.add_argument('--limit', type=int, help='Number of chapters to translate')
     parser.add_argument('--force', action='store_true', help='Force re-translation even if output exists')
     args = parser.parse_args()
     
+    # Load limit from env if not provided in CLI
+    limit = args.limit
+    if limit is None:
+        env_limit = os.getenv("TRANSLATION_LIMIT")
+        if env_limit:
+            try:
+                limit = int(env_limit)
+            except ValueError:
+                logger.warning("Invalid TRANSLATION_LIMIT in .env, ignoring.")
+
     translator = EditedTranslator()
-    translator.run(specific_chapter=args.chapter, force=args.force)
+    translator.run(limit=limit, force=args.force)
 
 if __name__ == "__main__":
     main()
