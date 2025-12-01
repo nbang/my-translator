@@ -1,0 +1,26 @@
+### Tiêu đề | Tiêu đề
+
+Chương 190 Trang 190
+
+---
+
+### Nội dung | Nội dung
+
+"Tôi biết hôm nay sẽ có rất nhiều người xếp hàng nên tôi đã xếp hàng ở đây ngay khi tan sở lúc sáu giờ." "Ý bạn là bạn đã đứng đó gần ba giờ? Niubi cộng thêm!" “Trưa hôm nay chưa ăn gì ngon, bây giờ đói đến mất trí. Đoán xem hôm nay tôi có thể khoe được bao nhiêu bát đây?” Khoe khoang giỏi quá, này!” “Tôi ủng hộ cậu!” “Hả?” Bồ Duệ nhướng mày đến gần cửa sổ, cười nói: “Mấy ngày không mở cửa, mọi người đều biến thành yêu tinh rồi? Tại sao ngay cả cửa cũng không mở cho ngươi?" Nhiều người không ngờ ông chủ cũng tham gia vào cuộc trò chuyện, bật cười. "Không mở cửa thì không thể mở được.“Đúng vậy, hôm nay tôi phải ăn đồ ăn của anh, nếu không tôi sẽ ở trước cửa hàng không rời, vừa khóc vừa lăn!” Pu Rui nghe thấy những lời ồn ào của họ, cười rộng rãi: “Tôi sợ, hãy mở cửa đúng giờ vào lúc chín giờ.” Khi Pu Rui nói điều này, tay cô vẫn đang bận rộn, cô đang làm món khoai tây chiên phô mai Parmesan và đậu ướp ngọt và cay.Cô rửa sạch và gọt vỏ khoai tây, lưỡi dao lướt nhẹ qua trên Khoai tây tròn đột nhiên tách thành hai nửa, cô cầm khoai tây bằng một tay và dùng tay kia điều khiển con dao, trong vòng vài chục giây, cả hai củ khoai tây lớn đã được cắt thành những dải mỏng dài trên bề mặt của các dải khoai tây, đó là tinh bột tiết ra, rửa sạch bằng nước, đun sôi khoai tây, sau đó thêm muối và nấu một lúc.dùng khăn lau bếp, sau đó bọc tinh bột rồi chiên.Sau lần chiên đầu tiên, các dải khoai tây nở ra thành hình tròn hơn trước, có màu vàng nhạt đồng đều. Chúng được lấy ra và chiên lại.Khi lấy ra khỏi chảo lần nữa, các dải khoai tây hoàn toàn biến thành khoai tây chiên, nhuộm một lớp màu vàng rực rỡ, trông giống như những thỏi vàng. Anh vớt khoai tây chiên ra. lọ và vặn qua lại. Tiêu đen và muối biển rải trên khoai tây chiên.Phô mai Parmesan nguyên miếng. Pu Rui mang theo một dụng cụ băm nhỏ và nhào cả miếng phô mai thành những miếng vụn mịn hơn vụn bánh mì, rưới lên khoai tây chiên, cuối cùng rắc một lớp rau mùi tây cắt nhỏ lên khoai tây chiên.bận rộn cả ngày quên ăn bữa tối, lúc này cô mới nhận ra mình hơi đói, cô nuốt xuống, gắp một miếng khoai tây chiên, ngậm trong miệng rồi cắn một miếng, kết cấu của phô mai vụn giống như dừa nạo, nhưng cứng hơn nhiều so với dừa nạo, khi nhai có mùi thơm nhẹ như sữa.bên trong mềm và xốp, giống như một phiên bản nhỏ hơn của bánh mì bỏ túi. Khi cắn một miếng, nó giòn và mềm như bánh quế trứng.Cảm giác nghẹn của khoai tây đã được loại bỏ sau khi cắt thành từng dải mỏng, và vị ấm ban đầu được kích hoạt bởi dầu nóng, thêm mùi thơm của đồ chiên.nếm được một chút mùi thơm của rau tươi, cùng với mùi thơm của khoai tây, rất ngon khi nhai xong một miếng, đưa thêm hai miếng nữa, cô đang nhai thì nhìn thấy Lý Mục Chiến đang đi về phía mình."Có vẻ như hôm nay tấm biển gỗ này có thể dùng được."
+Đậu khô ướp cay ngọt◎Cô ấy không phải là bạn thân nhất của tôi, cô ấy là bạn gái của tôi◎Pu Rui nhìn thấy dòng chữ trên tấm biển gỗ,
+Tôi nghẹn ngào, dùng mu bàn tay che miệng và ho hai tiếng.“Từ này có nghĩa là tấm biển gỗ này được đặc biệt tặng cho tôi, hay là…?” "Sức mạnh là [chỉ thuộc về bạn]."Li Muzhan tiếp tục giải thích,
+"Sau khi sử dụng nó vào đồ ăn, người ăn đồ ăn sẽ chỉ nhìn thấy người mà họ có mối liên hệ tình cảm. Tuy nhiên, sức mạnh này chỉ có thể tồn tại trong một ngày.""Liên kết tình cảm có liên quan đến người bạn thích không?" Pu Rui nhìn vào tấm biển gỗ,
+Anh xua gió bằng tấm biển gỗ."Nói chính xác thì tôi thích nó,
+Còn người thích mình, nếu không thì bảng gỗ sẽ không có tác dụng. "Lý Mục Chiến nói thêm, "Sao hôm nay lại nói có thể dùng?" Bồ Thụy nghĩ nghĩ, hôm nay không phải ngày lễ tình nhân như vậy. "[Chỉ của ngươi],
+[Chỉ dành cho bạn]. "Li Muzhan lặp lại cách phát âm với sự nhấn mạnh.Pu Rui nghe xong sửng sốt một lúc, lập tức hiểu ý anh ấy.
+Meme đồng âm không bao giờ lỗi mốt!Bồ Thụy cười xoa xoa mặt: “Sau này ta sẽ làm món liên quan đến khoai lang tím và bột khoai môn.
+Có thể sử dụng lại được
+[Khoai tây tím và khoai môn nghiền nhuyễn]. Lần này là Lý Mục Chiến giật mình, trên mặt hiện lên nụ cười: “Thông minh, hiện tại chúng ta đã nghĩ ra ba món ăn."Li Muzhan giới hạn hai biển hiệu bằng gỗ chỉ được sử dụng trên khoai tây chiên, trong khi Pu Rui sử dụng biển hiệu bằng gỗ trên khoai tây chiên. Sau đó Pu Rui làm đậu khô ướp ngọt và cay. Đậu già còn trắng và tươi,
+Cứng hơn đậu phụ mềm, cắt thành từng lát cỡ mạt chược,
+Dính vào đáy nồi ngập dầu nóng, lớp vỏ đậu phụ trắng nõn mềm được chiên đến hơi vàng nâu, mùi thơm của đậu phụ lập tức lộ ra.
+Mùi thơm trộn lẫn với nước dầu tỏa ra,
+Mùi thơm đến nỗi người ngoài cửa sổ phải giãn lỗ mũi. Xào hoa hồi, lá nguyệt quế, thì là và ớt khô trong chảo.
+Mùi thơm đậm đà của gia vị và vị cay của ớt được dầu nóng bùng nổ. Vài thìa nước phở ngọt mang lại vị ngọt đậm đà. Đậu phụ được xào trong đó và nhanh chóng chuyển sang màu nâu nhạt. Thêm súp om vào nồi để phủ đậu phụ. Nước tương nhạt và maltose lần lượt mang lại hương vị mặn và ngọt. om từ từ trên lửa vừa, súp có màu nước sốt sủi bọt lớn. Nước xốt được đổ đi đổ lại lên đậu phụ vàng, để đậu phụ từ từ có màu. Một thìa lớn bột đậu đỏ thẫm, một thìa nhỏ gồm mười ba loại gia vị và hạt tiêu Tứ Xuyên trộn với đậu hũ rồi xào chín.Từng miếng đậu hũ nâu ​​giờ đây đã được nhuộm một lớp dầu đỏ óng ả và mùi thơm đậm đà hơn.
+
+---
+*Thời gian thế hệ: 2025-12-01 13:43:57*
