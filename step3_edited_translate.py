@@ -78,7 +78,7 @@ class EditedTranslator:
             logger.error(f"Error loading rules: {e}")
             return "Translate to natural Vietnamese."
 
-    def translate_text(self, text: str, ref_text: str, rules: str, retries: int = 3) -> Optional[str]:
+    def translate_text(self, text: str, ref_text: str, rules: str, previous_context: Optional[str] = None, retries: int = 3) -> Optional[str]:
         """
         Translate text using the configured provider (OpenAI or Google).
         Returns None if translation fails after retries.
@@ -87,26 +87,26 @@ class EditedTranslator:
             return ""
 
         if self.provider == 'google':
-            return self._translate_google(text, ref_text, rules, retries)
+            return self._translate_google(text, ref_text, rules, previous_context, retries)
         else:
-            return self._translate_openai(text, ref_text, rules, retries)
+            return self._translate_openai(text, ref_text, rules, previous_context, retries)
 
-    def _translate_google(self, text: str, ref_text: str, rules: str, retries: int) -> Optional[str]:
+    def _translate_google(self, text: str, ref_text: str, rules: str, previous_context: Optional[str], retries: int) -> Optional[str]:
         """Translate using Google Generative AI (Gemini) REST API."""
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{self.model}:generateContent?key={self.api_key}"
         headers = {"Content-Type": "application/json"}
         
         # Construct the prompt with system instructions and user content
-        # Note: 'system_instruction' is supported in newer Gemini models.
-        # If using an older model that doesn't support it, it might be better to prepend to the prompt.
-        # For now, we'll try the system_instruction field for cleaner separation.
-        
+        user_content = f"## Bản gốc:\n{ref_text}\n\n## Bản dịch thô:\n{text}"
+        if previous_context:
+            user_content = f"## Nội dung chương trước:\n{previous_context}\n\n" + user_content
+
         payload = {
             "system_instruction": {
                 "parts": [{"text": rules}]
             },
             "contents": [{
-                "parts": [{"text": f"## Bản gốc:\n{ref_text}\n\n## Bản dịch thô:\n{text}"}]
+                "parts": [{"text": user_content}]
             }],
             "generationConfig": {
                 "temperature": 0.7
@@ -115,7 +115,7 @@ class EditedTranslator:
 
         for attempt in range(retries):
             try:
-                response = requests.post(url, headers=headers, json=payload, timeout=120)
+                response = requests.post(url, headers=headers, json=payload, timeout=180)
                 
                 if response.status_code == 200:
                     data = response.json()
@@ -137,12 +137,16 @@ class EditedTranslator:
         logger.error("Translation failed after all retries.")
         return None
 
-    def _translate_openai(self, text: str, ref_text: str, rules: str, retries: int) -> Optional[str]:
+    def _translate_openai(self, text: str, ref_text: str, rules: str, previous_context: Optional[str], retries: int) -> Optional[str]:
         """Translate using OpenAI-compatible API."""
         headers = {
             "Authorization": f"Bearer {self.api_key}",
             "Content-Type": "application/json"
         }
+        
+        user_content = f"## Bản gốc:\n{ref_text}\n\n## Bản dịch thô:\n{text}"
+        if previous_context:
+            user_content = f"## Nội dung chương trước:\n{previous_context}\n\n" + user_content
         
         messages = [
             {
@@ -151,7 +155,7 @@ class EditedTranslator:
             },
             {
                 "role": "user", 
-                "content": f"## Bản gốc:\n{ref_text}\n\n## Bản dịch thô:\n{text}"
+                "content": user_content
             }
         ]
         
@@ -185,7 +189,7 @@ class EditedTranslator:
         logger.error("Translation failed after all retries.")
         return None
 
-    def process_chapter(self, chapter_file: str, force: bool = False) -> bool:
+    def process_chapter(self, chapter_file: str, force: bool = False, previous_context: Optional[str] = None) -> bool:
         """Process a single chapter file."""
         try:
             input_path = Path(self.INPUT_DIR) / chapter_file
@@ -221,7 +225,7 @@ class EditedTranslator:
             # But for now, let's pass the whole thing and let the LLM handle it or just the body.
             # To be safe and simple, let's pass the whole text.
             
-            translated_content = self.translate_text(content, ref_content, current_rules)
+            translated_content = self.translate_text(content, ref_content, current_rules, previous_context)
             
             if translated_content is None:
                 logger.error(f"Failed to translate {chapter_file}. Skipping write.")
@@ -248,6 +252,7 @@ class EditedTranslator:
         logger.info(f"Found {len(files)} chapters to process")
         
         processed_count = 0
+        previous_context = None
         
         for file in files:
             # Check if file exists to decide whether to count it against the limit
@@ -258,7 +263,14 @@ class EditedTranslator:
                 # File exists and we are not forcing re-translation.
                 # We call process_chapter to handle the standard logging (Skipping...)
                 # but we do NOT increment processed_count.
-                self.process_chapter(file, force=force)
+                self.process_chapter(file, force=force, previous_context=previous_context)
+                
+                # Try to load existing content for next iteration's context
+                try:
+                    with open(output_path, 'r', encoding='utf-8') as f:
+                        previous_context = f.read()
+                except Exception:
+                    previous_context = None
                 continue
                 
             # Check limit only for files that will actually be processed
@@ -266,9 +278,17 @@ class EditedTranslator:
                 logger.info(f"Reached limit of {limit} new translations. Stopping.")
                 break
             
-            if self.process_chapter(file, force=force):
+            if self.process_chapter(file, force=force, previous_context=previous_context):
                 processed_count += 1
+                # Update context with newly translated content
+                try:
+                    with open(output_path, 'r', encoding='utf-8') as f:
+                        previous_context = f.read()
+                except Exception:
+                    previous_context = None
                 time.sleep(1)
+            else:
+                previous_context = None
 
 def main():
     parser = argparse.ArgumentParser(description='Step 3: Edited Translation')
