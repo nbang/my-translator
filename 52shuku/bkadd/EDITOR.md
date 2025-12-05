@@ -60,6 +60,16 @@ Gốc: Cô hôm nay ở nhà ăn cơm. -> Dịch: Hôm nay cô ăn cơm ở nhà
 
 Tách/Gộp câu: Nếu câu gốc quá dài, hãy tách thành các câu ngắn. Nếu các câu quá vụn vặt, hãy gộp lại bằng các từ nối (mà, thì, nên).
 
+Tránh từ Hán Việt thô (Convert):
+
+Ví dụ: Thay "nguyên chủ/nguyên thân" bằng "cô/người mẹ nuôi/người phụ nữ đó" (trừ khi đang nói về linh hồn cũ).
+
+Ví dụ: Thay "vô thanh" bằng "câm lặng/không thành tiếng".
+
+Ví dụ: Thay "thuận lý thành chương" bằng "hợp tình hợp lý/danh chính ngôn thuận".
+
+Sử dụng từ ngữ gợi hình & Thành ngữ Việt Nam: Ví dụ: Sư tử ngoạm, vặt lông cừu, của nợ, mặt nặng mày nhẹ, bòng bong
+
 ### 2. Từ vựng & "Cấm kỵ" (Vocabulary Constraints)
 
 Miêu tả ẩm thực: Cần dùng từ ngữ gợi hình, gợi cảm (ví dụ: xì xụp, óng ả, thơm nức mũi, giòn rụm) để làm nổi bật tài nấu ăn của nữ chính.
@@ -74,7 +84,16 @@ Trong văn cảnh đời thường: Dịch thuần Việt. (Ví dụ: Không dù
 
 Xử lý Từ Hán Việt: Tên địa danh và tên riêng: Giữ nguyên Hán Việt. Tên món ăn cần Việt hóa tự nhiên (ví dụ: Cá kho đậu đen thay vì Đậu xị ngư).
 
-Không dùng Hán Việt cho các đơn vị đo lường đơn giản (dùng "cân", "mét" thay vì "cân", "thước" nếu không cần thiết).
+Không dùng Hán Việt cho các đơn vị đo lường đơn giản (dùng "cân", "mét" thay vì "cân", "thước" nếu không cần thiết). Dùng hệ mét (mét, km) hoặc từ thuần Việt (cây số) thay vì dặm/thước.
+
+Việt hóa hoàn toàn đơn vị tiền tệ. Chuyển đổi "vạn" thành "chục nghìn/trăm nghìn/triệu" (Ví dụ: 50 vạn = 500 nghìn/nửa triệu; 500 vạn = 5 triệu).
+
+Trong lời dẫn chuyện, ưu tiên viết số tiền bằng chữ (ví dụ: bốn triệu rưỡi) để tăng tính văn học.
+
+### 3. Giọng văn: 
+Mượt mà, tự nhiên, phù hợp với bối cảnh hiện đại.
+
+Lời thoại nhân vật phải phù hợp với tính cách và lứa tuổi (Ví dụ: Phó Viễn Bắc nói chuyện xấc xược, trống không với mẹ nuôi lúc đầu).
 
 ### IV. QUY ĐỊNH ĐỊNH DẠNG (FORMATTING RULES)
 
@@ -84,9 +103,11 @@ Lời thoại trực tiếp: Đặt trong dấu ngoặc kép "...".
 
 Suy nghĩ nội tâm: Đặt trong dấu in nghiêng (không có ngoặc kép).
 
-Bình luận mạng/Chatbox/Tin nhắn hệ thống: Đặt trong dấu ngoặc vuông [...].
+Bình luận mạng/Chatbox/Tin nhắn hệ thống: Đặt trong dấu ngoặc vuông [...]. Ví dụ: [Món này nhìn ngon quá!]
 
-Ví dụ: [Món này nhìn ngon quá!]
+Tên tác phẩm/Phim/Show: Đặt trong dấu ngoặc thư pháp "...".
+
+Tên Hệ thống/Chiêu thức: Viết hoa các chữ cái đầu (Ví dụ: Hệ thống Thần Hào, Bàn Tay Vàng).
 
 Ghi chú: Mọi giải thích của dịch giả đặt ở cuối chương (Footnotes).
 
