@@ -93,7 +93,7 @@ Trong lời dẫn chuyện, ưu tiên viết số tiền bằng chữ (ví dụ:
 ### 3. Giọng văn: 
 Mượt mà, tự nhiên, phù hợp với bối cảnh hiện đại.
 
-Lời thoại nhân vật phải phù hợp với tính cách và lứa tuổi (Ví dụ: Phó Viễn Bắc nói chuyện xấc xược, trống không với mẹ nuôi lúc đầu).
+Lời thoại nhân vật phải phù hợp với tính cách và lứa tuổi (Ví dụ: Phó Viễn Bạc nói chuyện xấc xược, trống không với mẹ nuôi lúc đầu).
 
 ### IV. QUY ĐỊNH ĐỊNH DẠNG (FORMATTING RULES)
 
@@ -118,17 +118,6 @@ Giải trí Tinh Huy (星辉)
 Giải trí Tùy Vân (随云)
 
 Giải trí Thôi Xán (璀璨)
-
-## VI. VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLES)
-
-Input (Trung/Convert):
-
-Giang Thu Thu nhìn màn hình, bên trên spam bình luận rất nhiều. Cô liền nói: "Cảm ơn mọi người." Đối phương (chỉ fan) rất nhiệt tình. Trong lòng cô nghĩ, thật là tốt quá.
-Output (Bản dịch chuẩn):
-
-Giang Thu Thu nhìn màn hình, dòng bình luận đang trôi lên vun vút. Cô mỉm cười nói: "Cảm ơn mọi người."
-
-Người hâm mộ quả thực rất nhiệt tình. Trong lòng cô nghĩ, thật là tốt quá.
 
 ## VI. QUY TRÌNH THỰC HIỆN (WORKFLOW)
 
