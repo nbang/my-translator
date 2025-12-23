@@ -8,7 +8,7 @@ import os
 import re
 import time
 from pathlib import Path
-from typing import Optional, List, Dict
+from typing import Optional, List, Dict, Tuple
 from bs4 import BeautifulSoup
 import requests
 import logging
@@ -24,6 +24,23 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
+
+
+SITE_RULES = [
+    {
+        'domain_keyword': '52shuku',
+        'main_selector': 'div.content',
+        'title_selector': 'h1#nr_title',
+        'content_selector': 'div#text',
+    },
+    # Default rule
+    {
+        'domain_keyword': '', # Match all/default
+        'main_selector': 'html',
+        'title_selector': None,
+        'content_selector': 'div#text',
+    }
+]
 
 
 class ChapterScraper:
@@ -46,7 +63,6 @@ class ChapterScraper:
             self.book_name = self.base_dir # Use base dir as book name for consistency
         else:
             # Derive book name/base dir from URL
-            # e.g. https://www.52shuku.net/yanqing/29_b/bkadd.html -> bkadd
             path = urlparse(self.url).path
             filename = os.path.basename(path)
             # Remove extension if present
@@ -125,7 +141,7 @@ class ChapterScraper:
             logger.error(f"Error fetching/parsing chapters: {e}")
             return []
     
-    def fetch_chapter_content(self, url: str) -> str:
+    def fetch_chapter_content(self, url: str) -> Tuple[str, Optional[str]]:
         """
         Fetch chapter content from the given URL.
         
@@ -133,7 +149,7 @@ class ChapterScraper:
             url: URL of the chapter
             
         Returns:
-            Chapter content as text
+            Tuple containing (content, optional_extracted_title)
         """
         try:
             headers = {
@@ -144,21 +160,61 @@ class ChapterScraper:
             
             soup = BeautifulSoup(response.text, 'html.parser')
             
-            # Find chapter content in div with id="text"
-            content_div = soup.find('div', id='text')
+            # Find matching rule
+            rule = None
+            for r in SITE_RULES:
+                if r['domain_keyword'] in url:
+                    rule = r
+                    break
             
-            if content_div:
-                content = content_div.get_text(strip=True)
-                # Clean up excessive whitespace
-                content = re.sub(r'\s+', '\n', content)
-                return content
+            if not rule:
+                # Fallback to default if no specific rule matched (though the empty string one should catch all)
+                rule = SITE_RULES[-1]
+
+            # Find main scope
+            scope = soup
+            if rule['main_selector'] and rule['main_selector'] != 'html':
+                scope = soup.select_one(rule['main_selector'])
             
+            if not scope:
+                logger.warning(f"Main selector {rule['main_selector']} not found for {url}")
+                return "", None
+                
+            # Extract title
+            extracted_title = None
+            if rule['title_selector']:
+                title_elem = scope.select_one(rule['title_selector'])
+                if title_elem:
+                    extracted_title = title_elem.get_text(strip=True)
+            
+            # Extract content
+            content = ""
+            if rule['content_selector']:
+                content_div = scope.select_one(rule['content_selector'])
+                if content_div:
+                    # Handle breaks
+                    for br in content_div.find_all("br"):
+                        br.replace_with("\n")
+                    # Handle paragraphs
+                    for p in content_div.find_all("p"):
+                        p.insert_after("\n")
+                        
+                    content = content_div.get_text()
+                    # Clean up excessive whitespace but preserve paragraph breaks
+                    # standardizing newlines
+                    content = re.sub(r'\r\n', '\n', content)
+                    # remove trailing spaces on lines
+                    content = re.sub(r'[ \t]+\n', '\n', content)
+                    # collapse 3+ newlines to 2
+                    content = re.sub(r'\n{3,}', '\n\n', content)
+                    return content.strip(), extracted_title
+
             logger.warning(f"No content found for {url}")
-            return ""
+            return "", None
         
         except Exception as e:
             logger.error(f"Error fetching chapter from {url}: {e}")
-            return ""
+            return "", None
     
     def save_chapter(self, chapter_num: int, title: str, content: str) -> str:
         """
@@ -228,15 +284,18 @@ class ChapterScraper:
                      continue
 
                 # Fetch content
-                content = self.fetch_chapter_content(chapter['url'])
+                content, extracted_title = self.fetch_chapter_content(chapter['url'])
                 if not content:
                     logger.warning(f"Skipping chapter {chapter['number']} - no content fetched")
                     continue
                 
+                # Use extracted title if available and reasonable, otherwise fallback to existing title
+                final_title = extracted_title if extracted_title else chapter['title']
+                
                 # Save original chapter
                 self.save_chapter(
                     chapter['number'],
-                    chapter['title'],
+                    final_title,
                     content
                 )
                 

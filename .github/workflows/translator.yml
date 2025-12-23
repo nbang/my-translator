@@ -3,11 +3,6 @@ name: Raw Translator
 on:
   workflow_dispatch:
     inputs:
-      batch_size:
-        description: 'Batch size (1-10)'
-        required: false
-        default: '5'
-        type: string
       force:
         description: 'Force re-translation'
         required: false
@@ -43,7 +38,7 @@ jobs:
       env:
         BOOK_BASE_DIR: ${{ inputs.book_base_dir }}
       run: |
-        python step2_raw_translate.py --batch ${{ inputs.batch_size }} ${{ inputs.force && '--force' || '' }}
+        python step2_raw_translate.py ${{ inputs.force && '--force' || '' }}
 
     - name: Commit and Push changes
       run: |
