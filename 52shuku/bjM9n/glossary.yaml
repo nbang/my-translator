@@ -1,0 +1,18 @@
+# Fixed Chinese -> Hán Việt terms for QA/consistency enforcement.
+terms:
+- chinese: "年岁"
+  hanviet: "Niên Tuế"
+  role: "nữ chính"
+  note: "Chủ tiệm, 23 tuổi, thừa kế tiệm ăn sáng; hệ thống gọi thân mật là Niên Niên"
+- chinese: "青狼"
+  hanviet: "Thanh Lang"
+  role: "nam chính"
+  note: "Sói con có mảng lông xanh trên mặt, người từ thế giới cao chiều, hóa hình thành thiếu niên có nốt ruồi lệ ở khóe mắt"
+- chinese: "山海"
+  hanviet: "Sơn Hải"
+  role: "địa danh"
+  note: "Không gian dị độ gắn liền với hệ thống"
+- chinese: "年家小馆"
+  hanviet: "Niên Gia Tiểu Quán"
+  role: "địa danh"
+  note: "Tiệm ăn sáng do bà nội mở, tên tiệm của nữ chính"

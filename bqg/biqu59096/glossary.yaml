@@ -1,0 +1,39 @@
+# Fixed Chinese -> Hán Việt terms for QA/consistency enforcement.
+# Seed only — extend by hand or via the glossary_update skill as new names appear.
+# (The prose pronoun/style rules stay in EDITOR.md.)
+terms:
+- chinese: 江秋秋
+  hanviet: Giang Thu Thu
+  role: nữ chính
+- chinese: 江啾啾
+  hanviet: Giang Tưu Tưu
+  role: nữ chính
+  note: nghệ danh phát sóng trực tiếp của Giang Thu Thu
+- chinese: 墨司
+  hanviet: Mặc Tư
+  role: nam chính
+  note: Thượng tướng liên bang, "lưỡi đao của đế quốc" (帝国之刃), fan hạng nhất
+- chinese: 左凯
+  hanviet: Tả Khải
+  role: nhân vật phụ
+  note: tên riêng
+- chinese: 琼斯
+  hanviet: Quỳnh Tư
+  role: nhân vật phụ
+  note: Thủ tướng / Nội các thủ tịch Jones, fan hạng nhì
+- chinese: 星网
+  hanviet: Mạng liên tinh
+  role: thuật ngữ
+  note: mạng liên tinh / liên sao
+- chinese: 星币
+  hanviet: tinh tệ
+  role: thuật ngữ
+  note: đơn vị tiền tệ
+- chinese: 星际
+  hanviet: liên tinh
+  role: thuật ngữ
+  note: thời đại liên tinh / liên sao
+- chinese: 星系
+  hanviet: liên thiên hà
+  role: thuật ngữ
+  note: liên thiên hà / hệ sao

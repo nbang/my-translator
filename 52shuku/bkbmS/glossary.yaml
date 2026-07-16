@@ -1,0 +1,33 @@
+# Fixed Chinese -> Hán Việt terms for QA/consistency enforcement.
+# Seed only — extend by hand or via the glossary_update skill as new names appear.
+terms:
+- chinese: 南久
+  hanviet: Nam Cửu
+  role: nữ chính
+- chinese: 宋霆
+  hanviet: Tống Đình
+  role: nam chính
+  note: con nuôi của ông lão họ Nam, đường hầu quán trà
+- chinese: 南振东
+  hanviet: Nam Chấn Đông
+  role: nhân vật phụ
+  note: cha của Nam Cửu
+- chinese: 南老爷子
+  hanviet: Nam lão gia tử
+  role: nhân vật phụ
+  note: ông nội của Nam Cửu, chủ quán trà Mạo Nhi
+- chinese: 柳茵
+  hanviet: Liễu Nhân
+  role: nhân vật phụ
+  note: cô hàng xóm lớn hơn Nam Cửu hai tuổi
+- chinese: 帽儿巷
+  hanviet: Mạo Nhi Hạng
+  role: địa danh
+  note: con hẻm nơi có quán trà
+- chinese: 帽儿茶馆
+  hanviet: Mạo Nhi Trà Quán
+  role: địa danh
+  note: quán trà cũ của gia đình họ Nam
+- chinese: 南城
+  hanviet: Nam Thành
+  role: địa danh

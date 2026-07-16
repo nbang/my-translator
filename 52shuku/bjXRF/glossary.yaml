@@ -1,0 +1,16 @@
+# Fixed Chinese -> Hán Việt terms for QA/consistency enforcement.
+terms:
+- chinese: "禾嫒尺"
+  hanviet: "Hòa Ái Xích"
+  role: "nữ chính"
+  note: "Nhân vật chính, dùng đại từ 'cô' trong lời dẫn truyện"
+- chinese: "小众点评"
+  hanviet: "Cộng Đồng Đánh Giá Độc Đáo"
+- chinese: "美食网红打卡APP"
+  hanviet: "Ứng Dụng Đánh Dấu Ẩm Thực Của Tín Đồ Mạng"
+  role: "nhân vật phụ"
+  note: "Ứng dụng hệ thống ràng buộc với nữ chính"
+- chinese: "环境"
+  hanviet: "không gian"
+- chinese: "影响力收入"
+  hanviet: "Thu nhập Ảnh hưởng"
