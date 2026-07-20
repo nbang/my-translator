@@ -76,6 +76,18 @@ def main() -> int:
     )
     check("QA flags residual CJK + glossary miss", len(bad) >= 2)
 
+    # Prefect flows build (optional dep): import and verify structure, no run.
+    try:
+        from translator.workflow import flows  # noqa: E402
+
+        check("flows.book_flow is a Prefect flow", hasattr(flows.book_flow, "with_options"))
+        check(
+            "flows exposes the 4 skill tasks",
+            all(hasattr(getattr(flows, t, None), "submit") for t in ("scrape_task", "translate_task", "edit_task", "qa_task")),
+        )
+    except ImportError:
+        print("  skip flows checks (prefect not installed)")
+
     print(f"\n{passed} passed, {failed} failed")
     return 1 if failed else 0
 

@@ -69,6 +69,31 @@ Flags: `--force` redo existing outputs · `--limit N` cap per run · `--critic`
 add an LLM critic to QA. The pipeline is idempotent and resumable — re-running
 only redoes missing/failed work.
 
+### Orchestration with Prefect (optional)
+
+For a monitoring UI, task-level retries, and parallel translation, run the same
+stages through [Prefect](https://prefect.io) instead. It wraps the identical
+skills — no change to translation behavior — and `pipeline.py` remains a
+zero-dependency fallback.
+
+```bash
+pip install -r requirements-prefect.txt   # in addition to requirements.txt
+prefect server start                      # optional — live UI at http://127.0.0.1:4200
+
+# Same stages/flags as pipeline.py:
+python -m translator.workflow.flows --book bqg/biqu59096 --stage all --range 1-10
+python -m translator.workflow.flows --book bqg/biqu59096 --stage translate --range 1-50 --concurrency 6
+```
+
+- **Concurrency (Option A):** translation fans out in parallel (cap with
+  `--concurrency` / `TRANSLATE_CONCURRENCY`); editing and re-terming run
+  sequentially per book to preserve the previous-chapter style-context chain.
+- **Idempotency:** unchanged — the skills self-skip existing outputs, shown in
+  the UI as tasks returning `status="skipped"`.
+- **Global LLM rate limit** (needs the server): every LLM task carries the `llm`
+  tag, so `prefect concurrency-limit create llm 4` caps concurrent LLM calls
+  across all runs.
+
 ## Quality controls
 
 - **Glossary** (`<book>/glossary.yaml`): fixed `chinese → hanviet` terms, injected
