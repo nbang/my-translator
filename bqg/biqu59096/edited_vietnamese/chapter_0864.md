@@ -1,5 +1,7 @@
 # Chương 864 - Sự Quan Tâm Của Viện Trưởng
 
+## Nội dung
+
 Sau khi xem xong nhóm người này, cô xin nghỉ phép rồi đến gặp Viện Trưởng Chúc.
 
 "Viện Trưởng."
@@ -10,7 +12,7 @@ Viện Trưởng Chúc nhìn cô thật sâu, rồi nói:
 
 _Cô khó hiểu._
 
-Hai người đến văn phòng bên trong nhà máy. Tổng Tiểu Tiền cũng có mặt, nhưng cô ấy không vào trong mà chỉ đứng ở cửa.
+Hai người đến văn phòng bên trong nhà máy. Tiểu Tiền cũng có mặt, nhưng cô ấy không vào trong mà chỉ đứng ở cửa.
 
 "Viện Trưởng, rốt cuộc là chuyện gì vậy?"
 

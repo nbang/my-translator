@@ -1,7 +1,5 @@
 # Chương 662: Em muốn đổi sang giáp trung
 
----
-
 ## Nội dung
 
 Trong tiết học này, Giang Thu Thu đã chứng minh cho mọi người thấy, người điều khiển giáp nhẹ cũng có thể vô cùng mạnh mẽ, với thành tích đáng nể: 19 thắng, 4 hòa và 3 thua. Thầy Mao đứng bên cạnh quan sát, mơ hồ cảm thấy cô có vẻ hơi khác trước. _Đây có phải là... đang trở nên mạnh mẽ hơn?_

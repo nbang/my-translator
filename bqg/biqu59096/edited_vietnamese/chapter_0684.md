@@ -1,6 +1,6 @@
 # Chương 684: Không, chuyện chuyển khoa đã có thay đổi mới
 
----
+## Nội dung
 
 Không, chuyện chuyển khoa đã có thay đổi mới.
 
@@ -8,7 +8,7 @@ Không, chuyện chuyển khoa đã có thay đổi mới.
 
 "Mỗi ngày của tôi?" _Có gì hay ho mà ghi lại chứ?_
 
-"Đúng vậy, cậu có thể đến ứng dụng Xinxing mà tôi đang làm việc. Công ty vừa mới khai trương, nếu ký hợp đồng thành công, mỗi tháng cậu còn nhận được 1000 tinh tệ tiền lương đảm bảo đấy."
+"Đúng vậy, cậu có thể đến ứng dụng Tân Tinh mà tôi đang làm việc. Công ty vừa mới khai trương, nếu ký hợp đồng thành công, mỗi tháng cậu còn nhận được 1000 tinh tệ tiền lương đảm bảo đấy."
 
 "!"
 
@@ -50,4 +50,4 @@ Giang Thu Thu khẽ ừ một tiếng. "Quả thực, nghĩ đến việc rời 
 
 ---
 
-Ngày hôm sau đã là thứ Hai. Rạng sáng cuối tuần, cô đã đặt một đợt hàng lớn trên ứng dụng Taotao Fresh, mua rất nhiều nguyên liệu và nhờ robot giao hàng đưa đến căn hộ của vị giáo sư đó.
+Ngày hôm sau đã là thứ Hai. Rạng sáng cuối tuần, cô đã đặt một đợt hàng lớn trên ứng dụng Đào Đào Tươi, mua rất nhiều nguyên liệu và nhờ robot giao hàng đưa đến căn hộ của vị giáo sư đó.

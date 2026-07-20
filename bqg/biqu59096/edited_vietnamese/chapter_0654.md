@@ -1,5 +1,7 @@
 # Chương 654: Tin tốt này thật sự quá tuyệt vời!
 
+## Nội dung
+
 Đúng vậy, mỗi lần cô làm món này, cô đều tải thông tin món ăn đã hoàn thành lên hệ thống trước, rồi mới tự mình nếm thử. Bởi vì hồi đó có hạn chế cấp bậc, số lượng bản sao mỗi món ăn cũng có hạn, không phải ai cũng may mắn nhận được suất ăn mình mong đợi. Cô không muốn người hâm mộ phải chờ đợi trong vô vọng, nên đã cố gắng hết sức để tăng số lượng suất ăn.
 
 Nhưng bây giờ – cô đặt đũa xuống, chậm rãi gắp thêm một miếng thịt bò nữa đặt lên vỉ nướng, rồi mỉm cười nói:
@@ -20,7 +22,7 @@ Từ việc một món ăn chỉ có thể tạo ra một trăm triệu suất n
 
 Trong lúc cô nói chuyện, miếng thịt thứ hai và thứ ba cũng đã chín tới. Cô gắp chúng ra đĩa, đặt kèm một chén nước chấm nhỏ, rồi trực tiếp nhấn nút tải lên. Quả nhiên, một tỷ suất ăn đã xuất hiện. Vô số người nhanh chóng tranh giành, chỉ trong vài giây, số lượng suất ăn còn lại ở góc trên bên phải đã về con số không. Có người đã bắt đầu nếm thử, còn người không giành được thì tiếc nuối thở dài.
 
-Nhưng tốc độ nướng thịt quả thực rất nhanh. Sau khi cô không nói gì mà chỉ tập trung nướng thịt, cứ khoảng hai ba phút lại có một đĩa thịt được tải lên. Cô ăn ngập miệng, mùi thơm xộc thẳng vào mũi. Trong phòng phát sóng trực tiếp không còn nhiều tiếng nói chuyện. Cô không nói gì, chỉ còn lại tiếng nước thịt bắn tung tóe và tiếng xèo xèo của đồ nướng. Đặc biệt là khi nướng thịt mỡ, phần mỡ chảy xuống than hồng khiến âm thanh càng thêm rõ ràng. Tĩnh lặng mà ồn ã, đây chính là phong cách nguyên bản của phòng phát sóng trực tiếp của Thu Thu.
+Nhưng tốc độ nướng thịt quả thực rất nhanh. Sau khi cô không nói gì mà chỉ tập trung nướng thịt, cứ khoảng hai ba phút lại có một đĩa thịt được tải lên. Cô ăn ngập miệng, mùi thơm xộc thẳng vào mũi. Trong phòng phát sóng trực tiếp không còn nhiều tiếng nói chuyện. Cô không nói gì, chỉ còn lại tiếng nước thịt bắn tung tóe và tiếng xèo xèo của đồ nướng. Đặc biệt là khi nướng thịt mỡ, phần mỡ chảy xuống than hồng khiến âm thanh càng thêm rõ ràng. Tĩnh lặng mà ồn ã, đây chính là phong cách nguyên bản của phòng phát sóng trực tiếp của Giang Thu Thu.
 
 Lượng thịt quả thực đã nhiều hơn hẳn so với trước. Từ việc chỉ đủ để nếm thử hương vị, giờ đây đã có thể ăn no bụng, đơn giản chỉ vì hệ thống đã được nâng cấp.
 
@@ -40,6 +42,6 @@ Sau khi rửa sạch, đổ nước sôi để nguội vào một hộp có nắ
 
 "Quy trình chế biến chỉ có vậy thôi. Tiếp theo chỉ cần đậy nắp lại, cho vào tủ lạnh ủ hai ngày rồi lấy ra thưởng thức là được."
 
-"Khi ăn thịt nướng có thể dùng kèm một chút, hoặc khi biếng ăn thì dùng một ít, vị chua chua ngọt ngọt, cực kỳ đưa miệng."
+"Khi ăn thịt nướng có thể dùng kèm một ít, hoặc khi biếng ăn thì dùng một ít, vị chua chua ngọt ngọt, cực kỳ đưa miệng."
 
 "Là thật đó, tôi không lừa mọi người đâu."

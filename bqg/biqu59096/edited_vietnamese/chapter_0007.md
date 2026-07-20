@@ -1,5 +1,7 @@
 # Chương 7: Đây là chọc vào ổ thú rồi sao?
 
+## Nội dung
+
 Chương 7
 
 Đây là chọc vào ổ thú rồi sao?
@@ -28,7 +30,7 @@ Cầm lấy dung dịch dinh dưỡng, cô quả thực đã hơi đói rồi. C
 
 Một giây, hai giây...
 
-Trong ký ức của nguyên chủ, chưa bao giờ có khái niệm dung dịch dinh dưỡng khó uống. Nên dù cô đã nhiều lần thấy trên Tinh Võng rằng dung dịch dinh dưỡng khó uống đến mức kinh tởm, cô cũng chỉ thoáng nghĩ rằng dung dịch dinh dưỡng có lẽ càng đắt càng khó uống.
+Trong ký ức của nguyên chủ, chưa bao giờ có khái niệm dung dịch dinh dưỡng khó uống. Nên dù cô đã nhiều lần thấy trên Mạng liên tinh rằng dung dịch dinh dưỡng khó uống đến mức kinh tởm, cô cũng chỉ thoáng nghĩ rằng dung dịch dinh dưỡng có lẽ càng đắt càng khó uống.
 
 Thế mà hôm nay vừa uống vào, cô chẳng kịp chuẩn bị tinh thần chút nào. Một ống chất lỏng xông thẳng vào cổ họng, mùi vị khó tả lập tức lan tỏa. Nghe nói, loại dung dịch dinh dưỡng này là chất lỏng tinh thể năng lượng được chiết xuất từ quặng năng lượng, do những người Liên bang thời kỳ đầu tạo ra khi không có thức ăn.
 
@@ -46,11 +48,11 @@ Mất khoảng mười phút, cô mới thoát ra khỏi cảm xúc tiêu cực 
 
 Cứ thế bận rộn, chớp mắt đã gần tám giờ tối.
 
-Cô bật Tinh Võng và các thiết bị phát sóng trực tiếp, mở phòng phát sóng trực tiếp vào lúc 7 giờ 59 phút.
+Cô bật Mạng liên tinh và các thiết bị phát sóng trực tiếp, mở phòng phát sóng trực tiếp vào lúc 7 giờ 59 phút.
 
-Terry nhận được thông báo từ Tinh Võng ngay lập tức, và nhanh chóng đăng nhập vào phòng phát sóng trực tiếp #Kinh ngạc!…# của Giang Thu Thu.
+Terry nhận được thông báo từ Mạng liên tinh ngay lập tức, và nhanh chóng đăng nhập vào phòng phát sóng trực tiếp #Kinh ngạc!…# của Giang Thu Thu.
 
-`"Chào buổi tối mọi người, chào mừng đến với kênh phát sóng trực tiếp ẩm thực của tôi. Tôi là Giang Chú Chú, và món ăn hôm nay tôi chuẩn bị là: thịt viên chiên."`
+`"Chào buổi tối mọi người, chào mừng đến với kênh phát sóng trực tiếp ẩm thực của tôi. Tôi là Giang Tưu Tưu, và món ăn hôm nay tôi chuẩn bị là: thịt viên chiên."`
 
 Cô khẽ lật tay, một tảng thịt thú lớn đã xuất hiện trên thớt. Cô đi thẳng vào vấn đề, bắt đầu giới thiệu: `"Hôm nay, món thịt viên chiên này sẽ được làm từ thịt của Tỷ Tỷ Thú —"`
 

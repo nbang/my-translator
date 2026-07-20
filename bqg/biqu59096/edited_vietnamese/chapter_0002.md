@@ -1,14 +1,12 @@
 # Chương 2 Phát Sóng Trực Tiếp Liên Bang! Bạn Xứng Đáng Sở Hữu!
 
----
-
 ## Nội dung
 
 Phát Sóng Trực Tiếp Liên Bang! Bạn Xứng Đáng Sở Hữu!
 
-Trong thời đại này, nhân loại phát triển bùng nổ, Liên bang là thể chế độc tôn với khoảng 400 tỷ người. Tất cả đều sử dụng chung một mạng tinh cầu, nên số người truy cập mạng rất đông đảo, khiến ngành phát sóng trực tiếp của Liên bang vô cùng thịnh vượng.
+Trong thời đại này, nhân loại phát triển bùng nổ, Liên bang là thể chế độc tôn với khoảng 400 tỷ người. Tất cả đều sử dụng chung một Mạng liên tinh, nên số người truy cập mạng rất đông đảo, khiến ngành phát sóng trực tiếp của Liên bang vô cùng thịnh vượng.
 
-Cô bỗng nhiên bừng tỉnh, chuyển màn hình sang khu vực phát sóng trực tiếp của Mạng Tinh Cầu và tìm đến khu ẩm thực mà nguyên chủ chưa từng ghé thăm. Vô số kênh phát sóng trực tiếp hiện ra, cô chọn ngẫu nhiên vài kênh trong danh sách xếp hạng để kiểm tra. Độ nổi tiếng của chúng rất cao, kênh có lượng người xem cao nhất thậm chí lên tới hàng trăm triệu người! _Hàng trăm triệu người đang sống!_
+Giang Thu Thu bỗng nhiên bừng tỉnh, chuyển màn hình sang khu vực phát sóng trực tiếp của Mạng liên tinh và tìm đến khu ẩm thực mà nguyên chủ chưa từng ghé thăm. Vô số kênh phát sóng trực tiếp hiện ra, cô chọn ngẫu nhiên vài kênh trong danh sách xếp hạng để kiểm tra. Độ nổi tiếng của chúng rất cao, kênh có lượng người xem cao nhất thậm chí lên tới hàng trăm triệu người! _Hàng trăm triệu người đang sống!_
 
 Và cô phát hiện, các buổi phát sóng trực tiếp ở thời đại này còn có tính năng nếm thử ảo đặc biệt. (Chủ kênh có thể mở một căn bếp ảo hoàn chỉnh trong khi phát sóng trực tiếp, cho phép người hâm mộ ngửi được mùi vị, thậm chí có thể mở dịch vụ nếm thử ảo để người hâm mộ trả phí trải nghiệm món ăn, và mua hàng ngay lập tức).
 
@@ -20,11 +18,11 @@ Cô đã bắt tay vào chuẩn bị ngay khi quyết định bắt đầu phát
 
 Để phát sóng trực tiếp, việc đầu tiên là tìm kiếm thiết bị. Cô mở trang mua sắm Tinh Đào Đào... và rồi phát hiện ra, ngay cả bộ thiết bị phát sóng trực tiếp ẩm thực cơ bản nhất cũng có giá gần năm chữ số.
 
-Đây là số tiền mà cô hiện không thể chi trả. Tuy nhiên, không phải chỉ có một con đường. Nếu không đủ khả năng mua, cô có thể thuê trên Mạng Tinh Cầu.
+Đây là số tiền mà cô hiện không thể chi trả. Tuy nhiên, không phải chỉ có một con đường. Nếu không đủ khả năng mua, cô có thể thuê trên Mạng liên tinh.
 
 Sau khi so sánh giá cả khắp nơi, cô đã thuê một bộ thiết bị phát sóng trực tiếp ẩm thực cấp thấp với giá 300 tinh tệ mỗi tháng.
 
-Với bộ thiết bị này, cô quyết định trước tiên sẽ nghiên cứu các loại nguyên liệu trong thế giới tinh tế, sau đó lên thực đơn cho riêng mình.
+Với bộ thiết bị này, cô quyết định trước tiên sẽ nghiên cứu các loại nguyên liệu trong thế giới liên tinh, sau đó lên thực đơn cho riêng mình.
 
 Khi cô tìm kiếm danh mục rau củ, khuôn mặt nhỏ nhắn của cô chợt ngẩn ra. _!!! Những giống này không chỉ hiếm mà còn đắt đến mức nực cười._
 
@@ -48,11 +46,11 @@ Sau hơn một giờ loay hoay trong bếp, cô cuối cùng đã chốt thực 
 
 Giờ đây mọi thứ đã đâu vào đấy, chỉ còn chờ thiết bị phát sóng trực tiếp đến.
 
-Sự chờ đợi luôn khiến người ta đứng ngồi không yên. Cô buộc bản thân phải trấn tĩnh lại, tiếp tục duyệt thông tin trên Mạng Tinh Cầu để làm phong phú thêm kiến thức của mình về thế giới này.
+Sự chờ đợi luôn khiến người ta đứng ngồi không yên. Cô buộc bản thân phải trấn tĩnh lại, tiếp tục duyệt thông tin trên Mạng liên tinh để làm phong phú thêm kiến thức của mình về thế giới này.
 
 May mắn thay, dịch vụ chuyển phát nhanh liên tinh vận chuyển rất nhanh, nên cô đã nhận được bộ thiết bị phát sóng trực tiếp cấp thấp cùng nguyên liệu vào đêm đó.
 
-Đó là năm 5355 của Kỷ nguyên Liên bang, và một chủ kênh ẩm thực tên Giang Thu Thu đã xuất hiện trên Mạng Phát Sóng Trực Tiếp Liên Bang!
+Đó là năm 5355 của Kỷ nguyên Liên bang, và một chủ kênh ẩm thực tên Giang Tưu Tưu đã xuất hiện trên Mạng Phát Sóng Trực Tiếp Liên Bang!
 
 ---
 (Hết chương)

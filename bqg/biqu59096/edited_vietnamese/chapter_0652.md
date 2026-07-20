@@ -1,6 +1,8 @@
 # Chương 652 Giang Thu Thu - Vua Chủ Nhật
 
-Lại một cuối tuần nữa đến. Giờ đây, cuối tuần là khoảng thời gian sôi động nhất trong cộng đồng ẩm thực của Giang Thu Thu. Cứ như đến hẹn lại lên, trước năm giờ, những gương mặt quen thuộc lại lũ lượt xuất hiện trong nhóm.
+## Nội dung
+
+Lại một cuối tuần nữa đến. Giờ đây, cuối tuần là khoảng thời gian sôi động nhất trong cộng đồng ẩm thực của Giang Tưu Tưu. Cứ như đến hẹn lại lên, trước năm giờ, những gương mặt quen thuộc lại lũ lượt xuất hiện trong nhóm.
 
 [Tôi lại đến đây rồi, có phải lại ngồi canh ở Liên bang… ồ không, trước ứng dụng Tân Tinh rồi không?]
 [Cô ấy ở trên kênh phát sóng trực tiếp của Liên bang lâu quá, tôi suýt thì lỡ lời.]
@@ -19,4 +21,4 @@ Hàng loạt câu hỏi tò mò nhanh chóng xuất hiện. Người tố cáo n
 [Mà quan trọng nhất là không cần chọn ngày. Mọi người cũng đâu cần phải chia rẽ như vậy. Cuối tuần vẫn có thể đến Tân Tinh, rồi ngày thường thì xem các chủ kênh ẩm thực khác trên kênh phát sóng trực tiếp của Liên bang, ví dụ như đầu bếp mới thầy Hoàng, tôi thấy cũng khá ổn đó. Hì hì.]
 [Là cái nhà hàng xoay đó hả? Nấu ăn cũng được, mà có thể ăn ở nhà hàng xoay với giá rẻ, quá hời luôn!]
 
-Chủ đề cũng sẽ bị lái đi một cách khéo léo. Trước đây, từng có người hâm mộ phản bác rằng việc những người này thường xuyên nhắc đến người khác trong cộng đồng ẩm thực của cô là không hay chút nào. Nhưng vừa dứt lời, ngay lập tức có thêm nhiều người khác xông vào công kích, nói rằng lẽ nào đây là nơi độc quyền phát ngôn sao? Người hâm mộ yêu cầu họ đăng bài liên quan vào nhóm ẩm thực lớn hơn, nhưng cũng bị đáp trả lại: "Sao nào, không được đăng ở đây à?"
+Chủ đề cũng sẽ bị lái đi một cách khéo léo. Trước đây, từng có người hâm mộ phản bác rằng việc những người này thường xuyên nhắc đến người khác trong cộng đồng ẩm thực của cô ấy là không hay chút nào. Nhưng vừa dứt lời, ngay lập tức có thêm nhiều người khác xông vào công kích, nói rằng lẽ nào đây là nơi độc quyền phát ngôn sao? Người hâm mộ yêu cầu họ đăng bài liên quan vào nhóm ẩm thực lớn hơn, nhưng cũng bị đáp trả lại: "Sao nào, không được đăng ở đây à?"

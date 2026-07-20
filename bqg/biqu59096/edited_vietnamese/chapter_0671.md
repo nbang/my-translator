@@ -1,6 +1,6 @@
 # Chương 671: Kể Mặc Tư nghe lựa chọn của nàng
 
----
+## Nội dung
 
 Có rất nhiều điều muốn nói với Mặc Tư về lựa chọn của mình, nhưng trước tiên, Giang Thu Thu và anh đã trò chuyện về những chuyện không mật thiết liên quan đến hành tinh cực địa.
 

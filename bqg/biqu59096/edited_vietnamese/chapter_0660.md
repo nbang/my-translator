@@ -1,5 +1,7 @@
 # Chương 660: Công bằng và bất công
 
+## Nội dung
+
 Sau lần trút giận về sự công bằng và bất công trong phòng máy ảo, Giang Thu Thu cảm thấy như mình đột nhiên vượt qua một ngưỡng cửa. Cô không còn bị giới hạn bởi trọng lực của cỗ máy hạng trung nữa. Khi điều khiển cỗ máy hạng trung trong phòng máy ảo, cô bắt đầu huy động tinh thần lực để bảo vệ bản thân. Cô thấy mình có nhiều năng lượng dự trữ hơn. Biển tinh thần lực ngày càng dồi dào, tốc độ khôi phục tinh thần lực cũng nhanh và bền bỉ hơn. Những thay đổi này là kết quả của quá trình luyện tập dài ngày.
 
 Cùng với sự tiến bộ của tinh thần lực cô, tình hình của Công ty Phát sóng Trực tiếp Tân Tinh cũng khởi sắc. Kể từ khi bộ não cơ khí và bộ não chủ được thay thế, đồng thời trang thông tin chi tiết của công ty công bố hợp tác chiến lược với Merlin Dess và một số tập đoàn lớn tại Hải Vân Tinh, công ty bỗng chốc có chỗ dựa vững chắc.

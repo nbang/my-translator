@@ -1,53 +1,57 @@
 # Chương 30: Giang Thu Thu: Tôi muốn rời nền tảng phát sóng trực tiếp Liên Bang
 
-Ngồi vào ghế chủ tọa, Tiền Tinh Tinh giới thiệu cô Giang Thu Thu với mọi người: "Đây là chủ kênh ẩm thực mới nhất mà tôi tìm thấy trên nền tảng phát sóng trực tiếp của công ty tôi."
+## Nội dung
 
-"Tôi cảm giác cô ấy sẽ thay đổi cục diện các chủ kênh hàng đầu hiện nay." Tiền Tinh Tinh, tên thật là Tiền Tinh Tinh, là thiếu gia duy nhất của gia tộc Tiền – một trong những gia tộc giàu có nhất Liên Bang, đồng thời là người thừa kế đã được ấn định của Công ty Phát sóng trực tiếp Tinh Mạng Liên Bang. Năm ngoái, anh ta tốt nghiệp Khoa Quản trị Kinh doanh của Đại học Liên Bang, từ đó không ngừng khảo sát nền tảng phát sóng trực tiếp Liên Bang, tìm kiếm các chủ kênh đặc sắc. Anh ta chuẩn bị khi nhậm chức sẽ nâng đỡ một thế hệ người mới, mang đến luồng gió tươi mát hơn cho nền tảng này.
+Ngồi vào ghế chủ tọa, Tiền Tinh Tinh giới thiệu Giang Thu Thu với mọi người: "Đây là chủ kênh ẩm thực mới nhất mà tôi tìm thấy trên nền tảng phát sóng trực tiếp của công ty tôi."
 
-Và Giang Thu Thu chính là chủ kênh tiềm năng nhất mà anh ta đã phát hiện trước khi chính thức nhậm chức!
+"Tôi cảm giác cô ấy sẽ thay đổi cục diện các chủ kênh hàng đầu hiện nay." Tiền Tinh Tinh, tên thật là Tiền Tinh Tinh, là thiếu gia duy nhất của gia tộc Tiền – một trong những gia tộc giàu có nhất Liên Bang, đồng thời là người thừa kế đã được ấn định của Công ty Phát sóng trực tiếp Mạng liên tinh Liên Bang. Năm ngoái, anh ta tốt nghiệp Khoa Quản trị Kinh doanh của Đại học Liên Bang, từ đó không ngừng khảo sát nền tảng phát sóng trực tiếp Mạng liên tinh, tìm kiếm các chủ kênh đặc sắc, chuẩn bị khi lên nắm quyền sẽ đẩy lên một lứa người mới, mang lại nhiều sinh khí mới cho phát sóng trực tiếp Liên Bang. Mà Giang Thu Thu, chính là chủ kênh có tiềm năng nhất mà anh ta đào được trước khi chính thức nhận chức!
 
-"Hôm nay, những người tôi mời đến đây, gia đình ít nhiều đều nắm giữ cổ phần của công ty phát sóng trực tiếp chúng ta, nên tôi thật sự không thể không chia sẻ với mọi người!"
+"Hôm nay những người tôi gọi đến, dù nhiều dù ít trong nhà đều nắm giữ chút cổ phần của công ty phát sóng trực tiếp nhà chúng tôi, tôi thật sự nhịn không được phải chia sẻ với các bạn!"
 
-"Dân dĩ thực vi thiên, còn người liên bang thì coi việc không phải dùng thứ dịch dinh dưỡng tệ hại làm mục tiêu ẩm thực cả đời mình..."
+"Dân lấy ăn làm trời, người thời đại liên tinh lấy việc có thể không phải uống thứ dung dịch dinh dưỡng như phân làm theo đuổi ẩm thực cả đời ––"
 
-"Người có thể làm ra món ngon quá ít!" Những đầu bếp lớn duy nhất của Liên Bang hiện đều đã được chiêu mộ, hoặc làm việc trong các nhà hàng cao cấp, hoặc giữ chức vụ cấp cao trong Hiệp hội Ẩm thực. Rất ít người sẵn lòng lên sóng trực tiếp để phục vụ công chúng. Còn những người ít ỏi còn lại thì...
+"Người có thể làm được món ngon quá ít!"
 
-"Các chủ kênh ẩm thực top đầu thì có người quá thanh cao, còn những người chịu hạ mình thì món ăn cũng chỉ ở mức tầm thường! Cho đến khi tôi phát hiện ra cô ấy! Mọi người nhìn màn hình này!" Tiền Tinh Tinh phấn khích nói: "Mọi người có ngửi thấy mùi hương thoang thoảng trong không khí không? Món ăn của cô ấy không chỉ thơm ngào ngạt mà còn có hương vị tuyệt vời hơn cả mùi hương đó, cô ấy sở hữu kỹ năng và tài năng siêu phàm!"
+Liên Bang chỉ có một vài đầu bếp hiện đều đã bị thu gom, hoặc làm thuê ở nhà hàng đỉnh cấp, hoặc làm lãnh đạo cấp cao trong hiệp hội ẩm thực, sẵn lòng ra ngoài phát sóng trực tiếp giải trí đại chúng thì quá ít. Vài người hiếm hoi đó thì...
 
-"Hơn nữa, cô ấy rất chịu khó! Đã nói năm mươi nghìn phần thì đúng là năm mươi nghìn phần, lại còn sẵn lòng tương tác với người hâm mộ nữa chứ!"
+"Chủ kênh đầu bảng khu ẩm thực, có người thì quá thanh cao, người chịu hạ mình làm ẩm thực thì cũng chỉ ở mức tầm thường! Cho đến khi tôi phát hiện ra cô ấy! Các bạn nhìn màn hình!"
 
-"Chưa kể, từ ngày đầu tiên cô ấy lên sóng đến nay, hầu như chưa từng có thực đơn nào trùng lặp, phương pháp nấu nướng cũng vô cùng đa dạng. Cô ấy chắc chắn là một người làm ẩm thực sở hữu sự truyền thừa!" Anh ta nói thao thao bất tuyệt, nhưng những người ở đây đều chưa từng nếm thử món ăn của Giang Thu Thu.
+Tiền Tinh Tinh rất hưng phấn, "Các bạn hãy ngửi mùi thơm đầu mũi, món cô ấy nấu vị giác còn đậm hơn mùi thơm, cô ấy sở hữu kỹ xảo và thiên phú vượt người thường!"
 
-Có người liền đặt nghi vấn: "Thật sự tốt đến thế sao? Tốt đến thế thì cần gì phải phát sóng trực tiếp? Đi đến Hiệp hội Ẩm thực có địa vị, có tài phú, chẳng phải sướng hơn sao?"
+"Hơn nữa cô ấy rất chịu khó! Nói năm vạn phần là năm vạn phần, sẵn lòng tương tác với người hâm mộ ––"
 
-"Chắc chắn rồi!"
+"Còn nữa, từ ngày đầu phát sóng đến giờ, thực đơn của cô ấy gần như không bao giờ lặp lại, mà phương pháp nấu nướng đa dạng, cô ấy tuyệt đối là một người làm ẩm thực có truyền thừa!"
 
-"Thôi được rồi, không nói nhiều với mọi người nữa. Cứ ăn xong rồi chúng ta sẽ bàn tiếp." Đúng lúc này, Giang Thu Thu đã nhanh nhẹn làm xong hàng chục đĩa bánh cuốn. Mồ hôi lấm tấm từ thái dương chảy xuống, mắt cô đã hơi mờ đi. Giang Thu Thu nhanh chóng quét mã vạch trên các đĩa bánh cuốn rồi kích hoạt chức năng thử nếm.
+Anh ta nói hoa cả môi, nhưng những người ở đây đều chưa từng ăn món của Giang Thu Thu. Bèn có người lên tiếng nghi vấn, "Thật sự ngon đến thế sao?"
 
-Vài vạn suất ăn nhanh chóng được giành hết. Đĩa cuối cùng, cô dành tặng cho một nghìn người hâm mộ đứng đầu bảng xếp hạng.
+Ngon đến thế, còn phát sóng trực tiếp làm gì, đi hiệp hội ẩm thực có địa vị có của cải, chẳng thơm hơn sao?
 
-Lần này, các thiết bị đầu cuối mà Tiền Tinh Tinh mang đến buổi tụ họp đều là những tài khoản đã từng hào phóng tặng thưởng cho kênh của Giang Thu Thu. Vì vậy, ngay khi phúc lợi dành cho người hâm mộ được công bố, trước mặt mỗi thiếu gia liền xuất hiện một bát bánh cuốn màu sắc mê người, trong suốt như pha lê. Ở đây, tất cả đều sử dụng cảm biến cao cấp nhất, hương vị tinh tế nhất được cảm nhận, và món ăn tỏa ra mùi thơm quyến rũ nhất. Hương thơm ngào ngạt xộc vào mũi, mọi người gần như đồng thời cầm đũa lên.
+"Có!"
 
-Tiền Tinh Tinh mỉm cười hiểu ý, khoát tay nói: "Ăn đi, ăn xong mọi người sẽ biết tôi nói có thật hay không." Nói rồi, anh ta cũng bắt đầu ăn. Ăn hết một bát, lại ăn thêm bát nữa. Vị thiếu gia này đã dùng đặc quyền để tự tạo cho mình hai tài khoản.
+"Thôi, không nói nhiều với các bạn nữa, đợi ăn xong chúng ta tiếp tục nói." Đúng lúc này, Giang Thu Thu đã thoăn thoắt làm xong mấy chục đĩa bánh cuốn. Mồ hôi từ thái dương nhễ nhại chảy xuống, mắt cô đã hơi mờ, Giang Thu Thu nhanh chóng quét mấy đĩa bánh cuốn này rồi mở chức năng thử ăn. Mấy vạn suất một thoáng cướp sạch, đĩa cuối cùng, cô tặng cho người hâm mộ top 1000 bảng xếp hạng.
 
-Đối với món ăn ngon, ngàn lời miêu tả cũng không bằng chính người nếm thử một miếng. Một bát bánh cuốn nhỏ xíu, chỉ hai phút là mọi người đã ăn xong.
+Tiền Tinh Tinh lần tụ tập này mang đến đều là tài khoản từng quảng thưởng lớn cho phòng phát sóng của Giang Thu Thu, cho nên, phúc lợi người hâm mộ vừa ra, trước mặt mỗi thiếu gia đều xuất hiện một bát bánh cuốn sáng bóng quyến rũ, trong suốt. Ở đây dùng toàn cảm biến cao cấp nhất, nếm đều là vị tinh tế nhất, thức ăn tỏa ra đều là mùi quyến rũ nhất. Hương thơm xông vào mũi, mọi người gần như cùng lúc cầm đũa. Tiền Tinh Tinh mỉm cười thấu tình, vung tay lớn, "Ăn đi, ăn rồi các bạn sẽ biết tôi nói thật." Nói xong, bản thân anh ta cũng ăn.
 
-"Bây giờ mọi người đã tin lời tôi nói chưa?"
+Mà ăn xong một bát, lại ăn một bát, vị thiếu gia bệnh hoạn này dùng đặc quyền cho mình lập hai tài khoản. Với ẩm thực, ngàn lời vạn lời miêu tả không bằng chính người ăn một miếng, một bát nhỏ bánh cuốn, hai phút mọi người ăn xong.
 
-"Cô ấy hoàn toàn có thể viết lại lịch sử của khu ẩm thực trên nền tảng phát sóng trực tiếp Liên Bang!"
+"Bây giờ các bạn tin lời tôi nói chưa?"
 
-"Mọi người xem, ngay cả chúng ta, những người đã quen với sơn hào hải vị, đã ăn ở những nhà hàng hàng đầu, khi ăn món cô ấy nấu vẫn vô thức thốt lên lời khen ngợi, vẫn phát cuồng vì hương vị tươi ngon. Huống chi là những người vẫn luôn phải uống thứ dịch dinh dưỡng vô vị kia chứ!"
+"Cô ấy có năng lực viết lại lịch sử phát sóng trực tiếp khu ẩm thực Liên Bang!"
 
-"Không một ai có thể cưỡng lại món ăn tuyệt vời đến thế! Tôi quyết định sau khi nhậm chức sẽ đưa cô ấy lên đỉnh cao, thu hút thêm nhiều người sử dụng nền tảng phát sóng trực tiếp Liên Bang, để công ty phát sóng trực tiếp Liên Bang thực sự vươn lên một tầm cao mới!"
+"Các bạn nhìn chúng ta những người ăn quen sơn trân hải vị, ăn quen nhà hàng đỉnh cấp, ăn món cô ấy nấu, vẫn sẽ vô thức lộ ra lời tán thưởng, vẫn sẽ vì vị tươi ngon mà phát cuồng, huống chi những người luôn uống dung dịch dinh dưỡng ––"
 
-Các thiếu gia ngồi đó đều vỗ tay tán thưởng, Tiền Tinh Tinh tiếp tục bày tỏ hoài bão lớn lao của mình. Anh ta đang nói thì đột nhiên cảm thấy chủ kênh phía sau cũng bắt đầu lên tiếng. Anh ta chỉ vừa nghe thoáng qua đã thấy giọng nói trong trẻo của Giang Thu Thu vọng đến từ phía sau.
+"Không ai có thể kháng cự ẩm thực như thế! Tôi quyết định sau khi nhậm chức sẽ đẩy cô ấy lên đỉnh cao, để nhiều người hơn sử dụng phát sóng trực tiếp Liên Bang, khiến công ty phát sóng trực tiếp Liên Bang thực sự lên một tầng nữa!"
 
-"Hôm nay tôi không xuống sóng cũng không nói chuyện, thật sự có một vài điều khó nói..." Giang Thu Thu kiểm soát cảm xúc rất tốt, không quá u sầu đến mức bị cho là than vãn, nhưng giọng cô quả thật trầm hơn mọi ngày vài phần: "Ý tôi là, nếu sau này tôi không còn tiếp tục nấu ăn trên nền tảng phát sóng trực tiếp Liên Bang nữa, mà chuyển sang một nền tảng khác, mọi người có sẵn lòng đi cùng tôi không?"
+Các nhị đại tại trận lần lượt vỗ tay, Tiền Tinh Tinh tiếp tục bộc lộ chí hướng vĩ đại, anh ta nói say sưa, bỗng cảm thấy chủ kênh phía sau cũng bắt đầu nói, nghe lóm một câu, liền nghe phía sau truyền đến tiếng Giang Thu Thu rõ ràng.
 
-Giọng cô khe khẽ, mang theo chút mị hoặc, hệt như một yêu nữ lay động lòng người.
+"Hôm nay không xuống sóng cũng không nói chuyện, thật sự có chút khó nói..."
 
-Trước màn hình chiếu lớn, Tiền Tinh Tinh hoàn toàn đờ đẫn.
+Giang Thu Thu khống chế tình cảm rất tốt, không đến mức quá thấp thỏm, có vẻ bán khổ, cũng đúng là trầm thấp hơn bình thường vài phần, "Tôi là nói, giả sử sau này tôi không tiếp tục làm món ở phát sóng trực tiếp Liên Bang, chuyển sang nền tảng khác, các bạn sẽ theo tôi đi cùng không?"
 
-Rời đi ư!? Cô ấy muốn rời đi! Lại còn muốn dẫn theo người dùng của công ty mình nữa sao!?
+Giọng cô thấp thấp, mang chút ý vị mê hoặc, phảng phất như yêu nữ động lòng người.
 
-Cảm ơn mọi người đã bình chọn cho tôi~ (Hết chương)
+Trước màn chiếu lớn, Tiền Tinh Tinh cả người cứng đờ.
+
+Đi!? Tự mình đi! Còn muốn mang người dùng công ty nhà anh ta đi!?
+
+Cảm ơn mọi người đã bầu cho tôi ~(Hết chương)

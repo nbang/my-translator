@@ -1,6 +1,6 @@
 # CHƯƠNG 666: ẤN TƯỢNG ĐẢO NGƯỢC, 'NỮ THẦN GIANG'
 
-***
+## Nội dung
 
 Ấn tượng về Giang Thu Thu đã đảo ngược hoàn toàn, thành tích của 'Nữ thần Giang' lại trở thành chủ đề bàn tán sôi nổi. Trong quán ăn nhỏ, vài học viên khoa cơ giáp đang ngồi cùng nhau. Sau mỗi ngày tập luyện căng thẳng, việc cùng nhau ăn uống, trò chuyện là khoảng thời gian thư giãn hiếm hoi của mọi người. Thông thường, các chủ đề nóng hổi trong bữa ăn sẽ là: "Bạn đã mất bao nhiêu điểm trong lớp thầy Mao?", "Thứ hạng của bạn trong lớp là bao nhiêu?", "Hôm nay bạn kém may mắn thế nào khi đấu AI?", hay "Bạn đã thắng được bao nhiêu trận trước các cao thủ bất bại?". Nhưng hôm nay, mọi người chỉ có duy nhất một chủ đề, đó chính là Giang Thu Thu.
 
@@ -48,7 +48,7 @@ Một nam sinh cắn thìa, ánh mắt nhìn sang một bên, như đang hồi t
 
 "Hôm nay tôi được sắp xếp ở cạnh cô ấy, định giúp cô ấy xuống cơ giáp nhưng cuối cùng cô ấy vẫn tự mình đứng nghe giáo huấn của cả lớp."
 
-"Khi cô Mao huấn luyện cô, biểu cảm của cô ấy không hề thay đổi, rất bình tĩnh, trông thật ngầu."
+"Khi thầy Mao huấn luyện cô, biểu cảm của cô ấy không hề thay đổi, rất bình tĩnh, trông thật ngầu."
 
 "Kiểu con gái như thế này… haiz."
 

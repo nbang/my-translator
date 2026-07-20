@@ -1,5 +1,7 @@
 # CHƯƠNG 19: ĐẦY RẪY LỜI CHÊ BAI
 
+## Nội dung
+
 Hôm nay, món ăn được bày trên một chiếc khay lớn. Cô múc một bát cơm nhỏ, sau đó úp ngược thành hình bán nguyệt lên đĩa, dùng thìa múc một muỗng nước sốt thịt kho đỏ au đậm đà. Nước sốt thơm lừng thấm đẫm vào từng hạt cơm, khiến phần cơm trắng ngả sang màu sắc hấp dẫn. Cuối cùng, cô rắc thêm chút hành lá thái nhỏ. Một món ăn màu sắc, hương vị hoàn hảo, không còn gì để bàn cãi.
 
 Cô lặp lại động tác vài lần, một hàng cơm thịt kho đã xuất hiện trước mắt mọi người.
@@ -8,17 +10,17 @@ Giang Thu Thu giờ đây đã quen với việc tổ chức các buổi thử m
 
 "Hôm nay là lần đầu tiên tôi làm món kho. Hy vọng những người may mắn giành được suất nếm thử có thể cho tôi một vài phản hồi sau khi ăn xong."
 
-Cũng để cô xem xét khẩu vị của khán giả liên hành tinh mà từ từ điều chỉnh.
+Cũng để cô xem xét khẩu vị của người liên tinh mà từ từ điều chỉnh.
 
 Tuy nhiên, vào lúc này, những người có thể lên tiếng chủ yếu là những người không giành được suất ăn.
 
 [Ôi ôi... tay tôi chậm mất có một chút thôi!]
 [Khó quá, mùi thơm làm nước bọt chảy ròng ròng, mà vẫn không giành được.]
 [Á á á, dù chưa được ăn, nhưng tôi cũng muốn nghe người đã ăn nói về hương vị, liệu có thật ngon hay chỉ ngửi thấy thơm thôi?]
-[Terri là Sói: !!!!!!!! Tôi thậm chí cũng không giành được sao!?]
-[Terri là Sói: Tôi phát điên mất, tốc độ tay của tôi sao lại không giành được suất này chứ?!]
+[Terry là Sói: !!!!!!!! Tôi thậm chí cũng không giành được sao!?]
+[Terry là Sói: Tôi phát điên mất, tốc độ tay của tôi sao lại không giành được suất này chứ?!]
 
-Terri gần như quay 360 độ trong ký túc xá để hú lên như sói. Đôi bàn tay đã luyện tập cơ bắp bao năm của một kẻ độc thân, vậy mà lại không thể giành được suất ăn đó! Anh ta cũng không giành được, cô hơi khựng lại.
+Terry gần như quay 360 độ trong ký túc xá để hú lên như sói. Đôi bàn tay đã luyện tập cơ bắp bao năm của một kẻ độc thân, vậy mà lại không thể giành được suất ăn đó! Anh ta cũng không giành được, cô hơi khựng lại.
 
 Tuy nhiên, làm món kho cần nhiều thời gian và công sức hơn so với đồ chiên. Giang Thu Thu gần đây phát hiện, mỗi khi phát sóng trực tiếp nấu ăn xong, cô cần nghỉ ngơi khá lâu để phục hồi năng lượng.
 
@@ -38,8 +40,8 @@ Sau từng tràng lời khen tâng bốc, cuối cùng cũng có người lên t
 
 [Ai nói không có khiếm khuyết, tôi nghĩ món này có một nhược điểm chết người.]
 [???]
-[Terri là Sói: Có nhược điểm gì? Bạn đã giành được suất thử mà còn không biết trân trọng, nếu không thích lần sau thì đừng—]
-[Đừng tranh giành mà hãy nhường cho anh ấy!] Lời của Terri vẫn chưa dứt thì vị đại gia cấp 14 lêu lổng kia lại lên tiếng.
+[Terry là Sói: Có nhược điểm gì? Bạn đã giành được suất thử mà còn không biết trân trọng, nếu không thích lần sau thì đừng—]
+[Đừng tranh giành mà hãy nhường cho anh ấy!] Lời của Terry vẫn chưa dứt thì vị đại gia cấp 14 lêu lổng kia lại lên tiếng.
 [Chủ kênh có cân nhắc cảm xúc của các thực khách Liên Bang không, cái này chỉ là một miếng cơm nhỏ, một miếng thịt nhỏ xíu, ăn một miếng đã hết! Chê! Sao không làm nửa nồi luôn đi?]
 [Cái này—]
 [Con dao dài 49 mét của tôi đã xẻ thịt ngươi rồi, nhưng chuyện này thật sự đáng chê bai!]

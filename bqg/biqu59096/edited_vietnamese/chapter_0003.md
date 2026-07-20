@@ -1,10 +1,5 @@
 # Chương 3: Sốc! Tại sao cả đàn ông, phụ nữ và trẻ em đều rưng rưng nước mắt...
 
-## Tiêu đề
-Chương 3: Sốc! Tại sao cả đàn ông, phụ nữ và trẻ em đều rưng rưng nước mắt...
-
----
-
 ## Nội dung
 
 Phòng phát sóng trực tiếp đã được đăng ký thành công, xin hãy đặt tên cho kênh của bạn. Tên kênh chính là bộ mặt của phòng phát sóng trực tiếp. Cô phát sóng trực tiếp là để tồn tại. Vì muốn sống, tên kênh tuyệt đối không thể đặt qua loa!
@@ -41,7 +36,7 @@ Cô chọn cách lên sóng nửa thân trên, không lộ mặt. Đôi bàn tay
 
 [Terry: Tay của chủ kênh nhỏ quá. Có phải em ấy đang lén phát sóng trực tiếp trong phòng của bố mẹ không vậy?]
 
-Giang Thu Thu đang chuẩn bị nguyên liệu thì khựng lại. Người xem đầu tiên ghé vào khiến cô có chút vui mừng. Cô liền trả lời: `"Không đâu, chủ kênh đã trưởng thành rồi."` Dẫu sao, có người xem vẫn là một khởi đầu tốt.
+Giang Thu Thu đang chuẩn bị nguyên liệu thì khựng lại. Người xem đầu tiên ghé vào khiến cô có chút vui mừng. Cô liền trả lời: `"Chào mừng Terry là chú sói đến với phòng phát sóng trực tiếp ẩm thực của tôi, tôi là chủ kênh Giang Tưu Tưu."` Dẫu sao, có người xem vẫn là một khởi đầu tốt.
 
 Cô nhanh chóng bình tĩnh lại, cầm miếng thịt thăn đã chuẩn bị sẵn lên: `"Thực đơn hôm nay của chúng ta là món sườn rán Gugu. Chúng ta sẽ chọn phần thịt thăn của loài thú Gugu khoảng một năm tuổi."`
 
@@ -52,6 +47,3 @@ Cô nhanh chóng bình tĩnh lại, cầm miếng thịt thăn đã chuẩn bị
 Không biết từ lúc nào, một người hâm mộ thứ hai đã lặng lẽ ghé vào kênh phát sóng trực tiếp.
 
 Giang Thu Thu vừa cắt thịt vừa trả lời: `"Không, sau khi cắt thịt thành từng miếng, chúng ta sẽ dùng sống dao để đập cho đứt các thớ gân trong miếng sườn Gugu."`
-
----
-*Thời gian thế hệ: 2025-11-19 13:10:22*

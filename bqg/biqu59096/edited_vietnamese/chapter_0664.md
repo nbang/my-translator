@@ -1,8 +1,10 @@
 # Chương 664: Hệ thống thi đấu mới, ai cũng nghĩ: Đây chắc chắn là sân nhà của Giang Thu Thu rồi!
 
+## Nội dung
+
 Trong hệ thống thi đấu mới, ai nấy đều nghĩ: Đây chắc chắn là sân nhà của Giang Thu Thu rồi. Hôm nay, mọi người nhận ra không gian thi đấu khác lạ hẳn so với mọi ngày.
 
-Trước kia, những cỗ cơ giáp hạng nặng xen lẫn cơ giáp hạng nhẹ xuất hiện cùng nhau, tựa như một nhóm người béo phì đứng cạnh một người gầy đét. Còn bây giờ, giữa một nhóm người béo phì lại có một người bình thường xen vào.
+Trước kây, những cỗ cơ giáp hạng nặng xen lẫn cơ giáp hạng nhẹ xuất hiện cùng nhau, tựa như một nhóm người béo phì đứng cạnh một người gầy đét. Còn bây giờ, giữa một nhóm người béo phì lại có một người bình thường xen vào.
 
 Đã đổi cơ giáp rồi sao?!
 
@@ -12,7 +14,7 @@ Trước kia, những cỗ cơ giáp hạng nặng xen lẫn cơ giáp hạng nh
 
 "Là một dị năng giả cấp A, đối đầu với một dị năng giả cấp S, công bằng sao? Không! Vậy các em định làm gì? Hãy chăm chỉ luyện tập!"
 
-"Tinh hệ này không thiếu thiên tài, nhưng không phải thiên tài nào rồi cũng sẽ trở thành anh hùng. Tại sao? Bởi vì những thiên tài lười biếng cũng sẽ lụi tàn. Tương tự như vậy, anh hùng không nhất thiết phải là thiên tài. Các em thử đếm xem, trong Liên bang hiện nay có bao nhiêu vị tướng, các em sẽ thấy rất nhiều người trong số họ thậm chí còn không có tư chất bằng chính các em ở đây, nhưng họ vẫn thành công. Tại sao?"
+"Liên tinh này không thiếu thiên tài, nhưng không phải thiên tài nào rồi cũng sẽ trở thành anh hùng. Tại sao? Bởi vì những thiên tài lười biếng cũng sẽ lụi tàn. Tương tự như vậy, anh hùng không nhất thiết phải là thiên tài. Các em thử đếm xem, trong Liên bang hiện nay có bao nhiêu vị tướng, các em sẽ thấy rất nhiều người trong số họ thậm chí còn không có tư chất bằng chính các em ở đây, nhưng họ vẫn thành công. Tại sao?"
 
 "Bởi vì con đường vinh quang này được tưới đẫm bằng máu, lòng dũng cảm, mồ hôi và sự kiên trì. Có lẽ trong học kỳ này, thầy sẽ không nói lại những điều này nữa. Thầy hy vọng các em sẽ luôn nhớ, tại sao mình lại đến đây, và sau khi đến đây, các em muốn làm gì."
 
@@ -40,7 +42,7 @@ Bài học mới hôm nay là kiểm tra độ chính xác của mọi người 
 
 Trong lớp, ngoài Hoắc Giáp ra, không ai có thể sánh bằng cô về độ linh hoạt.
 
-_Lại là sân nhà của bạn học Giang Thu Thu rồi. Thật sự hy vọng đừng đụng phải cô ấy và Hoắc Giáp, nếu không thì quá xui xẻo!_
+_Lại là sân nhà của Giang Thu Thu rồi. Thật sự hy vọng đừng đụng phải cô ấy và Hoắc Giáp, nếu không thì quá xui xẻo!_
 
 Quá trình sàng lọc AI bắt đầu.
 

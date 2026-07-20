@@ -1,12 +1,12 @@
 # CHƯƠNG 23: HOA KHỔNG TƯỚC: TỨC ĐẾN HÓA GÀ
 
----
+## Nội dung
 
 Trong lúc phát sóng trực tiếp, Melin vẫn giữ được vẻ bình tĩnh. Nàng dùng khuôn mặt đầy vẻ lừa bịp của mình để tạo dáng vẻ công chúa yêu kiều, ung dung giới thiệu món ăn hôm nay với mọi người qua màn hình. Nhưng vừa tắt phát sóng trực tiếp, cô tiểu thư đã nổi trận lôi đình.
 
 Những món ăn trên bàn lần lượt bị hất xuống đất. Melin ngồi trên chiếc ghế da tinh xảo, vẻ mặt kiêu kỳ, nói: "Quản gia, ông xem đi, vừa rồi, tôi đã không đứng đầu."
 
-Là trưởng nữ của gia tộc Davis, Melin thường tự nhận mình là danh môn khuê tú số một. Số một! Trong giới danh môn khuê tú, nếu không thể đạt được vị trí thứ nhất đúng như lẽ thường thì thôi, giờ lại rơi xuống cái khu vực phát sóng trực tiếp này, vậy mà vẫn không đứng đầu sao? Thậm chí, cái ứng dụng phát sóng trực tiếp rác rưởi này mỗi khi người ở dưới vượt qua nàng sẽ hiện lên thông báo: [Độ nổi tiếng của chủ kênh Giang Thu Thu đã đuổi kịp bạn!]
+Là trưởng nữ của gia tộc Davis, Melin thường tự nhận mình là danh môn khuê tú số một. Số một! Trong giới danh môn khuê tú, nếu không thể đạt được vị trí thứ nhất đúng như lẽ thường thì thôi, giờ lại rơi xuống cái khu vực phát sóng trực tiếp này, vậy mà vẫn không đứng đầu sao? Thậm chí, cái ứng dụng phát sóng trực tiếp rác rưởi này mỗi khi người ở dưới vượt qua nàng sẽ hiện lên thông báo: [Độ nổi tiếng của chủ kênh Giang Tưu Tưu đã đuổi kịp bạn!]
 
 "Tiểu thư Melin, đây chỉ là một sự cố." Ông quản gia nhíu mày. Ông ta cũng bắt đầu thấy phiền với Giang Thu Thu – người chưa từng gặp mặt – là ai mà lại không biết chọn thời điểm phát sóng trực tiếp vậy chứ? Mọi thứ đã chuẩn bị đâu vào đấy, vậy mà lại bị người này ngang nhiên chen ngang, khiến chủ nhân lại nổi giận đùng đùng.
 
@@ -14,7 +14,7 @@ Là trưởng nữ của gia tộc Davis, Melin thường tự nhận mình là 
 
 "Với tư cách là chủ kênh danh môn khuê tú số một, không thể có bất kỳ sự cố nào."
 
-"Tôi mặc kệ ông làm gì, dù sao sau này tôi cũng không muốn thấy tên của cô ta trên Mạng Tinh Liên Bang." Chỉ một câu nói khinh bạc của tiểu thư đã định đoạt vận mệnh của những kẻ nhỏ bé dưới đáy xã hội.
+"Tôi mặc kệ ông làm gì, dù sao sau này tôi cũng không muốn thấy tên của cô ta trên Mạng liên tinh." Chỉ một câu nói khinh bạc của tiểu thư đã định đoạt vận mệnh của những kẻ nhỏ bé dưới đáy xã hội.
 
 Ông quản gia cũng không muốn khuyên nhủ. Một đòn diệt tận gốc quả thực là một biện pháp vẹn cả đôi đường, đẩy cô ta khỏi khu vực phát sóng trực tiếp, sau này sẽ không còn rắc rối ngoài ý muốn nào nữa.
 
@@ -32,9 +32,9 @@ Trước khi bắt đầu ăn, cô dùng thiết bị cảm biến của mình s
 
 ---
 
-Cùng lúc đó, Phòng Biên tập Phát sóng Tinh Liên Bang cũng bước vào thời điểm bận rộn nhất trong ngày. Đến giờ làm, mọi người từ từ lê bước từ nhà tới công ty. Có người ngáp, có người trò chuyện, có người tìm kiếm những mầm non tiềm năng trên mạng. Minh Mị đã mang hồ sơ vào văn phòng của vị quản lý.
+Cùng lúc đó, Phòng Biên tập Phát sóng Mạng liên tinh cũng bước vào thời điểm bận rộn nhất trong ngày. Đến giờ làm, mọi người từ từ lê bước từ nhà tới công ty. Có người ngáp, có người trò chuyện, có người tìm kiếm những mầm non tiềm năng trên mạng. Minh Mị đã mang hồ sơ vào văn phòng của vị quản lý.
 
-Biên tập viên của Phòng Biên tập Phát sóng Tinh Liên Bang khi ký hợp đồng với chủ kênh có quyền chỉnh sửa hợp đồng nhất định. Quyền này thường được dùng để ký những ngôi sao phát sóng trực tiếp tiềm năng hoặc những chủ kênh hàng đầu được săn từ nền tảng khác. Quyền của biên tập viên cấp trên lớn, quyền của biên tập viên cấp dưới nhỏ. Minh Mị cũng là một biên tập viên cấp nhỏ, nên khi động đến quyền chỉnh sửa phần chia lợi nhuận năm đầu cho Giang Thu Thu, cô ta cũng phải xin phép vị quản lý.
+Biên tập viên của Phòng Biên tập Phát sóng Mạng liên tinh khi ký hợp đồng với chủ kênh có quyền chỉnh sửa hợp đồng nhất định. Quyền này thường được dùng để ký những ngôi sao phát sóng trực tiếp tiềm năng hoặc những chủ kênh hàng đầu được săn từ nền tảng khác. Quyền của biên tập viên cấp trên lớn, quyền của biên tập viên cấp dưới nhỏ. Minh Mị cũng là một biên tập viên cấp nhỏ, nên khi động đến quyền chỉnh sửa phần chia lợi nhuận năm đầu cho Giang Thu Thu, cô ta cũng phải xin phép vị quản lý.
 
 Vị quản lý rất bận, lướt nhanh qua hợp đồng mà Minh Mị đưa lên, rồi hỏi: "Một năm chỉ có một lần cơ hội đặc quyền thử nghiệm, cô đã chọn được người chưa?"
 

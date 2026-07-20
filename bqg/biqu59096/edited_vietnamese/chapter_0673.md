@@ -1,7 +1,5 @@
 # Chương 673: Chiến lược của Giang Thu Thu: Đơn giản, thô bạo và hiệu quả
 
----
-
 ## Nội dung
 
 Chiến lược của cô thực sự đơn giản, thô bạo và hiệu quả, và nó có liên quan đến hệ thống chữa trị tinh thần. Cô đã tìm ra cách để các chiến binh cơ giáp nhìn thấy tài năng của mình. Nhưng với bộ phận chữa trị tinh thần, cô vẫn chưa thể tiếp cận. Để làm được điều đó, cô cần nhờ đến bà Al để tiếp cận với những người cốt cán hơn ở đây – những người có thể đưa ra quyết định cuối cùng cho cô ở cả hai bộ phận.
@@ -20,7 +18,7 @@ Cô gật đầu, cười ngượng nghịu: "Chuyện gì cũng không thể gi
 
 "Hả?"
 
-"Nhiều người như vậy sao?" Bà Al nhất thời không hiểu vì sao Thu Thu lại bảo bà gọi Viện trưởng Chu.
+"Nhiều người như vậy sao?" Bà Al nhất thời không hiểu vì sao Giang Thu Thu lại bảo bà gọi Viện trưởng Chu.
 
 "Vâng, cháu có chuyện muốn nói với Viện trưởng Chu." Cô mỉm cười bí ẩn.
 

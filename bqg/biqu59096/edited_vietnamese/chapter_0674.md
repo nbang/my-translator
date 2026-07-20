@@ -1,11 +1,6 @@
 # Chương 674 Mua bán củ cải muối
 
-## Tiêu đề | Title
-Chương 674 Mua bán củ cải muối
-
----
-
-## Nội dung | Content
+## Nội dung
 
 Bài đăng rao bán củ cải muối này không phải là bài viết hot nhất. Nhưng Giang Thu Thu lại rất hứng thú với nội dung bên trong. Cô nhấp vào xem thử. Đoạn video vẫn còn đó, cô nhấp vào xem. Đó là một căn bếp rất sạch sẽ nhưng trông khá nhỏ. Một người phụ nữ với tóc được che kín, đeo khẩu trang xuất hiện trong video.
 
@@ -25,4 +20,4 @@ Chủ bài đăng trả lời: "Tôi đã mở tin nhắn riêng. Bán thì có 
 
 `[Không, có gì mà sai chứ. Chỉ là bán củ cải muối thôi mà. Tôi đang mang thai, muốn ăn một ít để khai vị. Bán đi chị! Bán cho em đi mà!]`
 
-...Tengxiang là một bà nội trợ bình thường mà lại không tầm thường trên hành tinh 73 thuộc Dải Ngân Hà Liên Bang. Bình thường là bởi cô ấy khá mờ nhạt giữa đám đông. Từ nhỏ, cô ấy đã không có tinh thần lực. Trên con đường học vấn, thành tích của cô ấy cũng không có gì nổi bật. Khi trưởng thành, dung mạo của cô cũng không có gì đặc sắc. Mãi đến khi tốt nghiệp, công việc cô tìm được cũng có mức lương không mấy nổi bật.
+...Đằng Hương là một bà nội trợ bình thường mà lại không tầm thường trên hành tinh 73 thuộc liên thiên hà Liên Bang. Bình thường là bởi cô ấy khá mờ nhạt giữa đám đông. Từ nhỏ, cô ấy đã không có tinh thần lực. Trên con đường học vấn, thành tích của cô ấy cũng không có gì nổi bật. Khi trưởng thành, dung mạo của cô cũng không có gì đặc sắc. Mãi đến khi tốt nghiệp, công việc cô tìm được cũng có mức lương không mấy nổi bật.

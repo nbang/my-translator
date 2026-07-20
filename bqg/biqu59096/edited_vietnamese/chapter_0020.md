@@ -1,11 +1,6 @@
 # Chương 20: Dẫn đầu bảng xếp hạng tân binh
 
-## Tiêu đề | Title
-Chương 20: Dẫn đầu bảng xếp hạng tân binh
-
----
-
-## Nội dung | Content
+## Nội dung
 
 Chương 20
 Dẫn đầu bảng xếp hạng tân binh
@@ -15,11 +10,11 @@ Dẫn đầu bảng xếp hạng tân binh
 
 Thật ra, dạo gần đây, phòng phát sóng của Giang Thu Thu đã thu hút khá nhiều người hâm mộ trung thành. Đặc biệt là những người từng may mắn giành được suất thử nếm của cô, họ tuyệt đối là những fan cứng cựa nhất. Trong số đó, có người là những "thợ săn" chuyên lùng sục các kênh ẩm thực, có người là cán bộ cấp cao trong quân đoàn, và cũng có cả những "công tử, tiểu thư" cùng hội cùng thuyền với những người được "hái sao" mời tới lần này. Ai nấy đều không thiếu tiền, chỉ chờ một cơ hội để khuấy động cả kênh và ủng hộ mà thôi.
 
-[Vị đại gia cấp 14 đã đi đầu, mục tiêu đặt ra cũng chẳng tệ chút nào: giúp Giang Thu Thu leo lên bảng xếp hạng, tăng lượng người hâm mộ, thăng cấp sao! Hãy biến cô ấy thành một "ông lớn" để mỗi người hâm mộ trong phòng phát sóng đều có thể nhận được suất thử nếm! Bạn vẫn còn lo lắng mỗi lần giành suất không thành công ư? Vẫn còn than phiền mỗi lần giành được lượng quá ít sao? Hãy tham gia hoạt động đẩy bảng lần này, đưa Giang "Chíp Chíp" bay lên chín tầng mây, trở thành chủ kênh "đỉnh của chóp"! Mở ra kỷ nguyên tươi đẹp với suất thử nếm nhiều như biển cả đi nào!]
+[Vị đại gia cấp 14 đã đi đầu, mục tiêu đặt ra cũng chẳng tệ chút nào: giúp Giang Thu Thu leo lên bảng xếp hạng, tăng lượng người hâm mộ, thăng cấp sao! Hãy biến cô ấy thành một "ông lớn" để mỗi người hâm mộ trong phòng phát sóng đều có thể nhận được suất thử nếm! Bạn vẫn còn lo lắng mỗi lần giành suất không thành công ư? Vẫn còn than phiền mỗi lần giành được lượng quá ít sao? Hãy tham gia hoạt động đẩy bảng lần này, đưa Giang Tưu Tưu bay lên chín tầng mây, trở thành chủ kênh "đỉnh của chóp"! Mở ra kỷ nguyên tươi đẹp với suất thử nếm nhiều như biển cả đi nào!]
 
 Sau gói quà cơ giáp đầu tiên cực ngầu đó, phòng phát sóng của Giang Thu Thu bắt đầu sôi động hẳn lên. Mọi người không phải là đại phú hào, không thể ủng hộ cả triệu, nhưng bỏ tiền lẻ ra ủng hộ vài trăm, vài nghìn thì không thành vấn đề. Ai có điều kiện hơn thì đóng góp nhiều hơn. Dù là góp gió thành bão hay tích tiểu thành đại, chỉ trong chốc lát, sức hút của phòng phát sóng Giang Thu Thu đã tăng vọt.
 
-Trên nền tảng phát sóng Tinh Võng Liên Bang, những chủ kênh chưa phát sóng đủ một tháng đều được gọi là "tân binh". Phân khu ẩm thực đã thiết lập một bảng xếp hạng riêng dành cho các chủ kênh ẩm thực tân binh. Trước đây, Giang Thu Thu không có nhiều người hâm mộ, nên luôn loanh quanh ngoài top 100. Hôm nay, hai đợt ủng hộ tiền liên tiếp đã trực tiếp đưa cô ấy vào top 20. Thậm chí, với số lượng người tặng quà và người xem tăng lên, thứ hạng này vẫn tiếp tục tiến lên – đã lọt vào top 10!
+Trên nền tảng phát sóng Mạng liên tinh Liên Bang, những chủ kênh chưa phát sóng đủ một tháng đều được gọi là "tân binh". Phân khu ẩm thực đã thiết lập một bảng xếp hạng riêng dành cho các chủ kênh ẩm thực tân binh. Trước đây, Giang Thu Thu không có nhiều người hâm mộ, nên luôn loanh quanh ngoài top 100. Hôm nay, hai đợt ủng hộ tiền liên tiếp đã trực tiếp đưa cô ấy vào top 20. Thậm chí, với số lượng người tặng quà và người xem tăng lên, thứ hạng này vẫn tiếp tục tiến lên – đã lọt vào top 10!
 
 Liên tục có người mới đổ vào, thắc mắc đây là kênh phát sóng gì, tên gọi thì "oai" đến thế, nhưng nhìn màn hình lại chẳng có gì ngoài dấu hỏi chấm đầy đầu, rồi họ lập tức thoát ra. Thế này không ổn, dù sức hút tăng cao nhưng cũng phải giữ chân được khán giả chứ. Nấu ăn lúc này thì không kịp rồi, chi bằng... Cô nhìn đĩa cơm thịt kho tàu đầy đủ sắc, hương, vị trên bàn ăn, quyết định tạm thời trở thành một "mukbang" (người ăn phát sóng).
 

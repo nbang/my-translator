@@ -1,11 +1,6 @@
 # Chương 655: Chạy Nước Rút Trong Hệ Thống Cá Nhân Cơ Giáp
 
-## Tiêu đề | Tiêu đề
-Chương 655: Chạy Nước Rút Trong Hệ Thống Cá Nhân Cơ Giáp
-
----
-
-## Nội dung | Nội dung
+## Nội dung
 
 Mặc dù Giang Thu Thu luôn nói rằng món ăn sẽ có hương vị đặc biệt, nhưng nhiều người vẫn tỏ ra nghi ngờ. Họ cho rằng cô đang đùa cợt mọi người.
 
@@ -29,7 +24,7 @@ Món ăn của thời gian là gì ư? Người đầu bếp chính của nhữn
 
 "Không, không, không, mọi người phải tin tưởng vào bản thân chứ!"
 
-"Vậy là quyết định thế nhé, tuần này tôi sẽ giao một bài tập nhỏ. Gần đây củ cải trên Tinh Võng rất rẻ, mỗi người hâm mộ đều có thể tự mình thử làm xem sao ~"
+"Vậy là quyết định thế nhé, tuần này tôi sẽ giao một bài tập nhỏ. Gần đây củ cải trên Mạng liên tinh rất rẻ, mỗi người hâm mộ đều có thể tự mình thử làm xem sao ~"
 
 "Đợi đến tuần sau, tôi sẽ tiết lộ hương vị của món củ cải muối này nhé ~"
 

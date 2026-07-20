@@ -1,8 +1,10 @@
 # CHƯƠNG 26: BIẾN CỐ BẤT NGỜ
 
+## Nội dung
+
 Sáng hôm sau, cô dậy rất sớm. Hôm nay cô làm bánh cuốn, cần thử trước bột gạo. Các nguyên liệu thay thế cho gạo và lúa mì ở thời đại này cô đã tìm được rồi, chỉ là chưa bắt đầu thử nghiệm.
 
-Ở thời đại tinh tế, công cụ vốn đã rất đầy đủ. Chỉ là, vì nhiều lý do khác nhau, con người của thời đại này dần mất đi cách sử dụng chúng. Ánh mắt cô chuyển động, dần tập trung vào việc nấu ăn.
+Ở thời đại liên tinh, công cụ vốn đã rất đầy đủ. Chỉ là, vì nhiều lý do khác nhau, con người của thời đại này dần mất đi cách sử dụng chúng. Ánh mắt cô chuyển động, dần tập trung vào việc nấu ăn.
 
 Một bát gạo được xay thành bột, bột mì dùng làm bột tẻ, cuối cùng thêm chút bột bắp, rồi từ từ khuấy đều với nước. Không giống bột gạo trắng tinh trên Trái Đất, có lẽ do một chút khác biệt về đặc tính chủng loài, bột gạo ở đây có màu be.
 
@@ -34,13 +36,13 @@ Không hiểu vì sao, cô bỗng có một linh cảm chẳng lành.
 
 Minh Mị vốn dĩ đang có tâm trạng rất tốt, lại bị trưởng phòng gọi một cuộc điện thoại đến văn phòng.
 
-_Cô ấy nghĩ bên bộ phận pháp lý hôm nay hẳn sẽ hoàn thành việc soạn thảo hợp đồng. Ngày mai, hợp đồng có hiệu lực, Giang Chu Chu sẽ sớm trở thành một tướng tài dưới quyền cô ấy! Cô ấy nghĩ họ nên gặp mặt, gặp mặt trực tiếp sẽ giúp hai bên bồi đắp tình cảm và tăng cường sự tin tưởng. Cô ấy muốn trở thành biên tập viên duy nhất của Giang Thu Thu._
+_Cô ấy nghĩ bên bộ phận pháp lý hôm nay hẳn sẽ hoàn thành việc soạn thảo hợp đồng. Ngày mai, hợp đồng có hiệu lực, Giang Tưu Tưu sẽ sớm trở thành một tướng tài dưới quyền cô ấy! Cô ấy nghĩ họ nên gặp mặt, gặp mặt trực tiếp sẽ giúp hai bên bồi đắp tình cảm và tăng cường sự tin tưởng. Cô ấy muốn trở thành biên tập viên duy nhất của Giang Thu Thu._
 
 Nhưng tương lai tươi đẹp chưa kịp đến đã bị dập tắt không thương tiếc.
 
 Nghe lời trưởng phòng nói, cô ấy có chút sụp đổ:
 
-“Trưởng phòng, tại sao hợp đồng của Giang Chu Chu lại không được duyệt… Đặc quyền của tôi năm nay vẫn chưa được sử dụng mà.”
+“Trưởng phòng, tại sao hợp đồng của Giang Tưu Tưu lại không được duyệt… Đặc quyền của tôi năm nay vẫn chưa được sử dụng mà.”
 
 Trưởng phòng hơi nghiêng đầu:
 

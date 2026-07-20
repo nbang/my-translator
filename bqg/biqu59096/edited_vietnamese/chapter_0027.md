@@ -1,5 +1,7 @@
 # Chương 27: Chúc Chúc Bị Phong Sát
 
+## Nội dung
+
 Minh Mỹ thất thần bước ra khỏi phòng làm việc của quản lý. Cô ấy một lòng muốn trở thành biên tập viên chủ chốt thế hệ mới của phòng biên tập, cố gắng tìm kiếm và bồi dưỡng chủ kênh, nhưng… con đường phía trước của cô ấy lại bị một bàn tay vô hình chặn đứng. Nền tảng Liên Bang Live chẳng phải được cho là công bằng nhất sao? Tại sao cũng lại xảy ra những chuyện như vậy. Quản lý rõ ràng từng nói Giang Thu Thu có tiềm năng, nhưng vẫn từ chối ký hợp đồng. Quản lý không chịu tiết lộ lý do từ chối ký hợp đồng, nhưng đã đến nước này, Minh Mỹ cũng có thể đoán được đôi chút.
 
 Những phỏng đoán ấy được xác nhận ngay tại căng tin công ty; lúc ấy cô ấy đang ngồi trong ngăn phòng nhỏ ở khu vực pha trà, phân vân không biết có nên nhắn tin cho Giang Thu Thu hay không. Có một giọng quen thuộc ở ngăn bên cạnh vang lên; họ chẳng hề giữ ý, nói chuyện oang oang, lời lẽ thì vô cùng bạo dạn, chẳng sợ ai nghe thấy cả.
@@ -10,7 +12,7 @@ Những phỏng đoán ấy được xác nhận ngay tại căng tin công ty; 
 
 “Ồ? Ý là sao?”
 
-Cô ta cười khẩy một tiếng, thản nhiên nói: “Rước phải một kẻ chỉ biết lên sóng, vận xui của người đó, lại còn dám chắn đường tiểu thư nhà người ta nữa chứ.”
+Cô ta cười khẩy một tiếng, thản nhiên nói: “Rước phải một kẻ chỉ biết phát sóng trực tiếp, vận xui của người đó, lại còn dám chắn đường tiểu thư nhà người ta nữa chứ.”
 
 “Vậy cuối năm, thành tích của cô ấy lại bị xếp bét bảng nữa à?”
 

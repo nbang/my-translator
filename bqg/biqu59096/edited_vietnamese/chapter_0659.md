@@ -1,5 +1,8 @@
 # Chương 659: Họ cũng sẽ nói: Cô ấy là Giang Thu Thu...
 
+## Nội dung
+
+Chương 659
 Hoắc Gia, một học viên cơ giáp cá nhân, đang xem một đoạn video chiến đấu. Ánh mắt anh ta dán chặt vào cỗ giáp nhẹ trên màn hình một lúc, rồi Hoắc Gia nhanh chóng ngồi thẳng dậy. Cơn buồn ngủ, sự mệt mỏi, cảm giác nhàm chán... tất cả đều tan biến ngay lập tức. Cứ như thể anh ta vừa được tiếp thêm năng lượng.
 
 Hoắc Đặng thấy vậy liền lẩm bẩm vài tiếng:

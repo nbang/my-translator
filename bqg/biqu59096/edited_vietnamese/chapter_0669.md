@@ -1,16 +1,11 @@
 # Thứ 669 chương Quyết định, Thu Thu: Song Tu
 
-## Tiêu đề | Tiêu đề
-Thứ 669 chương Quyết định, Thu Thu: Song Tu
-
----
-
-## Nội dung | Nội dung
+## Nội dung
 
 Thứ 669 chương
-Đoạn video có tiêu đề "Quyết định, Thu Thu: Song Tu" này, cứ xem đi xem lại, lòng cô lại càng thêm nặng trĩu. Sau khi xem đi xem lại vài lần, cô tắt video và gửi một tin nhắn cho anh. Nhưng anh không hồi âm, không biết là đang nghỉ ngơi hay đang chỉ huy ở tiền tuyến. Chuyện này không thể biết được, thời gian càng lúc càng khuya, nhưng cô khó lòng nào chợp mắt được.
+Đoạn video có tiêu đề "Quyết định, Thu Thu: Song Tu" này, cứ xem đi xem lại, lòng cô lại càng thêm nặng trĩu. Sau khi xem đi xem lại vài lần, Giang Thu Thu tắt video và gửi một tin nhắn cho Mặc Tư. Nhưng anh không hồi âm, không biết là đang nghỉ ngơi hay đang chỉ huy ở tiền tuyến. Chuyện này không thể biết được, thời gian càng lúc càng khuya, nhưng cô khó lòng nào chợp mắt được.
 
-Cô lại mở thiết bị đầu cuối, lướt xem thẻ tag dưới Đế Quốc Chi Nhận. Các sắp xếp trên đó vẫn rất chu đáo, anh có một từ khóa tìm kiếm nổi bật riêng, còn phía dưới là hình ảnh tập thể các anh hùng. Kèm theo đó là nhiều hình ảnh các tướng lĩnh trẻ và tân binh ra chiến trường. Cô vốn chỉ lướt video giết thời gian, nhưng một đoạn phỏng vấn tân binh trong đó, không hiểu sao, đột nhiên chạm đến lòng cô. Cô thấy rất đồng cảm.
+Cô lại mở thiết bị đầu cuối, lướt xem thẻ tag dưới Đế Quốc Chi Nhận. Các sắp xếp trên đó vẫn rất chu đáo, Mặc Tư có một từ khóa tìm kiếm nổi bật riêng, còn phía dưới là hình ảnh tập thể các anh hùng. Kèm theo đó là nhiều hình ảnh các tướng lĩnh trẻ và tân binh ra chiến trường. Cô vốn chỉ lướt video giết thời gian, nhưng một đoạn phỏng vấn tân binh trong đó, không hiểu sao, đột nhiên chạm đến lòng cô. Cô thấy rất đồng cảm.
 
 "Tôi có thể hỏi tại sao anh lại đến Quân đội Cực Địa không?" Phóng viên mỉm cười hỏi, "Trông gia cảnh của anh chắc hẳn rất tốt nhỉ?" Bởi vì trên quân phục của chàng trai trẻ còn có một chiếc trâm nhỏ cài ở cổ áo. Chiếc trâm này có thể coi là một vật trang sức đắt tiền. Người có thể sở hữu vật phẩm như vậy, gia cảnh chắc chắn sẽ không tệ.
 

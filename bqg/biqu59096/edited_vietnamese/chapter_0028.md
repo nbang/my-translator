@@ -1,4 +1,8 @@
-Chương 28: Phát sóng trực tiếp trên Tinh Võng Liên Bang
+# Untitled
+
+## Nội dung
+
+Chương 28: Phát sóng trực tiếp trên Mạng liên tinh Liên Bang
 
 Tám giờ tối, Giang Thu Thu không như mọi khi mở nền tảng phát sóng trực tiếp từ trước, mà đợi đến khi đồng hồ điểm tám giờ năm phút mới chậm rãi mở phòng phát sóng.
 

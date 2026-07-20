@@ -1,5 +1,7 @@
 # Chương 685: Yến tiệc chuẩn bị khai màn
 
+## Nội dung
+
 Thịt tươi ngon, điều kiện vận chuyển tuyệt hảo. Rau củ xanh mướt, nhìn thôi đã thấy ngon miệng, cô sắp xếp vào chỗ bảo quản lạnh, dùng cho ngày mai. Ngoài ra còn có đủ loại hải sản...
 
 Vì đây là căn nhà vốn dùng để nấu nướng, bà Ayer đã rất chu đáo sửa sang lại căn bếp. Thiết bị ở đây vô cùng đầy đủ, gần như tất cả những gì cô cần đều có sẵn. Dụng cụ cũng còn khá mới, sau này khi rảnh rỗi, phát sóng trực tiếp tại đây cũng rất tiện.

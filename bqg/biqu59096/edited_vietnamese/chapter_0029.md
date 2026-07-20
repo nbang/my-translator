@@ -1,11 +1,8 @@
 # Chương 29: Gì cơ! Mở bán năm vạn suất ăn?
 
-## Tiêu đề | Title
-Chương 29: Gì cơ! Mở bán năm vạn suất ăn?
+## Nội dung
 
----
-
-## Nội dung | Content
+Chương 29
 
 Anh ta nói nghe thật hấp dẫn, cứ như thể bản thân đã từng nếm thử rồi vậy. Nhưng đây rõ ràng là món mới của chủ kênh, làm sao anh ta đã ăn qua được!
 

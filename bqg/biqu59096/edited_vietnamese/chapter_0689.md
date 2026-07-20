@@ -1,5 +1,7 @@
 # Chương 689: Bà Al hỗ trợ
 
+## Nội dung
+
 Bà Al đã khéo léo gợi ý cho Viện trưởng: "Sao cô không thử sang khoa Trị liệu tinh thần?" Sau đó, cô chỉ cần đáp lại vài câu là có thể một cách tự nhiên bày tỏ nỗi băn khoăn của mình, khiến Viện trưởng phải thốt lên: "Cô có thể đến thử xem sao." Thử xem, vừa giữ được học vị ở khoa Cơ giáp, vừa có thể đến khoa Trị liệu tinh thần nghe giảng. Cô sẽ nắm bắt những cơ hội này để trở thành một binh sĩ Cơ giáp mạnh mẽ hơn, và một trị liệu sư tinh thần ưu tú hơn.
 
 …Tất nhiên, khi mọi chuyện bắt đầu, cô nhận ra mình vẫn còn suy nghĩ mọi chuyện quá phức tạp.

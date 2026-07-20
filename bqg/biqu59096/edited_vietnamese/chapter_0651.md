@@ -1,10 +1,8 @@
 # Chương 651: Thiên đoàn cổ đông dần thành hình
 
----
-
 ## Nội dung
 
-Thiên đoàn cổ đông dần thành hình. Vì công ty vẫn còn lưu trữ một số dữ liệu từ Thu Thu, vài người không muốn ra ngoài ăn nên đã dùng bữa ngay tại trụ sở. Biết nói sao đây – ngon, thật sự rất ngon. Thức ăn mang lại niềm vui, còn tình yêu khiến tâm hồn rộng mở.
+Thiên đoàn cổ đông dần thành hình. Vì công ty vẫn còn lưu trữ một số dữ liệu từ Giang Thu Thu, vài người không muốn ra ngoài ăn nên đã dùng bữa ngay tại trụ sở. Biết nói sao đây – ngon, thật sự rất ngon. Thức ăn mang lại niềm vui, còn tình yêu khiến tâm hồn rộng mở.
 
 Trong bữa tiệc, các ông chủ đã có cuộc trò chuyện thân mật:
 
@@ -18,13 +16,13 @@ Trong bữa tiệc, các ông chủ đã có cuộc trò chuyện thân mật:
 
 "Đúng vậy, có vấn đề thì chẳng cần sợ, chỉ cần có thể sửa chữa là được."
 
-"Cảm ơn mọi người đã yêu mến Thu Thu, cũng như đã ủng hộ New Star." Tiền Tinh Tinh bưng trà đứng dậy, "Nhờ có mọi người tin tưởng, tôi sẽ quản lý New Star thật tốt, tuyệt đối sẽ không để mọi người phải hao phí tinh tệ vô ích."
+"Cảm ơn mọi người đã yêu mến Giang Thu Thu, cũng như đã ủng hộ New Star." Tiền Tinh Tinh bưng trà đứng dậy, "Nhờ có mọi người tin tưởng, tôi sẽ quản lý New Star thật tốt, tuyệt đối sẽ không để mọi người phải hao phí tinh tệ vô ích."
 
 "Chúng tôi đều tin!"
 
-Có Thu Thu ở đây, chắc chắn sẽ không lỗ vốn! Mất tiền cũng không sao, ủng hộ sự nghiệp thần tượng thì chẳng ngại gì!
+Có Giang Thu Thu ở đây, chắc chắn sẽ không lỗ vốn! Mất tiền cũng không sao, ủng hộ sự nghiệp thần tượng thì chẳng ngại gì!
 
-Lúc này, những người trong bàn vẫn còn đang vô tư, không hề hay biết rằng một phần trăm cổ phần này sẽ mang đến những thay đổi chấn động toàn bộ cơ cấu tài sản trong vũ trụ.
+Lúc này, những người trong bàn vẫn còn đang vô tư, không hề hay biết rằng một phần trăm cổ phần này sẽ mang đến những thay đổi chấn động toàn bộ cơ cấu tài sản trong liên tinh.
 
 ***
 

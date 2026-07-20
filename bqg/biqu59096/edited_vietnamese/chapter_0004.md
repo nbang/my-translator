@@ -1,5 +1,7 @@
 # Chương 4: Món Sườn Gugu Chiên Giòn Ngon Tuyệt
 
+## Nội dung
+
 Tình yêu của con người dành cho đồ chiên rán gần như là bản năng. Vào thế kỷ 21, ai mà chẳng biết các hàng quán đồ chiên rán thường không sạch sẽ, thế nhưng vẫn không ít người tìm đến những khu chợ đêm để thưởng thức món ăn vặt này, bất chấp vệ sinh.
 
 Dầu nóng vừa đủ, khi miếng sườn chạm vào chảo, một phản ứng kỳ diệu đã xảy ra. Ngay cả khi chỉ qua cảm biến của thiết bị phát sóng trực tiếp đồ ăn với chất lượng hình ảnh và âm thanh không cao, Terry vẫn cảm thấy như mình có thể ngửi thấy mùi thơm hấp dẫn của món ăn!

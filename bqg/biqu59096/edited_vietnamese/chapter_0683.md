@@ -1,10 +1,5 @@
 # Chương 683 Sao cô không thử lên sóng trực tiếp, quay về 'Một ngày của lính cơ giáp tập sự'?
 
-## Tiêu đề
-Chương 683
-
----
-
 ## Nội dung
 
 Món này ít người mua nhưng lại được nhiều người săn đón, đúng là có giá mà không có thị trường.
@@ -57,13 +52,13 @@ Michelle cầm gương lên nhìn, trên người vẫn là chiếc áo sơ mi x
 
 Cảnh tượng hai người qua lại trò chuyện thật sự khá buồn cười. Giang Thu Thu che miệng mỉm cười, sau đó nghiêng đầu, nghiêm túc nói với Michelle: "Ngoại hình của cô đã quá đủ rồi."
 
-"Hơn nữa, không biết nói chuyện thì cũng có hướng phát sóng trực tiếp riêng. Có lẽ cô không biết, nhưng trên Tinh Võng, một số phát ngôn của cô thực ra khá thú vị đấy."
+"Hơn nữa, không biết nói chuyện thì cũng có hướng phát sóng trực tiếp riêng. Có lẽ cô không biết, nhưng trên Mạng liên tinh, một số phát ngôn của cô thực ra khá thú vị đấy."
 
 "Là vậy sao?"
 
 "Đúng vậy."
 
-Được một người dẫn chương trình hàng đầu xác nhận rằng mình có thể kiếm tiền, Michelle khẽ động lòng. Nếu cô ấy có thể kiếm tiền, gia đình sẽ không cần chu cấp chi phí sinh hoạt cho cô ấy nữa. Cô ấy nhìn quanh. Nếu có tiền sao, cô ấy sẽ không phải một mình đến quầy dịch vụ bên kia nữa.
+Được một người dẫn chương trình hàng đầu xác nhận rằng mình có thể kiếm tiền, Michelle khẽ động lòng. Nếu cô ấy có thể kiếm tiền, gia đình sẽ không cần chu cấp chi phí sinh hoạt cho cô ấy nữa. Cô ấy nhìn quanh. Nếu có tinh tệ, cô ấy sẽ không phải một mình đến quầy dịch vụ bên kia nữa.
 
 "Vậy em... nên đi theo hướng nào đây?"
 

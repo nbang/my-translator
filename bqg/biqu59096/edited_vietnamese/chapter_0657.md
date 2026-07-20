@@ -1,8 +1,10 @@
 # Chương 657: Biến Đau Buồn Thành Khát Khao Rèn Luyện
 
+## Nội dung
+
 Đã hơi muộn khi Giang Thu Thu lái xe bay đến trường. Hôm nay lại là cuối tuần, trên đường vắng bóng học sinh. Nếu có thì cũng chỉ lác đác từng đôi, hoặc là bạn bè đi chơi, hoặc là các cặp tình nhân dạo phố. Giang Thu Thu đi trên con đường trong trường, không hiểu sao, cô không tài nào bình tâm nổi. Không muốn về ký túc xá ngay, trong lòng cô như có lửa đốt, cô bèn đến phòng máy ảo.
 
-Trường học này quả thật có rất nhiều người chăm chỉ. Con đường đi bộ bên ngoài vắng hoe, nhưng trong phòng máy ảo thì lại đông nghịt người. Ai nấy đều đội mũ bảo hiểm hoặc nằm trong khoang điều khiển, từng tốp hai ba người một. Trên màn hình ảo giữa phòng máy, khắp nơi đều chiếu cảnh giao chiến ảo trong đấu trường. Hôm nay cô không có hẹn với Hoắc Giáp, nhưng lại rất muốn vận động một chút. Sau khi Giang Thu Thu nằm vào khoang điều khiển, cô được đưa vào khu hỗn chiến cấp một.
+Trường học này quả thật có rất nhiều người chăm chỉ. Con đường đi bộ bên ngoài vắng hoe, nhưng trong phòng máy ảo thì lại đông nghịt người. Ai nấy đều đội mũ bảo hiểm hoặc nằm trong khoang điều khiển, từng tốp hai ba người một. Trên màn hình ảo giữa phòng máy, khắp nơi đều chiếu cảnh giao chiến ảo trong đấu trường. Hôm nay cô không có hẹn với Tả Khải, nhưng lại rất muốn vận động một chút. Sau khi Giang Thu Thu nằm vào khoang điều khiển, cô được đưa vào khu hỗn chiến cấp một.
 
 Khu hỗn chiến này không chỉ dành riêng cho sinh viên năm nhất, mà là nơi tập hợp các binh sĩ cơ giáp đang luyện tập ở cấp độ một trong phòng máy. Trình độ của mọi người ở đây rất khác biệt, người mạnh có thể rút kiếm giao tranh, kẻ yếu thì vừa vào đã bị người ta giẫm đạp, trở thành bia đỡ đạn. Nói chung, nơi đây thật sự khó lường. Giang Thu Thu lần này điều khiển cơ giáp hạng nhẹ, vì cô muốn giao chiến, mà cơ giáp hạng trung cô vẫn chưa điều khiển thuần thục. Cơ giáp hạng nhẹ vừa đáp xuống, cô liền rút thanh trường kiếm đi kèm, hít một hơi thật sâu rồi lao vào đám đông.
 

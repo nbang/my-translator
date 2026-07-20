@@ -1,12 +1,8 @@
 # Chương 686: A, thầy Mao, cơ thể em có chút kỳ lạ!
 
-## Tiêu đề
-Chương 686: A, thầy Mao, cơ thể em có chút kỳ lạ! (Kinh ngạc! Sốc!)
-
----
-
 ## Nội dung
 
+Chương 686
 Ngày hôm sau, Giang Thu Thu tiếp tục thua trận. Trong các trận đấu PK nội bộ, cô chưa từng thắng. Những tiết học của thầy Mao cũng trở thành giờ "mất điểm" của cô. Số học phần tích lũy trước đây về cơ bản đã "đội nón ra đi" gần hết, thậm chí cô còn bị âm một ít.
 
 Tuy nhiên, học phần hay những vấn đề tương tự không còn là trọng tâm chú ý của học sinh lớp A1 khi nói về Giang Thu Thu nữa. Điều mọi người quan tâm chính là sự tiến bộ vượt bậc của cô. Bạn thấy đấy, thỉnh thoảng trong giới học đường lại rộ lên tin tức từ người hâm mộ của cô, họ vui mừng chia sẻ trên mạng xã hội rằng dạo gần đây "chú chim nhỏ" làm ăn rất phát đạt. Kết quả là, không chỉ sự nghiệp, mà cả chuyện học hành của cô cũng tiến triển tốt đẹp.

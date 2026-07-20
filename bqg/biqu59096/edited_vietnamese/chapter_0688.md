@@ -1,6 +1,8 @@
 # Chương 688: Viện trưởng xuất hiện
 
----
+## Nội dung
+
+Chương 688
 
 Căn phòng nhỏ tràn ngập hương thơm ngọt ngào của thức ăn, thật nồng nàn. Các vị lão tướng đều đắm chìm trong hương thơm chữa lành này, đầu óc cũng không còn đau nhức như trước. Cảm giác sảng khoái lan tỏa từ đỉnh đầu xuống khắp tứ chi.
 
@@ -18,7 +20,7 @@ Kẻ ngoại đạo cũng có thể cảm nhận ra điều đó. Cảm nhận c
 
 "Dạo gần đây cô có luyện tập cái này không?" bà Aier hỏi: "Tiến bộ rõ rệt lắm."
 
-"Tôi không luyện tập nhiều." Dù sao thì cô cũng ít lên sóng trực tiếp. "Nhưng... có lẽ liên quan đến một chuyện khác."
+"Tôi không luyện tập nhiều." Dù sao thì cô cũng ít phát sóng trực tiếp. "Nhưng... có lẽ liên quan đến một chuyện khác."
 
 "?"
 

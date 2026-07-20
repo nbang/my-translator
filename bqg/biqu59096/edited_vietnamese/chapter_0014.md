@@ -1,5 +1,7 @@
 # CHƯƠNG 14: TỰ NUÔI SỐNG BẢN THÂN BẰNG KỸ NĂNG CỦA MÌNH! QUÁ ĐÃ!
 
+## Nội dung
+
 Bài đăng nổi bật trên diễn đàn không hiểu vì sao đột nhiên bị giảm tương tác. Thám tử Trác khắp nơi tìm kiếm các buổi phát sóng trực tiếp để kéo người hâm mộ, không muốn đắc tội với ai. Người có thể can thiệp vào bài viết này... Quả nhiên, không lâu sau, một tài khoản cấp bậc cao đã nhắn riêng cho hắn, nói muốn làm ăn với hắn.
 
 Sau khi tiền đã vào túi, hắn thở dài trong lòng một tiếng "Haizz". Ban đầu, hắn chỉ muốn giúp cô em gái trông không giàu có lắm kia kiếm chút danh tiếng và thu nhập, nhưng giờ thì... chỉ có thể nói cô đã gặp xui xẻo rồi.
@@ -40,13 +42,13 @@ Trong lúc nói chuyện, Giang Thu Thu nhắc đến loại thịt mình đã c
 
 "Sườn rán dùng thịt thăn, còn để làm Thịt Gugu kho, chúng ta phải chọn phần thịt có cả nạc lẫn mỡ." Tức là phần thịt ba chỉ.
 
-Loại mỡ trắng này chắc hẳn đã từng gây ám ảnh lớn cho người dân liên sao. Vừa nhắc đến thịt mỡ, dòng bình luận trên màn hình liền điên cuồng hiện lên: [Thịt này cũng ăn được á?!], [Mỡ này giết tôi mất!], [Ngán chết đi được!] và vân vân.
+Loại mỡ trắng này chắc hẳn đã từng gây ám ảnh lớn cho người dân liên tinh. Vừa nhắc đến thịt mỡ, dòng bình luận trên màn hình liền điên cuồng hiện lên: [Thịt này cũng ăn được á?!], [Mỡ này giết tôi mất!], [Ngán chết đi được!] và vân vân.
 
 Có người đề nghị có thể dùng toàn bộ thịt nạc. Giang Thu Thu lắc đầu: "Nguyên liệu tốt nhất cho món này chính là thịt ba chỉ."
 
 "Mọi người đừng lo, tôi đã quyết định làm món này thì hoàn toàn tự tin."
 
-Khi nói chuyện với người khác, giọng cô ngọt ngào mềm mại, nhưng khi nói về việc nấu nướng, về những gì mình giỏi, lại bất ngờ trở nên mạnh mẽ, dứt khoát. Cô khiến khán giả trên Tinh Võng tin tưởng mình.
+Khi nói chuyện với người khác, giọng cô ngọt ngào mềm mại, nhưng khi nói về việc nấu nướng, về những gì mình giỏi, lại bất ngờ trở nên mạnh mẽ, dứt khoát. Cô khiến khán giả trên Mạng liên tinh tin tưởng mình.
 
 Và cô nói: "Mọi người đừng hoài niệm món ăn trước, bởi vì ở đây, món ngon nhất — sẽ luôn là món tiếp theo."
 

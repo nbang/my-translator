@@ -1,5 +1,7 @@
 # Chương 682 Tình thế tiến thoái lưỡng nan của Michelle
 
+## Nội dung
+
 Sau khi giải thích xong hoàn cảnh của Michelle cho Tiền Tinh Tinh, cô đã đến trường muộn. Trời gần tối mịt khi Giang Thu Thu về đến ký túc xá. Mấy cô bạn cùng phòng rất quan tâm đến cô. Nếu không phải đã xem buổi phát sóng trực tiếp và đoán rằng cô có lẽ đang giải quyết chuyện buôn bán đồ ăn trong cộng đồng, mọi người đã gọi điện thoại cho cô rồi.
 
 "Thu Thu, hôm nay cô nói chuyện lâu vậy sao?" Lưu Đình Đình ngồi cạnh cô, không kìm được hỏi: "Không phải rất đơn giản sao? Chỉ cần mở thêm một kênh buôn bán khác là được mà?"

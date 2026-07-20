@@ -1,11 +1,5 @@
 # Chương 665: Thành tích thảm hại, nhưng không ai cười nhạo
 
-## Tiêu đề
-
-Chương 665: Thành tích thảm hại, nhưng không ai cười nhạo
-
----
-
 ## Nội dung
 
 Chương 665
@@ -20,6 +14,6 @@ Người nhận ra điều bất thường nhanh nhất chính là đối thủ 
 
 Thế nhưng đến hiệp thứ ba và thứ tư, số 87, càng về cuối càng trở nên điên cuồng hơn khi đồng hồ đếm ngược, đã thực sự "dạy" cho Giang Thu Thu một bài học. Kết quả cuối cùng, số 87 giành được 11 điểm, còn Giang Thu Thu chỉ có 4 điểm. Số 87 đã chiến thắng.
 
-Đây là lần đầu tiên tại giải đấu lớp A1, ngoài Hoắc Gia và Ling – người bạn học cùng lớp A+ hạng nhì vạn năm – lại có thêm một người nữa đánh bại được Giang Thu Thu. Ai nấy đều không thể tin vào mắt mình. Thế nhưng, sự hoài nghi này chỉ là sự khởi đầu mà thôi. Bởi vì sau đó còn có ván thứ hai, thứ ba, thứ tư… Lúc đầu, Giang Thu Thu vẫn còn có thể ghi điểm trong các trận PK, khiến đối thủ không thể giữ sạch lưới. Thế nhưng, đến ván thứ mười, cô đã bắt đầu run rẩy. Ngay cả việc di chuyển và thực hiện các động tác cũng trở nên không ổn định, và việc ghi điểm thì càng trở nên bất khả thi.
+Đây là lần đầu tiên tại giải đấu lớp A1, ngoài Hoắc Giáp và Linh – người bạn học cùng lớp A+ hạng nhì vạn năm – lại có thêm một người nữa đánh bại được Giang Thu Thu. Ai nấy đều không thể tin vào mắt mình. Thế nhưng, sự hoài nghi này chỉ là sự khởi đầu mà thôi. Bởi vì sau đó còn có ván thứ hai, thứ ba, thứ tư… Lúc đầu, Giang Thu Thu vẫn còn có thể ghi điểm trong các trận PK, khiến đối thủ không thể giữ sạch lưới. Thế nhưng, đến ván thứ mười, cô đã bắt đầu run rẩy. Ngay cả việc di chuyển và thực hiện các động tác cũng trở nên không ổn định, và việc ghi điểm thì càng trở nên bất khả thi.
 
 Bất cứ ai cũng có thể hạ gục cô. Chỉ cần được ghép cặp với cô, họ gần như chắc chắn sẽ thắng. Bởi vì, chỉ cần bị đẩy mạnh một chút, cô rất có thể sẽ ngã vật xuống đất. Cô chỉ có thể trơ mắt nhìn đối thủ ghi điểm bằng những động tác đơn giản. Có vẻ như việc thay đổi cơ giáp đã ảnh hưởng cực kỳ lớn đến cô.

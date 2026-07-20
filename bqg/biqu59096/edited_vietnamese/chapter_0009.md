@@ -1,6 +1,6 @@
 # Chương 9: Tôi không ăn! Tôi không ăn! Ôi, ngon quá! (Thơm thật!)
 
----
+## Nội dung
 
 "Các bạn đừng lo lắng. Khi làm thịt viên chiên, chúng ta cần đặc biệt chú ý đến nhiệt độ dầu." Đợi một lát, cô mở nắp chảo dầu. Dưới đáy chảo đã bắt đầu nổi lên những bọt khí li ti. Cô đưa tay ra cảm nhận. "Tốt lắm. Khi dầu đã đạt độ nóng như thế này, chúng ta có thể cho thịt viên vào chiên." Những viên thịt nhỏ nhắn, tròn vo trên đĩa từ từ lăn vào chảo dầu.
 

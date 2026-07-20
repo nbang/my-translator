@@ -1,7 +1,9 @@
 # CHƯƠNG 31: CHẲNG LẼ THẬT SỰ CÓ QUẢN LÝ NÀO ĐÓ ĐẦU ÓC ÚNG NƯỚC SAO?
 
+## Nội dung
+
 Chương 31
-Chẳng lẽ thật sự có quản lý nào đó đầu óc úng nước sao? Giang Thu Thu cố ý tung ra nhiều suất thử món như vậy. Bản tính con người vốn là "chưa thấy thỏ chưa thả ưng", đối với những thứ chưa từng đạt được, dù người khác có tâng bốc đến mấy, trong lòng vẫn còn hoài nghi. Cô rất tự tin vào tài nghệ nấu nướng của mình, nhưng e rằng phần lớn người hâm mộ bên ngoài phòng phát sóng đều là người dùng trung thành của Liên Bang Live. Cô muốn chuyển sang nền tảng phát sóng mới, không muốn bắt đầu lại từ đầu, nên kéo người hâm mộ theo là lựa chọn tốt nhất. Giang Thu Thu thậm chí còn nghĩ xa hơn, cô cho rằng nếu lần này "ăn ké" trên Liên Bang Tinh Võng mà không bị chặn, tài khoản này của cô thực ra có thể mở thêm vài buổi phát sóng, để thu hút thêm người dùng cho công ty tương lai của mình.
+Chẳng lẽ thật sự có quản lý nào đó đầu óc úng nước sao? Giang Thu Thu cố ý tung ra nhiều suất thử món như vậy. Bản tính con người vốn là "chưa thấy thỏ chưa thả ưng", đối với những thứ chưa từng đạt được, dù người khác có tâng bốc đến mấy, trong lòng vẫn còn hoài nghi. Cô rất tự tin vào tài nghệ nấu nướng của mình, nhưng e rằng phần lớn người hâm mộ bên ngoài phòng phát sóng đều là người dùng trung thành của Liên Bang Live. Cô muốn chuyển sang nền tảng phát sóng mới, không muốn bắt đầu lại từ đầu, nên kéo người hâm mộ theo là lựa chọn tốt nhất. Giang Thu Thu thậm chí còn nghĩ xa hơn, cô cho rằng nếu lần này "ăn ké" trên Mạng liên tinh mà không bị chặn, tài khoản này của cô thực ra có thể mở thêm vài buổi phát sóng, để thu hút thêm người dùng cho công ty tương lai của mình.
 
 Quả nhiên, sau khi Giang Thu Thu tuyên bố muốn đổi nền tảng, nhóm người hâm mộ trung thành nhất đã nhanh chóng "đổi phe"—
 
@@ -10,7 +12,7 @@ Quả nhiên, sau khi Giang Thu Thu tuyên bố muốn đổi nền tảng, nhó
 
 Một số người hâm mộ có thái độ trung lập hơn thì hỏi:
 [Liên Bang Live không tốt sao? Sao đột nhiên phải rời đi? Nếu sang nền tảng phát sóng khác sẽ rất khó làm quen…]
-[Đúng vậy, đúng vậy, mọi người đã quen dùng Liên Bang Tinh Võng rồi! Cúc Cúc đừng đi mà!]
+[Đúng vậy, đúng vậy, mọi người đã quen dùng Mạng liên tinh rồi! Cúc Cúc đừng đi mà!]
 
 "Tôi cũng rất muốn ở lại đây." Giang Thu Thu thành thật kể về tình cảnh của mình, "Đây là nền tảng phát sóng đầu tiên của tôi, tôi đã gặp gỡ mọi người ở đây, tích lũy được rất nhiều người hâm mộ, dĩ nhiên tôi không muốn rời đi—"
 
