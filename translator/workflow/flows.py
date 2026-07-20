@@ -18,7 +18,7 @@ Stages: scrape | translate | edit | qa | reterm | all.
 
 Run:
     prefect server start          # optional — for the live UI at :4200
-    python -m translator.workflow.flows --book bqg/biqu59096 --stage all --range 1-5
+    python -m translator.workflow.flows --book bqg/2013956118 --stage all --range 1-5
     python -m translator.workflow.flows --book mybook --stage scrape --source-url https://.../toc
 
 Global rate limiting (optional, needs a Prefect server): all LLM tasks carry the
@@ -224,7 +224,7 @@ def book_flow(
 
 def main() -> None:
     ap = argparse.ArgumentParser(description="my-translator pipeline (Prefect)")
-    ap.add_argument("--book", required=True, help="Book id, e.g. bqg/biqu59096 or 52shuku/bjXRF")
+    ap.add_argument("--book", required=True, help="Book id, e.g. bqg/2013956118 or 52shuku/bjXRF")
     ap.add_argument("--stage", default="all", choices=["scrape", "translate", "edit", "qa", "reterm", "all"])
     ap.add_argument("--range", help="Chapter range, e.g. 1-10 or a single number")
     ap.add_argument("--limit", type=int, help="Max chapters to process this run")

@@ -21,7 +21,7 @@ from translator.config import book_root
 # Per-book safe replacement maps: {book_id: {old_rendering: new_rendering}}.
 # Only distinctive strings — never substrings that occur as ordinary words.
 SAFE_MAPS = {
-    "bqg/biqu59096": {
+    "bqg/2013956118": {
         # 星网 -> Mạng liên tinh (both prior renderings are distinctive)
         "Mạng Tinh Tế": "Mạng liên tinh",
         "Tinh Võng": "Mạng liên tinh",

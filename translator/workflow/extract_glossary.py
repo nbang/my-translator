@@ -13,7 +13,7 @@ config.yaml (low temperature by default). See translator/config.py.
 Usage:
     python -m translator.workflow.extract_glossary <book_id> [--chapters N] [--print] [--force]
 
-    <book_id>       e.g. bqg/biqu59096 or 52shuku/bjXRF
+    <book_id>       e.g. bqg/2013956118 or 52shuku/bjXRF
     --chapters N    how many leading chapters to read (default 5)
     --print         print the merged glossary instead of writing it (dry run)
     --force         overwrite the hanviet of terms already in glossary.yaml
@@ -170,7 +170,7 @@ def extract(book_id: str, chapters: int = 5, force: bool = False) -> Dict:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description="Extract a book glossary from its first N chapters using the LLM.")
-    ap.add_argument("book_id", help="Book directory id, e.g. bqg/biqu59096")
+    ap.add_argument("book_id", help="Book directory id, e.g. bqg/2013956118")
     ap.add_argument("--chapters", type=int, default=5, help="Number of leading chapters to read (default 5).")
     ap.add_argument("--print", dest="print_only", action="store_true", help="Print the merged glossary; do not write.")
     ap.add_argument("--force", action="store_true", help="Overwrite hanviet of terms already in glossary.yaml.")

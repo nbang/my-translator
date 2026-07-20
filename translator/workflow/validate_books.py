@@ -16,7 +16,7 @@ from translator.config import REPO_ROOT
 CJK = re.compile(r"[一-鿿]")
 
 BOOKS = [
-    "bqg/biqu59096",
+    "bqg/2013956118",
     "52shuku/bjM9n",
     "52shuku/bjRVf",
     "52shuku/bjVQW",

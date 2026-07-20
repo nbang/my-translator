@@ -89,7 +89,7 @@ def load_config() -> Dict[str, Any]:
 
 
 def book_root(book_id: str) -> Path:
-    """Resolve a book id (e.g. 'biqu59096' or '52shuku/bjXRF') to a directory."""
+    """Resolve a book id (e.g. '2013956118' or '52shuku/bjXRF') to a directory."""
     p = Path(book_id)
     if p.is_absolute() or p.exists():
         return p

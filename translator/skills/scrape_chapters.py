@@ -164,7 +164,7 @@ SCHEMA = {
         "parameters": {
             "type": "object",
             "properties": {
-                "book_id": {"type": "string", "description": "Book directory id, e.g. 'biqu59096'."},
+                "book_id": {"type": "string", "description": "Book directory id, e.g. '2013956118'."},
                 "source_url": {"type": "string", "description": "Chapter-list (TOC) page URL."},
                 "max_chapters": {"type": "integer", "description": "Optional cap on chapters to fetch."},
                 "delay_s": {"type": "number", "description": "Politeness delay between requests (default 1.0)."},

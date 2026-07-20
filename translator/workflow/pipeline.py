@@ -12,8 +12,8 @@ Scraping is stage 0 and runs once for the whole book (needs the source URL), not
 per chapter.
 
 CLI:
-    python -m translator.workflow.pipeline --book biqu59096 --stage all --range 1-10
-    python -m translator.workflow.pipeline --book biqu59096 --stage scrape --source-url ...
+    python -m translator.workflow.pipeline --book 2013956118 --stage all --range 1-10
+    python -m translator.workflow.pipeline --book 2013956118 --stage scrape --source-url ...
 """
 
 from __future__ import annotations
@@ -212,7 +212,7 @@ def _parse_range(s: Optional[str]) -> Optional[tuple[int, int]]:
 
 def main() -> None:
     ap = argparse.ArgumentParser(description="my-translator pipeline")
-    ap.add_argument("--book", required=True, help="Book id, e.g. biqu59096 or 52shuku/bjXRF")
+    ap.add_argument("--book", required=True, help="Book id, e.g. 2013956118 or 52shuku/bjXRF")
     ap.add_argument("--stage", default="all", choices=["scrape", "translate", "edit", "qa", "reterm", "all"])
     ap.add_argument("--range", help="Chapter range, e.g. 1-10 or a single number")
     ap.add_argument("--limit", type=int, help="Max chapters to process this run")

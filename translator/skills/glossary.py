@@ -110,7 +110,7 @@ LOOKUP_SCHEMA = {
         "parameters": {
             "type": "object",
             "properties": {
-                "book_id": {"type": "string", "description": "Book directory id, e.g. 'biqu59096'."},
+                "book_id": {"type": "string", "description": "Book directory id, e.g. '2013956118'."},
                 "source_text": {"type": "string", "description": "Optional Chinese text to filter terms by."},
             },
             "required": ["book_id"],
