@@ -1,88 +1,91 @@
-# 📚 完整项目成果 | Complete Project Delivery
+# 📚 my-translator
 
-## ✅ 项目完成状态 | Project Status
+Chinese → Vietnamese web-novel translation toolkit, built as **provider-agnostic
+skills** driven by a **deterministic workflow**.
 
-**项目名称**: Chapter Scraper and Translator  
-**创建时间**: 2024-11-11  
-**更新时间**: 2025-11-19
-**状态**: ✅ **已完成并可使用** | **Complete and Ready to Use**
+Pipeline per chapter:
 
----
+```
+scrape → translate (LLM, fidelity) → edit (LLM, style + glossary) → QA → [auto-fix loop]
+```
 
-## 📦 交付物清单 | Deliverables
+The old free-Google-Translate raw pass has been replaced by a direct LLM
+translation, so proper nouns come out as Sino-Vietnamese (Hán Việt) from the
+start instead of pinyin. Which model runs each stage is a **config choice**, not
+code — point any role at a local (vLLM/Ollama), OpenAI-compatible, Gemini, or
+Anthropic endpoint.
 
-### 🔧 核心脚本 | Core Scripts
+> The skills are plain `fn(args) -> dict` functions with JSON-Schema tool
+> definitions collected in `translator/skills/TOOL_REGISTRY`. This makes it
+> straightforward to later expose them to an agent framework (e.g. **Hermes
+> Agent**) — that integration is deliberately deferred; the deterministic
+> pipeline is the primary runner.
 
-| 文件 | 说明 |
-|------|------|
-| `step1_chapter_scraper.py` | **步骤 1**: 抓取章节内容 (Crawling) |
-| `step2_raw_translate.py` | **步骤 2**: 粗略翻译 (Raw Translation) |
-| `step3_edited_translate.py` | **步骤 3**: 精修翻译 (Edited Translation) |
+## Layout
 
-### 📖 文档 | Documentation
+```
+translator/
+  llm/         provider.py (openai|google|anthropic client) + roles.py (role→model routing)
+  skills/      scrape_chapters, translate_chapter, edit_chapter, qa_chapter, glossary, book
+  workflow/    pipeline.py (deterministic runner + QA auto-fix loop)
+  config.py    config.yaml + .env loading
+config.yaml    endpoints + role→model routing
+<book_id>/     raw_chinese/  raw_vietnamese/  edited_vietnamese/  EDITOR.md  glossary.yaml  book.yaml
+```
 
-| 文件 | 说明 |
-|------|------|
-| `TRANSLATOR.md` | 📝 **翻译规则** - 定义翻译风格和术语 |
+A *book id* is just a directory path from the repo root — e.g. `bqg/biqu59096` or
+`52shuku/bjXRF`. No migration needed.
 
-### 📂 输出目录 | Output Directory
-
-- `chapters_output/`
-  - `raw_chinese/` - 原始中文章节
-  - `raw_vietnamese/` - 粗略翻译章节
-  - `edited_vietnamese/` - 精修翻译章节
-
----
-
-## 🚀 快速开始 | Quick Start
-
-### 步骤 1: 安装依赖
+## Quick start
 
 ```bash
+python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
+cp .env.example .env         # fill in your endpoint + key + model
 ```
 
-### 步骤 2: 运行工作流
+Edit `config.yaml` to route the `translator`, `editor`, and `critic` roles at
+whatever model you want. The defaults read `LLM_API_BASE` / `LLM_API_KEY` /
+`LLM_MODEL` from `.env` (an OpenAI-compatible endpoint — local vLLM/Ollama,
+OpenAI, DeepSeek, or Gemini's OpenAI-compatible URL).
 
-**1. 抓取内容 (Crawling)**
+### Run the pipeline
+
 ```bash
-python step1_chapter_scraper.py chapters.html
+# Full flow for chapters 1–10 of a book:
+python -m translator.workflow.pipeline --book bqg/biqu59096 --stage all --range 1-10
+
+# Individual stages:
+python -m translator.workflow.pipeline --book bqg/biqu59096 --stage translate --range 1-50
+python -m translator.workflow.pipeline --book bqg/biqu59096 --stage edit --range 1-50
+python -m translator.workflow.pipeline --book bqg/biqu59096 --stage qa --range 1-50 --critic
+
+# Scrape a new book:
+python -m translator.workflow.pipeline --book mybook --stage scrape --source-url "https://.../toc.html"
 ```
 
-**2. 粗略翻译 (Raw Translation)**
-```bash
-python step2_raw_translate.py
-```
+Flags: `--force` redo existing outputs · `--limit N` cap per run · `--critic`
+add an LLM critic to QA. The pipeline is idempotent and resumable — re-running
+only redoes missing/failed work.
 
-**3. 精修翻译 (Edited Translation)**
-```bash
-python step3_edited_translate.py
-```
+## Quality controls
 
-### 步骤 3: 动态调整规则
+- **Glossary** (`<book>/glossary.yaml`): fixed `chinese → hanviet` terms, injected
+  into prompts (only terms present in the chunk) and enforced by QA. Seed one from
+  an existing `EDITOR.md`: `python scripts/extract_glossary.py <book_id>`; extend
+  via the `glossary_update` skill.
+- **EDITOR.md** (per book): the prose style guide (role, pronoun rules, banned
+  words, formatting, few-shot) — fed as the editor system prompt.
+- **QA** (`qa_chapter`): flags residual Chinese, glossary violations, missing
+  format markers, and dropped-content; the pipeline re-edits with those issues as
+  fix hints (up to `pipeline.max_fix_attempts`).
 
-1. 修改 `TRANSLATOR.md` 中的规则。
-2. 重新运行步骤 3：
-   ```bash
-   python step3_edited_translate.py --force
-   ```
+## GitHub Actions
 
----
+Three manual (`workflow_dispatch`) workflows call the same pipeline module:
+`scraper.yml` (scrape), `translator.yml` (translate), `editor.yml` (edit/qa).
+Add an `LLM_API_KEY` repo secret; pass the base URL and model as inputs.
 
-## ⚙️ 配置选项 | Configuration Options
+## License
 
-### 环境变量 (.env)
-
-确保 `.env` 文件包含以下配置：
-```ini
-OPENAI_API_KEY=your_api_key
-OPENAI_API_BASE=your_api_base
-OPENAI_MODEL=GPT-4o
-```
-
----
-
-## 📄 许可和免责 | License and Disclaimer
-
-本项目仅供教学和个人学习使用。
-
+For educational and personal use only.

@@ -1,0 +1,44 @@
+# my-translator configuration.
+#
+# Secrets stay in .env; reference them here with ${VAR}. Everything is
+# provider/model-agnostic: point a role at any endpoint below.
+
+books_dir: "."
+
+endpoints:
+  # An OpenAI-compatible server: local vLLM/Ollama/LM Studio, OpenAI, DeepSeek...
+  local:
+    provider: openai
+    base_url: ${LLM_API_BASE}       # e.g. http://localhost:8000/v1 or http://localhost:11434/v1
+    api_key: ${LLM_API_KEY}         # any non-empty string works for most local servers
+
+  # Google Gemini (native REST).
+  gemini:
+    provider: google
+    api_key: ${GEMINI_API_KEY}
+
+  # Anthropic Claude.
+  anthropic:
+    provider: anthropic
+    api_key: ${ANTHROPIC_API_KEY}
+
+# Which model each stage uses. Change endpoint/model freely.
+# translator = faithful zh->vi ; editor = style/polish ; critic = QA review.
+roles:
+  translator:
+    endpoint: local
+    model: ${LLM_MODEL}             # e.g. qwen2.5-72b-instruct
+    temperature: 0.25
+  editor:
+    endpoint: local
+    model: ${LLM_MODEL}
+    temperature: 0.5
+  critic:
+    endpoint: local
+    model: ${LLM_MODEL}
+    temperature: 0.3
+
+pipeline:
+  chunk_chars: 4000
+  max_fix_attempts: 2
+  request_delay_s: 1.0

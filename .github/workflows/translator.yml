@@ -1,48 +1,64 @@
-name: Raw Translator
+name: Translate (fidelity pass)
 
 on:
   workflow_dispatch:
     inputs:
+      book_base_dir:
+        description: 'Book id (e.g. biqu59096 or 52shuku/bjXRF)'
+        required: true
+        default: 'biqu59096'
+        type: string
+      llm_api_base:
+        description: 'OpenAI-compatible base URL (e.g. https://generativelanguage.googleapis.com/v1beta/openai)'
+        required: true
+        type: string
+      llm_model:
+        description: 'Model name (e.g. qwen2.5-72b-instruct, gemini-2.5-pro, gpt-4o)'
+        required: true
+        type: string
+      range:
+        description: 'Chapter range, e.g. 1-50'
+        required: false
+        type: string
+      limit:
+        description: 'Max chapters this run'
+        required: false
+        type: string
       force:
         description: 'Force re-translation'
         required: false
         default: false
         type: boolean
-      book_base_dir:
-        description: 'Base Directory'
-        required: false
-        default: 'bjXRF'
-        type: string
 
 jobs:
   translate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-
-    - name: Run Translator
-      env:
-        BOOK_BASE_DIR: ${{ inputs.book_base_dir }}
-      run: |
-        python step2_raw_translate.py ${{ inputs.force && '--force' || '' }}
-
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name 'GitHub Action'
-        git config --global user.email 'action@github.com'
-        git add .
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update translations" && git push)
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run translate stage
+        env:
+          LLM_API_BASE: ${{ inputs.llm_api_base }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ inputs.llm_model }}
+        run: |
+          python -m translator.workflow.pipeline \
+            --book "${{ inputs.book_base_dir }}" \
+            --stage translate \
+            ${{ inputs.range && format('--range {0}', inputs.range) || '' }} \
+            ${{ inputs.limit && format('--limit {0}', inputs.limit) || '' }} \
+            ${{ inputs.force && '--force' || '' }}
+      - name: Commit and push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update translations" && git push)

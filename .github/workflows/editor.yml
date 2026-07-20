@@ -1,74 +1,80 @@
-name: Edited Translator
+name: Edit + QA (style pass)
 
 on:
   workflow_dispatch:
     inputs:
-      llm_provider:
-        description: 'LLM Provider (google/openai)'
+      book_base_dir:
+        description: 'Book id (e.g. biqu59096 or 52shuku/bjXRF)'
         required: true
-        default: 'google'
+        default: 'biqu59096'
+        type: string
+      llm_api_base:
+        description: 'OpenAI-compatible base URL'
+        required: true
+        type: string
+      llm_model:
+        description: 'Model name'
+        required: true
+        type: string
+      stage:
+        description: 'Stage to run'
+        required: true
+        default: 'all'
         type: choice
         options:
-        - google
-        - openai
-      llm_model:
-        description: 'Model Name (e.g., gemini-2.5-pro, gpt-4o)'
-        required: true
-        default: 'gemini-2.5-pro'
-        type: string
-      llm_api_key:
-        description: 'API Key'
-        required: true
+          - all
+          - edit
+          - qa
+      range:
+        description: 'Chapter range, e.g. 1-50'
+        required: false
         type: string
       limit:
-        description: 'Chapter Limit'
+        description: 'Max chapters this run'
         required: false
         default: '10'
         type: string
-      force:
-        description: 'Force Re-translation'
+      critic:
+        description: 'Use LLM critic in QA'
         required: false
         default: false
         type: boolean
-      book_base_dir:
-        description: 'Base Directory'
+      force:
+        description: 'Force re-processing'
         required: false
-        default: 'bjXRF'
-        type: string
+        default: false
+        type: boolean
 
 jobs:
   edit:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-
-    - name: Run Editor
-      env:
-        BOOK_BASE_DIR: ${{ inputs.book_base_dir }}
-        LLM_PROVIDER: ${{ inputs.llm_provider }}
-        LLM_MODEL: ${{ inputs.llm_model }}
-        LLM_API_KEY: ${{ inputs.llm_api_key }}
-        TRANSLATION_LIMIT: ${{ inputs.limit }}
-      run: |
-        python step3_edited_translate.py ${{ inputs.force && '--force' || '' }}
-
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name 'GitHub Action'
-        git config --global user.email 'action@github.com'
-        git add .
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update edited translations" && git push)
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run edit/QA stage
+        env:
+          LLM_API_BASE: ${{ inputs.llm_api_base }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ inputs.llm_model }}
+        run: |
+          python -m translator.workflow.pipeline \
+            --book "${{ inputs.book_base_dir }}" \
+            --stage "${{ inputs.stage }}" \
+            ${{ inputs.range && format('--range {0}', inputs.range) || '' }} \
+            ${{ inputs.limit && format('--limit {0}', inputs.limit) || '' }} \
+            ${{ inputs.critic && '--critic' || '' }} \
+            ${{ inputs.force && '--force' || '' }}
+      - name: Commit and push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update edited translations" && git push)
