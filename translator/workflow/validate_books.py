@@ -2,18 +2,17 @@
 """Validate every book's book.yaml and glossary.yaml.
 
 Checks required fields, valid UTF-8 YAML, and that glossary terms are well-formed
-Chinese -> Hán Việt pairs. Run: python scripts/validate_books.py
+Chinese -> Hán Việt pairs. Run: python -m translator.workflow.validate_books
 """
 
 from __future__ import annotations
 
 import re
-import sys
-from pathlib import Path
 
 import yaml
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+from translator.config import REPO_ROOT
+
 CJK = re.compile(r"[一-鿿]")
 
 BOOKS = [

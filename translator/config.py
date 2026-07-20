@@ -41,6 +41,7 @@ DEFAULT_CONFIG: Dict[str, Any] = {
         "translator": {"endpoint": "local", "model": "${LLM_MODEL}", "temperature": 0.25},
         "editor": {"endpoint": "local", "model": "${LLM_MODEL}", "temperature": 0.5},
         "critic": {"endpoint": "local", "model": "${LLM_MODEL}", "temperature": 0.3},
+        "glossary": {"endpoint": "local", "model": "${LLM_MODEL}", "temperature": 0.1},
     },
     "pipeline": {
         "chunk_chars": 4000,

@@ -7,7 +7,7 @@ without collateral damage. Ambiguous terms (that collide with ordinary words)
 must be handled by an LLM re-edit instead, not here.
 
 Usage:
-    python scripts/normalize_terms.py <book_id> [--apply]
+    python -m translator.workflow.normalize_terms <book_id> [--apply]
 Without --apply it does a dry run (counts only).
 """
 
@@ -15,12 +15,8 @@ from __future__ import annotations
 
 import argparse
 import sys
-from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(REPO_ROOT))
-
-from translator.config import book_root  # noqa: E402
+from translator.config import book_root
 
 # Per-book safe replacement maps: {book_id: {old_rendering: new_rendering}}.
 # Only distinctive strings — never substrings that occur as ordinary words.

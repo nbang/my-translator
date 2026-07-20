@@ -23,7 +23,8 @@ endpoints:
     api_key: ${ANTHROPIC_API_KEY}
 
 # Which model each stage uses. Change endpoint/model freely.
-# translator = faithful zh->vi ; editor = style/polish ; critic = QA review.
+# translator = faithful zh->vi ; editor = style/polish ; critic = QA review ;
+# glossary = proper-noun term extraction from the first few chapters.
 roles:
   translator:
     endpoint: local
@@ -37,6 +38,10 @@ roles:
     endpoint: local
     model: ${LLM_MODEL}
     temperature: 0.3
+  glossary:
+    endpoint: local
+    model: ${LLM_MODEL}
+    temperature: 0.1
 
 pipeline:
   chunk_chars: 4000

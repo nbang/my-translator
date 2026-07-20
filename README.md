@@ -27,7 +27,8 @@ Anthropic endpoint.
 translator/
   llm/         provider.py (openai|google|anthropic client) + roles.py (role→model routing)
   skills/      scrape_chapters, translate_chapter, edit_chapter, qa_chapter, glossary, book
-  workflow/    pipeline.py (deterministic runner + QA auto-fix loop)
+  workflow/    pipeline.py (runner + QA auto-fix loop), extract_glossary,
+               validate_books, normalize_terms (CLI utilities)
   config.py    config.yaml + .env loading
 config.yaml    endpoints + role→model routing
 <book_id>/     raw_chinese/  raw_vietnamese/  edited_vietnamese/  EDITOR.md  glossary.yaml  book.yaml
@@ -71,9 +72,11 @@ only redoes missing/failed work.
 ## Quality controls
 
 - **Glossary** (`<book>/glossary.yaml`): fixed `chinese → hanviet` terms, injected
-  into prompts (only terms present in the chunk) and enforced by QA. Seed one from
-  an existing `EDITOR.md`: `python scripts/extract_glossary.py <book_id>`; extend
-  via the `glossary_update` skill.
+  into prompts (only terms present in the chunk) and enforced by QA. Seed one by
+  reading the book's first chapters with the LLM:
+  `python -m translator.workflow.extract_glossary <book_id> [--chapters 5]`
+  (merges into any existing glossary, preserving curated terms; `--print` for a
+  dry run). Extend later via the `glossary_update` skill.
 - **EDITOR.md** (per book): the prose style guide (role, pronoun rules, banned
   words, formatting, few-shot) — fed as the editor system prompt.
 - **QA** (`qa_chapter`): flags residual Chinese, glossary violations, missing
